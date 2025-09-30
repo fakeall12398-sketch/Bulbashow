@@ -370,19 +370,19 @@
     "type": "Football",
     "items": [
       {
-        "id": 210,
-        "name": "Sanfrecce Hiroshima 🆚 Shanghai Port",
+        "id": 109,
+        "name": "Chengdu Rongcheng 🆚 Gangwon",
         "stage": null,
         "logo": "logo/events/al-ain-al-hilal_uunLP8g5Dtbk2qLKcir5.png",
         "color": null,
         "type": "single",
         "sport_type": "football",
-        "start_time": 1759226400,
-        "end_time": 1759235400,
+        "start_time": 1759234500,
+        "end_time": 1759243500,
         "show_duration": true,
         "sources": [
           {
-            "id": 3541,
+            "id": 3195,
             "name": "LINK 1",
             "description": null
           }
