@@ -1,0 +1,819 @@
+[
+  {
+    "id": 18,
+    "name": "ICC Womens World Cup",
+    "logo": "logo/events/categories/icc-womens-world-cup_Tac4U4YHpuekyiqOw3CJ.png",
+    "type": "Cricket",
+    "items": [
+      {
+        "id": 161,
+        "name": "ICC Womens World Cup",
+        "stage": "1st Match",
+        "logo": "",
+        "color": null,
+        "type": "team",
+        "sport_type": "cricket",
+        "start_time": 1759224600,
+        "end_time": 1759253400,
+        "show_duration": true,
+        "team_1": {
+          "name": "India",
+          "logo": "logo/teams/india_R8DzB45mwxgV921JfOUc.png"
+        },
+        "team_2": {
+          "name": "Sri Lanka",
+          "logo": "logo/teams/sri-lanka_oUuxxnRFqx3sjQ3WUtfY.jpg"
+        },
+        "full_team_name": "India 🆚 Sri Lanka",
+        "sources": [
+          {
+            "id": 3202,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3675,
+            "name": "LINK 2 - HIN",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 327,
+        "name": "ICC Womens World Cup",
+        "stage": "2nd Match",
+        "logo": "",
+        "color": null,
+        "type": "team",
+        "sport_type": "cricket",
+        "start_time": 1759311000,
+        "end_time": 1759339800,
+        "show_duration": true,
+        "team_1": {
+          "name": "Australia",
+          "logo": "logo/teams/australia_ft0IHOvqYgEhT2QZC10y.png"
+        },
+        "team_2": {
+          "name": "New Zealand",
+          "logo": "logo/teams/new-zealand_Bo0hBUgvsLhkGvuy7NLf.png"
+        },
+        "full_team_name": "Australia 🆚 New Zealand",
+        "sources": [
+          {
+            "id": 3202,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3675,
+            "name": "LINK 2 - HIN",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 328,
+        "name": "ICC Womens World Cup",
+        "stage": "3rd Match",
+        "logo": "",
+        "color": null,
+        "type": "team",
+        "sport_type": "cricket",
+        "start_time": 1759397400,
+        "end_time": 1759426200,
+        "show_duration": true,
+        "team_1": {
+          "name": "Bangladesh",
+          "logo": "logo/teams/bangladesh_9mfG8dxYyOTt53INypBM.png"
+        },
+        "team_2": {
+          "name": "Pakisthan",
+          "logo": "logo/teams/pakisthan_QCFdXH7TItyN21PE72wI.png"
+        },
+        "full_team_name": "Bangladesh 🆚 Pakisthan",
+        "sources": [
+          {
+            "id": 3202,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3675,
+            "name": "LINK 2 - HIN",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 329,
+        "name": "ICC Womens World Cup",
+        "stage": "4th Match",
+        "logo": "",
+        "color": null,
+        "type": "team",
+        "sport_type": "cricket",
+        "start_time": 1759483800,
+        "end_time": 1759512600,
+        "show_duration": true,
+        "team_1": {
+          "name": "England",
+          "logo": "logo/teams/england_lR9prItXfM5WG6lZqsOD.png"
+        },
+        "team_2": {
+          "name": "South Africa",
+          "logo": "logo/teams/south-africa_Ft4TOjd1f9xQlzGVM4a2.png"
+        },
+        "full_team_name": "England 🆚 South Africa",
+        "sources": [
+          {
+            "id": 3202,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3675,
+            "name": "LINK 2 - HIN",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 330,
+        "name": "ICC Womens World Cup",
+        "stage": "5th Match",
+        "logo": "",
+        "color": null,
+        "type": "team",
+        "sport_type": "cricket",
+        "start_time": 1759570200,
+        "end_time": 1759599000,
+        "show_duration": true,
+        "team_1": {
+          "name": "Sri Lanka",
+          "logo": "logo/teams/sri-lanka_oUuxxnRFqx3sjQ3WUtfY.jpg"
+        },
+        "team_2": {
+          "name": "Australia",
+          "logo": "logo/teams/australia_ft0IHOvqYgEhT2QZC10y.png"
+        },
+        "full_team_name": "Sri Lanka 🆚 Australia",
+        "sources": [
+          {
+            "id": 3202,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3675,
+            "name": "LINK 2 - HIN",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 162,
+        "name": "ICC Womens World Cup",
+        "stage": "6th Match",
+        "logo": "",
+        "color": null,
+        "type": "team",
+        "sport_type": "cricket",
+        "start_time": 1759656600,
+        "end_time": 1759685400,
+        "show_duration": true,
+        "team_1": {
+          "name": "India",
+          "logo": "logo/teams/india_R8DzB45mwxgV921JfOUc.png"
+        },
+        "team_2": {
+          "name": "Pakisthan",
+          "logo": "logo/teams/pakisthan_QCFdXH7TItyN21PE72wI.png"
+        },
+        "full_team_name": "India 🆚 Pakisthan",
+        "sources": [
+          {
+            "id": 3202,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3675,
+            "name": "LINK 2 - HIN",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 107,
+        "name": "ICC Womens World Cup",
+        "stage": "7th Match",
+        "logo": "",
+        "color": null,
+        "type": "team",
+        "sport_type": "cricket",
+        "start_time": 1759743000,
+        "end_time": 1759771800,
+        "show_duration": true,
+        "team_1": {
+          "name": "New Zealand",
+          "logo": "logo/teams/new-zealand_Bo0hBUgvsLhkGvuy7NLf.png"
+        },
+        "team_2": {
+          "name": "South Africa",
+          "logo": "logo/teams/south-africa_Ft4TOjd1f9xQlzGVM4a2.png"
+        },
+        "full_team_name": "New Zealand 🆚 South Africa",
+        "sources": [
+          {
+            "id": 3202,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3675,
+            "name": "LINK 2 - HIN",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 88,
+        "name": "ICC Womens World Cup",
+        "stage": "8th Match",
+        "logo": "",
+        "color": null,
+        "type": "team",
+        "sport_type": "cricket",
+        "start_time": 1759829400,
+        "end_time": 1759858200,
+        "show_duration": true,
+        "team_1": {
+          "name": "Bangladesh",
+          "logo": "logo/teams/bangladesh_9mfG8dxYyOTt53INypBM.png"
+        },
+        "team_2": {
+          "name": "England",
+          "logo": "logo/teams/england_lR9prItXfM5WG6lZqsOD.png"
+        },
+        "full_team_name": "Bangladesh 🆚 England",
+        "sources": [
+          {
+            "id": 3202,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3675,
+            "name": "LINK 2 - HIN",
+            "description": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Cricket",
+    "logo": "logo/events/categories/cricket_34rT8noo6pPjKMC5Wm9f.webp",
+    "type": "Cricket",
+    "items": [
+      {
+        "id": 68,
+        "name": "West Indies vs Nepal in UAE",
+        "stage": "3rd T20I",
+        "logo": "",
+        "color": null,
+        "type": "team",
+        "sport_type": "cricket",
+        "start_time": 1759242600,
+        "end_time": null,
+        "show_duration": true,
+        "team_1": {
+          "name": "West Indies",
+          "logo": "logo/teams/west-indies_Q6wRrBT7yHbEpRQVsW4z.png"
+        },
+        "team_2": {
+          "name": "Nepal",
+          "logo": "logo/teams/nepal_RC19oySVEysiYfyk5yak.png"
+        },
+        "full_team_name": "West Indies 🆚 Nepal",
+        "sources": [
+          {
+            "id": 3541,
+            "name": "LINK 1",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 125,
+        "name": "Australia tour of New Zealand",
+        "stage": "1st T20I",
+        "logo": "",
+        "color": null,
+        "type": "team",
+        "sport_type": "cricket",
+        "start_time": 1759299300,
+        "end_time": null,
+        "show_duration": true,
+        "team_1": {
+          "name": "Australia",
+          "logo": "logo/teams/australia_ft0IHOvqYgEhT2QZC10y.png"
+        },
+        "team_2": {
+          "name": "New Zealand",
+          "logo": "logo/teams/new-zealand_Bo0hBUgvsLhkGvuy7NLf.png"
+        },
+        "full_team_name": "Australia 🆚 New Zealand",
+        "sources": [
+          {
+            "id": 902,
+            "name": "TNT Sports 1 (BT Sports) ",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 22,
+        "name": "West Indies tour of India,",
+        "stage": "1st Test, Day 1",
+        "logo": "",
+        "color": null,
+        "type": "team",
+        "sport_type": "cricket",
+        "start_time": 1759377600,
+        "end_time": null,
+        "show_duration": true,
+        "team_1": {
+          "name": "India",
+          "logo": "logo/teams/india_R8DzB45mwxgV921JfOUc.png"
+        },
+        "team_2": {
+          "name": "West Indies",
+          "logo": "logo/teams/west-indies_Q6wRrBT7yHbEpRQVsW4z.png"
+        },
+        "full_team_name": "India 🆚 West Indies",
+        "sources": [
+          {
+            "id": 908,
+            "name": "TNT Sports 3 (BT Sports)",
+            "description": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "name": "AFC Champions League Elite",
+    "logo": "logo/events/categories/afc-champions-league-elite_brds9I8ApeU3ZaOzsGUI.png",
+    "type": "Football",
+    "items": [
+      {
+        "id": 210,
+        "name": "Sanfrecce Hiroshima 🆚 Shanghai Port",
+        "stage": null,
+        "logo": "logo/events/al-ain-al-hilal_uunLP8g5Dtbk2qLKcir5.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1759226400,
+        "end_time": 1759235400,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3541,
+            "name": "LINK 1",
+            "description": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "name": "FIFA U-20 World Cup",
+    "logo": "logo/events/categories/fifa-club-world-cup_uKXWsqNaJmoeEKidZZbj.png",
+    "type": "Football",
+    "items": [
+      {
+        "id": 337,
+        "name": "FIFA U-20 World Cup",
+        "stage": null,
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1759262400,
+        "end_time": 1759271400,
+        "show_duration": true,
+        "team_1": {
+          "name": "Egypt",
+          "logo": "logo/teams/egypt_1hhEiLq5er4bZsCGwDV2.png"
+        },
+        "team_2": {
+          "name": "New Zealand",
+          "logo": "logo/teams/new-zealand_jDFDOl2ZfzcLFfSnSwIC.png"
+        },
+        "full_team_name": "Egypt 🆚 New Zealand",
+        "sources": [
+          {
+            "id": 2748,
+            "name": "TSN 3",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 336,
+        "name": "FIFA U-20 World Cup",
+        "stage": null,
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1759262400,
+        "end_time": 1759271400,
+        "show_duration": true,
+        "team_1": {
+          "name": "Panama",
+          "logo": "logo/teams/panama_OwUurSk3OQRNFqMGkfql.png"
+        },
+        "team_2": {
+          "name": "Ukraine",
+          "logo": "logo/teams/ukraine_A1a1Ix3gqpZtvp1YGjLE.png"
+        },
+        "full_team_name": "Panama 🆚 Ukraine",
+        "sources": [
+          {
+            "id": 3666,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3456,
+            "name": "Universo",
+            "description": null
+          },
+          {
+            "id": 2750,
+            "name": "TSN 5",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 335,
+        "name": "FIFA U-20 World Cup",
+        "stage": null,
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1759273200,
+        "end_time": 1759282200,
+        "show_duration": true,
+        "team_1": {
+          "name": "Chile",
+          "logo": "logo/teams/chile_2XLERMK1EopjN2CcaI3s.png"
+        },
+        "team_2": {
+          "name": "Japan",
+          "logo": "logo/teams/japan_kob7f67JBkvUorLgiTLG.png"
+        },
+        "full_team_name": "Chile 🆚 Japan",
+        "sources": [
+          {
+            "id": 941,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 2748,
+            "name": "TSN 3",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 334,
+        "name": "FIFA U-20 World Cup",
+        "stage": null,
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1759273200,
+        "end_time": 1759282200,
+        "show_duration": true,
+        "team_1": {
+          "name": "South Korea",
+          "logo": "logo/teams/south-korea_G763uCvqhFDeayiWMZPR.jpg"
+        },
+        "team_2": {
+          "name": "Paraguay",
+          "logo": "logo/teams/paraguay_ZzSxXyuMetTr5cG31RAm.png"
+        },
+        "full_team_name": "South Korea 🆚 Paraguay",
+        "sources": [
+          {
+            "id": 3666,
+            "name": "LINK 1",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 324,
+        "name": "FIFA U-20 World Cup",
+        "stage": null,
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1759348800,
+        "end_time": 1759357800,
+        "show_duration": true,
+        "team_1": {
+          "name": "Italy",
+          "logo": "logo/teams/italy_mChUeuYcWwpL0H8ODZhh.png"
+        },
+        "team_2": {
+          "name": "CUBA",
+          "logo": "logo/teams/cuba_HGOlNt9gTzqdjpi4oAXY.png"
+        },
+        "full_team_name": "Italy 🆚 CUBA",
+        "sources": [
+          {
+            "id": 2750,
+            "name": "TSN 5",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 339,
+        "name": "FIFA U-20 World Cup",
+        "stage": null,
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1759348800,
+        "end_time": 1759357800,
+        "show_duration": true,
+        "team_1": {
+          "name": "Spain",
+          "logo": "logo/teams/spain_iyBZzr7BgNu358JERkex.png"
+        },
+        "team_2": {
+          "name": "Mexico",
+          "logo": "logo/teams/mexico_lk7XNO7RfkxtdTS3n4S0.png"
+        },
+        "full_team_name": "Spain 🆚 Mexico",
+        "sources": [
+          {
+            "id": 3666,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3575,
+            "name": "Telemundo",
+            "description": null
+          },
+          {
+            "id": 2749,
+            "name": "TSN 4",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 338,
+        "name": "FIFA U-20 World Cup",
+        "stage": null,
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1759359600,
+        "end_time": 1759368600,
+        "show_duration": true,
+        "team_1": {
+          "name": "Argentina",
+          "logo": "logo/teams/argentina_pDa8KIvC0PZ1iOF1swve.png"
+        },
+        "team_2": {
+          "name": "Australia",
+          "logo": "logo/teams/australia_GiCP9ymQo4c6q06uePej.png"
+        },
+        "full_team_name": "Argentina 🆚 Australia",
+        "sources": [
+          {
+            "id": 3666,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3456,
+            "name": "Universo",
+            "description": null
+          },
+          {
+            "id": 2750,
+            "name": "TSN 5",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 331,
+        "name": "FIFA U-20 World Cup",
+        "stage": null,
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1759359600,
+        "end_time": 1759368600,
+        "show_duration": true,
+        "team_1": {
+          "name": "Brazil",
+          "logo": "logo/teams/brazil_2gKRZsvaLKJcHbZ9zIEj.png"
+        },
+        "team_2": {
+          "name": "Morocco",
+          "logo": "logo/teams/morocco_PmfSAM1qmVEHVMEj4bDl.png"
+        },
+        "full_team_name": "Brazil 🆚 Morocco",
+        "sources": [
+          {
+            "id": 941,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 2749,
+            "name": "TSN 4",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 332,
+        "name": "FIFA World Cup Qualifying",
+        "stage": null,
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1759435200,
+        "end_time": 1759444200,
+        "show_duration": true,
+        "team_1": {
+          "name": "Colombia",
+          "logo": "logo/teams/colombia_Qtn8lNsfufrLzN3t77jo.png"
+        },
+        "team_2": {
+          "name": "Norway",
+          "logo": "logo/teams/norway_JtXveAd8feRDei0pPuBh.png"
+        },
+        "full_team_name": "Colombia 🆚 Norway",
+        "sources": [
+          {
+            "id": 2747,
+            "name": "TSN 2",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 301,
+        "name": "FIFA U-20 World Cup",
+        "stage": null,
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1759435200,
+        "end_time": 1759444200,
+        "show_duration": true,
+        "team_1": {
+          "name": "United States",
+          "logo": "logo/teams/united-states_Tnl0x0Mqm0tYaRL6x7Xd.png"
+        },
+        "team_2": {
+          "name": "France",
+          "logo": "logo/teams/france_aUU9YpY9mRlZaIN96Jcj.png"
+        },
+        "full_team_name": "United States 🆚 France",
+        "sources": [
+          {
+            "id": 3666,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3456,
+            "name": "Universo",
+            "description": null
+          },
+          {
+            "id": 2750,
+            "name": "TSN 5",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 300,
+        "name": "FIFA U-20 World Cup",
+        "stage": null,
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1759446000,
+        "end_time": 1759455000,
+        "show_duration": true,
+        "team_1": {
+          "name": "Nigeria",
+          "logo": "logo/teams/nigeria_at8GEbUxnKf3phEhfYTk.png"
+        },
+        "team_2": {
+          "name": "Saudi Arabia",
+          "logo": "logo/teams/saudi-arabia_yV8AiXenzAuV1cup0g21.png"
+        },
+        "full_team_name": "Nigeria 🆚 Saudi Arabia",
+        "sources": [
+          {
+            "id": 3666,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 2748,
+            "name": "TSN 3",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 323,
+        "name": "FIFA U-20 World Cup",
+        "stage": null,
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1759446000,
+        "end_time": 1759455000,
+        "show_duration": true,
+        "team_1": {
+          "name": "South Africa",
+          "logo": "logo/teams/south-africa_Bo8kOnmhnTKe8xTz342d.png"
+        },
+        "team_2": {
+          "name": "New Caledonia",
+          "logo": "logo/teams/new-caledonia_hk12oSxTbqLbfsDKV2dg.png"
+        },
+        "full_team_name": "South Africa 🆚 New Caledonia",
+        "sources": [
+          {
+            "id": 2750,
+            "name": "TSN 5",
+            "description": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "name": "EFL Championship",
+    "logo": "logo/events/categories/efl-championship_hWDkHuBlOH3M0hqEXMCx.png",
+    "type": "Football",
+    "items": [
+      {
+        "id": 254,
+        "name": "Derby County 🆚 Charlton Athletic",
+        "stage": null,
+        "logo": "logo/events/blackburn-rovers-middlesbrough_x6aqQU7RGwXVw3wB8ZhH.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "cricket",
+        "start_time": 1759258800,
+        "end_time": 1759267800,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3283,
+            "name": "beIN Sport 3 - AUS",
+            "description": null
+          }
+        ]
+      }
+    ]
+  }
+]
