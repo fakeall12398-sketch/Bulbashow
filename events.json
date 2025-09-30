@@ -6,39 +6,6 @@
     "type": "Cricket",
     "items": [
       {
-        "id": 161,
-        "name": "ICC Womens World Cup",
-        "stage": "1st Match",
-        "logo": "",
-        "color": null,
-        "type": "team",
-        "sport_type": "cricket",
-        "start_time": 1759224600,
-        "end_time": 1759253400,
-        "show_duration": true,
-        "team_1": {
-          "name": "India",
-          "logo": "logo/teams/india_R8DzB45mwxgV921JfOUc.png"
-        },
-        "team_2": {
-          "name": "Sri Lanka",
-          "logo": "logo/teams/sri-lanka_oUuxxnRFqx3sjQ3WUtfY.jpg"
-        },
-        "full_team_name": "India 🆚 Sri Lanka",
-        "sources": [
-          {
-            "id": 3202,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 3675,
-            "name": "LINK 2 - HIN",
-            "description": null
-          }
-        ]
-      },
-      {
         "id": 327,
         "name": "ICC Womens World Cup",
         "stage": "2nd Match",
@@ -357,33 +324,6 @@
           {
             "id": 908,
             "name": "TNT Sports 3 (BT Sports)",
-            "description": null
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": 19,
-    "name": "AFC Champions League Elite",
-    "logo": "logo/events/categories/afc-champions-league-elite_brds9I8ApeU3ZaOzsGUI.png",
-    "type": "Football",
-    "items": [
-      {
-        "id": 109,
-        "name": "Chengdu Rongcheng 🆚 Gangwon",
-        "stage": null,
-        "logo": "logo/events/al-ain-al-hilal_uunLP8g5Dtbk2qLKcir5.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "football",
-        "start_time": 1759234500,
-        "end_time": 1759243500,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3195,
-            "name": "LINK 1",
             "description": null
           }
         ]
