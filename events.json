@@ -257,13 +257,13 @@
         "show_duration": true,
         "sources": [
           {
-            "id": 2667,
-            "name": "ZIGGO SPORT 3",
+            "id": 908,
+            "name": "TNT Sports 3 (BT Sports)",
             "description": null
           },
           {
-            "id": 908,
-            "name": "TNT Sports 3 (BT Sports)",
+            "id": 2667,
+            "name": "ZIGGO SPORT 3",
             "description": null
           }
         ]
@@ -540,25 +540,6 @@
     "logo": "logo/events/categories/afc-champions-league-elite_brds9I8ApeU3ZaOzsGUI.png",
     "type": "Football",
     "items": [
-      {
-        "id": 210,
-        "name": "Vissel Kobe 🆚 Melbourne City",
-        "stage": null,
-        "logo": "logo/events/al-ain-al-hilal_uunLP8g5Dtbk2qLKcir5.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "football",
-        "start_time": 1759312800,
-        "end_time": 1759321800,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3541,
-            "name": "LINK 1",
-            "description": null
-          }
-        ]
-      },
       {
         "id": 109,
         "name": "Shanghai Shenhua 🆚 Ulsan",
