@@ -32,8 +32,8 @@
             "description": null
           },
           {
-            "id": 3675,
-            "name": "LINK 2 - HIN",
+            "id": 2710,
+            "name": "LINK 2",
             "description": null
           }
         ]
@@ -65,8 +65,8 @@
             "description": null
           },
           {
-            "id": 3675,
-            "name": "LINK 2 - HIN",
+            "id": 2710,
+            "name": "LINK 2",
             "description": null
           }
         ]
@@ -98,8 +98,8 @@
             "description": null
           },
           {
-            "id": 3675,
-            "name": "LINK 2 - HIN",
+            "id": 2710,
+            "name": "LINK 2",
             "description": null
           }
         ]
@@ -131,8 +131,8 @@
             "description": null
           },
           {
-            "id": 3675,
-            "name": "LINK 2 - HIN",
+            "id": 2710,
+            "name": "LINK 2",
             "description": null
           }
         ]
@@ -164,8 +164,8 @@
             "description": null
           },
           {
-            "id": 3675,
-            "name": "LINK 2 - HIN",
+            "id": 2710,
+            "name": "LINK 2",
             "description": null
           }
         ]
@@ -197,8 +197,8 @@
             "description": null
           },
           {
-            "id": 3675,
-            "name": "LINK 2 - HIN",
+            "id": 2710,
+            "name": "LINK 2",
             "description": null
           }
         ]
@@ -230,8 +230,8 @@
             "description": null
           },
           {
-            "id": 3675,
-            "name": "LINK 2 - HIN",
+            "id": 2710,
+            "name": "LINK 2",
             "description": null
           }
         ]
@@ -245,25 +245,25 @@
     "type": "Cricket",
     "items": [
       {
-        "id": 68,
-        "name": "West Indies vs Nepal in UAE",
-        "stage": "3rd T20I",
+        "id": 290,
+        "name": "Afghanistan vs Bangladesh in UAE",
+        "stage": "1st T20I",
         "logo": "",
         "color": null,
         "type": "team",
         "sport_type": "cricket",
-        "start_time": 1759242600,
+        "start_time": 1759417200,
         "end_time": null,
         "show_duration": true,
         "team_1": {
-          "name": "West Indies",
-          "logo": "logo/teams/west-indies_Q6wRrBT7yHbEpRQVsW4z.png"
+          "name": "Bangladesh",
+          "logo": "logo/teams/bangladesh_9mfG8dxYyOTt53INypBM.png"
         },
         "team_2": {
-          "name": "Nepal",
-          "logo": "logo/teams/nepal_RC19oySVEysiYfyk5yak.png"
+          "name": "Afghanistan",
+          "logo": "logo/teams/afghanistan_pNuVU1zMVjnpDx1wW4Me.png"
         },
-        "full_team_name": "West Indies 🆚 Nepal",
+        "full_team_name": "Bangladesh 🆚 Afghanistan",
         "sources": [
           {
             "id": 3541,
@@ -275,12 +275,12 @@
       {
         "id": 125,
         "name": "Australia tour of New Zealand",
-        "stage": "1st T20I",
+        "stage": "2nd T20I",
         "logo": "",
         "color": null,
         "type": "team",
         "sport_type": "cricket",
-        "start_time": 1759299300,
+        "start_time": 1759472100,
         "end_time": null,
         "show_duration": true,
         "team_1": {
@@ -324,6 +324,52 @@
           {
             "id": 908,
             "name": "TNT Sports 3 (BT Sports)",
+            "description": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "name": "AFC Champions League Elite",
+    "logo": "logo/events/categories/afc-champions-league-elite_brds9I8ApeU3ZaOzsGUI.png",
+    "type": "Football",
+    "items": [
+      {
+        "id": 210,
+        "name": "Vissel Kobe 🆚 Melbourne City",
+        "stage": null,
+        "logo": "logo/events/al-ain-al-hilal_uunLP8g5Dtbk2qLKcir5.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1759312800,
+        "end_time": 1759321800,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3541,
+            "name": "LINK 1",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 109,
+        "name": "Shanghai Shenhua 🆚 Ulsan",
+        "stage": null,
+        "logo": "logo/events/al-ain-al-hilal_uunLP8g5Dtbk2qLKcir5.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1759320900,
+        "end_time": 1759329900,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3541,
+            "name": "LINK 1",
             "description": null
           }
         ]
