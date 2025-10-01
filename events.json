@@ -1,5 +1,97 @@
 [
   {
+    "id": 6,
+    "name": "Cricket",
+    "logo": "logo/events/categories/cricket_34rT8noo6pPjKMC5Wm9f.webp",
+    "type": "Cricket",
+    "items": [
+      {
+        "id": 290,
+        "name": "Afghanistan vs Bangladesh in UAE",
+        "stage": "1st T20I",
+        "logo": "",
+        "color": null,
+        "type": "team",
+        "sport_type": "cricket",
+        "start_time": 1759417200,
+        "end_time": null,
+        "show_duration": true,
+        "team_1": {
+          "name": "Bangladesh",
+          "logo": "logo/teams/bangladesh_9mfG8dxYyOTt53INypBM.png"
+        },
+        "team_2": {
+          "name": "Afghanistan",
+          "logo": "logo/teams/afghanistan_pNuVU1zMVjnpDx1wW4Me.png"
+        },
+        "full_team_name": "Bangladesh 🆚 Afghanistan",
+        "sources": [
+          {
+            "id": 3541,
+            "name": "LINK 1",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 125,
+        "name": "Australia tour of New Zealand",
+        "stage": "2nd T20I",
+        "logo": "",
+        "color": null,
+        "type": "team",
+        "sport_type": "cricket",
+        "start_time": 1759472100,
+        "end_time": null,
+        "show_duration": true,
+        "team_1": {
+          "name": "Australia",
+          "logo": "logo/teams/australia_ft0IHOvqYgEhT2QZC10y.png"
+        },
+        "team_2": {
+          "name": "New Zealand",
+          "logo": "logo/teams/new-zealand_Bo0hBUgvsLhkGvuy7NLf.png"
+        },
+        "full_team_name": "Australia 🆚 New Zealand",
+        "sources": [
+          {
+            "id": 902,
+            "name": "TNT Sports 1 (BT Sports) ",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 22,
+        "name": "West Indies tour of India,",
+        "stage": "1st Test, Day 1",
+        "logo": "",
+        "color": null,
+        "type": "team",
+        "sport_type": "cricket",
+        "start_time": 1759377600,
+        "end_time": null,
+        "show_duration": true,
+        "team_1": {
+          "name": "India",
+          "logo": "logo/teams/india_R8DzB45mwxgV921JfOUc.png"
+        },
+        "team_2": {
+          "name": "West Indies",
+          "logo": "logo/teams/west-indies_Q6wRrBT7yHbEpRQVsW4z.png"
+        },
+        "full_team_name": "India 🆚 West Indies",
+        "sources": [
+          {
+            "id": 908,
+            "name": "TNT Sports 3 (BT Sports)",
+            "description": null
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 18,
     "name": "ICC Womens World Cup",
     "logo": "logo/events/categories/icc-womens-world-cup_Tac4U4YHpuekyiqOw3CJ.png",
@@ -239,98 +331,6 @@
     ]
   },
   {
-    "id": 6,
-    "name": "Cricket",
-    "logo": "logo/events/categories/cricket_34rT8noo6pPjKMC5Wm9f.webp",
-    "type": "Cricket",
-    "items": [
-      {
-        "id": 290,
-        "name": "Afghanistan vs Bangladesh in UAE",
-        "stage": "1st T20I",
-        "logo": "",
-        "color": null,
-        "type": "team",
-        "sport_type": "cricket",
-        "start_time": 1759417200,
-        "end_time": null,
-        "show_duration": true,
-        "team_1": {
-          "name": "Bangladesh",
-          "logo": "logo/teams/bangladesh_9mfG8dxYyOTt53INypBM.png"
-        },
-        "team_2": {
-          "name": "Afghanistan",
-          "logo": "logo/teams/afghanistan_pNuVU1zMVjnpDx1wW4Me.png"
-        },
-        "full_team_name": "Bangladesh 🆚 Afghanistan",
-        "sources": [
-          {
-            "id": 3541,
-            "name": "LINK 1",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 125,
-        "name": "Australia tour of New Zealand",
-        "stage": "2nd T20I",
-        "logo": "",
-        "color": null,
-        "type": "team",
-        "sport_type": "cricket",
-        "start_time": 1759472100,
-        "end_time": null,
-        "show_duration": true,
-        "team_1": {
-          "name": "Australia",
-          "logo": "logo/teams/australia_ft0IHOvqYgEhT2QZC10y.png"
-        },
-        "team_2": {
-          "name": "New Zealand",
-          "logo": "logo/teams/new-zealand_Bo0hBUgvsLhkGvuy7NLf.png"
-        },
-        "full_team_name": "Australia 🆚 New Zealand",
-        "sources": [
-          {
-            "id": 902,
-            "name": "TNT Sports 1 (BT Sports) ",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 22,
-        "name": "West Indies tour of India,",
-        "stage": "1st Test, Day 1",
-        "logo": "",
-        "color": null,
-        "type": "team",
-        "sport_type": "cricket",
-        "start_time": 1759377600,
-        "end_time": null,
-        "show_duration": true,
-        "team_1": {
-          "name": "India",
-          "logo": "logo/teams/india_R8DzB45mwxgV921JfOUc.png"
-        },
-        "team_2": {
-          "name": "West Indies",
-          "logo": "logo/teams/west-indies_Q6wRrBT7yHbEpRQVsW4z.png"
-        },
-        "full_team_name": "India 🆚 West Indies",
-        "sources": [
-          {
-            "id": 908,
-            "name": "TNT Sports 3 (BT Sports)",
-            "description": null
-          }
-        ]
-      }
-    ]
-  },
-  {
     "id": 19,
     "name": "AFC Champions League Elite",
     "logo": "logo/events/categories/afc-champions-league-elite_brds9I8ApeU3ZaOzsGUI.png",
@@ -370,6 +370,302 @@
           {
             "id": 3541,
             "name": "LINK 1",
+            "description": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "UEFA Champions League",
+    "logo": "logo/events/categories/uefa-champions-league_PruXdiO3P0XKL0srUXYS.png",
+    "type": "Football",
+    "items": [
+      {
+        "id": 35,
+        "name": "Qarabağ 🆚 København",
+        "stage": null,
+        "logo": "logo/events/uefa_i2gGRxCyWtuczfdeHAEo.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1759337100,
+        "end_time": 1759346100,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 2667,
+            "name": "ZIGGO SPORT 3",
+            "description": null
+          },
+          {
+            "id": 908,
+            "name": "TNT Sports 3 (BT Sports)",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 198,
+        "name": "UEFA Champions League",
+        "stage": null,
+        "logo": "logo/events/uefa_GeRIdYHuqxPzlmNgiTc4.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1759337100,
+        "end_time": 1759346100,
+        "show_duration": true,
+        "team_1": {
+          "name": "Newcastle United",
+          "logo": "logo/teams/newcastle-united_qG9rETosUsgCorWNBlog.png"
+        },
+        "team_2": {
+          "name": "Union Saint-Gilloise",
+          "logo": "logo/teams/union-saint-gilloise_GxSUBEfbUyOKSCsHfUrY.png"
+        },
+        "full_team_name": "Newcastle United 🆚 Union Saint-Gilloise",
+        "sources": [
+          {
+            "id": 905,
+            "name": "TNT Sports 2 (BT Sports)",
+            "description": null
+          },
+          {
+            "id": 2665,
+            "name": "ZIGGO SPORT",
+            "description": null
+          },
+          {
+            "id": 2558,
+            "name": "ZIGGO SPORT 2",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 36,
+        "name": "UEFA Champions League",
+        "stage": null,
+        "logo": "logo/events/uefa-champions-league_SoMek7REXsG9ouH4HX7R.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1759345200,
+        "end_time": 1759354200,
+        "show_duration": true,
+        "team_1": {
+          "name": "Barcelona",
+          "logo": "logo/teams/barcelona_NiCxfEeaPHngHzLBDHm2.png"
+        },
+        "team_2": {
+          "name": "PSG",
+          "logo": "logo/teams/psg_gPACrkwZo7y4GwFBYJlm.png"
+        },
+        "full_team_name": "Barcelona 🆚 PSG",
+        "sources": [
+          {
+            "id": 902,
+            "name": "TNT Sports 1 (BT Sports) ",
+            "description": null
+          },
+          {
+            "id": 1036,
+            "name": "ZIGGO SPORT 6",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 27,
+        "name": "UEFA Champions League",
+        "stage": null,
+        "logo": "logo/events/uefa-nations-league_ixp9i7dT2hvg2LbKpwfS.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1759345200,
+        "end_time": 1759354200,
+        "show_duration": true,
+        "team_1": {
+          "name": "Manchester City",
+          "logo": "logo/teams/manchester-city_dULBNGyWBdlIi9PhjqbC.png"
+        },
+        "team_2": {
+          "name": "Monaco",
+          "logo": "logo/teams/monaco_3OpFAHbszyvVUmTbamFa.png"
+        },
+        "full_team_name": "Manchester City 🆚 Monaco",
+        "sources": [
+          {
+            "id": 905,
+            "name": "TNT Sports 2 (BT Sports)",
+            "description": null
+          },
+          {
+            "id": 3469,
+            "name": "ZIGGO SPORT 5",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 92,
+        "name": "UEFA Champions League",
+        "stage": null,
+        "logo": "logo/events/bayern-munchen-dinamo-zagreb_ndnI1DeigBFiVpqh9f1s.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1759345200,
+        "end_time": 1759354200,
+        "show_duration": true,
+        "team_1": {
+          "name": "Arsenal",
+          "logo": "logo/teams/arsenal_fc6aAPzStsGPPVTcPQMZ.png"
+        },
+        "team_2": {
+          "name": "Olympiakos Piraeus",
+          "logo": "logo/teams/olympiakos-piraeus_faHN6ufLWnlFfUCGKvct.png"
+        },
+        "full_team_name": "Arsenal 🆚 Olympiakos Piraeus",
+        "sources": [
+          {
+            "id": 908,
+            "name": "TNT Sports 3 (BT Sports)",
+            "description": null
+          },
+          {
+            "id": 3469,
+            "name": "ZIGGO SPORT 5",
+            "description": null
+          },
+          {
+            "id": 836,
+            "name": "beIN Sport 1 - AR",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 91,
+        "name": "UEFA Champions League",
+        "stage": null,
+        "logo": "logo/events/sporting-cp-lille_KgvODttvDnhYVMwg7dPs.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1759345200,
+        "end_time": 1759354200,
+        "show_duration": true,
+        "team_1": {
+          "name": "Bayer Leverkusen",
+          "logo": "logo/teams/bayer-leverkusen_t3QmumtTtNUgN72IDMqx.png"
+        },
+        "team_2": {
+          "name": "PSV",
+          "logo": "logo/teams/psv_aGHcAUKMcIwY2YOZHHEg.png"
+        },
+        "full_team_name": "Bayer Leverkusen 🆚 PSV",
+        "sources": [
+          {
+            "id": 2665,
+            "name": "ZIGGO SPORT",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 103,
+        "name": "UEFA Champions League",
+        "stage": null,
+        "logo": "logo/events/uefa_i2gGRxCyWtuczfdeHAEo.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1759345200,
+        "end_time": 1759354200,
+        "show_duration": true,
+        "team_1": {
+          "name": "Juventus",
+          "logo": "logo/teams/juventus_1WZ6BUDiLNixSnojyYvv.png"
+        },
+        "team_2": {
+          "name": "Villarreal",
+          "logo": "logo/teams/villarreal_9ztBwUV50RgNFebIe13O.png"
+        },
+        "full_team_name": "Juventus 🆚 Villarreal",
+        "sources": [
+          {
+            "id": 3338,
+            "name": "CBS SPORTS Golazo",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 200,
+        "name": "UEFA Champions League",
+        "stage": null,
+        "logo": "logo/events/juventus-psv_Quk9CbAnGkaxbrirFINV.png",
+        "color": "#FFD700",
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1759345200,
+        "end_time": 1759354200,
+        "show_duration": true,
+        "team_1": {
+          "name": "Napoli",
+          "logo": "logo/teams/napoli_NYdRhOCsu0S7p6Z3pnfO.png"
+        },
+        "team_2": {
+          "name": "Sporting CP",
+          "logo": "logo/teams/sporting-cp_PQMi5NFCoxA8N9XV6GVv.png"
+        },
+        "full_team_name": "Napoli 🆚 Sporting CP",
+        "sources": [
+          {
+            "id": 2667,
+            "name": "ZIGGO SPORT 3",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 34,
+        "name": "UEFA Champions League",
+        "stage": null,
+        "logo": "logo/events/young-boys-aston-villa_TBYhsDy4LQeUHE1sx9JD.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1759345200,
+        "end_time": 1759354200,
+        "show_duration": true,
+        "team_1": {
+          "name": "Borussia Dortmund",
+          "logo": "logo/teams/borussia-dortmund_UAiL1fFnZIVlcddPozzF.webp"
+        },
+        "team_2": {
+          "name": "Athletic Club",
+          "logo": "logo/teams/athletic-club_IMrU8myTY6ecoOB2UlrJ.png"
+        },
+        "full_team_name": "Borussia Dortmund 🆚 Athletic Club",
+        "sources": [
+          {
+            "id": 861,
+            "name": "beIN Sport 4 - AR",
+            "description": null
+          },
+          {
+            "id": 3412,
+            "name": "DAZN 1 - DE",
+            "description": null
+          },
+          {
+            "id": 828,
+            "name": "Arena Sports 3 - BA",
             "description": null
           }
         ]
