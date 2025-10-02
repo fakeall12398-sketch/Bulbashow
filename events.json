@@ -1,5 +1,308 @@
 [
   {
+    "id": 6,
+    "name": "Cricket",
+    "logo": "logo/events/categories/cricket_34rT8noo6pPjKMC5Wm9f.webp",
+    "type": "Cricket",
+    "items": [
+      {
+        "id": 22,
+        "name": "West Indies tour of India,",
+        "stage": "1st Test, Day 1",
+        "logo": "",
+        "color": null,
+        "type": "team",
+        "sport_type": "cricket",
+        "start_time": 1759377600,
+        "end_time": null,
+        "show_duration": true,
+        "team_1": {
+          "name": "India",
+          "logo": "logo/teams/india_R8DzB45mwxgV921JfOUc.png"
+        },
+        "team_2": {
+          "name": "West Indies",
+          "logo": "logo/teams/west-indies_Q6wRrBT7yHbEpRQVsW4z.png"
+        },
+        "full_team_name": "India 🆚 West Indies",
+        "sources": [
+          {
+            "id": 908,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3202,
+            "name": "LINK 2",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 290,
+        "name": "Afghanistan vs Bangladesh in UAE",
+        "stage": "1st T20I",
+        "logo": "",
+        "color": null,
+        "type": "team",
+        "sport_type": "cricket",
+        "start_time": 1759417200,
+        "end_time": null,
+        "show_duration": true,
+        "team_1": {
+          "name": "Bangladesh",
+          "logo": "logo/teams/bangladesh_9mfG8dxYyOTt53INypBM.png"
+        },
+        "team_2": {
+          "name": "Afghanistan",
+          "logo": "logo/teams/afghanistan_pNuVU1zMVjnpDx1wW4Me.png"
+        },
+        "full_team_name": "Bangladesh 🆚 Afghanistan",
+        "sources": [
+          {
+            "id": 3541,
+            "name": "LINK 1",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 125,
+        "name": "Australia tour of New Zealand",
+        "stage": "2nd T20I",
+        "logo": "",
+        "color": null,
+        "type": "team",
+        "sport_type": "cricket",
+        "start_time": 1759472100,
+        "end_time": null,
+        "show_duration": true,
+        "team_1": {
+          "name": "Australia",
+          "logo": "logo/teams/australia_ft0IHOvqYgEhT2QZC10y.png"
+        },
+        "team_2": {
+          "name": "New Zealand",
+          "logo": "logo/teams/new-zealand_Bo0hBUgvsLhkGvuy7NLf.png"
+        },
+        "full_team_name": "Australia 🆚 New Zealand",
+        "sources": [
+          {
+            "id": 902,
+            "name": "TNT Sports 1 (BT Sports) ",
+            "description": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "name": "ICC Womens World Cup",
+    "logo": "logo/events/categories/icc-womens-world-cup_Tac4U4YHpuekyiqOw3CJ.png",
+    "type": "Cricket",
+    "items": [
+      {
+        "id": 328,
+        "name": "ICC Womens World Cup",
+        "stage": "3rd Match",
+        "logo": "",
+        "color": null,
+        "type": "team",
+        "sport_type": "cricket",
+        "start_time": 1759397400,
+        "end_time": 1759426200,
+        "show_duration": true,
+        "team_1": {
+          "name": "Bangladesh",
+          "logo": "logo/teams/bangladesh_9mfG8dxYyOTt53INypBM.png"
+        },
+        "team_2": {
+          "name": "Pakisthan",
+          "logo": "logo/teams/pakisthan_QCFdXH7TItyN21PE72wI.png"
+        },
+        "full_team_name": "Bangladesh 🆚 Pakisthan",
+        "sources": [
+          {
+            "id": 2710,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3734,
+            "name": "LINK 2",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 329,
+        "name": "ICC Womens World Cup",
+        "stage": "4th Match",
+        "logo": "",
+        "color": null,
+        "type": "team",
+        "sport_type": "cricket",
+        "start_time": 1759483800,
+        "end_time": 1759512600,
+        "show_duration": true,
+        "team_1": {
+          "name": "England",
+          "logo": "logo/teams/england_lR9prItXfM5WG6lZqsOD.png"
+        },
+        "team_2": {
+          "name": "South Africa",
+          "logo": "logo/teams/south-africa_Ft4TOjd1f9xQlzGVM4a2.png"
+        },
+        "full_team_name": "England 🆚 South Africa",
+        "sources": [
+          {
+            "id": 2710,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3734,
+            "name": "LINK 2",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 330,
+        "name": "ICC Womens World Cup",
+        "stage": "5th Match",
+        "logo": "",
+        "color": null,
+        "type": "team",
+        "sport_type": "cricket",
+        "start_time": 1759570200,
+        "end_time": 1759599000,
+        "show_duration": true,
+        "team_1": {
+          "name": "Sri Lanka",
+          "logo": "logo/teams/sri-lanka_oUuxxnRFqx3sjQ3WUtfY.jpg"
+        },
+        "team_2": {
+          "name": "Australia",
+          "logo": "logo/teams/australia_ft0IHOvqYgEhT2QZC10y.png"
+        },
+        "full_team_name": "Sri Lanka 🆚 Australia",
+        "sources": [
+          {
+            "id": 2710,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3734,
+            "name": "LINK 2",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 162,
+        "name": "ICC Womens World Cup",
+        "stage": "6th Match",
+        "logo": "",
+        "color": null,
+        "type": "team",
+        "sport_type": "cricket",
+        "start_time": 1759656600,
+        "end_time": 1759685400,
+        "show_duration": true,
+        "team_1": {
+          "name": "India",
+          "logo": "logo/teams/india_R8DzB45mwxgV921JfOUc.png"
+        },
+        "team_2": {
+          "name": "Pakisthan",
+          "logo": "logo/teams/pakisthan_QCFdXH7TItyN21PE72wI.png"
+        },
+        "full_team_name": "India 🆚 Pakisthan",
+        "sources": [
+          {
+            "id": 2710,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3734,
+            "name": "LINK 2",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 107,
+        "name": "ICC Womens World Cup",
+        "stage": "7th Match",
+        "logo": "",
+        "color": null,
+        "type": "team",
+        "sport_type": "cricket",
+        "start_time": 1759743000,
+        "end_time": 1759771800,
+        "show_duration": true,
+        "team_1": {
+          "name": "New Zealand",
+          "logo": "logo/teams/new-zealand_Bo0hBUgvsLhkGvuy7NLf.png"
+        },
+        "team_2": {
+          "name": "South Africa",
+          "logo": "logo/teams/south-africa_Ft4TOjd1f9xQlzGVM4a2.png"
+        },
+        "full_team_name": "New Zealand 🆚 South Africa",
+        "sources": [
+          {
+            "id": 2710,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3734,
+            "name": "LINK 2",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 88,
+        "name": "ICC Womens World Cup",
+        "stage": "8th Match",
+        "logo": "",
+        "color": null,
+        "type": "team",
+        "sport_type": "cricket",
+        "start_time": 1759829400,
+        "end_time": 1759858200,
+        "show_duration": true,
+        "team_1": {
+          "name": "Bangladesh",
+          "logo": "logo/teams/bangladesh_9mfG8dxYyOTt53INypBM.png"
+        },
+        "team_2": {
+          "name": "England",
+          "logo": "logo/teams/england_lR9prItXfM5WG6lZqsOD.png"
+        },
+        "full_team_name": "Bangladesh 🆚 England",
+        "sources": [
+          {
+            "id": 2710,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3734,
+            "name": "LINK 2",
+            "description": null
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 44,
     "name": "FIFA U-20 World Cup",
     "logo": "logo/events/categories/fifa-club-world-cup_uKXWsqNaJmoeEKidZZbj.png",
@@ -135,212 +438,6 @@
     ]
   },
   {
-    "id": 18,
-    "name": "ICC Womens World Cup",
-    "logo": "logo/events/categories/icc-womens-world-cup_Tac4U4YHpuekyiqOw3CJ.png",
-    "type": "Cricket",
-    "items": [
-      {
-        "id": 328,
-        "name": "ICC Womens World Cup",
-        "stage": "3rd Match",
-        "logo": "",
-        "color": null,
-        "type": "team",
-        "sport_type": "cricket",
-        "start_time": 1759397400,
-        "end_time": 1759426200,
-        "show_duration": true,
-        "team_1": {
-          "name": "Bangladesh",
-          "logo": "logo/teams/bangladesh_9mfG8dxYyOTt53INypBM.png"
-        },
-        "team_2": {
-          "name": "Pakisthan",
-          "logo": "logo/teams/pakisthan_QCFdXH7TItyN21PE72wI.png"
-        },
-        "full_team_name": "Bangladesh 🆚 Pakisthan",
-        "sources": [
-          {
-            "id": 3202,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 2710,
-            "name": "LINK 2",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 329,
-        "name": "ICC Womens World Cup",
-        "stage": "4th Match",
-        "logo": "",
-        "color": null,
-        "type": "team",
-        "sport_type": "cricket",
-        "start_time": 1759483800,
-        "end_time": 1759512600,
-        "show_duration": true,
-        "team_1": {
-          "name": "England",
-          "logo": "logo/teams/england_lR9prItXfM5WG6lZqsOD.png"
-        },
-        "team_2": {
-          "name": "South Africa",
-          "logo": "logo/teams/south-africa_Ft4TOjd1f9xQlzGVM4a2.png"
-        },
-        "full_team_name": "England 🆚 South Africa",
-        "sources": [
-          {
-            "id": 3202,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 2710,
-            "name": "LINK 2",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 330,
-        "name": "ICC Womens World Cup",
-        "stage": "5th Match",
-        "logo": "",
-        "color": null,
-        "type": "team",
-        "sport_type": "cricket",
-        "start_time": 1759570200,
-        "end_time": 1759599000,
-        "show_duration": true,
-        "team_1": {
-          "name": "Sri Lanka",
-          "logo": "logo/teams/sri-lanka_oUuxxnRFqx3sjQ3WUtfY.jpg"
-        },
-        "team_2": {
-          "name": "Australia",
-          "logo": "logo/teams/australia_ft0IHOvqYgEhT2QZC10y.png"
-        },
-        "full_team_name": "Sri Lanka 🆚 Australia",
-        "sources": [
-          {
-            "id": 3202,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 2710,
-            "name": "LINK 2",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 162,
-        "name": "ICC Womens World Cup",
-        "stage": "6th Match",
-        "logo": "",
-        "color": null,
-        "type": "team",
-        "sport_type": "cricket",
-        "start_time": 1759656600,
-        "end_time": 1759685400,
-        "show_duration": true,
-        "team_1": {
-          "name": "India",
-          "logo": "logo/teams/india_R8DzB45mwxgV921JfOUc.png"
-        },
-        "team_2": {
-          "name": "Pakisthan",
-          "logo": "logo/teams/pakisthan_QCFdXH7TItyN21PE72wI.png"
-        },
-        "full_team_name": "India 🆚 Pakisthan",
-        "sources": [
-          {
-            "id": 3202,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 2710,
-            "name": "LINK 2",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 107,
-        "name": "ICC Womens World Cup",
-        "stage": "7th Match",
-        "logo": "",
-        "color": null,
-        "type": "team",
-        "sport_type": "cricket",
-        "start_time": 1759743000,
-        "end_time": 1759771800,
-        "show_duration": true,
-        "team_1": {
-          "name": "New Zealand",
-          "logo": "logo/teams/new-zealand_Bo0hBUgvsLhkGvuy7NLf.png"
-        },
-        "team_2": {
-          "name": "South Africa",
-          "logo": "logo/teams/south-africa_Ft4TOjd1f9xQlzGVM4a2.png"
-        },
-        "full_team_name": "New Zealand 🆚 South Africa",
-        "sources": [
-          {
-            "id": 3202,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 2710,
-            "name": "LINK 2",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 88,
-        "name": "ICC Womens World Cup",
-        "stage": "8th Match",
-        "logo": "",
-        "color": null,
-        "type": "team",
-        "sport_type": "cricket",
-        "start_time": 1759829400,
-        "end_time": 1759858200,
-        "show_duration": true,
-        "team_1": {
-          "name": "Bangladesh",
-          "logo": "logo/teams/bangladesh_9mfG8dxYyOTt53INypBM.png"
-        },
-        "team_2": {
-          "name": "England",
-          "logo": "logo/teams/england_lR9prItXfM5WG6lZqsOD.png"
-        },
-        "full_team_name": "Bangladesh 🆚 England",
-        "sources": [
-          {
-            "id": 3202,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 2710,
-            "name": "LINK 2",
-            "description": null
-          }
-        ]
-      }
-    ]
-  },
-  {
     "id": 22,
     "name": "UEFA Conference League",
     "logo": "logo/events/categories/uefa-conference-league_NW482QWRgKIcpUJMbg6I.png",
@@ -361,98 +458,6 @@
           {
             "id": 902,
             "name": "TNT Sports 1 (BT Sports) ",
-            "description": null
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": 6,
-    "name": "Cricket",
-    "logo": "logo/events/categories/cricket_34rT8noo6pPjKMC5Wm9f.webp",
-    "type": "Cricket",
-    "items": [
-      {
-        "id": 290,
-        "name": "Afghanistan vs Bangladesh in UAE",
-        "stage": "1st T20I",
-        "logo": "",
-        "color": null,
-        "type": "team",
-        "sport_type": "cricket",
-        "start_time": 1759417200,
-        "end_time": null,
-        "show_duration": true,
-        "team_1": {
-          "name": "Bangladesh",
-          "logo": "logo/teams/bangladesh_9mfG8dxYyOTt53INypBM.png"
-        },
-        "team_2": {
-          "name": "Afghanistan",
-          "logo": "logo/teams/afghanistan_pNuVU1zMVjnpDx1wW4Me.png"
-        },
-        "full_team_name": "Bangladesh 🆚 Afghanistan",
-        "sources": [
-          {
-            "id": 3541,
-            "name": "LINK 1",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 125,
-        "name": "Australia tour of New Zealand",
-        "stage": "2nd T20I",
-        "logo": "",
-        "color": null,
-        "type": "team",
-        "sport_type": "cricket",
-        "start_time": 1759472100,
-        "end_time": null,
-        "show_duration": true,
-        "team_1": {
-          "name": "Australia",
-          "logo": "logo/teams/australia_ft0IHOvqYgEhT2QZC10y.png"
-        },
-        "team_2": {
-          "name": "New Zealand",
-          "logo": "logo/teams/new-zealand_Bo0hBUgvsLhkGvuy7NLf.png"
-        },
-        "full_team_name": "Australia 🆚 New Zealand",
-        "sources": [
-          {
-            "id": 902,
-            "name": "TNT Sports 1 (BT Sports) ",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 22,
-        "name": "West Indies tour of India,",
-        "stage": "1st Test, Day 1",
-        "logo": "",
-        "color": null,
-        "type": "team",
-        "sport_type": "cricket",
-        "start_time": 1759377600,
-        "end_time": null,
-        "show_duration": true,
-        "team_1": {
-          "name": "India",
-          "logo": "logo/teams/india_R8DzB45mwxgV921JfOUc.png"
-        },
-        "team_2": {
-          "name": "West Indies",
-          "logo": "logo/teams/west-indies_Q6wRrBT7yHbEpRQVsW4z.png"
-        },
-        "full_team_name": "India 🆚 West Indies",
-        "sources": [
-          {
-            "id": 908,
-            "name": "TNT Sports 3 (BT Sports)",
             "description": null
           }
         ]
