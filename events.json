@@ -103,39 +103,6 @@
     "type": "Cricket",
     "items": [
       {
-        "id": 329,
-        "name": "ICC Womens World Cup",
-        "stage": "4th Match",
-        "logo": "",
-        "color": null,
-        "type": "team",
-        "sport_type": "cricket",
-        "start_time": 1759483800,
-        "end_time": 1759512600,
-        "show_duration": true,
-        "team_1": {
-          "name": "England",
-          "logo": "logo/teams/england_lR9prItXfM5WG6lZqsOD.png"
-        },
-        "team_2": {
-          "name": "South Africa",
-          "logo": "logo/teams/south-africa_Ft4TOjd1f9xQlzGVM4a2.png"
-        },
-        "full_team_name": "England 🆚 South Africa",
-        "sources": [
-          {
-            "id": 3202,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 3734,
-            "name": "LINK 2",
-            "description": null
-          }
-        ]
-      },
-      {
         "id": 330,
         "name": "ICC Womens World Cup",
         "stage": "5th Match",
@@ -276,54 +243,6 @@
     "type": "Football",
     "items": [
       {
-        "id": 318,
-        "name": "Eintracht Braunschweig 🆚 Paderborn",
-        "stage": null,
-        "logo": "logo/events/elversberg-kaiserslautern_u7XcxXJ8sRFF8zKriQ0p.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "cricket",
-        "start_time": 1759509000,
-        "end_time": 1759518000,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3289,
-            "name": "beIN Sport 2 - AUS",
-            "description": null
-          },
-          {
-            "id": 3684,
-            "name": "LINK 2",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 366,
-        "name": "Fortuna Düsseldorf 🆚 Nürnberg",
-        "stage": null,
-        "logo": "logo/events/elversberg-kaiserslautern_u7XcxXJ8sRFF8zKriQ0p.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "cricket",
-        "start_time": 1759509000,
-        "end_time": 1759518000,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3283,
-            "name": "beIN Sport 3 - AUS",
-            "description": null
-          },
-          {
-            "id": 3699,
-            "name": "LINK 2",
-            "description": null
-          }
-        ]
-      },
-      {
         "id": 315,
         "name": "Kaiserslautern 🆚 Bochum",
         "stage": null,
@@ -367,25 +286,6 @@
         ]
       },
       {
-        "id": 317,
-        "name": "Holstein Kiel 🆚 Darmstadt 98",
-        "stage": null,
-        "logo": "logo/events/elversberg-kaiserslautern_u7XcxXJ8sRFF8zKriQ0p.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "cricket",
-        "start_time": 1759575600,
-        "end_time": 1759584600,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3685,
-            "name": "LINK 1",
-            "description": null
-          }
-        ]
-      },
-      {
         "id": 367,
         "name": "Dynamo Dresden 🆚 Karlsruher SC",
         "stage": null,
@@ -410,6 +310,25 @@
           {
             "id": 3683,
             "name": "LINK 3",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 317,
+        "name": "Holstein Kiel 🆚 Darmstadt 98",
+        "stage": null,
+        "logo": "logo/events/elversberg-kaiserslautern_u7XcxXJ8sRFF8zKriQ0p.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "cricket",
+        "start_time": 1759575600,
+        "end_time": 1759584600,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3685,
+            "name": "LINK 1",
             "description": null
           }
         ]
