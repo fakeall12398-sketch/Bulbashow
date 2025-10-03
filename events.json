@@ -268,5 +268,749 @@
         ]
       }
     ]
+  },
+  {
+    "id": 44,
+    "name": "FIFA U-20 World Cup",
+    "logo": "logo/events/categories/fifa-club-world-cup_uKXWsqNaJmoeEKidZZbj.png",
+    "type": "Football",
+    "items": [
+      {
+        "id": 340,
+        "name": "FIFA U-20 World Cup",
+        "stage": null,
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1759521600,
+        "end_time": 1759530600,
+        "show_duration": true,
+        "team_1": {
+          "name": "Panama",
+          "logo": "logo/teams/panama_OwUurSk3OQRNFqMGkfql.png"
+        },
+        "team_2": {
+          "name": "South Korea",
+          "logo": "logo/teams/south-korea_G763uCvqhFDeayiWMZPR.jpg"
+        },
+        "full_team_name": "Panama 🆚 South Korea",
+        "sources": [
+          {
+            "id": 2750,
+            "name": "TSN 5",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 341,
+        "name": "FIFA U-20 World Cup",
+        "stage": null,
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1759521600,
+        "end_time": 1759530600,
+        "show_duration": true,
+        "team_1": {
+          "name": "Ukraine",
+          "logo": "logo/teams/ukraine_A1a1Ix3gqpZtvp1YGjLE.png"
+        },
+        "team_2": {
+          "name": "Paraguay",
+          "logo": "logo/teams/paraguay_ZzSxXyuMetTr5cG31RAm.png"
+        },
+        "full_team_name": "Ukraine 🆚 Paraguay",
+        "sources": [
+          {
+            "id": 2747,
+            "name": "TSN 2",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 302,
+        "name": "FIFA U-20 World Cup",
+        "stage": null,
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1759532400,
+        "end_time": 1759541400,
+        "show_duration": true,
+        "team_1": {
+          "name": "Egypt",
+          "logo": "logo/teams/egypt_1hhEiLq5er4bZsCGwDV2.png"
+        },
+        "team_2": {
+          "name": "Chile",
+          "logo": "logo/teams/chile_2XLERMK1EopjN2CcaI3s.png"
+        },
+        "full_team_name": "Egypt 🆚 Chile",
+        "sources": [
+          {
+            "id": 941,
+            "name": "Fox Sports 1 - US",
+            "description": null
+          },
+          {
+            "id": 3456,
+            "name": "Universo",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 291,
+        "name": "FIFA U-20 World Cup",
+        "stage": null,
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1759532400,
+        "end_time": 1759541400,
+        "show_duration": true,
+        "team_1": {
+          "name": "New Zealand",
+          "logo": "logo/teams/new-zealand_jDFDOl2ZfzcLFfSnSwIC.png"
+        },
+        "team_2": {
+          "name": "Japan",
+          "logo": "logo/teams/japan_kob7f67JBkvUorLgiTLG.png"
+        },
+        "full_team_name": "New Zealand 🆚 Japan",
+        "sources": [
+          {
+            "id": 3666,
+            "name": "FOX SPORT 2 - US",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 299,
+        "name": "FIFA U-20 World Cup",
+        "stage": null,
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1759608000,
+        "end_time": 1759617000,
+        "show_duration": true,
+        "team_1": {
+          "name": "Mexico",
+          "logo": "logo/teams/mexico_lk7XNO7RfkxtdTS3n4S0.png"
+        },
+        "team_2": {
+          "name": "Morocco",
+          "logo": "logo/teams/morocco_PmfSAM1qmVEHVMEj4bDl.png"
+        },
+        "full_team_name": "Mexico 🆚 Morocco",
+        "sources": [
+          {
+            "id": 3575,
+            "name": "Telemundo",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 333,
+        "name": "FIFA U-20 World Cup",
+        "stage": null,
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1759608000,
+        "end_time": 1759617000,
+        "show_duration": true,
+        "team_1": {
+          "name": "Spain",
+          "logo": "logo/teams/spain_iyBZzr7BgNu358JERkex.png"
+        },
+        "team_2": {
+          "name": "Brazil",
+          "logo": "logo/teams/brazil_2gKRZsvaLKJcHbZ9zIEj.png"
+        },
+        "full_team_name": "Spain 🆚 Brazil",
+        "sources": [
+          {
+            "id": 2937,
+            "name": "SPORTV",
+            "description": null
+          },
+          {
+            "id": 3456,
+            "name": "Universo",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 325,
+        "name": "FIFA U-20 World Cup",
+        "stage": null,
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1759618800,
+        "end_time": 1759627800,
+        "show_duration": true,
+        "team_1": {
+          "name": "Argentina",
+          "logo": "logo/teams/argentina_pDa8KIvC0PZ1iOF1swve.png"
+        },
+        "team_2": {
+          "name": "Italy",
+          "logo": "logo/teams/italy_mChUeuYcWwpL0H8ODZhh.png"
+        },
+        "full_team_name": "Argentina 🆚 Italy",
+        "sources": [
+          {
+            "id": 3666,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3575,
+            "name": "Telemundo",
+            "description": null
+          },
+          {
+            "id": 2937,
+            "name": "SPORTV",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 337,
+        "name": "FIFA U-20 World Cup",
+        "stage": null,
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1759694400,
+        "end_time": 1759703400,
+        "show_duration": true,
+        "team_1": {
+          "name": "New Caledonia",
+          "logo": "logo/teams/new-caledonia_hk12oSxTbqLbfsDKV2dg.png"
+        },
+        "team_2": {
+          "name": "France",
+          "logo": "logo/teams/france_aUU9YpY9mRlZaIN96Jcj.png"
+        },
+        "full_team_name": "New Caledonia 🆚 France",
+        "sources": [
+          {
+            "id": 3670,
+            "name": "LINK 1",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 336,
+        "name": "FIFA U-20 World Cup",
+        "stage": null,
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1759694400,
+        "end_time": 1759703400,
+        "show_duration": true,
+        "team_1": {
+          "name": "United States",
+          "logo": "logo/teams/united-states_Tnl0x0Mqm0tYaRL6x7Xd.png"
+        },
+        "team_2": {
+          "name": "South Africa",
+          "logo": "logo/teams/south-africa_Bo8kOnmhnTKe8xTz342d.png"
+        },
+        "full_team_name": "United States 🆚 South Africa",
+        "sources": [
+          {
+            "id": 3666,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3456,
+            "name": "Universo",
+            "description": null
+          },
+          {
+            "id": 2747,
+            "name": "TSN 2",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 335,
+        "name": "FIFA U-20 World Cup",
+        "stage": null,
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1759705200,
+        "end_time": 1759714200,
+        "show_duration": true,
+        "team_1": {
+          "name": "Nigeria",
+          "logo": "logo/teams/nigeria_at8GEbUxnKf3phEhfYTk.png"
+        },
+        "team_2": {
+          "name": "Colombia",
+          "logo": "logo/teams/colombia_Qtn8lNsfufrLzN3t77jo.png"
+        },
+        "full_team_name": "Nigeria 🆚 Colombia",
+        "sources": [
+          {
+            "id": 3666,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 2750,
+            "name": "TSN 5",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 334,
+        "name": "FIFA U-20 World Cup",
+        "stage": null,
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1759705200,
+        "end_time": 1759714200,
+        "show_duration": true,
+        "team_1": {
+          "name": "Saudi Arabia",
+          "logo": "logo/teams/saudi-arabia_yV8AiXenzAuV1cup0g21.png"
+        },
+        "team_2": {
+          "name": "Norway",
+          "logo": "logo/teams/norway_JtXveAd8feRDei0pPuBh.png"
+        },
+        "full_team_name": "Saudi Arabia 🆚 Norway",
+        "sources": [
+          {
+            "id": 2747,
+            "name": "TSN 2",
+            "description": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Premier League",
+    "logo": "logo/events/categories/premier-league_DxTuHXdZHzmgURaJXIV3.png",
+    "type": "Football",
+    "items": [
+      {
+        "id": 64,
+        "name": "Premier League",
+        "stage": null,
+        "logo": "logo/events/premier-league_653.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1759518000,
+        "end_time": 1759527000,
+        "show_duration": true,
+        "team_1": {
+          "name": "AFC Bournemouth",
+          "logo": "logo/teams/afc-bournemouth_qVGIj8fyj0I6KNXz33Y1.png"
+        },
+        "team_2": {
+          "name": "Fulham",
+          "logo": "logo/teams/fulham_ZtmiztFY6TcDY03VX8wu.png"
+        },
+        "full_team_name": "AFC Bournemouth 🆚 Fulham",
+        "sources": [
+          {
+            "id": 1714,
+            "name": "USA Network",
+            "description": null
+          },
+          {
+            "id": 3485,
+            "name": "FUBO Sports",
+            "description": null
+          },
+          {
+            "id": 3456,
+            "name": "Universo",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 63,
+        "name": "Premier League",
+        "stage": null,
+        "logo": "logo/events/premier-league_653.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1759577400,
+        "end_time": 1759586400,
+        "show_duration": true,
+        "team_1": {
+          "name": "Leeds United",
+          "logo": "logo/teams/leeds-united_chV0LJ49sgZs8F3aML49.png"
+        },
+        "team_2": {
+          "name": "Tottenham Hotspur",
+          "logo": "logo/teams/tottenham-hotspur_wRuMqVZrIxbbxVAzReN9.png"
+        },
+        "full_team_name": "Leeds United 🆚 Tottenham Hotspur",
+        "sources": [
+          {
+            "id": 902,
+            "name": "TNT Sports 1 (BT Sports) ",
+            "description": null
+          },
+          {
+            "id": 1714,
+            "name": "USA Network",
+            "description": null
+          },
+          {
+            "id": 3485,
+            "name": "FUBO Sports",
+            "description": null
+          },
+          {
+            "id": 981,
+            "name": "SKY SPORTS  Premier League",
+            "description": null
+          },
+          {
+            "id": 3456,
+            "name": "Universo",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 163,
+        "name": "Premier League",
+        "stage": null,
+        "logo": "logo/events/premier-league_653.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1759586400,
+        "end_time": 1759595400,
+        "show_duration": true,
+        "team_1": {
+          "name": "Manchester United",
+          "logo": "logo/teams/manchester-united_iJc37lFllOk8N6EP8gAF.png"
+        },
+        "team_2": {
+          "name": "Sunderland",
+          "logo": "logo/teams/sunderland_CJfeVa5gItOnDonuHn99.png"
+        },
+        "full_team_name": "Manchester United 🆚 Sunderland",
+        "sources": [
+          {
+            "id": 1714,
+            "name": "USA Network",
+            "description": null
+          },
+          {
+            "id": 3118,
+            "name": "SKY SPORTS MIX ",
+            "description": null
+          },
+          {
+            "id": 3456,
+            "name": "Universo",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 60,
+        "name": "Premier League",
+        "stage": null,
+        "logo": "logo/events/premier-league_653.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1759586400,
+        "end_time": 1759595400,
+        "show_duration": true,
+        "team_1": {
+          "name": "Arsenal",
+          "logo": "logo/teams/arsenal_fc6aAPzStsGPPVTcPQMZ.png"
+        },
+        "team_2": {
+          "name": "West Ham United",
+          "logo": "logo/teams/west-ham-united_ZH09jHWYKL3jxywDbqrp.png"
+        },
+        "full_team_name": "Arsenal 🆚 West Ham United",
+        "sources": [
+          {
+            "id": 981,
+            "name": "SKY SPORTS  Premier League",
+            "description": null
+          },
+          {
+            "id": 3721,
+            "name": "LINK 2",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 78,
+        "name": "Premier League",
+        "stage": null,
+        "logo": "logo/events/premier-league_653.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1759595400,
+        "end_time": 1759604400,
+        "show_duration": true,
+        "team_1": {
+          "name": "Liverpool",
+          "logo": "logo/teams/liverpool_HMqVIBRuCRoiG9WsnSWg.png"
+        },
+        "team_2": {
+          "name": "Chelsea",
+          "logo": "logo/teams/chelsea_4qmk0ruyKon66luWMjkX.webp"
+        },
+        "full_team_name": "Liverpool 🆚 Chelsea",
+        "sources": [
+          {
+            "id": 981,
+            "name": "SKY SPORTS  Premier League",
+            "description": null
+          },
+          {
+            "id": 3456,
+            "name": "Universo",
+            "description": null
+          },
+          {
+            "id": 3485,
+            "name": "FUBO Sports",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 77,
+        "name": "Premier League",
+        "stage": null,
+        "logo": "logo/events/premier-league_653.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1759669200,
+        "end_time": 1759678200,
+        "show_duration": true,
+        "team_1": {
+          "name": "Aston Villa",
+          "logo": "logo/teams/aston-villa_9BPRqMxn2Znvkj7pltfK.png"
+        },
+        "team_2": {
+          "name": "Burnley",
+          "logo": "logo/teams/burnley_KdAGgnWdhThDpljBlQqe.png"
+        },
+        "full_team_name": "Aston Villa 🆚 Burnley",
+        "sources": [
+          {
+            "id": 3721,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 866,
+            "name": "beIN Sport 5 - AR",
+            "description": null
+          },
+          {
+            "id": 2992,
+            "name": "Sky Sport 6 - NZ",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 164,
+        "name": "Premier League",
+        "stage": null,
+        "logo": "logo/events/premier-league_653.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1759669200,
+        "end_time": 1759678200,
+        "show_duration": true,
+        "team_1": {
+          "name": "Everton",
+          "logo": "logo/teams/everton_5cRKu7aLE5iyDE8ZWKnA.png"
+        },
+        "team_2": {
+          "name": "Crystal Palace",
+          "logo": "logo/teams/crystal-palace_sWmHvniii42Bo088yMRT.png"
+        },
+        "full_team_name": "Everton 🆚 Crystal Palace",
+        "sources": [
+          {
+            "id": 861,
+            "name": "beIN Sport 4 - AR",
+            "description": null
+          },
+          {
+            "id": 2686,
+            "name": "DAZN 3 • SP",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 16,
+        "name": "Premier League",
+        "stage": null,
+        "logo": "logo/events/premier-league_653.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1759669200,
+        "end_time": 1759678200,
+        "show_duration": true,
+        "team_1": {
+          "name": "Newcastle United",
+          "logo": "logo/teams/newcastle-united_qG9rETosUsgCorWNBlog.png"
+        },
+        "team_2": {
+          "name": "Nottingham Forest",
+          "logo": "logo/teams/nottingham-forest_ZlzDoHRM4YWe1pXsIvkm.png"
+        },
+        "full_team_name": "Newcastle United 🆚 Nottingham Forest",
+        "sources": [
+          {
+            "id": 1714,
+            "name": "USA Network",
+            "description": null
+          },
+          {
+            "id": 3486,
+            "name": "FUBO Sports 2",
+            "description": null
+          },
+          {
+            "id": 3575,
+            "name": "Telemundo",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 179,
+        "name": "Premier League",
+        "stage": null,
+        "logo": "logo/events/premier-league_653.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1759669200,
+        "end_time": 1759678200,
+        "show_duration": true,
+        "team_1": {
+          "name": "Wolverhampton Wanderers",
+          "logo": "logo/teams/wolverhampton-wanderers_wEFzoM24wynMivX0nJZ5.png"
+        },
+        "team_2": {
+          "name": "Brighton & Hove Albion",
+          "logo": "logo/teams/brighton-hove-albion_7mqn09wAXsSL23oihWk2.png"
+        },
+        "full_team_name": "Wolverhampton Wanderers 🆚 Brighton & Hove Albion",
+        "sources": [
+          {
+            "id": 3721,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 871,
+            "name": "beIN Sport 6 - AR",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 83,
+        "name": "Premier League",
+        "stage": null,
+        "logo": "logo/events/premier-league_653.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1759678200,
+        "end_time": 1759687200,
+        "show_duration": true,
+        "team_1": {
+          "name": "Manchester City",
+          "logo": "logo/teams/manchester-city_dULBNGyWBdlIi9PhjqbC.png"
+        },
+        "team_2": {
+          "name": "Brentford",
+          "logo": "logo/teams/brentford_0MEh8wP4adPwsQr3Wqlv.png"
+        },
+        "full_team_name": "Manchester City 🆚 Brentford",
+        "sources": [
+          {
+            "id": 981,
+            "name": "SKY SPORTS  Premier League",
+            "description": null
+          },
+          {
+            "id": 3485,
+            "name": "FUBO Sports",
+            "description": null
+          },
+          {
+            "id": 1714,
+            "name": "USA Network",
+            "description": null
+          },
+          {
+            "id": 3683,
+            "name": "Sky Sport Top Event",
+            "description": null
+          },
+          {
+            "id": 3575,
+            "name": "Telemundo",
+            "description": null
+          }
+        ]
+      }
+    ]
   }
 ]
