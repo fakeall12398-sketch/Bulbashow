@@ -270,6 +270,153 @@
     ]
   },
   {
+    "id": 48,
+    "name": "Bundesliga 2",
+    "logo": "logo/events/categories/bundesliga-2_tGbrOFPMKnV8Bo3aOQda.png",
+    "type": "Football",
+    "items": [
+      {
+        "id": 318,
+        "name": "Eintracht Braunschweig 🆚 Paderborn",
+        "stage": null,
+        "logo": "logo/events/elversberg-kaiserslautern_u7XcxXJ8sRFF8zKriQ0p.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "cricket",
+        "start_time": 1759509000,
+        "end_time": 1759518000,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3289,
+            "name": "beIN Sport 2 - AUS",
+            "description": null
+          },
+          {
+            "id": 3684,
+            "name": "LINK 2",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 366,
+        "name": "Fortuna Düsseldorf 🆚 Nürnberg",
+        "stage": null,
+        "logo": "logo/events/elversberg-kaiserslautern_u7XcxXJ8sRFF8zKriQ0p.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "cricket",
+        "start_time": 1759509000,
+        "end_time": 1759518000,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3283,
+            "name": "beIN Sport 3 - AUS",
+            "description": null
+          },
+          {
+            "id": 3699,
+            "name": "LINK 2",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 315,
+        "name": "Kaiserslautern 🆚 Bochum",
+        "stage": null,
+        "logo": "logo/events/elversberg-kaiserslautern_u7XcxXJ8sRFF8zKriQ0p.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "cricket",
+        "start_time": 1759575600,
+        "end_time": 1759584600,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3283,
+            "name": "beIN Sport 3 - AUS",
+            "description": null
+          },
+          {
+            "id": 3699,
+            "name": "LINK 2",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 316,
+        "name": "Hertha BSC 🆚 Preußen Münster",
+        "stage": null,
+        "logo": "logo/events/elversberg-kaiserslautern_u7XcxXJ8sRFF8zKriQ0p.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "cricket",
+        "start_time": 1759575600,
+        "end_time": 1759584600,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3684,
+            "name": "LINK 1",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 317,
+        "name": "Holstein Kiel 🆚 Darmstadt 98",
+        "stage": null,
+        "logo": "logo/events/elversberg-kaiserslautern_u7XcxXJ8sRFF8zKriQ0p.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "cricket",
+        "start_time": 1759575600,
+        "end_time": 1759584600,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3685,
+            "name": "LINK 1",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 367,
+        "name": "Dynamo Dresden 🆚 Karlsruher SC",
+        "stage": null,
+        "logo": "logo/events/elversberg-kaiserslautern_u7XcxXJ8sRFF8zKriQ0p.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "cricket",
+        "start_time": 1759602600,
+        "end_time": 1759611600,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3283,
+            "name": "beIN Sport 3 - AUS",
+            "description": null
+          },
+          {
+            "id": 3682,
+            "name": "LINK 2",
+            "description": null
+          },
+          {
+            "id": 3683,
+            "name": "LINK 3",
+            "description": null
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 44,
     "name": "FIFA U-20 World Cup",
     "logo": "logo/events/categories/fifa-club-world-cup_uKXWsqNaJmoeEKidZZbj.png",
@@ -1412,6 +1559,463 @@
     ]
   },
   {
+    "id": 12,
+    "name": "Ligue 1",
+    "logo": "logo/events/categories/ligue-1_5qqt6renj8lsMs1YGSmI.png",
+    "type": "Football",
+    "items": [
+      {
+        "id": 3,
+        "name": "Ligue 1",
+        "stage": null,
+        "logo": "logo/events/ligue-1_338.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1759517100,
+        "end_time": 1759526100,
+        "show_duration": true,
+        "team_1": {
+          "name": "Paris",
+          "logo": "logo/teams/paris_ytqXEPsNf7QpbJ4HTLGl.png"
+        },
+        "team_2": {
+          "name": "Lorient",
+          "logo": "logo/teams/lorient_AuCBnQQ1fBB0rhD3uBsb.png"
+        },
+        "full_team_name": "Paris 🆚 Lorient",
+        "sources": [
+          {
+            "id": 3652,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3721,
+            "name": "LINK 2",
+            "description": null
+          },
+          {
+            "id": 3275,
+            "name": "beIN Sport - USA",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 71,
+        "name": "Ligue 1",
+        "stage": null,
+        "logo": "logo/events/ligue-1_338.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1759590000,
+        "end_time": 1759599000,
+        "show_duration": true,
+        "team_1": {
+          "name": "Metz",
+          "logo": "logo/teams/metz_tsAVkcK4kchtJ67SGWdV.png"
+        },
+        "team_2": {
+          "name": "Olympique Marseille",
+          "logo": "logo/teams/olympique-marseille_p69Uuc33val55SO7Qwbw.png"
+        },
+        "full_team_name": "Metz 🆚 Olympique Marseille",
+        "sources": [
+          {
+            "id": 3721,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3446,
+            "name": "beIN Sport 1 - FR",
+            "description": null
+          },
+          {
+            "id": 3275,
+            "name": "beIN Sport - USA",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 100,
+        "name": "Ligue 1",
+        "stage": null,
+        "logo": "logo/events/ligue-1_338.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1759597200,
+        "end_time": 1759606200,
+        "show_duration": true,
+        "team_1": {
+          "name": "Brest",
+          "logo": "logo/teams/brest_IivZC8tgseCkWCR7ZjpJ.png"
+        },
+        "team_2": {
+          "name": "Nantes",
+          "logo": "logo/teams/nantes_4Wwms9crvMifQbqAeFMP.png"
+        },
+        "full_team_name": "Brest 🆚 Nantes",
+        "sources": [
+          {
+            "id": 3652,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3721,
+            "name": "LINK 2",
+            "description": null
+          },
+          {
+            "id": 3275,
+            "name": "beIN Sport - USA",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 252,
+        "name": "Ligue 1",
+        "stage": null,
+        "logo": "logo/events/ligue-1_338.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1759604700,
+        "end_time": 1759613700,
+        "show_duration": true,
+        "team_1": {
+          "name": "Auxerre",
+          "logo": "logo/teams/auxerre_vcLGRA1IjiBRcAeaRZDU.png"
+        },
+        "team_2": {
+          "name": "RC Lens",
+          "logo": "logo/teams/rc-lens_E6mC6ceh7Wb2ZQhBAz5z.png"
+        },
+        "full_team_name": "Auxerre 🆚 RC Lens",
+        "sources": [
+          {
+            "id": 3652,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3721,
+            "name": "LINK 2",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 213,
+        "name": "Ligue 1",
+        "stage": null,
+        "logo": "logo/events/ligue-1_338.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1759676400,
+        "end_time": 1759685400,
+        "show_duration": true,
+        "team_1": {
+          "name": "Olympique Lyonnais",
+          "logo": "logo/teams/olympique-lyonnais_l6Fd2M2EBBNv2FFgLw8J.png"
+        },
+        "team_2": {
+          "name": "Toulouse",
+          "logo": "logo/teams/toulouse_dvf4wseKuijFiAtEFRXN.png"
+        },
+        "full_team_name": "Olympique Lyonnais 🆚 Toulouse",
+        "sources": [
+          {
+            "id": 3652,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3721,
+            "name": "LINK 2",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 176,
+        "name": "Ligue 1",
+        "stage": null,
+        "logo": "logo/events/ligue-1_338.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1759677300,
+        "end_time": 1759686300,
+        "show_duration": true,
+        "team_1": {
+          "name": "Le Havre",
+          "logo": "logo/teams/le-havre_ruBqgF1Q4zFILvZcdJZv.png"
+        },
+        "team_2": {
+          "name": "Rennes",
+          "logo": "logo/teams/rennes_SIovruEQdZbRTfRYp6Vx.png"
+        },
+        "full_team_name": "Le Havre 🆚 Rennes",
+        "sources": [
+          {
+            "id": 3652,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3721,
+            "name": "LINK 2",
+            "description": null
+          },
+          {
+            "id": 3275,
+            "name": "beIN Sport - USA",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 61,
+        "name": "Ligue 1",
+        "stage": null,
+        "logo": "logo/events/ligue-1_338.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1759677300,
+        "end_time": 1759686300,
+        "show_duration": true,
+        "team_1": {
+          "name": "Monaco",
+          "logo": "logo/teams/monaco_3OpFAHbszyvVUmTbamFa.png"
+        },
+        "team_2": {
+          "name": "Nice",
+          "logo": "logo/teams/nice_Iayy9Zi74iNiYmGPvIXP.png"
+        },
+        "full_team_name": "Monaco 🆚 Nice",
+        "sources": [
+          {
+            "id": 3652,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3721,
+            "name": "LINK 2",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 97,
+        "name": "Ligue 1",
+        "stage": null,
+        "logo": "logo/events/ligue-1_338.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1759677300,
+        "end_time": 1759686300,
+        "show_duration": true,
+        "team_1": {
+          "name": "Strasbourg",
+          "logo": "logo/teams/strasbourg_Vrsd3bucdd4a9hSGGZc2.png"
+        },
+        "team_2": {
+          "name": "Angers SCO",
+          "logo": "logo/teams/angers-sco_sV8JT19UcyO5admBinLo.png"
+        },
+        "full_team_name": "Strasbourg 🆚 Angers SCO",
+        "sources": [
+          {
+            "id": 3652,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3721,
+            "name": "LINK 2",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 177,
+        "name": "Ligue 1",
+        "stage": null,
+        "logo": "logo/events/ligue-1_338.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1759689900,
+        "end_time": 1759698900,
+        "show_duration": true,
+        "team_1": {
+          "name": "PSG",
+          "logo": "logo/teams/psg_gPACrkwZo7y4GwFBYJlm.png"
+        },
+        "team_2": {
+          "name": "Lille",
+          "logo": "logo/teams/lille_dfhDvSeQB5ldB3YRUDzk.png"
+        },
+        "full_team_name": "PSG 🆚 Lille",
+        "sources": [
+          {
+            "id": 3652,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3721,
+            "name": "LINK 2",
+            "description": null
+          },
+          {
+            "id": 3275,
+            "name": "beIN Sport - USA",
+            "description": null
+          },
+          {
+            "id": 833,
+            "name": "beIN Sport - USA",
+            "description": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "name": "EFL Championship",
+    "logo": "logo/events/categories/efl-championship_hWDkHuBlOH3M0hqEXMCx.png",
+    "type": "Football",
+    "items": [
+      {
+        "id": 258,
+        "name": "Wrexham 🆚 Birmingham City",
+        "stage": null,
+        "logo": "logo/events/blackburn-rovers-middlesbrough_x6aqQU7RGwXVw3wB8ZhH.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "cricket",
+        "start_time": 1759518000,
+        "end_time": 1759527000,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3289,
+            "name": "beIN Sport 2 - AUS",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 284,
+        "name": "Hull City 🆚 Sheffield United",
+        "stage": null,
+        "logo": "logo/events/blackburn-rovers-middlesbrough_x6aqQU7RGwXVw3wB8ZhH.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "cricket",
+        "start_time": 1759577400,
+        "end_time": 1759586400,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3289,
+            "name": "beIN Sport 2 - AUS",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 253,
+        "name": "Sheffield Wednesday 🆚 Coventry City",
+        "stage": null,
+        "logo": "logo/events/blackburn-rovers-middlesbrough_x6aqQU7RGwXVw3wB8ZhH.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "cricket",
+        "start_time": 1759577400,
+        "end_time": 1759586400,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3338,
+            "name": "CBS SPORTS Golazo",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 285,
+        "name": "Swansea City 🆚 Leicester City",
+        "stage": null,
+        "logo": "logo/events/blackburn-rovers-middlesbrough_x6aqQU7RGwXVw3wB8ZhH.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "cricket",
+        "start_time": 1759586400,
+        "end_time": 1759595400,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3338,
+            "name": "CBS SPORTS Golazo",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 255,
+        "name": "Watford 🆚 Oxford United",
+        "stage": null,
+        "logo": "logo/events/blackburn-rovers-middlesbrough_x6aqQU7RGwXVw3wB8ZhH.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "cricket",
+        "start_time": 1759586400,
+        "end_time": 1759595400,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3289,
+            "name": "beIN Sport 2 - AUS",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 254,
+        "name": "Ipswich Town 🆚 Norwich City",
+        "stage": null,
+        "logo": "logo/events/blackburn-rovers-middlesbrough_x6aqQU7RGwXVw3wB8ZhH.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "cricket",
+        "start_time": 1759662000,
+        "end_time": 1759671000,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3289,
+            "name": "beIN Sport 2 - AUS",
+            "description": null
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 16,
     "name": "Bundesliga",
     "logo": "logo/events/categories/bundesliga_TUnq97qHRnlbiCVmw2bE.png",
@@ -1624,6 +2228,346 @@
           {
             "id": 3513,
             "name": "DAZN 1 - DE",
+            "description": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Serie A",
+    "logo": "logo/events/categories/serie-a_I13YO3O5lVJj1vhJRU6w.png",
+    "type": "Football",
+    "items": [
+      {
+        "id": 212,
+        "name": "Serie A",
+        "stage": null,
+        "logo": "logo/events/serie-a_562.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1759582800,
+        "end_time": 1759591800,
+        "show_duration": true,
+        "team_1": {
+          "name": "Torino",
+          "logo": "logo/teams/torino_1t5rKnzvXh5aNoneNsRI.png"
+        },
+        "team_2": {
+          "name": "Lazio",
+          "logo": "logo/teams/lazio_z39VbfmpNCElriI7gdIx.png"
+        },
+        "full_team_name": "Torino 🆚 Lazio",
+        "sources": [
+          {
+            "id": 2558,
+            "name": "ZIGGO SPORT 2",
+            "description": null
+          },
+          {
+            "id": 3669,
+            "name": "Fox Deportes",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 96,
+        "name": "Serie A",
+        "stage": null,
+        "logo": "logo/events/serie-a_562.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1759582800,
+        "end_time": 1759591800,
+        "show_duration": true,
+        "team_1": {
+          "name": "Parma",
+          "logo": "logo/teams/parma_bS36NvFFKsw9lNb2kERX.png"
+        },
+        "team_2": {
+          "name": "Lecce",
+          "logo": "logo/teams/lecce_EZcAfpxxytVd4QjVZMur.png"
+        },
+        "full_team_name": "Parma 🆚 Lecce",
+        "sources": [
+          {
+            "id": 3486,
+            "name": "FUBO Sports 2",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 74,
+        "name": "Serie A",
+        "stage": null,
+        "logo": "logo/events/serie-a_562.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1759593600,
+        "end_time": 1759602600,
+        "show_duration": true,
+        "team_1": {
+          "name": "Internazionale",
+          "logo": "logo/teams/internazionale_2CwVe8TFyTB8etpuSs1V.png"
+        },
+        "team_2": {
+          "name": "Cremonese",
+          "logo": "logo/teams/cremonese_CJVjeC0IKjDMjWxRsazq.png"
+        },
+        "full_team_name": "Internazionale 🆚 Cremonese",
+        "sources": [
+          {
+            "id": 3283,
+            "name": "beIN Sport 3 - AUS",
+            "description": null
+          },
+          {
+            "id": 3338,
+            "name": "CBS SPORTS Golazo",
+            "description": null
+          },
+          {
+            "id": 2558,
+            "name": "ZIGGO SPORT 2",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 124,
+        "name": "Serie A",
+        "stage": null,
+        "logo": "logo/events/serie-a_562.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1759603500,
+        "end_time": 1759612500,
+        "show_duration": true,
+        "team_1": {
+          "name": "Atalanta",
+          "logo": "logo/teams/atalanta_b0AAzCzjZ2ZxB0duJ34q.png"
+        },
+        "team_2": {
+          "name": "Como",
+          "logo": "logo/teams/como_mRRoVFoOpOTOv2lZt6j9.png"
+        },
+        "full_team_name": "Atalanta 🆚 Como",
+        "sources": [
+          {
+            "id": 3290,
+            "name": "beIN Sport 1 - AUS",
+            "description": null
+          },
+          {
+            "id": 3338,
+            "name": "CBS SPORTS Golazo",
+            "description": null
+          },
+          {
+            "id": 2558,
+            "name": "ZIGGO SPORT 2",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 190,
+        "name": "Serie A",
+        "stage": null,
+        "logo": "logo/events/serie-a_562.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1759660200,
+        "end_time": 1759669200,
+        "show_duration": true,
+        "team_1": {
+          "name": "Udinese",
+          "logo": "logo/teams/udinese_q4FaAL4szKj7lyZxQsCi.png"
+        },
+        "team_2": {
+          "name": "Cagliari",
+          "logo": "logo/teams/cagliari_ScHX4Lvc1xKWg0qgsoAA.png"
+        },
+        "full_team_name": "Udinese 🆚 Cagliari",
+        "sources": [
+          {
+            "id": 3283,
+            "name": "beIN Sport 3 - AUS",
+            "description": null
+          },
+          {
+            "id": 3669,
+            "name": "Fox Deportes",
+            "description": null
+          },
+          {
+            "id": 3338,
+            "name": "CBS SPORTS Golazo",
+            "description": null
+          },
+          {
+            "id": 2558,
+            "name": "ZIGGO SPORT 2",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 175,
+        "name": "Serie A",
+        "stage": null,
+        "logo": "logo/events/serie-a_562.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1759669200,
+        "end_time": 1759678200,
+        "show_duration": true,
+        "team_1": {
+          "name": "Bologna",
+          "logo": "logo/teams/bologna_Y2dad7YDrmlCWKyXTkeh.png"
+        },
+        "team_2": {
+          "name": "Pisa",
+          "logo": "logo/teams/pisa_xp72Xeorj8IoN3cgf16j.png"
+        },
+        "full_team_name": "Bologna 🆚 Pisa",
+        "sources": [
+          {
+            "id": 2088,
+            "name": "Arena Sports 5 - BA",
+            "description": null
+          },
+          {
+            "id": 3024,
+            "name": "Match TV FOOTBALL 3",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 73,
+        "name": "Serie A",
+        "stage": null,
+        "logo": "logo/events/serie-a_562.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1759669200,
+        "end_time": 1759678200,
+        "show_duration": true,
+        "team_1": {
+          "name": "Fiorentina",
+          "logo": "logo/teams/fiorentina_QbvrwRJXJf2f8PHVcgek.png"
+        },
+        "team_2": {
+          "name": "Roma",
+          "logo": "logo/teams/roma_Sc0O78CfmYENhBVg3Ath.png"
+        },
+        "full_team_name": "Fiorentina 🆚 Roma",
+        "sources": [
+          {
+            "id": 3283,
+            "name": "beIN Sport 3 - AUS",
+            "description": null
+          },
+          {
+            "id": 908,
+            "name": "TNT Sports 3 (BT Sports)",
+            "description": null
+          },
+          {
+            "id": 3338,
+            "name": "CBS SPORTS Golazo",
+            "description": null
+          },
+          {
+            "id": 3669,
+            "name": "Fox Deportes",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 75,
+        "name": "Serie A",
+        "stage": null,
+        "logo": "logo/events/serie-a_562.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1759680000,
+        "end_time": 1759689000,
+        "show_duration": true,
+        "team_1": {
+          "name": "Napoli",
+          "logo": "logo/teams/napoli_NYdRhOCsu0S7p6Z3pnfO.png"
+        },
+        "team_2": {
+          "name": "Genoa",
+          "logo": "logo/teams/genoa_PImQDtB6213jNVCvjejF.png"
+        },
+        "full_team_name": "Napoli 🆚 Genoa",
+        "sources": [
+          {
+            "id": 3283,
+            "name": "beIN Sport 3 - AUS",
+            "description": null
+          },
+          {
+            "id": 3669,
+            "name": "Fox Deportes",
+            "description": null
+          },
+          {
+            "id": 3338,
+            "name": "CBS SPORTS Golazo",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 364,
+        "name": "Serie A",
+        "stage": null,
+        "logo": "logo/events/serie-a_562.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1759689900,
+        "end_time": 1759698900,
+        "show_duration": true,
+        "team_1": {
+          "name": "Juventus",
+          "logo": "logo/teams/juventus_1WZ6BUDiLNixSnojyYvv.png"
+        },
+        "team_2": {
+          "name": "AC Milan",
+          "logo": "logo/teams/ac-milan_BBQvGlF4Ys3t5YLUCeEu.png"
+        },
+        "full_team_name": "Juventus 🆚 AC Milan",
+        "sources": [
+          {
+            "id": 902,
+            "name": "TNT Sports 1 (BT Sports) ",
+            "description": null
+          },
+          {
+            "id": 3283,
+            "name": "beIN Sport 3 - AUS",
+            "description": null
+          },
+          {
+            "id": 3338,
+            "name": "CBS SPORTS Golazo",
             "description": null
           }
         ]
