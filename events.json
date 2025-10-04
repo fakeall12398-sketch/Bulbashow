@@ -342,123 +342,6 @@
     "type": "Football",
     "items": [
       {
-        "id": 340,
-        "name": "FIFA U-20 World Cup",
-        "stage": null,
-        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1759521600,
-        "end_time": 1759530600,
-        "show_duration": true,
-        "team_1": {
-          "name": "Panama",
-          "logo": "logo/teams/panama_OwUurSk3OQRNFqMGkfql.png"
-        },
-        "team_2": {
-          "name": "South Korea",
-          "logo": "logo/teams/south-korea_G763uCvqhFDeayiWMZPR.jpg"
-        },
-        "full_team_name": "Panama 🆚 South Korea",
-        "sources": [
-          {
-            "id": 2750,
-            "name": "TSN 5",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 341,
-        "name": "FIFA U-20 World Cup",
-        "stage": null,
-        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1759521600,
-        "end_time": 1759530600,
-        "show_duration": true,
-        "team_1": {
-          "name": "Ukraine",
-          "logo": "logo/teams/ukraine_A1a1Ix3gqpZtvp1YGjLE.png"
-        },
-        "team_2": {
-          "name": "Paraguay",
-          "logo": "logo/teams/paraguay_ZzSxXyuMetTr5cG31RAm.png"
-        },
-        "full_team_name": "Ukraine 🆚 Paraguay",
-        "sources": [
-          {
-            "id": 2747,
-            "name": "TSN 2",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 302,
-        "name": "FIFA U-20 World Cup",
-        "stage": null,
-        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1759532400,
-        "end_time": 1759541400,
-        "show_duration": true,
-        "team_1": {
-          "name": "Egypt",
-          "logo": "logo/teams/egypt_1hhEiLq5er4bZsCGwDV2.png"
-        },
-        "team_2": {
-          "name": "Chile",
-          "logo": "logo/teams/chile_2XLERMK1EopjN2CcaI3s.png"
-        },
-        "full_team_name": "Egypt 🆚 Chile",
-        "sources": [
-          {
-            "id": 941,
-            "name": "Fox Sports 1 - US",
-            "description": null
-          },
-          {
-            "id": 3456,
-            "name": "Universo",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 291,
-        "name": "FIFA U-20 World Cup",
-        "stage": null,
-        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1759532400,
-        "end_time": 1759541400,
-        "show_duration": true,
-        "team_1": {
-          "name": "New Zealand",
-          "logo": "logo/teams/new-zealand_jDFDOl2ZfzcLFfSnSwIC.png"
-        },
-        "team_2": {
-          "name": "Japan",
-          "logo": "logo/teams/japan_kob7f67JBkvUorLgiTLG.png"
-        },
-        "full_team_name": "New Zealand 🆚 Japan",
-        "sources": [
-          {
-            "id": 3666,
-            "name": "FOX SPORT 2 - US",
-            "description": null
-          }
-        ]
-      },
-      {
         "id": 299,
         "name": "FIFA U-20 World Cup",
         "stage": null,
@@ -692,44 +575,6 @@
     "logo": "logo/events/categories/premier-league_DxTuHXdZHzmgURaJXIV3.png",
     "type": "Football",
     "items": [
-      {
-        "id": 64,
-        "name": "Premier League",
-        "stage": null,
-        "logo": "logo/events/premier-league_653.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1759518000,
-        "end_time": 1759527000,
-        "show_duration": true,
-        "team_1": {
-          "name": "AFC Bournemouth",
-          "logo": "logo/teams/afc-bournemouth_qVGIj8fyj0I6KNXz33Y1.png"
-        },
-        "team_2": {
-          "name": "Fulham",
-          "logo": "logo/teams/fulham_ZtmiztFY6TcDY03VX8wu.png"
-        },
-        "full_team_name": "AFC Bournemouth 🆚 Fulham",
-        "sources": [
-          {
-            "id": 1714,
-            "name": "USA Network",
-            "description": null
-          },
-          {
-            "id": 3485,
-            "name": "FUBO Sports",
-            "description": null
-          },
-          {
-            "id": 3456,
-            "name": "Universo",
-            "description": null
-          }
-        ]
-      },
       {
         "id": 63,
         "name": "Premier League",
@@ -1085,44 +930,6 @@
     "logo": "logo/events/categories/la-liga_09FFBteASyl11hboQ8x9.png",
     "type": "Football",
     "items": [
-      {
-        "id": 79,
-        "name": "LALIGA",
-        "stage": null,
-        "logo": "logo/events/sevilla-villarreal_wqSkWfYjIH5dihHm8c1A.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1759518000,
-        "end_time": 1759527000,
-        "show_duration": true,
-        "team_1": {
-          "name": "Osasuna",
-          "logo": "logo/teams/osasuna_g84VgmCK3M4Wn83DcqmE.png"
-        },
-        "team_2": {
-          "name": "Getafe",
-          "logo": "logo/teams/getafe_2WBLafh19iutvJiJ5OgN.png"
-        },
-        "full_team_name": "Osasuna 🆚 Getafe",
-        "sources": [
-          {
-            "id": 3290,
-            "name": "beIN Sport 1 - AUS",
-            "description": null
-          },
-          {
-            "id": 3043,
-            "name": "LALIGA TV",
-            "description": null
-          },
-          {
-            "id": 2558,
-            "name": "ZIGGO SPORT 2",
-            "description": null
-          }
-        ]
-      },
       {
         "id": 80,
         "name": "LALIGA",
@@ -1484,44 +1291,6 @@
     "type": "Football",
     "items": [
       {
-        "id": 3,
-        "name": "Ligue 1",
-        "stage": null,
-        "logo": "logo/events/ligue-1_338.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1759517100,
-        "end_time": 1759526100,
-        "show_duration": true,
-        "team_1": {
-          "name": "Paris",
-          "logo": "logo/teams/paris_ytqXEPsNf7QpbJ4HTLGl.png"
-        },
-        "team_2": {
-          "name": "Lorient",
-          "logo": "logo/teams/lorient_AuCBnQQ1fBB0rhD3uBsb.png"
-        },
-        "full_team_name": "Paris 🆚 Lorient",
-        "sources": [
-          {
-            "id": 3652,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 3721,
-            "name": "LINK 2",
-            "description": null
-          },
-          {
-            "id": 3275,
-            "name": "beIN Sport - USA",
-            "description": null
-          }
-        ]
-      },
-      {
         "id": 71,
         "name": "Ligue 1",
         "stage": null,
@@ -1819,25 +1588,6 @@
     "type": "Football",
     "items": [
       {
-        "id": 258,
-        "name": "Wrexham 🆚 Birmingham City",
-        "stage": null,
-        "logo": "logo/events/blackburn-rovers-middlesbrough_x6aqQU7RGwXVw3wB8ZhH.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "cricket",
-        "start_time": 1759518000,
-        "end_time": 1759527000,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3289,
-            "name": "beIN Sport 2 - AUS",
-            "description": null
-          }
-        ]
-      },
-      {
         "id": 284,
         "name": "Hull City 🆚 Sheffield United",
         "stage": null,
@@ -1940,30 +1690,6 @@
     "logo": "logo/events/categories/bundesliga_TUnq97qHRnlbiCVmw2bE.png",
     "type": "Football",
     "items": [
-      {
-        "id": 196,
-        "name": "Hoffenheim 🆚 Köln",
-        "stage": null,
-        "logo": "logo/events/hoffenheim-bayer-leverkusen_W0M2W6UxsD7TsKSPbJB3.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "football",
-        "start_time": 1759516200,
-        "end_time": 1759525200,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 2937,
-            "name": "SPORTV",
-            "description": null
-          },
-          {
-            "id": 3461,
-            "name": "beIN Sport 2 - FR",
-            "description": null
-          }
-        ]
-      },
       {
         "id": 272,
         "name": "Augsburg 🆚 Wolfsburg",
