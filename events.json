@@ -6,44 +6,6 @@
     "type": "Football",
     "items": [
       {
-        "id": 78,
-        "name": "Premier League",
-        "stage": null,
-        "logo": "logo/events/premier-league_653.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1759595400,
-        "end_time": 1759604400,
-        "show_duration": true,
-        "team_1": {
-          "name": "Liverpool",
-          "logo": "logo/teams/liverpool_HMqVIBRuCRoiG9WsnSWg.png"
-        },
-        "team_2": {
-          "name": "Chelsea",
-          "logo": "logo/teams/chelsea_4qmk0ruyKon66luWMjkX.webp"
-        },
-        "full_team_name": "Liverpool 🆚 Chelsea",
-        "sources": [
-          {
-            "id": 981,
-            "name": "SKY SPORTS  Premier League",
-            "description": null
-          },
-          {
-            "id": 3456,
-            "name": "Universo",
-            "description": null
-          },
-          {
-            "id": 3485,
-            "name": "FUBO Sports",
-            "description": null
-          }
-        ]
-      },
-      {
         "id": 77,
         "name": "Premier League",
         "stage": null,
@@ -241,77 +203,6 @@
     "logo": "logo/events/categories/la-liga_09FFBteASyl11hboQ8x9.png",
     "type": "Football",
     "items": [
-      {
-        "id": 214,
-        "name": "LALIGA",
-        "stage": null,
-        "logo": "logo/events/sevilla-villarreal_wqSkWfYjIH5dihHm8c1A.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1759587300,
-        "end_time": 1759596300,
-        "show_duration": true,
-        "team_1": {
-          "name": "Girona",
-          "logo": "logo/teams/girona_JjwoRrzPtyq2ftaBwfvd.png"
-        },
-        "team_2": {
-          "name": "Valencia",
-          "logo": "logo/teams/valencia_Il7Acs58wgzuVXt4kKM2.png"
-        },
-        "full_team_name": "Girona 🆚 Valencia",
-        "sources": [
-          {
-            "id": 3043,
-            "name": "LALIGA TV",
-            "description": null
-          },
-          {
-            "id": 2665,
-            "name": "ZIGGO SPORT",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 72,
-        "name": "LALIGA",
-        "stage": null,
-        "logo": "logo/events/sevilla-villarreal_wqSkWfYjIH5dihHm8c1A.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1759595400,
-        "end_time": 1759604400,
-        "show_duration": true,
-        "team_1": {
-          "name": "Athletic Club",
-          "logo": "logo/teams/athletic-club_IMrU8myTY6ecoOB2UlrJ.png"
-        },
-        "team_2": {
-          "name": "Mallorca",
-          "logo": "logo/teams/mallorca_x4uSrp0Fng6PKaKXJC5v.png"
-        },
-        "full_team_name": "Athletic Club 🆚 Mallorca",
-        "sources": [
-          {
-            "id": 3289,
-            "name": "beIN Sport 2 - AUS",
-            "description": null
-          },
-          {
-            "id": 3043,
-            "name": "LALIGA TV",
-            "description": null
-          },
-          {
-            "id": 2665,
-            "name": "ZIGGO SPORT",
-            "description": null
-          }
-        ]
-      },
       {
         "id": 215,
         "name": "LALIGA",
@@ -569,44 +460,6 @@
     "type": "Football",
     "items": [
       {
-        "id": 74,
-        "name": "Serie A",
-        "stage": null,
-        "logo": "logo/events/serie-a_562.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1759593600,
-        "end_time": 1759602600,
-        "show_duration": true,
-        "team_1": {
-          "name": "Internazionale",
-          "logo": "logo/teams/internazionale_2CwVe8TFyTB8etpuSs1V.png"
-        },
-        "team_2": {
-          "name": "Cremonese",
-          "logo": "logo/teams/cremonese_CJVjeC0IKjDMjWxRsazq.png"
-        },
-        "full_team_name": "Internazionale 🆚 Cremonese",
-        "sources": [
-          {
-            "id": 3283,
-            "name": "beIN Sport 3 - AUS",
-            "description": null
-          },
-          {
-            "id": 3338,
-            "name": "CBS SPORTS Golazo",
-            "description": null
-          },
-          {
-            "id": 2558,
-            "name": "ZIGGO SPORT 2",
-            "description": null
-          }
-        ]
-      },
-      {
         "id": 124,
         "name": "Serie A",
         "stage": null,
@@ -709,13 +562,13 @@
         "full_team_name": "Bologna 🆚 Pisa",
         "sources": [
           {
-            "id": 3024,
-            "name": "Match TV FOOTBALL 3",
+            "id": 2088,
+            "name": "Arena Sports 5 - BA",
             "description": null
           },
           {
-            "id": 2088,
-            "name": "Arena Sports 5 - BA",
+            "id": 3024,
+            "name": "Match TV FOOTBALL 3",
             "description": null
           }
         ]
@@ -847,82 +700,6 @@
     "logo": "logo/events/categories/ligue-1_5qqt6renj8lsMs1YGSmI.png",
     "type": "Football",
     "items": [
-      {
-        "id": 71,
-        "name": "Ligue 1",
-        "stage": null,
-        "logo": "logo/events/ligue-1_338.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1759590000,
-        "end_time": 1759599000,
-        "show_duration": true,
-        "team_1": {
-          "name": "Metz",
-          "logo": "logo/teams/metz_tsAVkcK4kchtJ67SGWdV.png"
-        },
-        "team_2": {
-          "name": "Olympique Marseille",
-          "logo": "logo/teams/olympique-marseille_p69Uuc33val55SO7Qwbw.png"
-        },
-        "full_team_name": "Metz 🆚 Olympique Marseille",
-        "sources": [
-          {
-            "id": 3721,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 3446,
-            "name": "beIN Sport 1 - FR",
-            "description": null
-          },
-          {
-            "id": 3275,
-            "name": "beIN Sport - USA",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 100,
-        "name": "Ligue 1",
-        "stage": null,
-        "logo": "logo/events/ligue-1_338.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1759597200,
-        "end_time": 1759606200,
-        "show_duration": true,
-        "team_1": {
-          "name": "Brest",
-          "logo": "logo/teams/brest_IivZC8tgseCkWCR7ZjpJ.png"
-        },
-        "team_2": {
-          "name": "Nantes",
-          "logo": "logo/teams/nantes_4Wwms9crvMifQbqAeFMP.png"
-        },
-        "full_team_name": "Brest 🆚 Nantes",
-        "sources": [
-          {
-            "id": 3652,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 3721,
-            "name": "LINK 2",
-            "description": null
-          },
-          {
-            "id": 3275,
-            "name": "beIN Sport - USA",
-            "description": null
-          }
-        ]
-      },
       {
         "id": 252,
         "name": "Ligue 1",
@@ -1144,35 +921,6 @@
     "logo": "logo/events/categories/bundesliga_TUnq97qHRnlbiCVmw2bE.png",
     "type": "Football",
     "items": [
-      {
-        "id": 95,
-        "name": "Eintracht Frankfurt 🆚 Bayern München",
-        "stage": null,
-        "logo": "logo/events/hoffenheim-bayer-leverkusen_W0M2W6UxsD7TsKSPbJB3.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "football",
-        "start_time": 1759595400,
-        "end_time": 1759604400,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3683,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 3290,
-            "name": "beIN Sport 1 - AUS",
-            "description": null
-          },
-          {
-            "id": 3461,
-            "name": "beIN Sport 2 - FR",
-            "description": null
-          }
-        ]
-      },
       {
         "id": 274,
         "name": "Stuttgart 🆚 Heidenheim",
