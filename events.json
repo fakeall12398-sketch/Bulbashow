@@ -8,12 +8,12 @@
       {
         "id": 290,
         "name": "Afghanistan vs Bangladesh in UAE",
-        "stage": "2nd T20I",
+        "stage": "3rd T20I",
         "logo": "",
         "color": null,
         "type": "team",
         "sport_type": "cricket",
-        "start_time": 1759501800,
+        "start_time": 1759674600,
         "end_time": null,
         "show_duration": true,
         "team_1": {
@@ -36,12 +36,12 @@
       {
         "id": 22,
         "name": "West Indies tour of India,",
-        "stage": "1st Test, Day 3",
+        "stage": "2nd Test, Day 1",
         "logo": "",
         "color": null,
         "type": "team",
         "sport_type": "cricket",
-        "start_time": 1759550400,
+        "start_time": 1760068800,
         "end_time": null,
         "show_duration": true,
         "team_1": {
@@ -62,34 +62,6 @@
           {
             "id": 3202,
             "name": "LINK 2",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 125,
-        "name": "Australia tour of New Zealand",
-        "stage": "3rd T20I",
-        "logo": "",
-        "color": null,
-        "type": "team",
-        "sport_type": "cricket",
-        "start_time": 1759558500,
-        "end_time": null,
-        "show_duration": true,
-        "team_1": {
-          "name": "Australia",
-          "logo": "logo/teams/australia_ft0IHOvqYgEhT2QZC10y.png"
-        },
-        "team_2": {
-          "name": "New Zealand",
-          "logo": "logo/teams/new-zealand_Bo0hBUgvsLhkGvuy7NLf.png"
-        },
-        "full_team_name": "Australia 🆚 New Zealand",
-        "sources": [
-          {
-            "id": 902,
-            "name": "TNT Sports 1 (BT Sports) ",
             "description": null
           }
         ]
@@ -230,339 +202,6 @@
           {
             "id": 3734,
             "name": "LINK 2",
-            "description": null
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": 48,
-    "name": "Bundesliga 2",
-    "logo": "logo/events/categories/bundesliga-2_tGbrOFPMKnV8Bo3aOQda.png",
-    "type": "Football",
-    "items": [
-      {
-        "id": 315,
-        "name": "Kaiserslautern 🆚 Bochum",
-        "stage": null,
-        "logo": "logo/events/elversberg-kaiserslautern_u7XcxXJ8sRFF8zKriQ0p.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "cricket",
-        "start_time": 1759575600,
-        "end_time": 1759584600,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3283,
-            "name": "beIN Sport 3 - AUS",
-            "description": null
-          },
-          {
-            "id": 3699,
-            "name": "LINK 2",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 316,
-        "name": "Hertha BSC 🆚 Preußen Münster",
-        "stage": null,
-        "logo": "logo/events/elversberg-kaiserslautern_u7XcxXJ8sRFF8zKriQ0p.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "cricket",
-        "start_time": 1759575600,
-        "end_time": 1759584600,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3684,
-            "name": "LINK 1",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 367,
-        "name": "Dynamo Dresden 🆚 Karlsruher SC",
-        "stage": null,
-        "logo": "logo/events/elversberg-kaiserslautern_u7XcxXJ8sRFF8zKriQ0p.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "cricket",
-        "start_time": 1759602600,
-        "end_time": 1759611600,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3283,
-            "name": "beIN Sport 3 - AUS",
-            "description": null
-          },
-          {
-            "id": 3682,
-            "name": "LINK 2",
-            "description": null
-          },
-          {
-            "id": 3683,
-            "name": "LINK 3",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 317,
-        "name": "Holstein Kiel 🆚 Darmstadt 98",
-        "stage": null,
-        "logo": "logo/events/elversberg-kaiserslautern_u7XcxXJ8sRFF8zKriQ0p.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "cricket",
-        "start_time": 1759575600,
-        "end_time": 1759584600,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3685,
-            "name": "LINK 1",
-            "description": null
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": 44,
-    "name": "FIFA U-20 World Cup",
-    "logo": "logo/events/categories/fifa-club-world-cup_uKXWsqNaJmoeEKidZZbj.png",
-    "type": "Football",
-    "items": [
-      {
-        "id": 299,
-        "name": "FIFA U-20 World Cup",
-        "stage": null,
-        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1759608000,
-        "end_time": 1759617000,
-        "show_duration": true,
-        "team_1": {
-          "name": "Mexico",
-          "logo": "logo/teams/mexico_lk7XNO7RfkxtdTS3n4S0.png"
-        },
-        "team_2": {
-          "name": "Morocco",
-          "logo": "logo/teams/morocco_PmfSAM1qmVEHVMEj4bDl.png"
-        },
-        "full_team_name": "Mexico 🆚 Morocco",
-        "sources": [
-          {
-            "id": 3575,
-            "name": "Telemundo",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 333,
-        "name": "FIFA U-20 World Cup",
-        "stage": null,
-        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1759608000,
-        "end_time": 1759617000,
-        "show_duration": true,
-        "team_1": {
-          "name": "Spain",
-          "logo": "logo/teams/spain_iyBZzr7BgNu358JERkex.png"
-        },
-        "team_2": {
-          "name": "Brazil",
-          "logo": "logo/teams/brazil_2gKRZsvaLKJcHbZ9zIEj.png"
-        },
-        "full_team_name": "Spain 🆚 Brazil",
-        "sources": [
-          {
-            "id": 2937,
-            "name": "SPORTV",
-            "description": null
-          },
-          {
-            "id": 3456,
-            "name": "Universo",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 325,
-        "name": "FIFA U-20 World Cup",
-        "stage": null,
-        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1759618800,
-        "end_time": 1759627800,
-        "show_duration": true,
-        "team_1": {
-          "name": "Argentina",
-          "logo": "logo/teams/argentina_pDa8KIvC0PZ1iOF1swve.png"
-        },
-        "team_2": {
-          "name": "Italy",
-          "logo": "logo/teams/italy_mChUeuYcWwpL0H8ODZhh.png"
-        },
-        "full_team_name": "Argentina 🆚 Italy",
-        "sources": [
-          {
-            "id": 3666,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 3575,
-            "name": "Telemundo",
-            "description": null
-          },
-          {
-            "id": 2937,
-            "name": "SPORTV",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 337,
-        "name": "FIFA U-20 World Cup",
-        "stage": null,
-        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1759694400,
-        "end_time": 1759703400,
-        "show_duration": true,
-        "team_1": {
-          "name": "New Caledonia",
-          "logo": "logo/teams/new-caledonia_hk12oSxTbqLbfsDKV2dg.png"
-        },
-        "team_2": {
-          "name": "France",
-          "logo": "logo/teams/france_aUU9YpY9mRlZaIN96Jcj.png"
-        },
-        "full_team_name": "New Caledonia 🆚 France",
-        "sources": [
-          {
-            "id": 3670,
-            "name": "LINK 1",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 336,
-        "name": "FIFA U-20 World Cup",
-        "stage": null,
-        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1759694400,
-        "end_time": 1759703400,
-        "show_duration": true,
-        "team_1": {
-          "name": "United States",
-          "logo": "logo/teams/united-states_Tnl0x0Mqm0tYaRL6x7Xd.png"
-        },
-        "team_2": {
-          "name": "South Africa",
-          "logo": "logo/teams/south-africa_Bo8kOnmhnTKe8xTz342d.png"
-        },
-        "full_team_name": "United States 🆚 South Africa",
-        "sources": [
-          {
-            "id": 3666,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 3456,
-            "name": "Universo",
-            "description": null
-          },
-          {
-            "id": 2747,
-            "name": "TSN 2",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 335,
-        "name": "FIFA U-20 World Cup",
-        "stage": null,
-        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1759705200,
-        "end_time": 1759714200,
-        "show_duration": true,
-        "team_1": {
-          "name": "Nigeria",
-          "logo": "logo/teams/nigeria_at8GEbUxnKf3phEhfYTk.png"
-        },
-        "team_2": {
-          "name": "Colombia",
-          "logo": "logo/teams/colombia_Qtn8lNsfufrLzN3t77jo.png"
-        },
-        "full_team_name": "Nigeria 🆚 Colombia",
-        "sources": [
-          {
-            "id": 3666,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 2750,
-            "name": "TSN 5",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 334,
-        "name": "FIFA U-20 World Cup",
-        "stage": null,
-        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1759705200,
-        "end_time": 1759714200,
-        "show_duration": true,
-        "team_1": {
-          "name": "Saudi Arabia",
-          "logo": "logo/teams/saudi-arabia_yV8AiXenzAuV1cup0g21.png"
-        },
-        "team_2": {
-          "name": "Norway",
-          "logo": "logo/teams/norway_JtXveAd8feRDei0pPuBh.png"
-        },
-        "full_team_name": "Saudi Arabia 🆚 Norway",
-        "sources": [
-          {
-            "id": 2747,
-            "name": "TSN 2",
             "description": null
           }
         ]
@@ -918,6 +557,208 @@
           {
             "id": 3575,
             "name": "Telemundo",
+            "description": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "name": "EFL Championship",
+    "logo": "logo/events/categories/efl-championship_hWDkHuBlOH3M0hqEXMCx.png",
+    "type": "Football",
+    "items": [
+      {
+        "id": 284,
+        "name": "Hull City 🆚 Sheffield United",
+        "stage": null,
+        "logo": "logo/events/blackburn-rovers-middlesbrough_x6aqQU7RGwXVw3wB8ZhH.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "cricket",
+        "start_time": 1759577400,
+        "end_time": 1759586400,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3289,
+            "name": "beIN Sport 2 - AUS",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 253,
+        "name": "Sheffield Wednesday 🆚 Coventry City",
+        "stage": null,
+        "logo": "logo/events/blackburn-rovers-middlesbrough_x6aqQU7RGwXVw3wB8ZhH.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "cricket",
+        "start_time": 1759577400,
+        "end_time": 1759586400,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3338,
+            "name": "CBS SPORTS Golazo",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 285,
+        "name": "Swansea City 🆚 Leicester City",
+        "stage": null,
+        "logo": "logo/events/blackburn-rovers-middlesbrough_x6aqQU7RGwXVw3wB8ZhH.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "cricket",
+        "start_time": 1759586400,
+        "end_time": 1759595400,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3338,
+            "name": "CBS SPORTS Golazo",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 255,
+        "name": "Watford 🆚 Oxford United",
+        "stage": null,
+        "logo": "logo/events/blackburn-rovers-middlesbrough_x6aqQU7RGwXVw3wB8ZhH.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "cricket",
+        "start_time": 1759586400,
+        "end_time": 1759595400,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3289,
+            "name": "beIN Sport 2 - AUS",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 254,
+        "name": "Ipswich Town 🆚 Norwich City",
+        "stage": null,
+        "logo": "logo/events/blackburn-rovers-middlesbrough_x6aqQU7RGwXVw3wB8ZhH.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "cricket",
+        "start_time": 1759662000,
+        "end_time": 1759671000,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3289,
+            "name": "beIN Sport 2 - AUS",
+            "description": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "name": "Bundesliga 2",
+    "logo": "logo/events/categories/bundesliga-2_tGbrOFPMKnV8Bo3aOQda.png",
+    "type": "Football",
+    "items": [
+      {
+        "id": 315,
+        "name": "Kaiserslautern 🆚 Bochum",
+        "stage": null,
+        "logo": "logo/events/elversberg-kaiserslautern_u7XcxXJ8sRFF8zKriQ0p.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "cricket",
+        "start_time": 1759575600,
+        "end_time": 1759584600,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3283,
+            "name": "beIN Sport 3 - AUS",
+            "description": null
+          },
+          {
+            "id": 3699,
+            "name": "LINK 2",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 316,
+        "name": "Hertha BSC 🆚 Preußen Münster",
+        "stage": null,
+        "logo": "logo/events/elversberg-kaiserslautern_u7XcxXJ8sRFF8zKriQ0p.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "cricket",
+        "start_time": 1759575600,
+        "end_time": 1759584600,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3684,
+            "name": "LINK 1",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 367,
+        "name": "Dynamo Dresden 🆚 Karlsruher SC",
+        "stage": null,
+        "logo": "logo/events/elversberg-kaiserslautern_u7XcxXJ8sRFF8zKriQ0p.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "cricket",
+        "start_time": 1759602600,
+        "end_time": 1759611600,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3283,
+            "name": "beIN Sport 3 - AUS",
+            "description": null
+          },
+          {
+            "id": 3682,
+            "name": "LINK 2",
+            "description": null
+          },
+          {
+            "id": 3683,
+            "name": "LINK 3",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 317,
+        "name": "Holstein Kiel 🆚 Darmstadt 98",
+        "stage": null,
+        "logo": "logo/events/elversberg-kaiserslautern_u7XcxXJ8sRFF8zKriQ0p.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "cricket",
+        "start_time": 1759575600,
+        "end_time": 1759584600,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3685,
+            "name": "LINK 1",
             "description": null
           }
         ]
@@ -1582,304 +1423,6 @@
     ]
   },
   {
-    "id": 37,
-    "name": "EFL Championship",
-    "logo": "logo/events/categories/efl-championship_hWDkHuBlOH3M0hqEXMCx.png",
-    "type": "Football",
-    "items": [
-      {
-        "id": 284,
-        "name": "Hull City 🆚 Sheffield United",
-        "stage": null,
-        "logo": "logo/events/blackburn-rovers-middlesbrough_x6aqQU7RGwXVw3wB8ZhH.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "cricket",
-        "start_time": 1759577400,
-        "end_time": 1759586400,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3289,
-            "name": "beIN Sport 2 - AUS",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 253,
-        "name": "Sheffield Wednesday 🆚 Coventry City",
-        "stage": null,
-        "logo": "logo/events/blackburn-rovers-middlesbrough_x6aqQU7RGwXVw3wB8ZhH.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "cricket",
-        "start_time": 1759577400,
-        "end_time": 1759586400,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3338,
-            "name": "CBS SPORTS Golazo",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 285,
-        "name": "Swansea City 🆚 Leicester City",
-        "stage": null,
-        "logo": "logo/events/blackburn-rovers-middlesbrough_x6aqQU7RGwXVw3wB8ZhH.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "cricket",
-        "start_time": 1759586400,
-        "end_time": 1759595400,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3338,
-            "name": "CBS SPORTS Golazo",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 255,
-        "name": "Watford 🆚 Oxford United",
-        "stage": null,
-        "logo": "logo/events/blackburn-rovers-middlesbrough_x6aqQU7RGwXVw3wB8ZhH.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "cricket",
-        "start_time": 1759586400,
-        "end_time": 1759595400,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3289,
-            "name": "beIN Sport 2 - AUS",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 254,
-        "name": "Ipswich Town 🆚 Norwich City",
-        "stage": null,
-        "logo": "logo/events/blackburn-rovers-middlesbrough_x6aqQU7RGwXVw3wB8ZhH.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "cricket",
-        "start_time": 1759662000,
-        "end_time": 1759671000,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3289,
-            "name": "beIN Sport 2 - AUS",
-            "description": null
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": 16,
-    "name": "Bundesliga",
-    "logo": "logo/events/categories/bundesliga_TUnq97qHRnlbiCVmw2bE.png",
-    "type": "Football",
-    "items": [
-      {
-        "id": 272,
-        "name": "Augsburg 🆚 Wolfsburg",
-        "stage": null,
-        "logo": "logo/events/hoffenheim-bayer-leverkusen_W0M2W6UxsD7TsKSPbJB3.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "football",
-        "start_time": 1759584600,
-        "end_time": 1759593600,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3684,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 3466,
-            "name": "beIN Sport 8 MAX - FR",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 134,
-        "name": "Bayer Leverkusen 🆚 Union Berlin",
-        "stage": null,
-        "logo": "logo/events/hoffenheim-bayer-leverkusen_W0M2W6UxsD7TsKSPbJB3.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "football",
-        "start_time": 1759584600,
-        "end_time": 1759593600,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3699,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 3464,
-            "name": "beIN Sport 6 MAX - FR",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 93,
-        "name": "Borussia Dortmund 🆚 RB Leipzig",
-        "stage": null,
-        "logo": "logo/events/hoffenheim-bayer-leverkusen_W0M2W6UxsD7TsKSPbJB3.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "football",
-        "start_time": 1759584600,
-        "end_time": 1759593600,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3463,
-            "name": "beIN Sport 5 MAX - FR",
-            "description": null
-          },
-          {
-            "id": 3283,
-            "name": "beIN Sport 3 - AUS",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 273,
-        "name": "Werder Bremen 🆚 St. Pauli",
-        "stage": null,
-        "logo": "logo/events/hoffenheim-bayer-leverkusen_W0M2W6UxsD7TsKSPbJB3.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "football",
-        "start_time": 1759584600,
-        "end_time": 1759593600,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3682,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 3465,
-            "name": "beIN Sport 7 MAX - FR",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 95,
-        "name": "Eintracht Frankfurt 🆚 Bayern München",
-        "stage": null,
-        "logo": "logo/events/hoffenheim-bayer-leverkusen_W0M2W6UxsD7TsKSPbJB3.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "football",
-        "start_time": 1759595400,
-        "end_time": 1759604400,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3683,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 3290,
-            "name": "beIN Sport 1 - AUS",
-            "description": null
-          },
-          {
-            "id": 3461,
-            "name": "beIN Sport 2 - FR",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 274,
-        "name": "Stuttgart 🆚 Heidenheim",
-        "stage": null,
-        "logo": "logo/events/hoffenheim-bayer-leverkusen_W0M2W6UxsD7TsKSPbJB3.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "football",
-        "start_time": 1759671000,
-        "end_time": 1759680000,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3465,
-            "name": "beIN Sport 7 MAX - FR",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 101,
-        "name": "Hamburger SV 🆚 Mainz 05",
-        "stage": null,
-        "logo": "logo/events/hoffenheim-bayer-leverkusen_W0M2W6UxsD7TsKSPbJB3.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "football",
-        "start_time": 1759678200,
-        "end_time": 1759687200,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3412,
-            "name": "DAZN 1 - DE",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 94,
-        "name": "Borussia M'gladbach 🆚 Freiburg",
-        "stage": null,
-        "logo": "logo/events/hoffenheim-bayer-leverkusen_W0M2W6UxsD7TsKSPbJB3.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "football",
-        "start_time": 1759685400,
-        "end_time": 1759694400,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3467,
-            "name": "beIN Sport 9 MAX - FR",
-            "description": null
-          },
-          {
-            "id": 3513,
-            "name": "DAZN 1 - DE",
-            "description": null
-          }
-        ]
-      }
-    ]
-  },
-  {
     "id": 14,
     "name": "Serie A",
     "logo": "logo/events/categories/serie-a_I13YO3O5lVJj1vhJRU6w.png",
@@ -2213,6 +1756,435 @@
           {
             "id": 3338,
             "name": "CBS SPORTS Golazo",
+            "description": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "name": "FIFA U-20 World Cup",
+    "logo": "logo/events/categories/fifa-club-world-cup_uKXWsqNaJmoeEKidZZbj.png",
+    "type": "Football",
+    "items": [
+      {
+        "id": 299,
+        "name": "FIFA U-20 World Cup",
+        "stage": null,
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1759608000,
+        "end_time": 1759617000,
+        "show_duration": true,
+        "team_1": {
+          "name": "Mexico",
+          "logo": "logo/teams/mexico_lk7XNO7RfkxtdTS3n4S0.png"
+        },
+        "team_2": {
+          "name": "Morocco",
+          "logo": "logo/teams/morocco_PmfSAM1qmVEHVMEj4bDl.png"
+        },
+        "full_team_name": "Mexico 🆚 Morocco",
+        "sources": [
+          {
+            "id": 3575,
+            "name": "Telemundo",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 333,
+        "name": "FIFA U-20 World Cup",
+        "stage": null,
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1759608000,
+        "end_time": 1759617000,
+        "show_duration": true,
+        "team_1": {
+          "name": "Spain",
+          "logo": "logo/teams/spain_iyBZzr7BgNu358JERkex.png"
+        },
+        "team_2": {
+          "name": "Brazil",
+          "logo": "logo/teams/brazil_2gKRZsvaLKJcHbZ9zIEj.png"
+        },
+        "full_team_name": "Spain 🆚 Brazil",
+        "sources": [
+          {
+            "id": 2937,
+            "name": "SPORTV",
+            "description": null
+          },
+          {
+            "id": 3456,
+            "name": "Universo",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 325,
+        "name": "FIFA U-20 World Cup",
+        "stage": null,
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1759618800,
+        "end_time": 1759627800,
+        "show_duration": true,
+        "team_1": {
+          "name": "Argentina",
+          "logo": "logo/teams/argentina_pDa8KIvC0PZ1iOF1swve.png"
+        },
+        "team_2": {
+          "name": "Italy",
+          "logo": "logo/teams/italy_mChUeuYcWwpL0H8ODZhh.png"
+        },
+        "full_team_name": "Argentina 🆚 Italy",
+        "sources": [
+          {
+            "id": 3666,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3575,
+            "name": "Telemundo",
+            "description": null
+          },
+          {
+            "id": 2937,
+            "name": "SPORTV",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 337,
+        "name": "FIFA U-20 World Cup",
+        "stage": null,
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1759694400,
+        "end_time": 1759703400,
+        "show_duration": true,
+        "team_1": {
+          "name": "New Caledonia",
+          "logo": "logo/teams/new-caledonia_hk12oSxTbqLbfsDKV2dg.png"
+        },
+        "team_2": {
+          "name": "France",
+          "logo": "logo/teams/france_aUU9YpY9mRlZaIN96Jcj.png"
+        },
+        "full_team_name": "New Caledonia 🆚 France",
+        "sources": [
+          {
+            "id": 3670,
+            "name": "LINK 1",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 336,
+        "name": "FIFA U-20 World Cup",
+        "stage": null,
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1759694400,
+        "end_time": 1759703400,
+        "show_duration": true,
+        "team_1": {
+          "name": "United States",
+          "logo": "logo/teams/united-states_Tnl0x0Mqm0tYaRL6x7Xd.png"
+        },
+        "team_2": {
+          "name": "South Africa",
+          "logo": "logo/teams/south-africa_Bo8kOnmhnTKe8xTz342d.png"
+        },
+        "full_team_name": "United States 🆚 South Africa",
+        "sources": [
+          {
+            "id": 3666,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3456,
+            "name": "Universo",
+            "description": null
+          },
+          {
+            "id": 2747,
+            "name": "TSN 2",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 335,
+        "name": "FIFA U-20 World Cup",
+        "stage": null,
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1759705200,
+        "end_time": 1759714200,
+        "show_duration": true,
+        "team_1": {
+          "name": "Nigeria",
+          "logo": "logo/teams/nigeria_at8GEbUxnKf3phEhfYTk.png"
+        },
+        "team_2": {
+          "name": "Colombia",
+          "logo": "logo/teams/colombia_Qtn8lNsfufrLzN3t77jo.png"
+        },
+        "full_team_name": "Nigeria 🆚 Colombia",
+        "sources": [
+          {
+            "id": 3666,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 2750,
+            "name": "TSN 5",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 334,
+        "name": "FIFA U-20 World Cup",
+        "stage": null,
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1759705200,
+        "end_time": 1759714200,
+        "show_duration": true,
+        "team_1": {
+          "name": "Saudi Arabia",
+          "logo": "logo/teams/saudi-arabia_yV8AiXenzAuV1cup0g21.png"
+        },
+        "team_2": {
+          "name": "Norway",
+          "logo": "logo/teams/norway_JtXveAd8feRDei0pPuBh.png"
+        },
+        "full_team_name": "Saudi Arabia 🆚 Norway",
+        "sources": [
+          {
+            "id": 2747,
+            "name": "TSN 2",
+            "description": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Bundesliga",
+    "logo": "logo/events/categories/bundesliga_TUnq97qHRnlbiCVmw2bE.png",
+    "type": "Football",
+    "items": [
+      {
+        "id": 272,
+        "name": "Augsburg 🆚 Wolfsburg",
+        "stage": null,
+        "logo": "logo/events/hoffenheim-bayer-leverkusen_W0M2W6UxsD7TsKSPbJB3.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1759584600,
+        "end_time": 1759593600,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3684,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3466,
+            "name": "beIN Sport 8 MAX - FR",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 134,
+        "name": "Bayer Leverkusen 🆚 Union Berlin",
+        "stage": null,
+        "logo": "logo/events/hoffenheim-bayer-leverkusen_W0M2W6UxsD7TsKSPbJB3.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1759584600,
+        "end_time": 1759593600,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3699,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3464,
+            "name": "beIN Sport 6 MAX - FR",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 93,
+        "name": "Borussia Dortmund 🆚 RB Leipzig",
+        "stage": null,
+        "logo": "logo/events/hoffenheim-bayer-leverkusen_W0M2W6UxsD7TsKSPbJB3.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1759584600,
+        "end_time": 1759593600,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3463,
+            "name": "beIN Sport 5 MAX - FR",
+            "description": null
+          },
+          {
+            "id": 3283,
+            "name": "beIN Sport 3 - AUS",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 273,
+        "name": "Werder Bremen 🆚 St. Pauli",
+        "stage": null,
+        "logo": "logo/events/hoffenheim-bayer-leverkusen_W0M2W6UxsD7TsKSPbJB3.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1759584600,
+        "end_time": 1759593600,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3682,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3465,
+            "name": "beIN Sport 7 MAX - FR",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 95,
+        "name": "Eintracht Frankfurt 🆚 Bayern München",
+        "stage": null,
+        "logo": "logo/events/hoffenheim-bayer-leverkusen_W0M2W6UxsD7TsKSPbJB3.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1759595400,
+        "end_time": 1759604400,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3683,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3290,
+            "name": "beIN Sport 1 - AUS",
+            "description": null
+          },
+          {
+            "id": 3461,
+            "name": "beIN Sport 2 - FR",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 274,
+        "name": "Stuttgart 🆚 Heidenheim",
+        "stage": null,
+        "logo": "logo/events/hoffenheim-bayer-leverkusen_W0M2W6UxsD7TsKSPbJB3.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1759671000,
+        "end_time": 1759680000,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3465,
+            "name": "beIN Sport 7 MAX - FR",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 101,
+        "name": "Hamburger SV 🆚 Mainz 05",
+        "stage": null,
+        "logo": "logo/events/hoffenheim-bayer-leverkusen_W0M2W6UxsD7TsKSPbJB3.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1759678200,
+        "end_time": 1759687200,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3412,
+            "name": "DAZN 1 - DE",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 94,
+        "name": "Borussia M'gladbach 🆚 Freiburg",
+        "stage": null,
+        "logo": "logo/events/hoffenheim-bayer-leverkusen_W0M2W6UxsD7TsKSPbJB3.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1759685400,
+        "end_time": 1759694400,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3467,
+            "name": "beIN Sport 9 MAX - FR",
+            "description": null
+          },
+          {
+            "id": 3513,
+            "name": "DAZN 1 - DE",
             "description": null
           }
         ]
