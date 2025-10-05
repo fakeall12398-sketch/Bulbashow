@@ -204,44 +204,6 @@
     "type": "Football",
     "items": [
       {
-        "id": 215,
-        "name": "LALIGA",
-        "stage": null,
-        "logo": "logo/events/sevilla-villarreal_wqSkWfYjIH5dihHm8c1A.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1759604400,
-        "end_time": 1759613400,
-        "show_duration": true,
-        "team_1": {
-          "name": "Real Madrid",
-          "logo": "logo/teams/real-madrid_CUgA3ukonrMdp3gfsRbJ.png"
-        },
-        "team_2": {
-          "name": "Villarreal",
-          "logo": "logo/teams/villarreal_9ztBwUV50RgNFebIe13O.png"
-        },
-        "full_team_name": "Real Madrid 🆚 Villarreal",
-        "sources": [
-          {
-            "id": 3289,
-            "name": "beIN Sport 2 - AUS",
-            "description": null
-          },
-          {
-            "id": 3043,
-            "name": "LALIGA TV",
-            "description": null
-          },
-          {
-            "id": 2665,
-            "name": "ZIGGO SPORT",
-            "description": null
-          }
-        ]
-      },
-      {
         "id": 65,
         "name": "LALIGA",
         "stage": null,
@@ -460,44 +422,6 @@
     "type": "Football",
     "items": [
       {
-        "id": 124,
-        "name": "Serie A",
-        "stage": null,
-        "logo": "logo/events/serie-a_562.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1759603500,
-        "end_time": 1759612500,
-        "show_duration": true,
-        "team_1": {
-          "name": "Atalanta",
-          "logo": "logo/teams/atalanta_b0AAzCzjZ2ZxB0duJ34q.png"
-        },
-        "team_2": {
-          "name": "Como",
-          "logo": "logo/teams/como_mRRoVFoOpOTOv2lZt6j9.png"
-        },
-        "full_team_name": "Atalanta 🆚 Como",
-        "sources": [
-          {
-            "id": 3290,
-            "name": "beIN Sport 1 - AUS",
-            "description": null
-          },
-          {
-            "id": 3338,
-            "name": "CBS SPORTS Golazo",
-            "description": null
-          },
-          {
-            "id": 2558,
-            "name": "ZIGGO SPORT 2",
-            "description": null
-          }
-        ]
-      },
-      {
         "id": 190,
         "name": "Serie A",
         "stage": null,
@@ -700,39 +624,6 @@
     "logo": "logo/events/categories/ligue-1_5qqt6renj8lsMs1YGSmI.png",
     "type": "Football",
     "items": [
-      {
-        "id": 252,
-        "name": "Ligue 1",
-        "stage": null,
-        "logo": "logo/events/ligue-1_338.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1759604700,
-        "end_time": 1759613700,
-        "show_duration": true,
-        "team_1": {
-          "name": "Auxerre",
-          "logo": "logo/teams/auxerre_vcLGRA1IjiBRcAeaRZDU.png"
-        },
-        "team_2": {
-          "name": "RC Lens",
-          "logo": "logo/teams/rc-lens_E6mC6ceh7Wb2ZQhBAz5z.png"
-        },
-        "full_team_name": "Auxerre 🆚 RC Lens",
-        "sources": [
-          {
-            "id": 3652,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 3721,
-            "name": "LINK 2",
-            "description": null
-          }
-        ]
-      },
       {
         "id": 213,
         "name": "Ligue 1",
@@ -992,35 +883,6 @@
     "type": "Football",
     "items": [
       {
-        "id": 367,
-        "name": "Dynamo Dresden 🆚 Karlsruher SC",
-        "stage": null,
-        "logo": "logo/events/elversberg-kaiserslautern_u7XcxXJ8sRFF8zKriQ0p.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "cricket",
-        "start_time": 1759602600,
-        "end_time": 1759611600,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3283,
-            "name": "beIN Sport 3 - AUS",
-            "description": null
-          },
-          {
-            "id": 3682,
-            "name": "LINK 2",
-            "description": null
-          },
-          {
-            "id": 3683,
-            "name": "LINK 3",
-            "description": null
-          }
-        ]
-      },
-      {
         "id": 318,
         "name": "Arminia Bielefeld 🆚 Schalke 04",
         "stage": null,
@@ -1090,105 +952,6 @@
     "logo": "logo/events/categories/fifa-club-world-cup_uKXWsqNaJmoeEKidZZbj.png",
     "type": "Football",
     "items": [
-      {
-        "id": 299,
-        "name": "FIFA U-20 World Cup",
-        "stage": null,
-        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1759608000,
-        "end_time": 1759617000,
-        "show_duration": true,
-        "team_1": {
-          "name": "Mexico",
-          "logo": "logo/teams/mexico_lk7XNO7RfkxtdTS3n4S0.png"
-        },
-        "team_2": {
-          "name": "Morocco",
-          "logo": "logo/teams/morocco_PmfSAM1qmVEHVMEj4bDl.png"
-        },
-        "full_team_name": "Mexico 🆚 Morocco",
-        "sources": [
-          {
-            "id": 3575,
-            "name": "Telemundo",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 333,
-        "name": "FIFA U-20 World Cup",
-        "stage": null,
-        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1759608000,
-        "end_time": 1759617000,
-        "show_duration": true,
-        "team_1": {
-          "name": "Spain",
-          "logo": "logo/teams/spain_iyBZzr7BgNu358JERkex.png"
-        },
-        "team_2": {
-          "name": "Brazil",
-          "logo": "logo/teams/brazil_2gKRZsvaLKJcHbZ9zIEj.png"
-        },
-        "full_team_name": "Spain 🆚 Brazil",
-        "sources": [
-          {
-            "id": 2937,
-            "name": "SPORTV",
-            "description": null
-          },
-          {
-            "id": 3456,
-            "name": "Universo",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 325,
-        "name": "FIFA U-20 World Cup",
-        "stage": null,
-        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1759618800,
-        "end_time": 1759627800,
-        "show_duration": true,
-        "team_1": {
-          "name": "Argentina",
-          "logo": "logo/teams/argentina_pDa8KIvC0PZ1iOF1swve.png"
-        },
-        "team_2": {
-          "name": "Italy",
-          "logo": "logo/teams/italy_mChUeuYcWwpL0H8ODZhh.png"
-        },
-        "full_team_name": "Argentina 🆚 Italy",
-        "sources": [
-          {
-            "id": 3666,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 3575,
-            "name": "Telemundo",
-            "description": null
-          },
-          {
-            "id": 2937,
-            "name": "SPORTV",
-            "description": null
-          }
-        ]
-      },
       {
         "id": 337,
         "name": "FIFA U-20 World Cup",
