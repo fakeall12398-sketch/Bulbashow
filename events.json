@@ -338,5 +338,201 @@
         ]
       }
     ]
+  },
+  {
+    "id": 44,
+    "name": "FIFA U-20 World Cup",
+    "logo": "logo/events/categories/fifa-club-world-cup_uKXWsqNaJmoeEKidZZbj.png",
+    "type": "Football",
+    "items": [
+      {
+        "id": 340,
+        "name": "FIFA U-20 World Cup",
+        "stage": null,
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1759865400,
+        "end_time": 1759874400,
+        "show_duration": true,
+        "team_1": {
+          "name": "Ukraine",
+          "logo": "logo/teams/ukraine_A1a1Ix3gqpZtvp1YGjLE.png"
+        },
+        "team_2": {
+          "name": "Spain",
+          "logo": "logo/teams/spain_iyBZzr7BgNu358JERkex.png"
+        },
+        "full_team_name": "Ukraine 🆚 Spain",
+        "sources": [
+          {
+            "id": 3666,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3456,
+            "name": "Universo",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 302,
+        "name": "FIFA U-20 World Cup",
+        "stage": null,
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1759878000,
+        "end_time": 1759887000,
+        "show_duration": true,
+        "team_1": {
+          "name": "Chile",
+          "logo": "logo/teams/chile_2XLERMK1EopjN2CcaI3s.png"
+        },
+        "team_2": {
+          "name": "Mexico",
+          "logo": "logo/teams/mexico_lk7XNO7RfkxtdTS3n4S0.png"
+        },
+        "full_team_name": "Chile 🆚 Mexico",
+        "sources": [
+          {
+            "id": 3666,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 2748,
+            "name": "TSN 3",
+            "description": null
+          },
+          {
+            "id": 2750,
+            "name": "TSN 5",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 299,
+        "name": "FIFA U-20 World Cup",
+        "stage": null,
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1759951800,
+        "end_time": 1759960800,
+        "show_duration": true,
+        "team_1": {
+          "name": "Argentina",
+          "logo": "logo/teams/argentina_pDa8KIvC0PZ1iOF1swve.png"
+        },
+        "team_2": {
+          "name": "Nigeria",
+          "logo": "logo/teams/nigeria_at8GEbUxnKf3phEhfYTk.png"
+        },
+        "full_team_name": "Argentina 🆚 Nigeria",
+        "sources": [
+          {
+            "id": 3666,
+            "name": "FOX SPORT 2 - US",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 325,
+        "name": "FIFA U-20 World Cup",
+        "stage": null,
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1759964400,
+        "end_time": 1759973400,
+        "show_duration": true,
+        "team_1": {
+          "name": "Japan",
+          "logo": "logo/teams/japan_kob7f67JBkvUorLgiTLG.png"
+        },
+        "team_2": {
+          "name": "France",
+          "logo": "logo/teams/france_aUU9YpY9mRlZaIN96Jcj.png"
+        },
+        "full_team_name": "Japan 🆚 France",
+        "sources": [
+          {
+            "id": 3666,
+            "name": "LINK 1",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 337,
+        "name": "FIFA U-20 World Cup",
+        "stage": null,
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1760038200,
+        "end_time": 1760047200,
+        "show_duration": true,
+        "team_1": {
+          "name": "Chile",
+          "logo": "logo/teams/chile_2XLERMK1EopjN2CcaI3s.png"
+        },
+        "team_2": {
+          "name": "United States",
+          "logo": "logo/teams/united-states_Tnl0x0Mqm0tYaRL6x7Xd.png"
+        },
+        "full_team_name": "Chile 🆚 United States",
+        "sources": [
+          {
+            "id": 2749,
+            "name": "TSN 4",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 291,
+        "name": "FIFA U-20 World Cup",
+        "stage": null,
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1760050800,
+        "end_time": 1760059800,
+        "show_duration": true,
+        "team_1": {
+          "name": "South Korea",
+          "logo": "logo/teams/south-korea_G763uCvqhFDeayiWMZPR.jpg"
+        },
+        "team_2": {
+          "name": "Japan",
+          "logo": "logo/teams/japan_kob7f67JBkvUorLgiTLG.png"
+        },
+        "full_team_name": "South Korea 🆚 Japan",
+        "sources": [
+          {
+            "id": 3666,
+            "name": "FOX SPORT 2 - US",
+            "description": null
+          },
+          {
+            "id": 2749,
+            "name": "TSN 4",
+            "description": null
+          }
+        ]
+      }
+    ]
   }
 ]
