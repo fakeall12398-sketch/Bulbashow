@@ -275,38 +275,6 @@
     ]
   },
   {
-    "id": 39,
-    "name": "EFL League Two",
-    "logo": "logo/events/categories/efl-league-two_JbIaQeTWtn6ujeTbcp98.png",
-    "type": "Football",
-    "items": [
-      {
-        "id": 265,
-        "name": "Harrogate Town 🆚 Crewe Alexandra",
-        "stage": null,
-        "logo": "logo/events/bradford-city-notts-county_2LyGCjGYay2BIqJm7K7A.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "cricket",
-        "start_time": 1759777200,
-        "end_time": 1759786200,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3338,
-            "name": "CBS SPORTS Golazo",
-            "description": null
-          },
-          {
-            "id": 3283,
-            "name": "beIN Sport 3 - AUS",
-            "description": null
-          }
-        ]
-      }
-    ]
-  },
-  {
     "id": 44,
     "name": "FIFA U-20 World Cup",
     "logo": "logo/events/categories/fifa-club-world-cup_uKXWsqNaJmoeEKidZZbj.png",
