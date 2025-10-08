@@ -80,25 +80,6 @@
     "type": "Football",
     "items": [
       {
-        "id": 332,
-        "name": "Indonesia 🆚 Saudi Arabia",
-        "stage": null,
-        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "football",
-        "start_time": 1759943700,
-        "end_time": 1759952700,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 2888,
-            "name": "LINK 1",
-            "description": null
-          }
-        ]
-      },
-      {
         "id": 301,
         "name": "Niger 🆚 Congo",
         "stage": null,
