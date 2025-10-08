@@ -27,8 +27,13 @@
         "full_team_name": "Bangladesh 🆚 Afghanistan",
         "sources": [
           {
-            "id": 3541,
+            "id": 3276,
             "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3541,
+            "name": "LINK 2 - SD",
             "description": null
           }
         ]
@@ -127,6 +132,149 @@
           {
             "id": 3679,
             "name": "LINK 2",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 340,
+        "name": "Burundi 🆚 Kenya",
+        "stage": null,
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1760014800,
+        "end_time": 1760023800,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3670,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 2888,
+            "name": "Sportdigital",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 339,
+        "name": "Botswana 🆚 Uganda",
+        "stage": null,
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1760025600,
+        "end_time": 1760034600,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3670,
+            "name": "LINK 1",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 338,
+        "name": "Finland 🆚 Lithuania",
+        "stage": null,
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1760025600,
+        "end_time": 1760034600,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 2665,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 2558,
+            "name": "LINK 2",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 331,
+        "name": "Liberia 🆚 Namibia",
+        "stage": null,
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1760025600,
+        "end_time": 1760034600,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3680,
+            "name": "LINK 1",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 334,
+        "name": "Malawi 🆚 Equatorial Guinea",
+        "stage": null,
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1760025600,
+        "end_time": 1760034600,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3681,
+            "name": "LINK 1",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 324,
+        "name": "Mozambique 🆚 Guinea",
+        "stage": null,
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1760025600,
+        "end_time": 1760034600,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3736,
+            "name": "LINK 1",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 335,
+        "name": "Somalia 🆚 Algeria",
+        "stage": null,
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1760025600,
+        "end_time": 1760034600,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 2888,
+            "name": "LINK 1",
             "description": null
           }
         ]
