@@ -242,6 +242,274 @@
     ]
   },
   {
+    "id": 5,
+    "name": "Friendly",
+    "logo": "logo/events/categories/club-friendly_ecYCwMmRVPRI4yF7vmAm.jpg",
+    "type": "Football",
+    "items": [
+      {
+        "id": 58,
+        "name": "Gibraltar 🆚 New Caledonia",
+        "stage": null,
+        "logo": "",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1759935600,
+        "end_time": 1759944600,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3666,
+            "name": "LINK 1",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 293,
+        "name": "Romania 🆚 Moldova",
+        "stage": null,
+        "logo": "",
+        "color": "#003a86",
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1760032800,
+        "end_time": 1760041800,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3702,
+            "name": "beIN Sport Xtra",
+            "description": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "name": "FIFA World Cup Qualifying",
+    "logo": "logo/events/categories/fifa-world-cup-qualifying_KseXA5ZohFslvn5ZLJHG.png",
+    "type": "Football",
+    "items": [
+      {
+        "id": 340,
+        "name": "Mauritius 🆚 Cameroon",
+        "stage": null,
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1759930200,
+        "end_time": 1759939200,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3670,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 2888,
+            "name": "Sportdigital",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 341,
+        "name": "Eswatini 🆚 Angola",
+        "stage": null,
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1759930200,
+        "end_time": 1759939200,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3679,
+            "name": "LINK 1",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 302,
+        "name": "Ethiopia 🆚 Guinea-Bissau",
+        "stage": null,
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1759930200,
+        "end_time": 1759939200,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3680,
+            "name": "LINK 1",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 336,
+        "name": "Libya 🆚 Cape Verde Islands",
+        "stage": null,
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1759930200,
+        "end_time": 1759939200,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3681,
+            "name": "LINK 1",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 335,
+        "name": "Oman 🆚 Qatar",
+        "stage": null,
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1759935600,
+        "end_time": 1759944600,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 2888,
+            "name": "LINK 1",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 339,
+        "name": "Central African Republic 🆚 Ghana",
+        "stage": null,
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1759939200,
+        "end_time": 1759948200,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3670,
+            "name": "LINK 1",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 338,
+        "name": "Chad 🆚 Mali",
+        "stage": null,
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1759939200,
+        "end_time": 1759948200,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3679,
+            "name": "LINK 1",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 331,
+        "name": "Comoros 🆚 Madagascar",
+        "stage": null,
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1759939200,
+        "end_time": 1759948200,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3680,
+            "name": "LINK 1",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 334,
+        "name": "Djibouti 🆚 Egypt",
+        "stage": null,
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1759939200,
+        "end_time": 1759948200,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3681,
+            "name": "LINK 1",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 324,
+        "name": "Sierra Leone 🆚 Burkina Faso",
+        "stage": null,
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1759939200,
+        "end_time": 1759948200,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3736,
+            "name": "LINK 1",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 332,
+        "name": "Indonesia 🆚 Saudi Arabia",
+        "stage": null,
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1759943700,
+        "end_time": 1759952700,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 2888,
+            "name": "LINK 1",
+            "description": null
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 44,
     "name": "FIFA U-20 World Cup",
     "logo": "logo/events/categories/fifa-club-world-cup_uKXWsqNaJmoeEKidZZbj.png",
