@@ -109,33 +109,9 @@
             "id": 3744,
             "name": "LINK 2",
             "description": null
-          }
-        ]
-      },
-      {
-        "id": 292,
-        "name": " Singapore 🆚 India",
-        "stage": null,
-        "logo": "logo/events/asian-cup-qualification_i5ne2SWuoYRL2IE12K9M.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "football",
-        "start_time": 1760009400,
-        "end_time": 1760018400,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3195,
-            "name": "LINK 1",
-            "description": null
           },
           {
-            "id": 3742,
-            "name": "LINK 2",
-            "description": null
-          },
-          {
-            "id": 3544,
+            "id": 2350,
             "name": "LINK 3",
             "description": null
           }
@@ -383,8 +359,8 @@
         "show_duration": true,
         "sources": [
           {
-            "id": 3681,
-            "name": "LINK 1",
+            "id": 2392,
+            "name": "Super Sport Football",
             "description": null
           }
         ]
@@ -420,6 +396,11 @@
         "end_time": 1760034600,
         "show_duration": true,
         "sources": [
+          {
+            "id": 3736,
+            "name": "LINK 2",
+            "description": null
+          },
           {
             "id": 2888,
             "name": "LINK 1",
