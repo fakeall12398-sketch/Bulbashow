@@ -111,8 +111,18 @@
         "show_duration": true,
         "sources": [
           {
-            "id": 3740,
+            "id": 3195,
             "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3742,
+            "name": "LINK 2",
+            "description": null
+          },
+          {
+            "id": 3544,
+            "name": "LINK 3",
             "description": null
           }
         ]
