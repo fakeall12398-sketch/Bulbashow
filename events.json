@@ -605,6 +605,34 @@
             "description": null
           }
         ]
+      },
+      {
+        "id": 296,
+        "name": "Friendly",
+        "stage": null,
+        "logo": "",
+        "color": "#003a86",
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1760094000,
+        "end_time": 1760103000,
+        "show_duration": true,
+        "team_1": {
+          "name": "Brazil",
+          "logo": "logo/teams/brazil_2gKRZsvaLKJcHbZ9zIEj.png"
+        },
+        "team_2": {
+          "name": "South Korea",
+          "logo": "logo/teams/south-korea_G763uCvqhFDeayiWMZPR.jpg"
+        },
+        "full_team_name": "Brazil 🆚 South Korea",
+        "sources": [
+          {
+            "id": 3755,
+            "name": "LINK 1",
+            "description": null
+          }
+        ]
       }
     ]
   },
