@@ -266,25 +266,6 @@
     "type": "Football",
     "items": [
       {
-        "id": 340,
-        "name": "Burundi 🆚 Kenya",
-        "stage": null,
-        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "football",
-        "start_time": 1760014800,
-        "end_time": 1760023800,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3670,
-            "name": "LINK 1",
-            "description": null
-          }
-        ]
-      },
-      {
         "id": 339,
         "name": "Botswana 🆚 Uganda",
         "stage": null,
@@ -316,8 +297,8 @@
         "show_duration": true,
         "sources": [
           {
-            "id": 2665,
-            "name": "LINK 1",
+            "id": 3746,
+            "name": "LIV",
             "description": null
           },
           {
