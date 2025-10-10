@@ -113,39 +113,6 @@
     "type": "Football",
     "items": [
       {
-        "id": 296,
-        "name": "Friendly",
-        "stage": null,
-        "logo": "",
-        "color": "#003a86",
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1760094000,
-        "end_time": 1760103000,
-        "show_duration": true,
-        "team_1": {
-          "name": "Brazil",
-          "logo": "logo/teams/brazil_2gKRZsvaLKJcHbZ9zIEj.png"
-        },
-        "team_2": {
-          "name": "South Korea",
-          "logo": "logo/teams/south-korea_G763uCvqhFDeayiWMZPR.jpg"
-        },
-        "full_team_name": "Brazil 🆚 South Korea",
-        "sources": [
-          {
-            "id": 3756,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 3755,
-            "name": "LINK 2",
-            "description": null
-          }
-        ]
-      },
-      {
         "id": 295,
         "name": "Friendly",
         "stage": null,
@@ -475,6 +442,87 @@
           {
             "id": 2989,
             "name": "Sky Sport 2 - NZ",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 339,
+        "name": "Lesotho 🆚 Nigeria",
+        "stage": null,
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1760112000,
+        "end_time": 1760121000,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3670,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 2888,
+            "name": "Sportdigital",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 338,
+        "name": "Rwanda 🆚 Benin",
+        "stage": null,
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1760112000,
+        "end_time": 1760121000,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3679,
+            "name": "LINK 1",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 340,
+        "name": "Sao Tome e Principe 🆚 Tunisia",
+        "stage": null,
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1760112000,
+        "end_time": 1760121000,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3680,
+            "name": "LINK 1",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 334,
+        "name": "Zimbabwe 🆚 South Africa",
+        "stage": null,
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1760112000,
+        "end_time": 1760121000,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3681,
+            "name": "LINK 1",
             "description": null
           }
         ]
