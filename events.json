@@ -1,5 +1,79 @@
 [
   {
+    "id": 6,
+    "name": "Cricket",
+    "logo": "logo/events/categories/cricket_34rT8noo6pPjKMC5Wm9f.webp",
+    "type": "Cricket",
+    "items": [
+      {
+        "id": 22,
+        "name": "West Indies tour of India,",
+        "stage": "2nd Test, Day 2",
+        "logo": "",
+        "color": null,
+        "type": "team",
+        "sport_type": "cricket",
+        "start_time": 1760155200,
+        "end_time": null,
+        "show_duration": true,
+        "team_1": {
+          "name": "India",
+          "logo": "logo/teams/india_R8DzB45mwxgV921JfOUc.png"
+        },
+        "team_2": {
+          "name": "West Indies",
+          "logo": "logo/teams/west-indies_Q6wRrBT7yHbEpRQVsW4z.png"
+        },
+        "full_team_name": "India 🆚 West Indies",
+        "sources": [
+          {
+            "id": 902,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3202,
+            "name": "LINK 2",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 290,
+        "name": "Afghanistan vs Bangladesh in UAE",
+        "stage": "2nd ODI",
+        "logo": "",
+        "color": null,
+        "type": "team",
+        "sport_type": "cricket",
+        "start_time": 1760184000,
+        "end_time": null,
+        "show_duration": true,
+        "team_1": {
+          "name": "Bangladesh",
+          "logo": "logo/teams/bangladesh_9mfG8dxYyOTt53INypBM.png"
+        },
+        "team_2": {
+          "name": "Afghanistan",
+          "logo": "logo/teams/afghanistan_pNuVU1zMVjnpDx1wW4Me.png"
+        },
+        "full_team_name": "Bangladesh 🆚 Afghanistan",
+        "sources": [
+          {
+            "id": 3276,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3541,
+            "name": "LINK 2 - SD",
+            "description": null
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 18,
     "name": "ICC Womens World Cup",
     "logo": "logo/events/categories/icc-womens-world-cup_Tac4U4YHpuekyiqOw3CJ.png",
@@ -251,12 +325,12 @@
         "full_team_name": "Argentina 🆚 Puerto Rico",
         "sources": [
           {
-            "id": 3275,
+            "id": 833,
             "name": "beIN Sport - USA",
             "description": null
           },
           {
-            "id": 833,
+            "id": 3275,
             "name": "beIN Sport - USA",
             "description": null
           }
@@ -289,40 +363,6 @@
     "logo": "logo/events/categories/fifa-world-cup-qualifying_KseXA5ZohFslvn5ZLJHG.png",
     "type": "Football",
     "items": [
-      {
-        "id": 299,
-        "name": "Kazakhstan 🆚 Liechtenstein",
-        "stage": null,
-        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "football",
-        "start_time": 1760104800,
-        "end_time": 1760113800,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 2558,
-            "name": "ZIGGO SPORT 2",
-            "description": null
-          },
-          {
-            "id": 3760,
-            "name": "LIV",
-            "description": null
-          },
-          {
-            "id": 836,
-            "name": "beIN Sport 1 - AR",
-            "description": null
-          },
-          {
-            "id": 2989,
-            "name": "Sky Sport 2 - NZ",
-            "description": null
-          }
-        ]
-      },
       {
         "id": 339,
         "name": "Lesotho 🆚 Nigeria",
@@ -403,6 +443,273 @@
             "description": null
           }
         ]
+      },
+      {
+        "id": 341,
+        "name": "FIFA World Cup Qualifying",
+        "stage": null,
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1760121900,
+        "end_time": 1760130900,
+        "show_duration": true,
+        "team_1": {
+          "name": "France",
+          "logo": "logo/teams/france_aUU9YpY9mRlZaIN96Jcj.png"
+        },
+        "team_2": {
+          "name": "Azerbaijan",
+          "logo": "logo/teams/azerbaijan_kBHSGFA7igc0JmFYDSAN.png"
+        },
+        "full_team_name": "France 🆚 Azerbaijan",
+        "sources": [
+          {
+            "id": 3666,
+            "name": "FOX SPORT 2 - US",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 301,
+        "name": "FIFA World Cup Qualifying",
+        "stage": null,
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1760121900,
+        "end_time": 1760130900,
+        "show_duration": true,
+        "team_1": {
+          "name": "Germany",
+          "logo": "logo/teams/germany_MX6p338mvCEG5bh0NxAQ.png"
+        },
+        "team_2": {
+          "name": "Luxembourg",
+          "logo": "logo/teams/luxembourg_YiAOKmJEQSkY4Oelx5rm.png"
+        },
+        "full_team_name": "Germany 🆚 Luxembourg",
+        "sources": [
+          {
+            "id": 2558,
+            "name": "ZIGGO SPORT 2",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 300,
+        "name": "Belgium 🆚 North Macedonia",
+        "stage": null,
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1760121900,
+        "end_time": 1760130900,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 2667,
+            "name": "ZIGGO SPORT 3",
+            "description": null
+          },
+          {
+            "id": 3644,
+            "name": "LINK 2",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 332,
+        "name": "Iceland 🆚 Ukraine",
+        "stage": null,
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1760121900,
+        "end_time": 1760130900,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 866,
+            "name": "beIN Sport 5 - AR",
+            "description": null
+          },
+          {
+            "id": 826,
+            "name": "Arena Sports 2 - BA",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 324,
+        "name": "Sweden 🆚 Switzerland",
+        "stage": null,
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1760121900,
+        "end_time": 1760130900,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 861,
+            "name": "beIN Sport 4 - AR",
+            "description": null
+          },
+          {
+            "id": 824,
+            "name": "Arena Sports 1 - BA",
+            "description": null
+          },
+          {
+            "id": 2991,
+            "name": "Sky Sport 5 - NZ",
+            "description": null
+          },
+          {
+            "id": 1011,
+            "name": "Sport TV 3",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 331,
+        "name": "Kosovo 🆚 Slovenia",
+        "stage": null,
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1760121900,
+        "end_time": 1760130900,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 828,
+            "name": "Arena Sports 3 - BA",
+            "description": null
+          },
+          {
+            "id": 876,
+            "name": "beIN Sport 7 - AR",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 336,
+        "name": "Northern Ireland 🆚 Slovakia",
+        "stage": null,
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1760121900,
+        "end_time": 1760130900,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 871,
+            "name": "beIN Sport 6 - AR",
+            "description": null
+          },
+          {
+            "id": 828,
+            "name": "Arena Sports 3 - BA",
+            "description": null
+          },
+          {
+            "id": 2992,
+            "name": "Sky Sport 6 - NZ",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 302,
+        "name": "Suriname 🆚 Guatemala",
+        "stage": null,
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1760130000,
+        "end_time": 1760139000,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3456,
+            "name": "Universo",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 335,
+        "name": "Bermuda 🆚 Trinidad and Tobago",
+        "stage": null,
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1760133600,
+        "end_time": 1760142600,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3575,
+            "name": "LINK 1",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 323,
+        "name": "Curaçao 🆚 Jamaica",
+        "stage": null,
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1760137200,
+        "end_time": 1760144400,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3761,
+            "name": "LINK 1",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 299,
+        "name": "El Salvador 🆚 Panama",
+        "stage": null,
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1760144400,
+        "end_time": 1760153400,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3761,
+            "name": "LINK 1",
+            "description": null
+          }
+        ]
       }
     ]
   },
@@ -446,80 +753,6 @@
           {
             "id": 2350,
             "name": "LINK 3",
-            "description": null
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": 6,
-    "name": "Cricket",
-    "logo": "logo/events/categories/cricket_34rT8noo6pPjKMC5Wm9f.webp",
-    "type": "Cricket",
-    "items": [
-      {
-        "id": 22,
-        "name": "West Indies tour of India,",
-        "stage": "2nd Test, Day 2",
-        "logo": "",
-        "color": null,
-        "type": "team",
-        "sport_type": "cricket",
-        "start_time": 1760155200,
-        "end_time": null,
-        "show_duration": true,
-        "team_1": {
-          "name": "India",
-          "logo": "logo/teams/india_R8DzB45mwxgV921JfOUc.png"
-        },
-        "team_2": {
-          "name": "West Indies",
-          "logo": "logo/teams/west-indies_Q6wRrBT7yHbEpRQVsW4z.png"
-        },
-        "full_team_name": "India 🆚 West Indies",
-        "sources": [
-          {
-            "id": 902,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 3202,
-            "name": "LINK 2",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 290,
-        "name": "Afghanistan vs Bangladesh in UAE",
-        "stage": "2nd ODI",
-        "logo": "",
-        "color": null,
-        "type": "team",
-        "sport_type": "cricket",
-        "start_time": 1760184000,
-        "end_time": null,
-        "show_duration": true,
-        "team_1": {
-          "name": "Bangladesh",
-          "logo": "logo/teams/bangladesh_9mfG8dxYyOTt53INypBM.png"
-        },
-        "team_2": {
-          "name": "Afghanistan",
-          "logo": "logo/teams/afghanistan_pNuVU1zMVjnpDx1wW4Me.png"
-        },
-        "full_team_name": "Bangladesh 🆚 Afghanistan",
-        "sources": [
-          {
-            "id": 3276,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 3541,
-            "name": "LINK 2 - SD",
             "description": null
           }
         ]
