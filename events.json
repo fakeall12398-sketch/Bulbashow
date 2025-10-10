@@ -1,194 +1,105 @@
 [
   {
-    "id": 6,
-    "name": "Cricket",
-    "logo": "logo/events/categories/cricket_34rT8noo6pPjKMC5Wm9f.webp",
+    "id": 18,
+    "name": "ICC Womens World Cup",
+    "logo": "logo/events/categories/icc-womens-world-cup_Tac4U4YHpuekyiqOw3CJ.png",
     "type": "Cricket",
     "items": [
       {
-        "id": 22,
-        "name": "West Indies tour of India,",
-        "stage": "2nd Test, Day 1",
+        "id": 328,
+        "name": "ICC Womens World Cup",
+        "stage": "11th Match",
         "logo": "",
         "color": null,
         "type": "team",
         "sport_type": "cricket",
-        "start_time": 1760068800,
-        "end_time": null,
+        "start_time": 1760088600,
+        "end_time": 1760117400,
+        "show_duration": true,
+        "team_1": {
+          "name": "New Zealand",
+          "logo": "logo/teams/new-zealand_Bo0hBUgvsLhkGvuy7NLf.png"
+        },
+        "team_2": {
+          "name": "Bangladesh",
+          "logo": "logo/teams/bangladesh_9mfG8dxYyOTt53INypBM.png"
+        },
+        "full_team_name": "New Zealand 🆚 Bangladesh",
+        "sources": [
+          {
+            "id": 3202,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3734,
+            "name": "LINK 2",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 329,
+        "name": "ICC Womens World Cup",
+        "stage": "12th Match",
+        "logo": "",
+        "color": null,
+        "type": "team",
+        "sport_type": "cricket",
+        "start_time": 1760175000,
+        "end_time": 1760203800,
+        "show_duration": true,
+        "team_1": {
+          "name": "England",
+          "logo": "logo/teams/england_lR9prItXfM5WG6lZqsOD.png"
+        },
+        "team_2": {
+          "name": "Sri Lanka",
+          "logo": "logo/teams/sri-lanka_oUuxxnRFqx3sjQ3WUtfY.jpg"
+        },
+        "full_team_name": "England 🆚 Sri Lanka",
+        "sources": [
+          {
+            "id": 3202,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3734,
+            "name": "LINK 2",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 330,
+        "name": "ICC Womens World Cup",
+        "stage": "13th Match",
+        "logo": "",
+        "color": null,
+        "type": "team",
+        "sport_type": "cricket",
+        "start_time": 1760261400,
+        "end_time": 1760290200,
         "show_duration": true,
         "team_1": {
           "name": "India",
           "logo": "logo/teams/india_R8DzB45mwxgV921JfOUc.png"
         },
         "team_2": {
-          "name": "West Indies",
-          "logo": "logo/teams/west-indies_Q6wRrBT7yHbEpRQVsW4z.png"
+          "name": "Australia",
+          "logo": "logo/teams/australia_ft0IHOvqYgEhT2QZC10y.png"
         },
-        "full_team_name": "India 🆚 West Indies",
+        "full_team_name": "India 🆚 Australia",
         "sources": [
-          {
-            "id": 902,
-            "name": "LINK 1",
-            "description": null
-          },
           {
             "id": 3202,
-            "name": "LINK 2",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 290,
-        "name": "Afghanistan vs Bangladesh in UAE",
-        "stage": "2nd ODI",
-        "logo": "",
-        "color": null,
-        "type": "team",
-        "sport_type": "cricket",
-        "start_time": 1760184000,
-        "end_time": null,
-        "show_duration": true,
-        "team_1": {
-          "name": "Bangladesh",
-          "logo": "logo/teams/bangladesh_9mfG8dxYyOTt53INypBM.png"
-        },
-        "team_2": {
-          "name": "Afghanistan",
-          "logo": "logo/teams/afghanistan_pNuVU1zMVjnpDx1wW4Me.png"
-        },
-        "full_team_name": "Bangladesh 🆚 Afghanistan",
-        "sources": [
-          {
-            "id": 3276,
             "name": "LINK 1",
             "description": null
           },
           {
-            "id": 3541,
-            "name": "LINK 2 - SD",
-            "description": null
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": 52,
-    "name": "FIFA World Cup Qualifying",
-    "logo": "logo/events/categories/fifa-world-cup-qualifying_KseXA5ZohFslvn5ZLJHG.png",
-    "type": "Football",
-    "items": [
-      {
-        "id": 331,
-        "name": "South Sudan 🆚 Senegal",
-        "stage": null,
-        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "football",
-        "start_time": 1760097600,
-        "end_time": 1760106600,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 2888,
-            "name": "Sportdigital",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 336,
-        "name": "Gambia 🆚 Gabon",
-        "stage": null,
-        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "football",
-        "start_time": 1760101200,
-        "end_time": 1760110200,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3681,
-            "name": "LINK 1",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 302,
-        "name": "Seychelles 🆚 Côte d'Ivoire",
-        "stage": null,
-        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "football",
-        "start_time": 1760101200,
-        "end_time": 1760110200,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3745,
-            "name": "LINK 1",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 335,
-        "name": "Sudan 🇸🇩 Mauritania",
-        "stage": null,
-        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "football",
-        "start_time": 1760101200,
-        "end_time": 1760110200,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3736,
+            "id": 3734,
             "name": "LINK 2",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 323,
-        "name": "Togo 🆚 Congo DR",
-        "stage": null,
-        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "football",
-        "start_time": 1760101200,
-        "end_time": 1760110200,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3670,
-            "name": "LINK 1",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 299,
-        "name": "Kazakhstan 🆚 Liechtenstein",
-        "stage": null,
-        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "football",
-        "start_time": 1760104800,
-        "end_time": 1760113800,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3679,
-            "name": "LINK 1",
             "description": null
           }
         ]
@@ -223,13 +134,69 @@
         "full_team_name": "Brazil 🆚 South Korea",
         "sources": [
           {
-            "id": 3755,
+            "id": 3756,
             "name": "LINK 1",
             "description": null
           },
           {
-            "id": 3756,
+            "id": 3755,
             "name": "LINK 2",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 295,
+        "name": "Friendly",
+        "stage": null,
+        "logo": "",
+        "color": "#003a86",
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1760101200,
+        "end_time": 1760110200,
+        "show_duration": true,
+        "team_1": {
+          "name": "India",
+          "logo": "logo/teams/india_n9OPsC9juDKNG065XpXN.png"
+        },
+        "team_2": {
+          "name": "Indonesia",
+          "logo": "logo/teams/indonesia_4tWlUL1yLuFRpJD3o0UY.png"
+        },
+        "full_team_name": "India 🆚 Indonesia",
+        "sources": [
+          {
+            "id": 3759,
+            "name": "LINK 1",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 298,
+        "name": "Friendly",
+        "stage": null,
+        "logo": "",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1760112000,
+        "end_time": 1760121000,
+        "show_duration": true,
+        "team_1": {
+          "name": "Portugal",
+          "logo": "logo/teams/portugal_Gs8ir1xWAj6XfWvhiFMb.png"
+        },
+        "team_2": {
+          "name": "Germany",
+          "logo": "logo/teams/germany_MX6p338mvCEG5bh0NxAQ.png"
+        },
+        "full_team_name": "Portugal 🆚 Germany",
+        "sources": [
+          {
+            "id": 3758,
+            "name": "LINK 1",
             "description": null
           }
         ]
@@ -378,106 +345,210 @@
     ]
   },
   {
-    "id": 18,
-    "name": "ICC Womens World Cup",
-    "logo": "logo/events/categories/icc-womens-world-cup_Tac4U4YHpuekyiqOw3CJ.png",
+    "id": 52,
+    "name": "FIFA World Cup Qualifying",
+    "logo": "logo/events/categories/fifa-world-cup-qualifying_KseXA5ZohFslvn5ZLJHG.png",
+    "type": "Football",
+    "items": [
+      {
+        "id": 331,
+        "name": "South Sudan 🆚 Senegal",
+        "stage": null,
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1760101200,
+        "end_time": 1760110200,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3680,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 2888,
+            "name": "Sportdigital",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 336,
+        "name": "Gambia 🆚 Gabon",
+        "stage": null,
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1760101200,
+        "end_time": 1760110200,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3681,
+            "name": "LINK 1",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 302,
+        "name": "Seychelles 🆚 Côte d'Ivoire",
+        "stage": null,
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1760101200,
+        "end_time": 1760110200,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3745,
+            "name": "LINK 1",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 335,
+        "name": "Sudan 🆚 Mauritania",
+        "stage": null,
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1760101200,
+        "end_time": 1760110200,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3736,
+            "name": "LINK 2",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 323,
+        "name": "Togo 🆚 Congo DR",
+        "stage": null,
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1760101200,
+        "end_time": 1760110200,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3670,
+            "name": "LINK 1",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 299,
+        "name": "Kazakhstan 🆚 Liechtenstein",
+        "stage": null,
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1760104800,
+        "end_time": 1760113800,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 2558,
+            "name": "ZIGGO SPORT 2",
+            "description": null
+          },
+          {
+            "id": 836,
+            "name": "beIN Sport 1 - AR",
+            "description": null
+          },
+          {
+            "id": 2989,
+            "name": "Sky Sport 2 - NZ",
+            "description": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Cricket",
+    "logo": "logo/events/categories/cricket_34rT8noo6pPjKMC5Wm9f.webp",
     "type": "Cricket",
     "items": [
       {
-        "id": 328,
-        "name": "ICC Womens World Cup",
-        "stage": "11th Match",
+        "id": 22,
+        "name": "West Indies tour of India,",
+        "stage": "2nd Test, Day 2",
         "logo": "",
         "color": null,
         "type": "team",
         "sport_type": "cricket",
-        "start_time": 1760088600,
-        "end_time": 1760117400,
-        "show_duration": true,
-        "team_1": {
-          "name": "New Zealand",
-          "logo": "logo/teams/new-zealand_Bo0hBUgvsLhkGvuy7NLf.png"
-        },
-        "team_2": {
-          "name": "Bangladesh",
-          "logo": "logo/teams/bangladesh_9mfG8dxYyOTt53INypBM.png"
-        },
-        "full_team_name": "New Zealand 🆚 Bangladesh",
-        "sources": [
-          {
-            "id": 3202,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 3734,
-            "name": "LINK 2",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 329,
-        "name": "ICC Womens World Cup",
-        "stage": "12th Match",
-        "logo": "",
-        "color": null,
-        "type": "team",
-        "sport_type": "cricket",
-        "start_time": 1760175000,
-        "end_time": 1760203800,
-        "show_duration": true,
-        "team_1": {
-          "name": "England",
-          "logo": "logo/teams/england_lR9prItXfM5WG6lZqsOD.png"
-        },
-        "team_2": {
-          "name": "Sri Lanka",
-          "logo": "logo/teams/sri-lanka_oUuxxnRFqx3sjQ3WUtfY.jpg"
-        },
-        "full_team_name": "England 🆚 Sri Lanka",
-        "sources": [
-          {
-            "id": 3202,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 3734,
-            "name": "LINK 2",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 330,
-        "name": "ICC Womens World Cup",
-        "stage": "13th Match",
-        "logo": "",
-        "color": null,
-        "type": "team",
-        "sport_type": "cricket",
-        "start_time": 1760261400,
-        "end_time": 1760290200,
+        "start_time": 1760155200,
+        "end_time": null,
         "show_duration": true,
         "team_1": {
           "name": "India",
           "logo": "logo/teams/india_R8DzB45mwxgV921JfOUc.png"
         },
         "team_2": {
-          "name": "Australia",
-          "logo": "logo/teams/australia_ft0IHOvqYgEhT2QZC10y.png"
+          "name": "West Indies",
+          "logo": "logo/teams/west-indies_Q6wRrBT7yHbEpRQVsW4z.png"
         },
-        "full_team_name": "India 🆚 Australia",
+        "full_team_name": "India 🆚 West Indies",
         "sources": [
           {
-            "id": 3202,
+            "id": 902,
             "name": "LINK 1",
             "description": null
           },
           {
-            "id": 3734,
+            "id": 3202,
             "name": "LINK 2",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 290,
+        "name": "Afghanistan vs Bangladesh in UAE",
+        "stage": "2nd ODI",
+        "logo": "",
+        "color": null,
+        "type": "team",
+        "sport_type": "cricket",
+        "start_time": 1760184000,
+        "end_time": null,
+        "show_duration": true,
+        "team_1": {
+          "name": "Bangladesh",
+          "logo": "logo/teams/bangladesh_9mfG8dxYyOTt53INypBM.png"
+        },
+        "team_2": {
+          "name": "Afghanistan",
+          "logo": "logo/teams/afghanistan_pNuVU1zMVjnpDx1wW4Me.png"
+        },
+        "full_team_name": "Bangladesh 🆚 Afghanistan",
+        "sources": [
+          {
+            "id": 3276,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3541,
+            "name": "LINK 2 - SD",
             "description": null
           }
         ]
