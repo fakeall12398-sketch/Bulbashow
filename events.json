@@ -113,34 +113,6 @@
     "type": "Football",
     "items": [
       {
-        "id": 295,
-        "name": "Friendly",
-        "stage": null,
-        "logo": "",
-        "color": "#003a86",
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1760101200,
-        "end_time": 1760110200,
-        "show_duration": true,
-        "team_1": {
-          "name": "India",
-          "logo": "logo/teams/india_n9OPsC9juDKNG065XpXN.png"
-        },
-        "team_2": {
-          "name": "Indonesia",
-          "logo": "logo/teams/indonesia_4tWlUL1yLuFRpJD3o0UY.png"
-        },
-        "full_team_name": "India 🆚 Indonesia",
-        "sources": [
-          {
-            "id": 3759,
-            "name": "LINK 1",
-            "description": null
-          }
-        ]
-      },
-      {
         "id": 298,
         "name": "Friendly",
         "stage": null,
@@ -279,12 +251,12 @@
         "full_team_name": "Argentina 🆚 Puerto Rico",
         "sources": [
           {
-            "id": 833,
+            "id": 3275,
             "name": "beIN Sport - USA",
             "description": null
           },
           {
-            "id": 3275,
+            "id": 833,
             "name": "beIN Sport - USA",
             "description": null
           }
@@ -318,106 +290,6 @@
     "type": "Football",
     "items": [
       {
-        "id": 331,
-        "name": "South Sudan 🆚 Senegal",
-        "stage": null,
-        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "football",
-        "start_time": 1760101200,
-        "end_time": 1760110200,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3680,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 2888,
-            "name": "Sportdigital",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 336,
-        "name": "Gambia 🆚 Gabon",
-        "stage": null,
-        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "football",
-        "start_time": 1760101200,
-        "end_time": 1760110200,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3681,
-            "name": "LINK 1",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 302,
-        "name": "Seychelles 🆚 Côte d'Ivoire",
-        "stage": null,
-        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "football",
-        "start_time": 1760101200,
-        "end_time": 1760110200,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3745,
-            "name": "LINK 1",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 335,
-        "name": "Sudan 🆚 Mauritania",
-        "stage": null,
-        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "football",
-        "start_time": 1760101200,
-        "end_time": 1760110200,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3736,
-            "name": "LINK 2",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 323,
-        "name": "Togo 🆚 Congo DR",
-        "stage": null,
-        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "football",
-        "start_time": 1760101200,
-        "end_time": 1760110200,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3670,
-            "name": "LINK 1",
-            "description": null
-          }
-        ]
-      },
-      {
         "id": 299,
         "name": "Kazakhstan 🆚 Liechtenstein",
         "stage": null,
@@ -432,6 +304,11 @@
           {
             "id": 2558,
             "name": "ZIGGO SPORT 2",
+            "description": null
+          },
+          {
+            "id": 3760,
+            "name": "LIV",
             "description": null
           },
           {
@@ -523,6 +400,52 @@
           {
             "id": 3681,
             "name": "LINK 1",
+            "description": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Asian Cup Qualification",
+    "logo": "logo/events/categories/asian-cup-qualification_C8hQQU2pGstes7fLJR5Q.png",
+    "type": "Football",
+    "items": [
+      {
+        "id": 237,
+        "name": "Asian Cup Qualification",
+        "stage": null,
+        "logo": "logo/events/asian-cup-qualification_i5ne2SWuoYRL2IE12K9M.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1760443200,
+        "end_time": 1760452200,
+        "show_duration": true,
+        "team_1": {
+          "name": "Bangladesh",
+          "logo": "logo/teams/bangladesh_LE9by9vw0LTIb2cRc6KV.png"
+        },
+        "team_2": {
+          "name": "Hong Kong",
+          "logo": "logo/teams/hong-kong_ZYzAztql6oEWuMYC1q3r.png"
+        },
+        "full_team_name": "Bangladesh 🆚 Hong Kong",
+        "sources": [
+          {
+            "id": 3738,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3744,
+            "name": "LINK 2",
+            "description": null
+          },
+          {
+            "id": 2350,
+            "name": "LINK 3",
             "description": null
           }
         ]
