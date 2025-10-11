@@ -80,39 +80,6 @@
     "type": "Cricket",
     "items": [
       {
-        "id": 329,
-        "name": "ICC Womens World Cup",
-        "stage": "12th Match",
-        "logo": "",
-        "color": null,
-        "type": "team",
-        "sport_type": "cricket",
-        "start_time": 1760175000,
-        "end_time": 1760203800,
-        "show_duration": true,
-        "team_1": {
-          "name": "England",
-          "logo": "logo/teams/england_lR9prItXfM5WG6lZqsOD.png"
-        },
-        "team_2": {
-          "name": "Sri Lanka",
-          "logo": "logo/teams/sri-lanka_oUuxxnRFqx3sjQ3WUtfY.jpg"
-        },
-        "full_team_name": "England 🆚 Sri Lanka",
-        "sources": [
-          {
-            "id": 3202,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 3734,
-            "name": "LINK 2",
-            "description": null
-          }
-        ]
-      },
-      {
         "id": 330,
         "name": "ICC Womens World Cup",
         "stage": "13th Match",
@@ -154,64 +121,6 @@
     "type": "Football",
     "items": [
       {
-        "id": 338,
-        "name": "Hungary 🆚 Armenia",
-        "stage": null,
-        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "football",
-        "start_time": 1760198400,
-        "end_time": 1760207400,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3644,
-            "name": "LINK 1",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 334,
-        "name": "Norway 🆚 Israel",
-        "stage": null,
-        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "football",
-        "start_time": 1760198400,
-        "end_time": 1760207400,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 2665,
-            "name": "ZIGGO SPORT",
-            "description": null
-          },
-          {
-            "id": 3412,
-            "name": "DAZN 1 - DE",
-            "description": null
-          },
-          {
-            "id": 2544,
-            "name": "Arena Sports 2 Premium - BA",
-            "description": null
-          },
-          {
-            "id": 2987,
-            "name": "Sky Sport 4 - NZ",
-            "description": null
-          },
-          {
-            "id": 1011,
-            "name": "Sport TV 3",
-            "description": null
-          }
-        ]
-      },
-      {
         "id": 340,
         "name": "United Arab Emirates 🆚 Oman",
         "stage": null,
@@ -231,72 +140,6 @@
           {
             "id": 3738,
             "name": "LINK 2",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 341,
-        "name": "FIFA World Cup Qualifying",
-        "stage": null,
-        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1760208300,
-        "end_time": 1760217300,
-        "show_duration": true,
-        "team_1": {
-          "name": "Bulgaria",
-          "logo": "logo/teams/bulgaria_tc8RBqZjEAC0BAhAlcEG.png"
-        },
-        "team_2": {
-          "name": "Turkey",
-          "logo": "logo/teams/turkey_Uh0kLeIVdY0cedG7zonW.png"
-        },
-        "full_team_name": "Bulgaria 🆚 Turkey",
-        "sources": [
-          {
-            "id": 2991,
-            "name": "Sky Sport 5 - NZ",
-            "description": null
-          },
-          {
-            "id": 2544,
-            "name": "Arena Sports 2 Premium - BA",
-            "description": null
-          },
-          {
-            "id": 876,
-            "name": "beIN Sport 7 - AR",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 301,
-        "name": "FIFA World Cup Qualifying",
-        "stage": null,
-        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1760208300,
-        "end_time": 1760217300,
-        "show_duration": true,
-        "team_1": {
-          "name": "Italy",
-          "logo": "logo/teams/italy_mChUeuYcWwpL0H8ODZhh.png"
-        },
-        "team_2": {
-          "name": "Estonia",
-          "logo": "logo/teams/estonia_bG9nD5wIjJa9GEnbyXzR.png"
-        },
-        "full_team_name": "Italy 🆚 Estonia",
-        "sources": [
-          {
-            "id": 3644,
-            "name": "LINK 1",
             "description": null
           }
         ]
@@ -328,6 +171,16 @@
             "description": null
           },
           {
+            "id": 3341,
+            "name": "LINK 2",
+            "description": null
+          },
+          {
+            "id": 3751,
+            "name": "LIV",
+            "description": null
+          },
+          {
             "id": 2990,
             "name": "Sky Sport 3 - NZ",
             "description": null
@@ -340,44 +193,6 @@
           {
             "id": 866,
             "name": "beIN Sport 5 - AR",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 332,
-        "name": "FIFA World Cup Qualifying",
-        "stage": null,
-        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1760208300,
-        "end_time": 1760217300,
-        "show_duration": true,
-        "team_1": {
-          "name": "Serbia",
-          "logo": "logo/teams/serbia_Vv3GDUPSotoLNUGk1pb7.png"
-        },
-        "team_2": {
-          "name": "Albania",
-          "logo": "logo/teams/albania_62WTNIKkJ4XTyyqC8LvC.png"
-        },
-        "full_team_name": "Serbia 🆚 Albania",
-        "sources": [
-          {
-            "id": 3412,
-            "name": "DAZN 1 - DE",
-            "description": null
-          },
-          {
-            "id": 2542,
-            "name": "Arena Sports 1 Premium - BA",
-            "description": null
-          },
-          {
-            "id": 871,
-            "name": "beIN Sport 6 - AR",
             "description": null
           }
         ]
@@ -414,8 +229,132 @@
             "description": null
           },
           {
+            "id": 3764,
+            "name": "LIV",
+            "description": null
+          },
+          {
             "id": 2558,
             "name": "ZIGGO SPORT 2",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 301,
+        "name": "FIFA World Cup Qualifying",
+        "stage": null,
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1760208300,
+        "end_time": 1760217300,
+        "show_duration": true,
+        "team_1": {
+          "name": "Italy",
+          "logo": "logo/teams/italy_mChUeuYcWwpL0H8ODZhh.png"
+        },
+        "team_2": {
+          "name": "Estonia",
+          "logo": "logo/teams/estonia_bG9nD5wIjJa9GEnbyXzR.png"
+        },
+        "full_team_name": "Italy 🆚 Estonia",
+        "sources": [
+          {
+            "id": 3644,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3765,
+            "name": "LIV",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 341,
+        "name": "FIFA World Cup Qualifying",
+        "stage": null,
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1760208300,
+        "end_time": 1760217300,
+        "show_duration": true,
+        "team_1": {
+          "name": "Bulgaria",
+          "logo": "logo/teams/bulgaria_tc8RBqZjEAC0BAhAlcEG.png"
+        },
+        "team_2": {
+          "name": "Turkey",
+          "logo": "logo/teams/turkey_Uh0kLeIVdY0cedG7zonW.png"
+        },
+        "full_team_name": "Bulgaria 🆚 Turkey",
+        "sources": [
+          {
+            "id": 3766,
+            "name": "LIV",
+            "description": null
+          },
+          {
+            "id": 876,
+            "name": "beIN Sport 7 - AR",
+            "description": null
+          },
+          {
+            "id": 2544,
+            "name": "Arena Sports 2 Premium - BA",
+            "description": null
+          },
+          {
+            "id": 2991,
+            "name": "Sky Sport 5 - NZ",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 332,
+        "name": "FIFA World Cup Qualifying",
+        "stage": null,
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1760208300,
+        "end_time": 1760217300,
+        "show_duration": true,
+        "team_1": {
+          "name": "Serbia",
+          "logo": "logo/teams/serbia_Vv3GDUPSotoLNUGk1pb7.png"
+        },
+        "team_2": {
+          "name": "Albania",
+          "logo": "logo/teams/albania_62WTNIKkJ4XTyyqC8LvC.png"
+        },
+        "full_team_name": "Serbia 🆚 Albania",
+        "sources": [
+          {
+            "id": 3767,
+            "name": "LIV",
+            "description": null
+          },
+          {
+            "id": 3412,
+            "name": "DAZN 1 - DE",
+            "description": null
+          },
+          {
+            "id": 871,
+            "name": "beIN Sport 6 - AR",
+            "description": null
+          },
+          {
+            "id": 2542,
+            "name": "Arena Sports 1 Premium - BA",
             "description": null
           }
         ]
@@ -433,8 +372,13 @@
         "show_duration": true,
         "sources": [
           {
-            "id": 3738,
+            "id": 2888,
             "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3738,
+            "name": "LINK 2",
             "description": null
           },
           {
