@@ -74,47 +74,6 @@
     ]
   },
   {
-    "id": 18,
-    "name": "ICC Womens World Cup",
-    "logo": "logo/events/categories/icc-womens-world-cup_Tac4U4YHpuekyiqOw3CJ.png",
-    "type": "Cricket",
-    "items": [
-      {
-        "id": 330,
-        "name": "ICC Womens World Cup",
-        "stage": "13th Match",
-        "logo": "",
-        "color": null,
-        "type": "team",
-        "sport_type": "cricket",
-        "start_time": 1760261400,
-        "end_time": 1760290200,
-        "show_duration": true,
-        "team_1": {
-          "name": "India",
-          "logo": "logo/teams/india_R8DzB45mwxgV921JfOUc.png"
-        },
-        "team_2": {
-          "name": "Australia",
-          "logo": "logo/teams/australia_ft0IHOvqYgEhT2QZC10y.png"
-        },
-        "full_team_name": "India 🆚 Australia",
-        "sources": [
-          {
-            "id": 3202,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 3734,
-            "name": "LINK 2",
-            "description": null
-          }
-        ]
-      }
-    ]
-  },
-  {
     "id": 52,
     "name": "FIFA World Cup Qualifying",
     "logo": "logo/events/categories/fifa-world-cup-qualifying_KseXA5ZohFslvn5ZLJHG.png",
@@ -262,13 +221,28 @@
         "full_team_name": "Italy 🆚 Estonia",
         "sources": [
           {
-            "id": 3644,
+            "id": 3768,
             "name": "LINK 1",
             "description": null
           },
           {
             "id": 3765,
             "name": "LIV",
+            "description": null
+          },
+          {
+            "id": 861,
+            "name": "beIN Sport 4 - AR",
+            "description": null
+          },
+          {
+            "id": 2557,
+            "name": "ZIGGO SPORT 4",
+            "description": null
+          },
+          {
+            "id": 1011,
+            "name": "Sport TV 3",
             "description": null
           }
         ]
@@ -338,6 +312,11 @@
         "full_team_name": "Serbia 🆚 Albania",
         "sources": [
           {
+            "id": 3769,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
             "id": 3767,
             "name": "LIV",
             "description": null
@@ -384,6 +363,47 @@
           {
             "id": 851,
             "name": "beIN Sport 2 - AR",
+            "description": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "name": "ICC Womens World Cup",
+    "logo": "logo/events/categories/icc-womens-world-cup_Tac4U4YHpuekyiqOw3CJ.png",
+    "type": "Cricket",
+    "items": [
+      {
+        "id": 330,
+        "name": "ICC Womens World Cup",
+        "stage": "13th Match",
+        "logo": "",
+        "color": null,
+        "type": "team",
+        "sport_type": "cricket",
+        "start_time": 1760261400,
+        "end_time": 1760290200,
+        "show_duration": true,
+        "team_1": {
+          "name": "India",
+          "logo": "logo/teams/india_R8DzB45mwxgV921JfOUc.png"
+        },
+        "team_2": {
+          "name": "Australia",
+          "logo": "logo/teams/australia_ft0IHOvqYgEhT2QZC10y.png"
+        },
+        "full_team_name": "India 🆚 Australia",
+        "sources": [
+          {
+            "id": 3202,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3734,
+            "name": "LINK 2",
             "description": null
           }
         ]
