@@ -154,35 +154,6 @@
     "type": "Football",
     "items": [
       {
-        "id": 339,
-        "name": "Latvia 🆚 Andorra",
-        "stage": null,
-        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "football",
-        "start_time": 1760187600,
-        "end_time": 1760196600,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 2937,
-            "name": "SPORTV",
-            "description": null
-          },
-          {
-            "id": 3763,
-            "name": "LIV",
-            "description": null
-          },
-          {
-            "id": 2665,
-            "name": "ZIGGO SPORT",
-            "description": null
-          }
-        ]
-      },
-      {
         "id": 338,
         "name": "Hungary 🆚 Armenia",
         "stage": null,
@@ -213,6 +184,11 @@
         "end_time": 1760207400,
         "show_duration": true,
         "sources": [
+          {
+            "id": 2665,
+            "name": "ZIGGO SPORT",
+            "description": null
+          },
           {
             "id": 3412,
             "name": "DAZN 1 - DE",
@@ -390,6 +366,11 @@
         "full_team_name": "Serbia 🆚 Albania",
         "sources": [
           {
+            "id": 3412,
+            "name": "DAZN 1 - DE",
+            "description": null
+          },
+          {
             "id": 2542,
             "name": "Arena Sports 1 Premium - BA",
             "description": null
@@ -397,11 +378,6 @@
           {
             "id": 871,
             "name": "beIN Sport 6 - AR",
-            "description": null
-          },
-          {
-            "id": 3412,
-            "name": "DAZN 1 - DE",
             "description": null
           }
         ]
