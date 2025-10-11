@@ -154,25 +154,6 @@
     "type": "Football",
     "items": [
       {
-        "id": 299,
-        "name": "El Salvador 🆚 Panama",
-        "stage": null,
-        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "football",
-        "start_time": 1760144400,
-        "end_time": 1760153400,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3761,
-            "name": "LINK 1",
-            "description": null
-          }
-        ]
-      },
-      {
         "id": 339,
         "name": "Latvia 🆚 Andorra",
         "stage": null,
@@ -276,34 +257,6 @@
     "logo": "logo/events/categories/club-friendly_ecYCwMmRVPRI4yF7vmAm.jpg",
     "type": "Football",
     "items": [
-      {
-        "id": 58,
-        "name": "Friendly",
-        "stage": null,
-        "logo": "",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1760142600,
-        "end_time": 1760151600,
-        "show_duration": true,
-        "team_1": {
-          "name": "United States",
-          "logo": "logo/teams/united-states_Tnl0x0Mqm0tYaRL6x7Xd.png"
-        },
-        "team_2": {
-          "name": "Ecuador",
-          "logo": "logo/teams/ecuador_p1HR4xMsIa3CPw9m2wRR.png"
-        },
-        "full_team_name": "United States 🆚 Ecuador",
-        "sources": [
-          {
-            "id": 3456,
-            "name": "Universo",
-            "description": null
-          }
-        ]
-      },
       {
         "id": 10,
         "name": "Friendly",
