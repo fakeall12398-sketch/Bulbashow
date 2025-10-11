@@ -166,8 +166,18 @@
         "show_duration": true,
         "sources": [
           {
-            "id": 3666,
-            "name": "LINK 1",
+            "id": 2937,
+            "name": "SPORTV",
+            "description": null
+          },
+          {
+            "id": 3763,
+            "name": "LIV",
+            "description": null
+          },
+          {
+            "id": 2665,
+            "name": "ZIGGO SPORT",
             "description": null
           }
         ]
@@ -307,12 +317,12 @@
         "full_team_name": "Argentina 🆚 Puerto Rico",
         "sources": [
           {
-            "id": 833,
+            "id": 3275,
             "name": "beIN Sport - USA",
             "description": null
           },
           {
-            "id": 3275,
+            "id": 833,
             "name": "beIN Sport - USA",
             "description": null
           }
