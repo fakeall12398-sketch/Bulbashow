@@ -27,8 +27,13 @@
         "full_team_name": "India 🆚 West Indies",
         "sources": [
           {
-            "id": 908,
+            "id": 902,
             "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3762,
+            "name": "LINK 2",
             "description": null
           }
         ]
@@ -302,12 +307,12 @@
         "full_team_name": "Argentina 🆚 Puerto Rico",
         "sources": [
           {
-            "id": 3275,
+            "id": 833,
             "name": "beIN Sport - USA",
             "description": null
           },
           {
-            "id": 833,
+            "id": 3275,
             "name": "beIN Sport - USA",
             "description": null
           }
