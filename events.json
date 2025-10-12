@@ -520,34 +520,6 @@
     "type": "Football",
     "items": [
       {
-        "id": 10,
-        "name": "Friendly",
-        "stage": null,
-        "logo": "",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1760230800,
-        "end_time": 1760239800,
-        "show_duration": true,
-        "team_1": {
-          "name": "Mexico",
-          "logo": "logo/teams/mexico_lk7XNO7RfkxtdTS3n4S0.png"
-        },
-        "team_2": {
-          "name": "Colombia",
-          "logo": "logo/teams/colombia_Qtn8lNsfufrLzN3t77jo.png"
-        },
-        "full_team_name": "Mexico 🆚 Colombia",
-        "sources": [
-          {
-            "id": 3669,
-            "name": "Fox Deportes",
-            "description": null
-          }
-        ]
-      },
-      {
         "id": 31,
         "name": "Club Friendly",
         "stage": null,
