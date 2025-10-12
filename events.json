@@ -385,54 +385,6 @@
     "type": "Football",
     "items": [
       {
-        "id": 339,
-        "name": "San Marino 🆚 Cyprus",
-        "stage": null,
-        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "football",
-        "start_time": 1760274000,
-        "end_time": 1760283000,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3666,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 2937,
-            "name": "SPORTV",
-            "description": null
-          },
-          {
-            "id": 2665,
-            "name": "ZIGGO SPORT",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 338,
-        "name": "Zambia 🆚 Niger",
-        "stage": null,
-        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "football",
-        "start_time": 1760274000,
-        "end_time": 1760283000,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3679,
-            "name": "LINK 1",
-            "description": null
-          }
-        ]
-      },
-      {
         "id": 300,
         "name": "FIFA World Cup Qualifying",
         "stage": null,
@@ -456,6 +408,11 @@
           {
             "id": 941,
             "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3770,
+            "name": "LIV",
             "description": null
           }
         ]
@@ -499,6 +456,25 @@
         ]
       },
       {
+        "id": 334,
+        "name": "Chad 🆚 Central African Republic",
+        "stage": null,
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1760284800,
+        "end_time": 1760293800,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3681,
+            "name": "LINK 1",
+            "description": null
+          }
+        ]
+      },
+      {
         "id": 340,
         "name": "Faroe Islands 🆚 Czech Republic",
         "stage": null,
@@ -513,6 +489,11 @@
           {
             "id": 3644,
             "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3771,
+            "name": "LIV",
             "description": null
           }
         ]
@@ -882,12 +863,12 @@
         "full_team_name": "Argentina 🆚 Puerto Rico",
         "sources": [
           {
-            "id": 833,
+            "id": 3275,
             "name": "beIN Sport - USA",
             "description": null
           },
           {
-            "id": 3275,
+            "id": 833,
             "name": "beIN Sport - USA",
             "description": null
           }
