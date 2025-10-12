@@ -113,39 +113,6 @@
     "type": "Cricket",
     "items": [
       {
-        "id": 330,
-        "name": "ICC Womens World Cup",
-        "stage": "13th Match",
-        "logo": "",
-        "color": null,
-        "type": "team",
-        "sport_type": "cricket",
-        "start_time": 1760261400,
-        "end_time": 1760290200,
-        "show_duration": true,
-        "team_1": {
-          "name": "India",
-          "logo": "logo/teams/india_R8DzB45mwxgV921JfOUc.png"
-        },
-        "team_2": {
-          "name": "Australia",
-          "logo": "logo/teams/australia_ft0IHOvqYgEhT2QZC10y.png"
-        },
-        "full_team_name": "India 🆚 Australia",
-        "sources": [
-          {
-            "id": 3202,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 3734,
-            "name": "LINK 2",
-            "description": null
-          }
-        ]
-      },
-      {
         "id": 162,
         "name": "ICC Womens World Cup",
         "stage": " 14th Match",
@@ -385,120 +352,6 @@
     "type": "Football",
     "items": [
       {
-        "id": 300,
-        "name": "FIFA World Cup Qualifying",
-        "stage": null,
-        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1760284800,
-        "end_time": 1760293800,
-        "show_duration": true,
-        "team_1": {
-          "name": "Netherlands",
-          "logo": "logo/teams/netherlands_jQ1TsSgSAxDObcL1V8Uj.png"
-        },
-        "team_2": {
-          "name": "Finland",
-          "logo": "logo/teams/finland_FDupfocJpnVMjmQvldh1.png"
-        },
-        "full_team_name": "Netherlands 🆚 Finland",
-        "sources": [
-          {
-            "id": 941,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 3770,
-            "name": "LIV",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 324,
-        "name": "FIFA World Cup Qualifying",
-        "stage": null,
-        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1760284800,
-        "end_time": 1760293800,
-        "show_duration": true,
-        "team_1": {
-          "name": "Scotland",
-          "logo": "logo/teams/scotland_zzp8k3Xv88EewaHBHnqc.png"
-        },
-        "team_2": {
-          "name": "Belarus",
-          "logo": "logo/teams/belarus_ScOcF6EODU8KEhehbPme.png"
-        },
-        "full_team_name": "Scotland 🆚 Belarus",
-        "sources": [
-          {
-            "id": 3666,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 2937,
-            "name": "SPORTV",
-            "description": null
-          },
-          {
-            "id": 2665,
-            "name": "ZIGGO SPORT",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 334,
-        "name": "Chad 🆚 Central African Republic",
-        "stage": null,
-        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "football",
-        "start_time": 1760284800,
-        "end_time": 1760293800,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3681,
-            "name": "LINK 1",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 340,
-        "name": "Faroe Islands 🆚 Czech Republic",
-        "stage": null,
-        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "football",
-        "start_time": 1760284800,
-        "end_time": 1760293800,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3644,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 3771,
-            "name": "LIV",
-            "description": null
-          }
-        ]
-      },
-      {
         "id": 301,
         "name": "Croatia 🆚 Gibraltar",
         "stage": null,
@@ -510,6 +363,11 @@
         "end_time": 1760303700,
         "show_duration": true,
         "sources": [
+          {
+            "id": 3768,
+            "name": "LINK 1",
+            "description": null
+          },
           {
             "id": 2991,
             "name": "Sky Sport 5 - NZ",
