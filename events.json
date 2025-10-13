@@ -431,6 +431,263 @@
             "description": null
           }
         ]
+      },
+      {
+        "id": 341,
+        "name": "FIFA World Cup Qualifying",
+        "stage": null,
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1760381100,
+        "end_time": 1760390100,
+        "show_duration": true,
+        "team_1": {
+          "name": "France",
+          "logo": "logo/teams/france_aUU9YpY9mRlZaIN96Jcj.png"
+        },
+        "team_2": {
+          "name": "Iceland",
+          "logo": "logo/teams/iceland_fhOdGb7XZLrjg8H4QQRm.png"
+        },
+        "full_team_name": "France 🆚 Iceland",
+        "sources": [
+          {
+            "id": 3644,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 2937,
+            "name": "LINK 2",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 332,
+        "name": "FIFA World Cup Qualifying",
+        "stage": null,
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1760381100,
+        "end_time": 1760390100,
+        "show_duration": true,
+        "team_1": {
+          "name": "Germany",
+          "logo": "logo/teams/germany_MX6p338mvCEG5bh0NxAQ.png"
+        },
+        "team_2": {
+          "name": "Northern Ireland",
+          "logo": "logo/teams/northern-ireland_bXkh8vPz6XqgfWHL08ye.png"
+        },
+        "full_team_name": "Germany 🆚 Northern Ireland",
+        "sources": [
+          {
+            "id": 3666,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 2667,
+            "name": "ZIGGO SPORT 3",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 331,
+        "name": "North Macedonia 🆚 Kazakhstan",
+        "stage": null,
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1760381100,
+        "end_time": 1760390100,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 2995,
+            "name": "Sky Sport 9 - NZ",
+            "description": null
+          },
+          {
+            "id": 826,
+            "name": "Arena Sports 2 - BA",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 335,
+        "name": "Slovakia 🆚 Luxembourg",
+        "stage": null,
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1760381100,
+        "end_time": 1760390100,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 2992,
+            "name": "Sky Sport 6 - NZ",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 323,
+        "name": "Slovenia 🆚 Switzerland",
+        "stage": null,
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1760381100,
+        "end_time": 1760390100,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 2987,
+            "name": "Sky Sport 4 - NZ",
+            "description": null
+          },
+          {
+            "id": 824,
+            "name": "Arena Sports 1 - BA",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 299,
+        "name": "Sweden 🆚 Kosovo",
+        "stage": null,
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1760381100,
+        "end_time": 1760390100,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 2991,
+            "name": "Sky Sport 5 - NZ",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 336,
+        "name": "Ukraine 🆚 Azerbaijan",
+        "stage": null,
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1760381100,
+        "end_time": 1760390100,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 1012,
+            "name": "Sport TV 4",
+            "description": null
+          },
+          {
+            "id": 2993,
+            "name": "Sky Sport 7 - NZ",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 339,
+        "name": "Wales 🆚 Belgium",
+        "stage": null,
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1760381100,
+        "end_time": 1760390100,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3469,
+            "name": "ZIGGO SPORT 5",
+            "description": null
+          },
+          {
+            "id": 2877,
+            "name": "DAZN 2 - DE",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 338,
+        "name": "Honduras 🆚 Haiti",
+        "stage": null,
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1760400000,
+        "end_time": 1760407200,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3456,
+            "name": "LINK 1",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 300,
+        "name": "Costa Rica 🆚 Nicaragua",
+        "stage": null,
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1760407200,
+        "end_time": 1760416200,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3456,
+            "name": "LINK 1",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 324,
+        "name": "Seychelles 🆚 Gambia",
+        "stage": null,
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1760446800,
+        "end_time": 1760455800,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3670,
+            "name": "LINK 1",
+            "description": null
+          }
+        ]
       }
     ]
   },
@@ -462,12 +719,12 @@
         "full_team_name": "Argentina 🆚 Puerto Rico",
         "sources": [
           {
-            "id": 3275,
+            "id": 833,
             "name": "beIN Sport - USA",
             "description": null
           },
           {
-            "id": 833,
+            "id": 3275,
             "name": "beIN Sport - USA",
             "description": null
           }
