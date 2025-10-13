@@ -113,39 +113,6 @@
     "type": "Cricket",
     "items": [
       {
-        "id": 162,
-        "name": "ICC Womens World Cup",
-        "stage": " 14th Match",
-        "logo": "",
-        "color": null,
-        "type": "team",
-        "sport_type": "cricket",
-        "start_time": 1760347800,
-        "end_time": 1760376600,
-        "show_duration": true,
-        "team_1": {
-          "name": "Bangladesh",
-          "logo": "logo/teams/bangladesh_9mfG8dxYyOTt53INypBM.png"
-        },
-        "team_2": {
-          "name": "South Africa",
-          "logo": "logo/teams/south-africa_Ft4TOjd1f9xQlzGVM4a2.png"
-        },
-        "full_team_name": "Bangladesh 🆚 South Africa",
-        "sources": [
-          {
-            "id": 3202,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 3734,
-            "name": "LINK 2",
-            "description": null
-          }
-        ]
-      },
-      {
         "id": 107,
         "name": "ICC Womens World Cup",
         "stage": "15th Match",
@@ -352,87 +319,6 @@
     "type": "Football",
     "items": [
       {
-        "id": 301,
-        "name": "Lesotho 🆚 Zimbabwe",
-        "stage": null,
-        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "football",
-        "start_time": 1760371200,
-        "end_time": 1760380200,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3670,
-            "name": "LINK 1",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 302,
-        "name": "Mauritius 🆚 Libya",
-        "stage": null,
-        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "football",
-        "start_time": 1760371200,
-        "end_time": 1760380200,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3679,
-            "name": "LINK 1",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 334,
-        "name": "Cameroon 🆚 Angola",
-        "stage": null,
-        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "football",
-        "start_time": 1760371200,
-        "end_time": 1760380200,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3681,
-            "name": "LINK 1",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 340,
-        "name": "Cape Verde Islands 🆚 Eswatini",
-        "stage": null,
-        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "football",
-        "start_time": 1760371200,
-        "end_time": 1760380200,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 2888,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 3680,
-            "name": "LINK 2",
-            "description": null
-          }
-        ]
-      },
-      {
         "id": 341,
         "name": "FIFA World Cup Qualifying",
         "stage": null,
@@ -461,6 +347,11 @@
           {
             "id": 2937,
             "name": "LINK 2",
+            "description": null
+          },
+          {
+            "id": 3776,
+            "name": "LIV",
             "description": null
           }
         ]
@@ -492,6 +383,11 @@
             "description": null
           },
           {
+            "id": 3764,
+            "name": "LIV",
+            "description": null
+          },
+          {
             "id": 2667,
             "name": "ZIGGO SPORT 3",
             "description": null
@@ -511,13 +407,18 @@
         "show_duration": true,
         "sources": [
           {
-            "id": 2995,
-            "name": "Sky Sport 9 - NZ",
+            "id": 3766,
+            "name": "LIV",
             "description": null
           },
           {
             "id": 826,
             "name": "Arena Sports 2 - BA",
+            "description": null
+          },
+          {
+            "id": 2995,
+            "name": "Sky Sport 9 - NZ",
             "description": null
           }
         ]
@@ -534,6 +435,11 @@
         "end_time": 1760390100,
         "show_duration": true,
         "sources": [
+          {
+            "id": 3777,
+            "name": "LIV",
+            "description": null
+          },
           {
             "id": 2992,
             "name": "Sky Sport 6 - NZ",
@@ -554,13 +460,23 @@
         "show_duration": true,
         "sources": [
           {
-            "id": 2987,
-            "name": "Sky Sport 4 - NZ",
+            "id": 3279,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3767,
+            "name": "LIV",
             "description": null
           },
           {
             "id": 824,
             "name": "Arena Sports 1 - BA",
+            "description": null
+          },
+          {
+            "id": 2987,
+            "name": "Sky Sport 4 - NZ",
             "description": null
           }
         ]
@@ -577,6 +493,11 @@
         "end_time": 1760390100,
         "show_duration": true,
         "sources": [
+          {
+            "id": 3778,
+            "name": "LIV",
+            "description": null
+          },
           {
             "id": 2991,
             "name": "Sky Sport 5 - NZ",
@@ -596,6 +517,11 @@
         "end_time": 1760390100,
         "show_duration": true,
         "sources": [
+          {
+            "id": 3753,
+            "name": "LIV",
+            "description": null
+          },
           {
             "id": 1012,
             "name": "Sport TV 4",
@@ -623,6 +549,11 @@
           {
             "id": 3469,
             "name": "ZIGGO SPORT 5",
+            "description": null
+          },
+          {
+            "id": 3779,
+            "name": "LIV",
             "description": null
           },
           {
@@ -684,66 +615,6 @@
         "sources": [
           {
             "id": 3670,
-            "name": "LINK 1",
-            "description": null
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": 5,
-    "name": "Friendly",
-    "logo": "logo/events/categories/club-friendly_ecYCwMmRVPRI4yF7vmAm.jpg",
-    "type": "Football",
-    "items": [
-      {
-        "id": 31,
-        "name": "Club Friendly",
-        "stage": null,
-        "logo": "",
-        "color": "#003a86",
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1760367600,
-        "end_time": 1760376600,
-        "show_duration": true,
-        "team_1": {
-          "name": "Argentina",
-          "logo": "logo/teams/argentina_pDa8KIvC0PZ1iOF1swve.png"
-        },
-        "team_2": {
-          "name": "Puerto Rico",
-          "logo": "logo/teams/puerto-rico_zInilDURFokatKHeaOy9.png"
-        },
-        "full_team_name": "Argentina 🆚 Puerto Rico",
-        "sources": [
-          {
-            "id": 833,
-            "name": "beIN Sport - USA",
-            "description": null
-          },
-          {
-            "id": 3275,
-            "name": "beIN Sport - USA",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 293,
-        "name": "Montenegro 🆚 Liechtenstein",
-        "stage": null,
-        "logo": "",
-        "color": "#003a86",
-        "type": "single",
-        "sport_type": "football",
-        "start_time": 1760371200,
-        "end_time": 1760380200,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3666,
             "name": "LINK 1",
             "description": null
           }
