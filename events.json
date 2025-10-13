@@ -352,15 +352,15 @@
     "type": "Football",
     "items": [
       {
-        "id": 339,
-        "name": "Equatorial Guinea 🆚 Liberia",
+        "id": 301,
+        "name": "Lesotho 🆚 Zimbabwe",
         "stage": null,
         "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
         "color": null,
         "type": "single",
         "sport_type": "football",
-        "start_time": 1760360400,
-        "end_time": 1760369400,
+        "start_time": 1760371200,
+        "end_time": 1760380200,
         "show_duration": true,
         "sources": [
           {
@@ -371,15 +371,15 @@
         ]
       },
       {
-        "id": 338,
-        "name": "Sao Tome e Principe 🆚 Malawi",
+        "id": 302,
+        "name": "Mauritius 🆚 Libya",
         "stage": null,
         "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
         "color": null,
         "type": "single",
         "sport_type": "football",
-        "start_time": 1760360400,
-        "end_time": 1760369400,
+        "start_time": 1760371200,
+        "end_time": 1760380200,
         "show_duration": true,
         "sources": [
           {
@@ -390,34 +390,34 @@
         ]
       },
       {
-        "id": 300,
-        "name": "South Sudan 🆚 Togo",
+        "id": 334,
+        "name": "Cameroon 🆚 Angola",
         "stage": null,
         "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
         "color": null,
         "type": "single",
         "sport_type": "football",
-        "start_time": 1760360400,
-        "end_time": 1760369400,
+        "start_time": 1760371200,
+        "end_time": 1760380200,
         "show_duration": true,
         "sources": [
           {
-            "id": 3680,
+            "id": 3681,
             "name": "LINK 1",
             "description": null
           }
         ]
       },
       {
-        "id": 324,
-        "name": "Tunisia 🆚 Namibia",
+        "id": 340,
+        "name": "Cape Verde Islands 🆚 Eswatini",
         "stage": null,
         "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
         "color": null,
         "type": "single",
         "sport_type": "football",
-        "start_time": 1760360400,
-        "end_time": 1760369400,
+        "start_time": 1760371200,
+        "end_time": 1760380200,
         "show_duration": true,
         "sources": [
           {
@@ -426,7 +426,7 @@
             "description": null
           },
           {
-            "id": 3681,
+            "id": 3680,
             "name": "LINK 2",
             "description": null
           }
@@ -440,34 +440,6 @@
     "logo": "logo/events/categories/club-friendly_ecYCwMmRVPRI4yF7vmAm.jpg",
     "type": "Football",
     "items": [
-      {
-        "id": 10,
-        "name": "Friendly",
-        "stage": null,
-        "logo": "",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1760360400,
-        "end_time": 1760369400,
-        "show_duration": true,
-        "team_1": {
-          "name": "India",
-          "logo": "logo/teams/india_n9OPsC9juDKNG065XpXN.png"
-        },
-        "team_2": {
-          "name": "Indonesia",
-          "logo": "logo/teams/indonesia_4tWlUL1yLuFRpJD3o0UY.png"
-        },
-        "full_team_name": "India 🆚 Indonesia",
-        "sources": [
-          {
-            "id": 3758,
-            "name": "LINK 1",
-            "description": null
-          }
-        ]
-      },
       {
         "id": 31,
         "name": "Club Friendly",
