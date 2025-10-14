@@ -37,8 +37,13 @@
             "description": null
           },
           {
+            "id": 3782,
+            "name": "LINK 3",
+            "description": null
+          },
+          {
             "id": 3541,
-            "name": "LINK 2 - SD",
+            "name": "SD",
             "description": null
           }
         ]
@@ -67,6 +72,390 @@
           {
             "id": 3654,
             "name": "LINK 2",
+            "description": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "name": "FIFA World Cup Qualifying",
+    "logo": "logo/events/categories/fifa-world-cup-qualifying_KseXA5ZohFslvn5ZLJHG.png",
+    "type": "Football",
+    "items": [
+      {
+        "id": 301,
+        "name": "Algeria 🆚 Uganda",
+        "stage": null,
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1760457600,
+        "end_time": 1760466600,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3670,
+            "name": "LINK 1",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 302,
+        "name": "Estonia 🆚 Moldova",
+        "stage": null,
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1760457600,
+        "end_time": 1760466600,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3666,
+            "name": "LINK 1",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 340,
+        "name": "Nigeria 🆚 Benin",
+        "stage": null,
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1760457600,
+        "end_time": 1760466600,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3680,
+            "name": "LINK 1",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 334,
+        "name": "Guinea 🆚 Botswana",
+        "stage": null,
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1760457600,
+        "end_time": 1760466600,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3681,
+            "name": "LINK 1",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 335,
+        "name": "Somalia 🆚 Mozambique",
+        "stage": null,
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1760457600,
+        "end_time": 1760466600,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3745,
+            "name": "LINK 1",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 331,
+        "name": "South Africa 🆚 Rwanda",
+        "stage": null,
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1760457600,
+        "end_time": 1760466600,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3736,
+            "name": "LINK 1",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 300,
+        "name": "Qatar 🆚 United Arab Emirates",
+        "stage": null,
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1760461200,
+        "end_time": 1760470200,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 815,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 2500,
+            "name": "LINK 2",
+            "description": null
+          },
+          {
+            "id": 836,
+            "name": "beIN Sport 1 - AR",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 341,
+        "name": "FIFA World Cup Qualifying",
+        "stage": null,
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1760467500,
+        "end_time": 1760476500,
+        "show_duration": true,
+        "team_1": {
+          "name": "Portugal",
+          "logo": "logo/teams/portugal_Gs8ir1xWAj6XfWvhiFMb.png"
+        },
+        "team_2": {
+          "name": "Hungary",
+          "logo": "logo/teams/hungary_eu1UjX8j9CfsXnmZi1F6.png"
+        },
+        "full_team_name": "Portugal 🆚 Hungary",
+        "sources": [
+          {
+            "id": 3781,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 2877,
+            "name": "DAZN 2 - DE",
+            "description": null
+          },
+          {
+            "id": 1007,
+            "name": "Sport TV 1",
+            "description": null
+          },
+          {
+            "id": 2546,
+            "name": "Arena Sports 3 Premium - BA",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 332,
+        "name": "FIFA World Cup Qualifying",
+        "stage": null,
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1760467500,
+        "end_time": 1760476500,
+        "show_duration": true,
+        "team_1": {
+          "name": "Spain",
+          "logo": "logo/teams/spain_iyBZzr7BgNu358JERkex.png"
+        },
+        "team_2": {
+          "name": "Bulgaria",
+          "logo": "logo/teams/bulgaria_tc8RBqZjEAC0BAhAlcEG.png"
+        },
+        "full_team_name": "Spain 🆚 Bulgaria",
+        "sources": [
+          {
+            "id": 2558,
+            "name": "ZIGGO SPORT 2",
+            "description": null
+          },
+          {
+            "id": 2990,
+            "name": "Sky Sport 3 - NZ",
+            "description": null
+          },
+          {
+            "id": 856,
+            "name": "beIN Sport 3 - AR",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 323,
+        "name": "FIFA World Cup Qualifying",
+        "stage": null,
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1760467500,
+        "end_time": 1760476500,
+        "show_duration": true,
+        "team_1": {
+          "name": "England",
+          "logo": "logo/teams/england_uXHP1Ttaijy4yq2kheYG.png"
+        },
+        "team_2": {
+          "name": "Latvia",
+          "logo": "logo/teams/latvia_vR3spJBFxyRaGkWwNxhc.png"
+        },
+        "full_team_name": "England 🆚 Latvia",
+        "sources": [
+          {
+            "id": 3666,
+            "name": "LINK 1",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 299,
+        "name": "FIFA World Cup Qualifying",
+        "stage": null,
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1760467500,
+        "end_time": 1760476500,
+        "show_duration": true,
+        "team_1": {
+          "name": "Italy",
+          "logo": "logo/teams/italy_mChUeuYcWwpL0H8ODZhh.png"
+        },
+        "team_2": {
+          "name": "Israel",
+          "logo": "logo/teams/israel_tCMLUbSytlXWKbOqCfVi.png"
+        },
+        "full_team_name": "Italy 🆚 Israel",
+        "sources": [
+          {
+            "id": 3644,
+            "name": "LINK 1",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 336,
+        "name": "Andorra 🆚 Serbia",
+        "stage": null,
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1760467500,
+        "end_time": 1760476500,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 2542,
+            "name": "Arena Sports 1 Premium - BA",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 339,
+        "name": "Ireland Republic 🆚 Armenia",
+        "stage": null,
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1760467500,
+        "end_time": 1760476500,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3341,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 876,
+            "name": "beIN Sport 7 - AR",
+            "description": null
+          },
+          {
+            "id": 2992,
+            "name": "Sky Sport 6 - NZ",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 338,
+        "name": "Saudi Arabia 🆚 Iraq",
+        "stage": null,
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1760467500,
+        "end_time": 1760476500,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 2500,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 851,
+            "name": "beIN Sport 2 - AR",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 324,
+        "name": "Turkey 🆚 Georgia",
+        "stage": null,
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1760467500,
+        "end_time": 1760476500,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 871,
+            "name": "beIN Sport 6 - AR",
+            "description": null
+          },
+          {
+            "id": 2991,
+            "name": "Sky Sport 5 - NZ",
             "description": null
           }
         ]
@@ -280,140 +669,284 @@
     ]
   },
   {
-    "id": 52,
-    "name": "FIFA World Cup Qualifying",
-    "logo": "logo/events/categories/fifa-world-cup-qualifying_KseXA5ZohFslvn5ZLJHG.png",
+    "id": 5,
+    "name": "Friendly",
+    "logo": "logo/events/categories/club-friendly_ecYCwMmRVPRI4yF7vmAm.jpg",
     "type": "Football",
     "items": [
       {
-        "id": 324,
-        "name": "Seychelles 🆚 Gambia",
+        "id": 295,
+        "name": "Friendly",
         "stage": null,
-        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
-        "color": null,
-        "type": "single",
+        "logo": "",
+        "color": "#003a86",
+        "type": "team",
         "sport_type": "football",
-        "start_time": 1760446800,
-        "end_time": 1760455800,
+        "start_time": 1760486400,
+        "end_time": 1760495400,
         "show_duration": true,
+        "team_1": {
+          "name": "Argentina",
+          "logo": "logo/teams/argentina_pDa8KIvC0PZ1iOF1swve.png"
+        },
+        "team_2": {
+          "name": "Puerto Rico",
+          "logo": "logo/teams/puerto-rico_zInilDURFokatKHeaOy9.png"
+        },
+        "full_team_name": "Argentina 🆚 Puerto Rico",
         "sources": [
           {
-            "id": 3670,
+            "id": 3485,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3275,
+            "name": "beIN Sport - USA",
+            "description": null
+          },
+          {
+            "id": 3562,
+            "name": "TYC Sports",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 298,
+        "name": "Friendly",
+        "stage": null,
+        "logo": "",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1760486400,
+        "end_time": 1760495400,
+        "show_duration": true,
+        "team_1": {
+          "name": "Canada",
+          "logo": "logo/teams/canada_phdsl5w0wsMQtVxWaShw.png"
+        },
+        "team_2": {
+          "name": "Colombia",
+          "logo": "logo/teams/colombia_Qtn8lNsfufrLzN3t77jo.png"
+        },
+        "full_team_name": "Canada 🆚 Colombia",
+        "sources": [
+          {
+            "id": 2742,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 2750,
+            "name": "LINK 2",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 294,
+        "name": "Friendly",
+        "stage": null,
+        "logo": "",
+        "color": "#003a86",
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1760490000,
+        "end_time": 1760499000,
+        "show_duration": true,
+        "team_1": {
+          "name": "United States",
+          "logo": "logo/teams/united-states_Tnl0x0Mqm0tYaRL6x7Xd.png"
+        },
+        "team_2": {
+          "name": "Australia",
+          "logo": "logo/teams/australia_GiCP9ymQo4c6q06uePej.png"
+        },
+        "full_team_name": "United States 🆚 Australia",
+        "sources": [
+          {
+            "id": 3456,
             "name": "LINK 1",
             "description": null
           }
         ]
       },
       {
-        "id": 301,
-        "name": "Algeria 🆚 Uganda",
+        "id": 296,
+        "name": "Friendly",
         "stage": null,
-        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
-        "color": null,
-        "type": "single",
+        "logo": "",
+        "color": "#003a86",
+        "type": "team",
         "sport_type": "football",
-        "start_time": 1760457600,
-        "end_time": 1760466600,
+        "start_time": 1760495400,
+        "end_time": 1760504400,
         "show_duration": true,
+        "team_1": {
+          "name": "Mexico",
+          "logo": "logo/teams/mexico_lk7XNO7RfkxtdTS3n4S0.png"
+        },
+        "team_2": {
+          "name": "Ecuador",
+          "logo": "logo/teams/ecuador_p1HR4xMsIa3CPw9m2wRR.png"
+        },
+        "full_team_name": "Mexico 🆚 Ecuador",
         "sources": [
           {
-            "id": 3670,
+            "id": 3669,
             "name": "LINK 1",
             "description": null
           }
         ]
-      },
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "name": "FIFA U-20 World Cup",
+    "logo": "logo/events/categories/fifa-club-world-cup_uKXWsqNaJmoeEKidZZbj.png",
+    "type": "Football",
+    "items": [
       {
-        "id": 302,
-        "name": "Estonia 🆚 Moldova",
-        "stage": null,
+        "id": 333,
+        "name": "FIFA U-20 World Cup",
+        "stage": "Semi Final 1",
         "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
         "color": null,
-        "type": "single",
+        "type": "team",
         "sport_type": "football",
-        "start_time": 1760457600,
-        "end_time": 1760466600,
+        "start_time": 1760558400,
+        "end_time": 1760567400,
         "show_duration": true,
+        "team_1": {
+          "name": "France",
+          "logo": "logo/teams/france_aUU9YpY9mRlZaIN96Jcj.png"
+        },
+        "team_2": {
+          "name": "Morocco",
+          "logo": "logo/teams/morocco_PmfSAM1qmVEHVMEj4bDl.png"
+        },
+        "full_team_name": "France 🆚 Morocco",
         "sources": [
           {
             "id": 3666,
             "name": "LINK 1",
             "description": null
+          },
+          {
+            "id": 3456,
+            "name": "LINK 2",
+            "description": null
+          },
+          {
+            "id": 2750,
+            "name": "TSN 5",
+            "description": null
           }
         ]
       },
       {
-        "id": 340,
-        "name": "Nigeria 🆚 Benin",
-        "stage": null,
+        "id": 325,
+        "name": "FIFA U-20 World Cup",
+        "stage": "Semi Final 2",
         "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
         "color": null,
-        "type": "single",
+        "type": "team",
         "sport_type": "football",
-        "start_time": 1760457600,
-        "end_time": 1760466600,
+        "start_time": 1760569200,
+        "end_time": 1760578200,
         "show_duration": true,
+        "team_1": {
+          "name": "Argentina",
+          "logo": "logo/teams/argentina_pDa8KIvC0PZ1iOF1swve.png"
+        },
+        "team_2": {
+          "name": "Colombia",
+          "logo": "logo/teams/colombia_Qtn8lNsfufrLzN3t77jo.png"
+        },
+        "full_team_name": "Argentina 🆚 Colombia",
         "sources": [
           {
-            "id": 3680,
+            "id": 3666,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3575,
+            "name": "Telemundo",
+            "description": null
+          },
+          {
+            "id": 2750,
+            "name": "TSN 5",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 337,
+        "name": "FIFA U-20 World Cup",
+        "stage": "Third Place",
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1760727600,
+        "end_time": 1760736600,
+        "show_duration": true,
+        "team_1": {
+          "name": "TBD",
+          "logo": "logo/teams/tbc_qLJZPLER7vt7ZS6pHxiO.png"
+        },
+        "team_2": {
+          "name": "TBD",
+          "logo": "logo/teams/tbc_qLJZPLER7vt7ZS6pHxiO.png"
+        },
+        "full_team_name": "TBD 🆚 TBD",
+        "sources": [
+          {
+            "id": 3761,
             "name": "LINK 1",
             "description": null
           }
         ]
       },
       {
-        "id": 334,
-        "name": "Guinea 🆚 Botswana",
-        "stage": null,
+        "id": 291,
+        "name": "FIFA U-20 World Cup",
+        "stage": "FINAl",
         "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
         "color": null,
-        "type": "single",
+        "type": "team",
         "sport_type": "football",
-        "start_time": 1760457600,
-        "end_time": 1760466600,
+        "start_time": 1760900400,
+        "end_time": 1760909400,
         "show_duration": true,
+        "team_1": {
+          "name": "TBD",
+          "logo": "logo/teams/tbc_qLJZPLER7vt7ZS6pHxiO.png"
+        },
+        "team_2": {
+          "name": "TBD",
+          "logo": "logo/teams/tbc_qLJZPLER7vt7ZS6pHxiO.png"
+        },
+        "full_team_name": "TBD 🆚 TBD",
         "sources": [
           {
-            "id": 3681,
+            "id": 3666,
             "name": "LINK 1",
             "description": null
-          }
-        ]
-      },
-      {
-        "id": 335,
-        "name": "Somalia 🆚 Mozambique",
-        "stage": null,
-        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "football",
-        "start_time": 1760457600,
-        "end_time": 1760466600,
-        "show_duration": true,
-        "sources": [
+          },
           {
-            "id": 3745,
-            "name": "LINK 1",
+            "id": 3575,
+            "name": "LINK 2",
             "description": null
-          }
-        ]
-      },
-      {
-        "id": 331,
-        "name": "South Africa 🆚 Rwanda",
-        "stage": null,
-        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "football",
-        "start_time": 1760457600,
-        "end_time": 1760466600,
-        "show_duration": true,
-        "sources": [
+          },
           {
-            "id": 3736,
-            "name": "LINK 1",
+            "id": 2750,
+            "name": "TSN 5",
             "description": null
           }
         ]
