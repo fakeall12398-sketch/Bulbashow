@@ -85,149 +85,6 @@
     "type": "Football",
     "items": [
       {
-        "id": 301,
-        "name": "Algeria 🆚 Uganda",
-        "stage": null,
-        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "football",
-        "start_time": 1760457600,
-        "end_time": 1760466600,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3670,
-            "name": "LINK 1",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 302,
-        "name": "Estonia 🆚 Moldova",
-        "stage": null,
-        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "football",
-        "start_time": 1760457600,
-        "end_time": 1760466600,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3666,
-            "name": "LINK 1",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 340,
-        "name": "Nigeria 🆚 Benin",
-        "stage": null,
-        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "football",
-        "start_time": 1760457600,
-        "end_time": 1760466600,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3680,
-            "name": "LINK 1",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 334,
-        "name": "Guinea 🆚 Botswana",
-        "stage": null,
-        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "football",
-        "start_time": 1760457600,
-        "end_time": 1760466600,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3681,
-            "name": "LINK 1",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 335,
-        "name": "Somalia 🆚 Mozambique",
-        "stage": null,
-        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "football",
-        "start_time": 1760457600,
-        "end_time": 1760466600,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3745,
-            "name": "LINK 1",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 331,
-        "name": "South Africa 🆚 Rwanda",
-        "stage": null,
-        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "football",
-        "start_time": 1760457600,
-        "end_time": 1760466600,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3736,
-            "name": "LINK 1",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 300,
-        "name": "Qatar 🆚 United Arab Emirates",
-        "stage": null,
-        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "football",
-        "start_time": 1760461200,
-        "end_time": 1760470200,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 815,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 2500,
-            "name": "LINK 2",
-            "description": null
-          },
-          {
-            "id": 836,
-            "name": "beIN Sport 1 - AR",
-            "description": null
-          }
-        ]
-      },
-      {
         "id": 341,
         "name": "FIFA World Cup Qualifying",
         "stage": null,
@@ -449,13 +306,13 @@
         "show_duration": true,
         "sources": [
           {
-            "id": 871,
-            "name": "beIN Sport 6 - AR",
+            "id": 2991,
+            "name": "Sky Sport 5 - NZ",
             "description": null
           },
           {
-            "id": 2991,
-            "name": "Sky Sport 5 - NZ",
+            "id": 871,
+            "name": "beIN Sport 6 - AR",
             "description": null
           }
         ]
@@ -468,39 +325,6 @@
     "logo": "logo/events/categories/icc-womens-world-cup_Tac4U4YHpuekyiqOw3CJ.png",
     "type": "Cricket",
     "items": [
-      {
-        "id": 107,
-        "name": "ICC Womens World Cup",
-        "stage": "15th Match",
-        "logo": "",
-        "color": null,
-        "type": "team",
-        "sport_type": "cricket",
-        "start_time": 1760434200,
-        "end_time": 1760463000,
-        "show_duration": true,
-        "team_1": {
-          "name": "Sri Lanka",
-          "logo": "logo/teams/sri-lanka_oUuxxnRFqx3sjQ3WUtfY.jpg"
-        },
-        "team_2": {
-          "name": "New Zealand",
-          "logo": "logo/teams/new-zealand_Bo0hBUgvsLhkGvuy7NLf.png"
-        },
-        "full_team_name": "Sri Lanka 🆚 New Zealand",
-        "sources": [
-          {
-            "id": 3202,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 3734,
-            "name": "LINK 2",
-            "description": null
-          }
-        ]
-      },
       {
         "id": 88,
         "name": "ICC Womens World Cup",
