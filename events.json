@@ -314,25 +314,6 @@
     "type": "Football",
     "items": [
       {
-        "id": 300,
-        "name": "Costa Rica 🆚 Nicaragua",
-        "stage": null,
-        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "football",
-        "start_time": 1760407200,
-        "end_time": 1760416200,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3456,
-            "name": "LINK 1",
-            "description": null
-          }
-        ]
-      },
-      {
         "id": 324,
         "name": "Seychelles 🆚 Gambia",
         "stage": null,
