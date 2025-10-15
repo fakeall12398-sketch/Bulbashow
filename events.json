@@ -42,39 +42,6 @@
     "type": "Cricket",
     "items": [
       {
-        "id": 88,
-        "name": "ICC Womens World Cup",
-        "stage": "16th Match",
-        "logo": "",
-        "color": null,
-        "type": "team",
-        "sport_type": "cricket",
-        "start_time": 1760520600,
-        "end_time": 1760549400,
-        "show_duration": true,
-        "team_1": {
-          "name": "England",
-          "logo": "logo/teams/england_lR9prItXfM5WG6lZqsOD.png"
-        },
-        "team_2": {
-          "name": "Pakisthan",
-          "logo": "logo/teams/pakisthan_QCFdXH7TItyN21PE72wI.png"
-        },
-        "full_team_name": "England 🆚 Pakisthan",
-        "sources": [
-          {
-            "id": 3202,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 3734,
-            "name": "LINK 2",
-            "description": null
-          }
-        ]
-      },
-      {
         "id": 161,
         "name": "ICC Womens World Cup",
         "stage": "17th Match",
