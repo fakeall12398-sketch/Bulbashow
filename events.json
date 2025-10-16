@@ -153,42 +153,6 @@
     ]
   },
   {
-    "id": 44,
-    "name": "FIFA U-20 World Cup",
-    "logo": "logo/events/categories/fifa-club-world-cup_uKXWsqNaJmoeEKidZZbj.png",
-    "type": "Football",
-    "items": [
-      {
-        "id": 337,
-        "name": "FIFA U-20 World Cup",
-        "stage": "Third Place",
-        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1760727600,
-        "end_time": 1760736600,
-        "show_duration": true,
-        "team_1": {
-          "name": "TBD",
-          "logo": "logo/teams/tbc_qLJZPLER7vt7ZS6pHxiO.png"
-        },
-        "team_2": {
-          "name": "TBD",
-          "logo": "logo/teams/tbc_qLJZPLER7vt7ZS6pHxiO.png"
-        },
-        "full_team_name": "TBD 🆚 TBD",
-        "sources": [
-          {
-            "id": 3761,
-            "name": "LINK 1",
-            "description": null
-          }
-        ]
-      }
-    ]
-  },
-  {
     "id": 18,
     "name": "ICC Womens World Cup",
     "logo": "logo/events/categories/icc-womens-world-cup_Tac4U4YHpuekyiqOw3CJ.png",
@@ -288,6 +252,71 @@
           {
             "id": 3683,
             "name": "LINK 2",
+            "description": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Saudi Pro League",
+    "logo": "logo/events/categories/saudi-pro-league_u7DXK6SUZP664JoFeYfB.png",
+    "type": "Football",
+    "items": [
+      {
+        "id": 251,
+        "name": "Al Feiha 🆚 Al Ittihad",
+        "stage": null,
+        "logo": "logo/events/roshn-saudi-league_327.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1760713500,
+        "end_time": 1760722500,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3692,
+            "name": "LINK 1",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 374,
+        "name": "Al Kholood 🆚 Al Najma",
+        "stage": null,
+        "logo": "logo/events/roshn-saudi-league_327.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1760713800,
+        "end_time": 1760722800,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3691,
+            "name": "LINK 1",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 69,
+        "name": "Al-Ahli 🆚 Al Shabab",
+        "stage": null,
+        "logo": "logo/events/roshn-saudi-league_327.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1760724000,
+        "end_time": 1760733000,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3692,
+            "name": "LINK 1",
             "description": null
           }
         ]
@@ -473,6 +502,42 @@
           {
             "id": 3289,
             "name": "beIN Sport 2 - AUS",
+            "description": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "name": "FIFA U-20 World Cup",
+    "logo": "logo/events/categories/fifa-club-world-cup_uKXWsqNaJmoeEKidZZbj.png",
+    "type": "Football",
+    "items": [
+      {
+        "id": 337,
+        "name": "FIFA U-20 World Cup",
+        "stage": "Third Place",
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1760727600,
+        "end_time": 1760736600,
+        "show_duration": true,
+        "team_1": {
+          "name": "TBD",
+          "logo": "logo/teams/tbc_qLJZPLER7vt7ZS6pHxiO.png"
+        },
+        "team_2": {
+          "name": "TBD",
+          "logo": "logo/teams/tbc_qLJZPLER7vt7ZS6pHxiO.png"
+        },
+        "full_team_name": "TBD 🆚 TBD",
+        "sources": [
+          {
+            "id": 3761,
+            "name": "LINK 1",
             "description": null
           }
         ]
