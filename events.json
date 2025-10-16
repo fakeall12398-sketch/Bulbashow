@@ -223,6 +223,39 @@
             "description": null
           }
         ]
+      },
+      {
+        "id": 328,
+        "name": "ICC Womens World Cup",
+        "stage": "19th Match",
+        "logo": "",
+        "color": null,
+        "type": "team",
+        "sport_type": "cricket",
+        "start_time": 1760779800,
+        "end_time": 1760808600,
+        "show_duration": true,
+        "team_1": {
+          "name": "New Zealand",
+          "logo": "logo/teams/new-zealand_Bo0hBUgvsLhkGvuy7NLf.png"
+        },
+        "team_2": {
+          "name": "Pakisthan",
+          "logo": "logo/teams/pakisthan_QCFdXH7TItyN21PE72wI.png"
+        },
+        "full_team_name": "New Zealand 🆚 Pakisthan",
+        "sources": [
+          {
+            "id": 3202,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3734,
+            "name": "LINK 2",
+            "description": null
+          }
+        ]
       }
     ]
   },
@@ -412,6 +445,87 @@
             "description": null
           }
         ]
+      },
+      {
+        "id": 80,
+        "name": "LALIGA",
+        "stage": null,
+        "logo": "logo/events/sevilla-villarreal_wqSkWfYjIH5dihHm8c1A.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1760788800,
+        "end_time": 1760797800,
+        "show_duration": true,
+        "team_1": {
+          "name": "Sevilla",
+          "logo": "logo/teams/sevilla_iuTiMvXQliW7v1Q5A5Xd.png"
+        },
+        "team_2": {
+          "name": "Mallorca",
+          "logo": "logo/teams/mallorca_x4uSrp0Fng6PKaKXJC5v.png"
+        },
+        "full_team_name": "Sevilla 🆚 Mallorca",
+        "sources": [
+          {
+            "id": 2861,
+            "name": "Premier Sports 1 ",
+            "description": null
+          },
+          {
+            "id": 2665,
+            "name": "ZIGGO SPORT",
+            "description": null
+          },
+          {
+            "id": 3465,
+            "name": "beIN Sport 7 MAX - FR",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 65,
+        "name": "LALIGA",
+        "stage": null,
+        "logo": "logo/events/celta-de-vigo-valencia_jIVHMZlw4Oj0Ls1xze8y.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1760796900,
+        "end_time": 1760805900,
+        "show_duration": true,
+        "team_1": {
+          "name": "Barcelona",
+          "logo": "logo/teams/barcelona_NiCxfEeaPHngHzLBDHm2.png"
+        },
+        "team_2": {
+          "name": "Girona",
+          "logo": "logo/teams/girona_JjwoRrzPtyq2ftaBwfvd.png"
+        },
+        "full_team_name": "Barcelona 🆚 Girona",
+        "sources": [
+          {
+            "id": 3289,
+            "name": "beIN Sport 2 - AUS",
+            "description": null
+          },
+          {
+            "id": 3043,
+            "name": "LALIGA TV",
+            "description": null
+          },
+          {
+            "id": 2665,
+            "name": "ZIGGO SPORT",
+            "description": null
+          },
+          {
+            "id": 3462,
+            "name": "beIN Sport 3 - FR",
+            "description": null
+          }
+        ]
       }
     ]
   },
@@ -446,6 +560,116 @@
           {
             "id": 2937,
             "name": "SPORTV",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 93,
+        "name": "Mainz 05 🆚 Bayer Leverkusen",
+        "stage": null,
+        "logo": "logo/events/hoffenheim-bayer-leverkusen_W0M2W6UxsD7TsKSPbJB3.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1760794200,
+        "end_time": 1760803200,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3699,
+            "name": "LINK 1",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 272,
+        "name": "Heidenheim 🆚 Werder Bremen",
+        "stage": null,
+        "logo": "logo/events/hoffenheim-bayer-leverkusen_W0M2W6UxsD7TsKSPbJB3.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1760794200,
+        "end_time": 1760803200,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3685,
+            "name": "LINK 1",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 134,
+        "name": "Köln 🆚 Augsburg",
+        "stage": null,
+        "logo": "logo/events/hoffenheim-bayer-leverkusen_W0M2W6UxsD7TsKSPbJB3.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1760794200,
+        "end_time": 1760803200,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3684,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3464,
+            "name": "beIN Sport 6 MAX - FR",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 273,
+        "name": "RB Leipzig 🆚 Hamburger SV",
+        "stage": null,
+        "logo": "logo/events/hoffenheim-bayer-leverkusen_W0M2W6UxsD7TsKSPbJB3.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1760794200,
+        "end_time": 1760803200,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3461,
+            "name": "beIN Sport 2 - FR",
+            "description": null
+          },
+          {
+            "id": 3683,
+            "name": "LINK 1",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 369,
+        "name": "Wolfsburg 🆚 Stuttgart",
+        "stage": null,
+        "logo": "logo/events/hoffenheim-bayer-leverkusen_W0M2W6UxsD7TsKSPbJB3.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1760794200,
+        "end_time": 1760803200,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3682,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3463,
+            "name": "beIN Sport 5 MAX - FR",
             "description": null
           }
         ]
@@ -502,6 +726,63 @@
           {
             "id": 3289,
             "name": "beIN Sport 2 - AUS",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 366,
+        "name": "Karlsruher SC 🆚 Kaiserslautern",
+        "stage": null,
+        "logo": "logo/events/elversberg-kaiserslautern_u7XcxXJ8sRFF8zKriQ0p.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "cricket",
+        "start_time": 1760785200,
+        "end_time": 1760794200,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3699,
+            "name": "LINK 1",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 315,
+        "name": "Paderborn 🆚 Arminia Bielefeld",
+        "stage": null,
+        "logo": "logo/events/elversberg-kaiserslautern_u7XcxXJ8sRFF8zKriQ0p.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "cricket",
+        "start_time": 1760785200,
+        "end_time": 1760794200,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3684,
+            "name": "LINK 1",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 316,
+        "name": "Preußen Münster 🆚 Dynamo Dresden",
+        "stage": null,
+        "logo": "logo/events/elversberg-kaiserslautern_u7XcxXJ8sRFF8zKriQ0p.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "cricket",
+        "start_time": 1760785200,
+        "end_time": 1760794200,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3685,
+            "name": "LINK 1",
             "description": null
           }
         ]
@@ -625,6 +906,301 @@
     ]
   },
   {
+    "id": 11,
+    "name": "Premier League",
+    "logo": "logo/events/categories/premier-league_DxTuHXdZHzmgURaJXIV3.png",
+    "type": "Football",
+    "items": [
+      {
+        "id": 63,
+        "name": "Premier League",
+        "stage": null,
+        "logo": "logo/events/premier-league_653.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1760787000,
+        "end_time": 1760796000,
+        "show_duration": true,
+        "team_1": {
+          "name": "Chelsea",
+          "logo": "logo/teams/chelsea_4qmk0ruyKon66luWMjkX.webp"
+        },
+        "team_2": {
+          "name": "Nottingham Forest",
+          "logo": "logo/teams/nottingham-forest_ZlzDoHRM4YWe1pXsIvkm.png"
+        },
+        "full_team_name": "Chelsea 🆚 Nottingham Forest",
+        "sources": [
+          {
+            "id": 902,
+            "name": "TNT Sports 1 (BT Sports) ",
+            "description": null
+          },
+          {
+            "id": 1714,
+            "name": "USA Network",
+            "description": null
+          },
+          {
+            "id": 3485,
+            "name": "FUBO Sports",
+            "description": null
+          },
+          {
+            "id": 981,
+            "name": "SKY SPORTS  Premier League",
+            "description": null
+          },
+          {
+            "id": 3456,
+            "name": "Universo",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 163,
+        "name": "Premier League",
+        "stage": null,
+        "logo": "logo/events/premier-league_653.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1760796000,
+        "end_time": 1760805000,
+        "show_duration": true,
+        "team_1": {
+          "name": "Manchester United",
+          "logo": "logo/teams/manchester-united_iJc37lFllOk8N6EP8gAF.png"
+        },
+        "team_2": {
+          "name": "Everton",
+          "logo": "logo/teams/everton_5cRKu7aLE5iyDE8ZWKnA.png"
+        },
+        "full_team_name": "Manchester United 🆚 Everton",
+        "sources": [
+          {
+            "id": 3721,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 851,
+            "name": "beIN Sport 2 - AR",
+            "description": null
+          },
+          {
+            "id": 2652,
+            "name": "DAZN 1 - POR",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 60,
+        "name": "Premier League",
+        "stage": null,
+        "logo": "logo/events/premier-league_653.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1760796000,
+        "end_time": 1760805000,
+        "show_duration": true,
+        "team_1": {
+          "name": "Brighton & Hove Albion",
+          "logo": "logo/teams/brighton-hove-albion_7mqn09wAXsSL23oihWk2.png"
+        },
+        "team_2": {
+          "name": "Newcastle United",
+          "logo": "logo/teams/newcastle-united_qG9rETosUsgCorWNBlog.png"
+        },
+        "full_team_name": "Brighton & Hove Albion 🆚 Newcastle United",
+        "sources": [
+          {
+            "id": 1714,
+            "name": "USA Network",
+            "description": null
+          },
+          {
+            "id": 3118,
+            "name": "LINK 2",
+            "description": null
+          },
+          {
+            "id": 3456,
+            "name": "Universo",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 78,
+        "name": "Premier League",
+        "stage": null,
+        "logo": "logo/events/premier-league_653.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1760796000,
+        "end_time": 1760805000,
+        "show_duration": true,
+        "team_1": {
+          "name": "Burnley",
+          "logo": "logo/teams/burnley_KdAGgnWdhThDpljBlQqe.png"
+        },
+        "team_2": {
+          "name": "Leeds United",
+          "logo": "logo/teams/leeds-united_chV0LJ49sgZs8F3aML49.png"
+        },
+        "full_team_name": "Burnley 🆚 Leeds United",
+        "sources": [
+          {
+            "id": 866,
+            "name": "beIN Sport 5 - AR",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 83,
+        "name": "Premier League",
+        "stage": null,
+        "logo": "logo/events/premier-league_653.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1760796000,
+        "end_time": 1760805000,
+        "show_duration": true,
+        "team_1": {
+          "name": "Crystal Palace",
+          "logo": "logo/teams/crystal-palace_sWmHvniii42Bo088yMRT.png"
+        },
+        "team_2": {
+          "name": "AFC Bournemouth",
+          "logo": "logo/teams/afc-bournemouth_qVGIj8fyj0I6KNXz33Y1.png"
+        },
+        "full_team_name": "Crystal Palace 🆚 AFC Bournemouth",
+        "sources": [
+          {
+            "id": 3721,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 2088,
+            "name": "Arena Sports 5 - BA",
+            "description": null
+          },
+          {
+            "id": 861,
+            "name": "beIN Sport 4 - AR",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 62,
+        "name": "Premier League",
+        "stage": null,
+        "logo": "logo/events/premier-league_653.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1760796000,
+        "end_time": 1760805000,
+        "show_duration": true,
+        "team_1": {
+          "name": "Sunderland",
+          "logo": "logo/teams/sunderland_CJfeVa5gItOnDonuHn99.png"
+        },
+        "team_2": {
+          "name": "Wolverhampton Wanderers",
+          "logo": "logo/teams/wolverhampton-wanderers_wEFzoM24wynMivX0nJZ5.png"
+        },
+        "full_team_name": "Sunderland 🆚 Wolverhampton Wanderers",
+        "sources": [
+          {
+            "id": 3486,
+            "name": "LINK 1",
+            "description": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Serie A",
+    "logo": "logo/events/categories/serie-a_I13YO3O5lVJj1vhJRU6w.png",
+    "type": "Football",
+    "items": [
+      {
+        "id": 212,
+        "name": "Serie A",
+        "stage": null,
+        "logo": "logo/events/serie-a_562.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1760792400,
+        "end_time": 1760801400,
+        "show_duration": true,
+        "team_1": {
+          "name": "Lecce",
+          "logo": "logo/teams/lecce_EZcAfpxxytVd4QjVZMur.png"
+        },
+        "team_2": {
+          "name": "Sassuolo",
+          "logo": "logo/teams/sassuolo_sEUwnMmvt83dg7i7hZwd.png"
+        },
+        "full_team_name": "Lecce 🆚 Sassuolo",
+        "sources": [
+          {
+            "id": 3283,
+            "name": "beIN Sport 3 - AUS",
+            "description": null
+          },
+          {
+            "id": 2558,
+            "name": "ZIGGO SPORT 2",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 96,
+        "name": "Serie A",
+        "stage": null,
+        "logo": "logo/events/serie-a_562.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1760792400,
+        "end_time": 1760801400,
+        "show_duration": true,
+        "team_1": {
+          "name": "Pisa",
+          "logo": "logo/teams/pisa_xp72Xeorj8IoN3cgf16j.png"
+        },
+        "team_2": {
+          "name": "Hellas Verona",
+          "logo": "logo/teams/hellas-verona_iaFosaH2RijQDdw1HHiI.png"
+        },
+        "full_team_name": "Pisa 🆚 Hellas Verona",
+        "sources": [
+          {
+            "id": 2670,
+            "name": "Arena Sports 6 - BA",
+            "description": null
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 37,
     "name": "EFL Championship",
     "logo": "logo/events/categories/efl-championship_hWDkHuBlOH3M0hqEXMCx.png",
@@ -645,6 +1221,63 @@
           {
             "id": 3289,
             "name": "beIN Sport 2 - AUS",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 284,
+        "name": "Queens Park Rangers 🆚 Millwall",
+        "stage": null,
+        "logo": "logo/events/blackburn-rovers-middlesbrough_x6aqQU7RGwXVw3wB8ZhH.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "cricket",
+        "start_time": 1760787000,
+        "end_time": 1760796000,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3289,
+            "name": "beIN Sport 2 - AUS",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 253,
+        "name": "Southampton 🆚 Swansea City",
+        "stage": null,
+        "logo": "logo/events/blackburn-rovers-middlesbrough_x6aqQU7RGwXVw3wB8ZhH.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "cricket",
+        "start_time": 1760787000,
+        "end_time": 1760796000,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3338,
+            "name": "CBS SPORTS Golazo",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 285,
+        "name": "Norwich City 🆚 Bristol City",
+        "stage": null,
+        "logo": "logo/events/blackburn-rovers-middlesbrough_x6aqQU7RGwXVw3wB8ZhH.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "cricket",
+        "start_time": 1760796000,
+        "end_time": 1760805000,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3338,
+            "name": "CBS SPORTS Golazo",
             "description": null
           }
         ]
