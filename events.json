@@ -36,6 +36,118 @@
     ]
   },
   {
+    "id": 44,
+    "name": "FIFA U-20 World Cup",
+    "logo": "logo/events/categories/fifa-club-world-cup_uKXWsqNaJmoeEKidZZbj.png",
+    "type": "Football",
+    "items": [
+      {
+        "id": 325,
+        "name": "FIFA U-20 World Cup",
+        "stage": "Semi Final 2",
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1760569200,
+        "end_time": 1760578200,
+        "show_duration": true,
+        "team_1": {
+          "name": "Argentina",
+          "logo": "logo/teams/argentina_pDa8KIvC0PZ1iOF1swve.png"
+        },
+        "team_2": {
+          "name": "Colombia",
+          "logo": "logo/teams/colombia_Qtn8lNsfufrLzN3t77jo.png"
+        },
+        "full_team_name": "Argentina 🆚 Colombia",
+        "sources": [
+          {
+            "id": 3666,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3575,
+            "name": "Telemundo",
+            "description": null
+          },
+          {
+            "id": 2750,
+            "name": "TSN 5",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 337,
+        "name": "FIFA U-20 World Cup",
+        "stage": "Third Place",
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1760727600,
+        "end_time": 1760736600,
+        "show_duration": true,
+        "team_1": {
+          "name": "TBD",
+          "logo": "logo/teams/tbc_qLJZPLER7vt7ZS6pHxiO.png"
+        },
+        "team_2": {
+          "name": "TBD",
+          "logo": "logo/teams/tbc_qLJZPLER7vt7ZS6pHxiO.png"
+        },
+        "full_team_name": "TBD 🆚 TBD",
+        "sources": [
+          {
+            "id": 3761,
+            "name": "LINK 1",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 291,
+        "name": "FIFA U-20 World Cup",
+        "stage": "FINAl",
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1760900400,
+        "end_time": 1760909400,
+        "show_duration": true,
+        "team_1": {
+          "name": "TBD",
+          "logo": "logo/teams/tbc_qLJZPLER7vt7ZS6pHxiO.png"
+        },
+        "team_2": {
+          "name": "TBD",
+          "logo": "logo/teams/tbc_qLJZPLER7vt7ZS6pHxiO.png"
+        },
+        "full_team_name": "TBD 🆚 TBD",
+        "sources": [
+          {
+            "id": 3666,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3575,
+            "name": "LINK 2",
+            "description": null
+          },
+          {
+            "id": 2750,
+            "name": "TSN 5",
+            "description": null
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 18,
     "name": "ICC Womens World Cup",
     "logo": "logo/events/categories/icc-womens-world-cup_Tac4U4YHpuekyiqOw3CJ.png",
@@ -169,156 +281,6 @@
           {
             "id": 3734,
             "name": "LINK 2",
-            "description": null
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": 44,
-    "name": "FIFA U-20 World Cup",
-    "logo": "logo/events/categories/fifa-club-world-cup_uKXWsqNaJmoeEKidZZbj.png",
-    "type": "Football",
-    "items": [
-      {
-        "id": 333,
-        "name": "FIFA U-20 World Cup",
-        "stage": "Semi Final 1",
-        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1760558400,
-        "end_time": 1760567400,
-        "show_duration": true,
-        "team_1": {
-          "name": "France",
-          "logo": "logo/teams/france_aUU9YpY9mRlZaIN96Jcj.png"
-        },
-        "team_2": {
-          "name": "Morocco",
-          "logo": "logo/teams/morocco_PmfSAM1qmVEHVMEj4bDl.png"
-        },
-        "full_team_name": "France 🆚 Morocco",
-        "sources": [
-          {
-            "id": 3666,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 3456,
-            "name": "LINK 2",
-            "description": null
-          },
-          {
-            "id": 2750,
-            "name": "TSN 5",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 325,
-        "name": "FIFA U-20 World Cup",
-        "stage": "Semi Final 2",
-        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1760569200,
-        "end_time": 1760578200,
-        "show_duration": true,
-        "team_1": {
-          "name": "Argentina",
-          "logo": "logo/teams/argentina_pDa8KIvC0PZ1iOF1swve.png"
-        },
-        "team_2": {
-          "name": "Colombia",
-          "logo": "logo/teams/colombia_Qtn8lNsfufrLzN3t77jo.png"
-        },
-        "full_team_name": "Argentina 🆚 Colombia",
-        "sources": [
-          {
-            "id": 3666,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 3575,
-            "name": "Telemundo",
-            "description": null
-          },
-          {
-            "id": 2750,
-            "name": "TSN 5",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 337,
-        "name": "FIFA U-20 World Cup",
-        "stage": "Third Place",
-        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1760727600,
-        "end_time": 1760736600,
-        "show_duration": true,
-        "team_1": {
-          "name": "TBD",
-          "logo": "logo/teams/tbc_qLJZPLER7vt7ZS6pHxiO.png"
-        },
-        "team_2": {
-          "name": "TBD",
-          "logo": "logo/teams/tbc_qLJZPLER7vt7ZS6pHxiO.png"
-        },
-        "full_team_name": "TBD 🆚 TBD",
-        "sources": [
-          {
-            "id": 3761,
-            "name": "LINK 1",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 291,
-        "name": "FIFA U-20 World Cup",
-        "stage": "FINAl",
-        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1760900400,
-        "end_time": 1760909400,
-        "show_duration": true,
-        "team_1": {
-          "name": "TBD",
-          "logo": "logo/teams/tbc_qLJZPLER7vt7ZS6pHxiO.png"
-        },
-        "team_2": {
-          "name": "TBD",
-          "logo": "logo/teams/tbc_qLJZPLER7vt7ZS6pHxiO.png"
-        },
-        "full_team_name": "TBD 🆚 TBD",
-        "sources": [
-          {
-            "id": 3666,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 3575,
-            "name": "LINK 2",
-            "description": null
-          },
-          {
-            "id": 2750,
-            "name": "TSN 5",
             "description": null
           }
         ]
