@@ -159,39 +159,6 @@
     "type": "Cricket",
     "items": [
       {
-        "id": 327,
-        "name": "ICC Womens World Cup",
-        "stage": "18th Match",
-        "logo": "",
-        "color": null,
-        "type": "team",
-        "sport_type": "cricket",
-        "start_time": 1760693400,
-        "end_time": 1760722200,
-        "show_duration": true,
-        "team_1": {
-          "name": "Sri Lanka",
-          "logo": "logo/teams/sri-lanka_oUuxxnRFqx3sjQ3WUtfY.jpg"
-        },
-        "team_2": {
-          "name": "South Africa",
-          "logo": "logo/teams/south-africa_Ft4TOjd1f9xQlzGVM4a2.png"
-        },
-        "full_team_name": "Sri Lanka 🆚 South Africa",
-        "sources": [
-          {
-            "id": 3202,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 3734,
-            "name": "LINK 2",
-            "description": null
-          }
-        ]
-      },
-      {
         "id": 328,
         "name": "ICC Womens World Cup",
         "stage": "19th Match",
@@ -260,171 +227,6 @@
     ]
   },
   {
-    "id": 10,
-    "name": "Saudi Pro League",
-    "logo": "logo/events/categories/saudi-pro-league_u7DXK6SUZP664JoFeYfB.png",
-    "type": "Football",
-    "items": [
-      {
-        "id": 251,
-        "name": "Al Feiha 🆚 Al Ittihad",
-        "stage": null,
-        "logo": "logo/events/roshn-saudi-league_327.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "football",
-        "start_time": 1760713500,
-        "end_time": 1760722500,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3692,
-            "name": "LINK 1",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 374,
-        "name": "Al Kholood 🆚 Al Najma",
-        "stage": null,
-        "logo": "logo/events/roshn-saudi-league_327.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "football",
-        "start_time": 1760713800,
-        "end_time": 1760722800,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3691,
-            "name": "LINK 1",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 69,
-        "name": "Al-Ahli 🆚 Al Shabab",
-        "stage": null,
-        "logo": "logo/events/roshn-saudi-league_327.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "football",
-        "start_time": 1760724000,
-        "end_time": 1760733000,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3692,
-            "name": "LINK 1",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 70,
-        "name": "Al Ittifaq 🆚 Al Hilal",
-        "stage": null,
-        "logo": "logo/events/roshn-saudi-league_327.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "football",
-        "start_time": 1760798700,
-        "end_time": 1760807700,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3692,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 2888,
-            "name": "Sportdigital",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 264,
-        "name": "Al Akhdoud 🆚 Al Hazm",
-        "stage": null,
-        "logo": "logo/events/roshn-saudi-league_327.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "football",
-        "start_time": 1760800500,
-        "end_time": 1760809500,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3691,
-            "name": "LINK 1",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 4,
-        "name": "Al Nassr 🆚 Al Fateh",
-        "stage": null,
-        "logo": "logo/events/roshn-saudi-league_327.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "football",
-        "start_time": 1760810400,
-        "end_time": 1760819400,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3693,
-            "name": "Thmanyah",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 373,
-        "name": "Al Khaleej 🆚 Al Riyadh",
-        "stage": null,
-        "logo": "logo/events/roshn-saudi-league_327.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "football",
-        "start_time": 1760885100,
-        "end_time": 1760894100,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3692,
-            "name": "LINK 1",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 205,
-        "name": "Al Taawon 🆚 Damac",
-        "stage": null,
-        "logo": "logo/events/roshn-saudi-league_327.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "football",
-        "start_time": 1760886600,
-        "end_time": 1760895600,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3691,
-            "name": "LINK 1",
-            "description": null
-          }
-        ]
-      }
-    ]
-  },
-  {
     "id": 12,
     "name": "Ligue 1",
     "logo": "logo/events/categories/ligue-1_5qqt6renj8lsMs1YGSmI.png",
@@ -459,11 +261,6 @@
           {
             "id": 3721,
             "name": "LINK 2",
-            "description": null
-          },
-          {
-            "id": 3275,
-            "name": "beIN Sport - USA",
             "description": null
           }
         ]
@@ -720,6 +517,157 @@
           {
             "id": 3702,
             "name": "beIN Sport Xtra",
+            "description": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Saudi Pro League",
+    "logo": "logo/events/categories/saudi-pro-league_u7DXK6SUZP664JoFeYfB.png",
+    "type": "Football",
+    "items": [
+      {
+        "id": 69,
+        "name": "Al-Ahli 🆚 Al Shabab",
+        "stage": null,
+        "logo": "logo/events/roshn-saudi-league_327.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1760724000,
+        "end_time": 1760733000,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3692,
+            "name": "LINK 1",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 70,
+        "name": "Al Ittifaq 🆚 Al Hilal",
+        "stage": null,
+        "logo": "logo/events/roshn-saudi-league_327.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1760798700,
+        "end_time": 1760807700,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3692,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 2888,
+            "name": "Sportdigital",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 264,
+        "name": "Al Akhdoud 🆚 Al Hazm",
+        "stage": null,
+        "logo": "logo/events/roshn-saudi-league_327.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1760800500,
+        "end_time": 1760809500,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3691,
+            "name": "LINK 1",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Al Nassr 🆚 Al Fateh",
+        "stage": null,
+        "logo": "logo/events/roshn-saudi-league_327.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1760810400,
+        "end_time": 1760819400,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3693,
+            "name": "Thmanyah",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 373,
+        "name": "Al Khaleej 🆚 Al Riyadh",
+        "stage": null,
+        "logo": "logo/events/roshn-saudi-league_327.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1760885100,
+        "end_time": 1760894100,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3692,
+            "name": "LINK 1",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 205,
+        "name": "Al Taawon 🆚 Damac",
+        "stage": null,
+        "logo": "logo/events/roshn-saudi-league_327.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1760886600,
+        "end_time": 1760895600,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3691,
+            "name": "LINK 1",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 250,
+        "name": "NEOM 🆚 Al Quadisiya",
+        "stage": null,
+        "logo": "logo/events/roshn-saudi-league_327.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1760896800,
+        "end_time": 1760905800,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3666,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 2888,
+            "name": "LINK 2",
             "description": null
           }
         ]
@@ -1007,6 +955,49 @@
             "description": null
           }
         ]
+      },
+      {
+        "id": 216,
+        "name": "LALIGA",
+        "stage": null,
+        "logo": "logo/events/sevilla-villarreal_wqSkWfYjIH5dihHm8c1A.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1760891400,
+        "end_time": 1760900400,
+        "show_duration": true,
+        "team_1": {
+          "name": "Levante",
+          "logo": "logo/teams/levante_SR7CooILjAVBPqGeHgVi.png"
+        },
+        "team_2": {
+          "name": "Rayo Vallecano",
+          "logo": "logo/teams/rayo-vallecano_uIHkJUDNU2ehDPrWwnhp.png"
+        },
+        "full_team_name": "Levante 🆚 Rayo Vallecano",
+        "sources": [
+          {
+            "id": 3289,
+            "name": "beIN Sport 2 - AUS",
+            "description": null
+          },
+          {
+            "id": 2861,
+            "name": "Premier Sports 1 ",
+            "description": null
+          },
+          {
+            "id": 3043,
+            "name": "LALIGA TV",
+            "description": null
+          },
+          {
+            "id": 2558,
+            "name": "ZIGGO SPORT 2",
+            "description": null
+          }
+        ]
       }
     ]
   },
@@ -1108,30 +1099,6 @@
         ]
       },
       {
-        "id": 369,
-        "name": "Wolfsburg 🆚 Stuttgart",
-        "stage": null,
-        "logo": "logo/events/hoffenheim-bayer-leverkusen_W0M2W6UxsD7TsKSPbJB3.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "football",
-        "start_time": 1760794200,
-        "end_time": 1760803200,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3682,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 3463,
-            "name": "beIN Sport 5 MAX - FR",
-            "description": null
-          }
-        ]
-      },
-      {
         "id": 273,
         "name": "RB Leipzig 🆚 Hamburger SV",
         "stage": null,
@@ -1151,6 +1118,30 @@
           {
             "id": 3683,
             "name": "LINK 1",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 369,
+        "name": "Wolfsburg 🆚 Stuttgart",
+        "stage": null,
+        "logo": "logo/events/hoffenheim-bayer-leverkusen_W0M2W6UxsD7TsKSPbJB3.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1760794200,
+        "end_time": 1760803200,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3682,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3463,
+            "name": "beIN Sport 5 MAX - FR",
             "description": null
           }
         ]
@@ -2307,13 +2298,13 @@
         "full_team_name": "Genoa 🆚 Parma",
         "sources": [
           {
-            "id": 3669,
-            "name": "Fox Deportes",
+            "id": 3338,
+            "name": "CBS SPORTS Golazo",
             "description": null
           },
           {
-            "id": 3338,
-            "name": "CBS SPORTS Golazo",
+            "id": 3669,
+            "name": "Fox Deportes",
             "description": null
           }
         ]
