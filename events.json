@@ -383,6 +383,44 @@
             "description": null
           }
         ]
+      },
+      {
+        "id": 373,
+        "name": "Al Khaleej 🆚 Al Riyadh",
+        "stage": null,
+        "logo": "logo/events/roshn-saudi-league_327.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1760885100,
+        "end_time": 1760894100,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3692,
+            "name": "LINK 1",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 205,
+        "name": "Al Taawon 🆚 Damac",
+        "stage": null,
+        "logo": "logo/events/roshn-saudi-league_327.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1760886600,
+        "end_time": 1760895600,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3691,
+            "name": "LINK 1",
+            "description": null
+          }
+        ]
       }
     ]
   },
@@ -573,6 +611,115 @@
           {
             "id": 3721,
             "name": "LINK 2",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 176,
+        "name": "Ligue 1",
+        "stage": null,
+        "logo": "logo/events/ligue-1_338.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1760886900,
+        "end_time": 1760895900,
+        "show_duration": true,
+        "team_1": {
+          "name": "Lorient",
+          "logo": "logo/teams/lorient_AuCBnQQ1fBB0rhD3uBsb.png"
+        },
+        "team_2": {
+          "name": "Brest",
+          "logo": "logo/teams/brest_IivZC8tgseCkWCR7ZjpJ.png"
+        },
+        "full_team_name": "Lorient 🆚 Brest",
+        "sources": [
+          {
+            "id": 3652,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3721,
+            "name": "LINK 2",
+            "description": null
+          },
+          {
+            "id": 3275,
+            "name": "beIN Sport - USA",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 61,
+        "name": "Ligue 1",
+        "stage": null,
+        "logo": "logo/events/ligue-1_338.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1760886900,
+        "end_time": 1760895900,
+        "show_duration": true,
+        "team_1": {
+          "name": "Rennes",
+          "logo": "logo/teams/rennes_SIovruEQdZbRTfRYp6Vx.png"
+        },
+        "team_2": {
+          "name": "Auxerre",
+          "logo": "logo/teams/auxerre_vcLGRA1IjiBRcAeaRZDU.png"
+        },
+        "full_team_name": "Rennes 🆚 Auxerre",
+        "sources": [
+          {
+            "id": 3652,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3721,
+            "name": "LINK 2",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 97,
+        "name": "Ligue 1",
+        "stage": null,
+        "logo": "logo/events/ligue-1_338.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1760886900,
+        "end_time": 1760895900,
+        "show_duration": true,
+        "team_1": {
+          "name": "Toulouse",
+          "logo": "logo/teams/toulouse_dvf4wseKuijFiAtEFRXN.png"
+        },
+        "team_2": {
+          "name": "Metz",
+          "logo": "logo/teams/metz_tsAVkcK4kchtJ67SGWdV.png"
+        },
+        "full_team_name": "Toulouse 🆚 Metz",
+        "sources": [
+          {
+            "id": 3652,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3721,
+            "name": "LINK 2",
+            "description": null
+          },
+          {
+            "id": 3702,
+            "name": "beIN Sport Xtra",
             "description": null
           }
         ]
@@ -1047,6 +1194,25 @@
           {
             "id": 3464,
             "name": "beIN Sport 6 MAX - FR",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 101,
+        "name": "St. Pauli 🆚 Hoffenheim",
+        "stage": null,
+        "logo": "logo/events/hoffenheim-bayer-leverkusen_W0M2W6UxsD7TsKSPbJB3.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1760887800,
+        "end_time": 1760896800,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3463,
+            "name": "beIN Sport 5 MAX - FR",
             "description": null
           }
         ]
@@ -1831,6 +1997,49 @@
           {
             "id": 1714,
             "name": "USA Network",
+            "description": null
+          },
+          {
+            "id": 3575,
+            "name": "Telemundo",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 164,
+        "name": "Premier League",
+        "stage": null,
+        "logo": "logo/events/premier-league_653.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1760887800,
+        "end_time": 1760896800,
+        "show_duration": true,
+        "team_1": {
+          "name": "Liverpool",
+          "logo": "logo/teams/liverpool_HMqVIBRuCRoiG9WsnSWg.png"
+        },
+        "team_2": {
+          "name": "Manchester United",
+          "logo": "logo/teams/manchester-united_iJc37lFllOk8N6EP8gAF.png"
+        },
+        "full_team_name": "Liverpool 🆚 Manchester United",
+        "sources": [
+          {
+            "id": 981,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 1714,
+            "name": "USA Network",
+            "description": null
+          },
+          {
+            "id": 3485,
+            "name": "FUBO Sports",
             "description": null
           },
           {
