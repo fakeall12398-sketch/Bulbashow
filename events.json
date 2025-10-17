@@ -543,6 +543,39 @@
             "description": null
           }
         ]
+      },
+      {
+        "id": 213,
+        "name": "Ligue 1",
+        "stage": null,
+        "logo": "logo/events/ligue-1_338.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1760878800,
+        "end_time": 1760887800,
+        "show_duration": true,
+        "team_1": {
+          "name": "RC Lens",
+          "logo": "logo/teams/rc-lens_E6mC6ceh7Wb2ZQhBAz5z.png"
+        },
+        "team_2": {
+          "name": "Paris",
+          "logo": "logo/teams/paris_ytqXEPsNf7QpbJ4HTLGl.png"
+        },
+        "full_team_name": "RC Lens 🆚 Paris",
+        "sources": [
+          {
+            "id": 3652,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3721,
+            "name": "LINK 2",
+            "description": null
+          }
+        ]
       }
     ]
   },
@@ -746,6 +779,87 @@
             "description": null
           }
         ]
+      },
+      {
+        "id": 214,
+        "name": "LALIGA",
+        "stage": null,
+        "logo": "logo/events/sevilla-villarreal_wqSkWfYjIH5dihHm8c1A.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1760875200,
+        "end_time": 1760884200,
+        "show_duration": true,
+        "team_1": {
+          "name": "Elche",
+          "logo": "logo/teams/elche_j1S95zmn1prBiAUxUYuy.png"
+        },
+        "team_2": {
+          "name": "Athletic Club",
+          "logo": "logo/teams/athletic-club_IMrU8myTY6ecoOB2UlrJ.png"
+        },
+        "full_team_name": "Elche 🆚 Athletic Club",
+        "sources": [
+          {
+            "id": 2861,
+            "name": "Premier Sports 1 ",
+            "description": null
+          },
+          {
+            "id": 3043,
+            "name": "LALIGA TV",
+            "description": null
+          },
+          {
+            "id": 2558,
+            "name": "ZIGGO SPORT 2",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 281,
+        "name": "LALIGA",
+        "stage": null,
+        "logo": "logo/events/sevilla-villarreal_wqSkWfYjIH5dihHm8c1A.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1760883300,
+        "end_time": 1760892300,
+        "show_duration": true,
+        "team_1": {
+          "name": "Celta De Vigo",
+          "logo": "logo/teams/celta-de-vigo_f2UTUG14GHxaN7eRQjfT.png"
+        },
+        "team_2": {
+          "name": "Real Sociedad",
+          "logo": "logo/teams/real-sociedad_vG8elxWudfyDK9et8nLr.png"
+        },
+        "full_team_name": "Celta De Vigo 🆚 Real Sociedad",
+        "sources": [
+          {
+            "id": 2861,
+            "name": "Premier Sports 1 ",
+            "description": null
+          },
+          {
+            "id": 3289,
+            "name": "beIN Sport 2 - AUS",
+            "description": null
+          },
+          {
+            "id": 2558,
+            "name": "ZIGGO SPORT 2",
+            "description": null
+          },
+          {
+            "id": 3043,
+            "name": "LALIGA TV",
+            "description": null
+          }
+        ]
       }
     ]
   },
@@ -917,6 +1031,25 @@
             "description": null
           }
         ]
+      },
+      {
+        "id": 274,
+        "name": "Freiburg 🆚 Eintracht Frankfurt",
+        "stage": null,
+        "logo": "logo/events/hoffenheim-bayer-leverkusen_W0M2W6UxsD7TsKSPbJB3.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1760880600,
+        "end_time": 1760889600,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3464,
+            "name": "beIN Sport 6 MAX - FR",
+            "description": null
+          }
+        ]
       }
     ]
   },
@@ -1045,6 +1178,63 @@
         "sources": [
           {
             "id": 3683,
+            "name": "LINK 1",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 370,
+        "name": "Darmstadt 98 🆚 Magdeburg",
+        "stage": null,
+        "logo": "logo/events/elversberg-kaiserslautern_u7XcxXJ8sRFF8zKriQ0p.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "cricket",
+        "start_time": 1760871600,
+        "end_time": 1760880600,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3699,
+            "name": "LINK 1",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 371,
+        "name": "Elversberg 🆚 Greuther Fürth",
+        "stage": null,
+        "logo": "logo/events/elversberg-kaiserslautern_u7XcxXJ8sRFF8zKriQ0p.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "cricket",
+        "start_time": 1760871600,
+        "end_time": 1760880600,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3684,
+            "name": "LINK 1",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 372,
+        "name": "Nürnberg 🆚 Holstein Kiel",
+        "stage": null,
+        "logo": "logo/events/elversberg-kaiserslautern_u7XcxXJ8sRFF8zKriQ0p.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "cricket",
+        "start_time": 1760871600,
+        "end_time": 1760880600,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3682,
             "name": "LINK 1",
             "description": null
           }
@@ -1606,6 +1796,49 @@
             "description": null
           }
         ]
+      },
+      {
+        "id": 77,
+        "name": "Premier League",
+        "stage": null,
+        "logo": "logo/events/premier-league_653.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1760878800,
+        "end_time": 1760887800,
+        "show_duration": true,
+        "team_1": {
+          "name": "Aston Villa",
+          "logo": "logo/teams/aston-villa_9BPRqMxn2Znvkj7pltfK.png"
+        },
+        "team_2": {
+          "name": "Tottenham Hotspur",
+          "logo": "logo/teams/tottenham-hotspur_wRuMqVZrIxbbxVAzReN9.png"
+        },
+        "full_team_name": "Aston Villa 🆚 Tottenham Hotspur",
+        "sources": [
+          {
+            "id": 3683,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3486,
+            "name": "LINK 2",
+            "description": null
+          },
+          {
+            "id": 1714,
+            "name": "USA Network",
+            "description": null
+          },
+          {
+            "id": 3575,
+            "name": "Telemundo",
+            "description": null
+          }
+        ]
       }
     ]
   },
@@ -1763,6 +1996,115 @@
           {
             "id": 2665,
             "name": "ZIGGO SPORT",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 190,
+        "name": "Serie A",
+        "stage": null,
+        "logo": "logo/events/serie-a_562.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1760869800,
+        "end_time": 1760878800,
+        "show_duration": true,
+        "team_1": {
+          "name": "Como",
+          "logo": "logo/teams/como_mRRoVFoOpOTOv2lZt6j9.png"
+        },
+        "team_2": {
+          "name": "Juventus",
+          "logo": "logo/teams/juventus_1WZ6BUDiLNixSnojyYvv.png"
+        },
+        "full_team_name": "Como 🆚 Juventus",
+        "sources": [
+          {
+            "id": 3283,
+            "name": "beIN Sport 3 - AUS",
+            "description": null
+          },
+          {
+            "id": 3669,
+            "name": "Fox Deportes",
+            "description": null
+          },
+          {
+            "id": 3338,
+            "name": "CBS SPORTS Golazo",
+            "description": null
+          },
+          {
+            "id": 2665,
+            "name": "ZIGGO SPORT",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 175,
+        "name": "Serie A",
+        "stage": null,
+        "logo": "logo/events/serie-a_562.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1760878800,
+        "end_time": 1760887800,
+        "show_duration": true,
+        "team_1": {
+          "name": "Cagliari",
+          "logo": "logo/teams/cagliari_ScHX4Lvc1xKWg0qgsoAA.png"
+        },
+        "team_2": {
+          "name": "Bologna",
+          "logo": "logo/teams/bologna_Y2dad7YDrmlCWKyXTkeh.png"
+        },
+        "full_team_name": "Cagliari 🆚 Bologna",
+        "sources": [
+          {
+            "id": 3283,
+            "name": "beIN Sport 3 - AUS",
+            "description": null
+          },
+          {
+            "id": 2665,
+            "name": "ZIGGO SPORT",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 73,
+        "name": "Serie A",
+        "stage": null,
+        "logo": "logo/events/serie-a_562.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1760878800,
+        "end_time": 1760887800,
+        "show_duration": true,
+        "team_1": {
+          "name": "Genoa",
+          "logo": "logo/teams/genoa_PImQDtB6213jNVCvjejF.png"
+        },
+        "team_2": {
+          "name": "Parma",
+          "logo": "logo/teams/parma_bS36NvFFKsw9lNb2kERX.png"
+        },
+        "full_team_name": "Genoa 🆚 Parma",
+        "sources": [
+          {
+            "id": 3669,
+            "name": "Fox Deportes",
+            "description": null
+          },
+          {
+            "id": 3338,
+            "name": "CBS SPORTS Golazo",
             "description": null
           }
         ]
