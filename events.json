@@ -223,6 +223,39 @@
             "description": null
           }
         ]
+      },
+      {
+        "id": 329,
+        "name": "ICC Womens World Cup",
+        "stage": "20th Match",
+        "logo": "",
+        "color": null,
+        "type": "team",
+        "sport_type": "cricket",
+        "start_time": 1760866200,
+        "end_time": 1760895000,
+        "show_duration": true,
+        "team_1": {
+          "name": "England",
+          "logo": "logo/teams/england_lR9prItXfM5WG6lZqsOD.png"
+        },
+        "team_2": {
+          "name": "India",
+          "logo": "logo/teams/india_R8DzB45mwxgV921JfOUc.png"
+        },
+        "full_team_name": "England 🆚 India",
+        "sources": [
+          {
+            "id": 3202,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3734,
+            "name": "LINK 2",
+            "description": null
+          }
+        ]
       }
     ]
   },
@@ -814,30 +847,6 @@
         ]
       },
       {
-        "id": 273,
-        "name": "RB Leipzig 🆚 Hamburger SV",
-        "stage": null,
-        "logo": "logo/events/hoffenheim-bayer-leverkusen_W0M2W6UxsD7TsKSPbJB3.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "football",
-        "start_time": 1760794200,
-        "end_time": 1760803200,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3461,
-            "name": "beIN Sport 2 - FR",
-            "description": null
-          },
-          {
-            "id": 3683,
-            "name": "LINK 1",
-            "description": null
-          }
-        ]
-      },
-      {
         "id": 369,
         "name": "Wolfsburg 🆚 Stuttgart",
         "stage": null,
@@ -857,6 +866,30 @@
           {
             "id": 3463,
             "name": "beIN Sport 5 MAX - FR",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 273,
+        "name": "RB Leipzig 🆚 Hamburger SV",
+        "stage": null,
+        "logo": "logo/events/hoffenheim-bayer-leverkusen_W0M2W6UxsD7TsKSPbJB3.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1760794200,
+        "end_time": 1760803200,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3461,
+            "name": "beIN Sport 2 - FR",
+            "description": null
+          },
+          {
+            "id": 3683,
+            "name": "LINK 1",
             "description": null
           }
         ]
@@ -1020,35 +1053,102 @@
     ]
   },
   {
-    "id": 44,
-    "name": "FIFA U-20 World Cup",
-    "logo": "logo/events/categories/fifa-club-world-cup_uKXWsqNaJmoeEKidZZbj.png",
+    "id": 37,
+    "name": "EFL Championship",
+    "logo": "logo/events/categories/efl-championship_hWDkHuBlOH3M0hqEXMCx.png",
     "type": "Football",
     "items": [
       {
-        "id": 337,
-        "name": "FIFA U-20 World Cup",
-        "stage": "Third Place",
-        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "id": 258,
+        "name": "Middlesbrough 🆚 Ipswich Town",
+        "stage": null,
+        "logo": "logo/events/blackburn-rovers-middlesbrough_x6aqQU7RGwXVw3wB8ZhH.png",
         "color": null,
-        "type": "team",
-        "sport_type": "football",
+        "type": "single",
+        "sport_type": "cricket",
         "start_time": 1760727600,
         "end_time": 1760736600,
         "show_duration": true,
-        "team_1": {
-          "name": "TBD",
-          "logo": "logo/teams/tbc_qLJZPLER7vt7ZS6pHxiO.png"
-        },
-        "team_2": {
-          "name": "TBD",
-          "logo": "logo/teams/tbc_qLJZPLER7vt7ZS6pHxiO.png"
-        },
-        "full_team_name": "TBD 🆚 TBD",
         "sources": [
           {
-            "id": 3761,
-            "name": "LINK 1",
+            "id": 3289,
+            "name": "beIN Sport 2 - AUS",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 284,
+        "name": "Queens Park Rangers 🆚 Millwall",
+        "stage": null,
+        "logo": "logo/events/blackburn-rovers-middlesbrough_x6aqQU7RGwXVw3wB8ZhH.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "cricket",
+        "start_time": 1760787000,
+        "end_time": 1760796000,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3289,
+            "name": "beIN Sport 2 - AUS",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 253,
+        "name": "Southampton 🆚 Swansea City",
+        "stage": null,
+        "logo": "logo/events/blackburn-rovers-middlesbrough_x6aqQU7RGwXVw3wB8ZhH.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "cricket",
+        "start_time": 1760787000,
+        "end_time": 1760796000,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3338,
+            "name": "CBS SPORTS Golazo",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 285,
+        "name": "Norwich City 🆚 Bristol City",
+        "stage": null,
+        "logo": "logo/events/blackburn-rovers-middlesbrough_x6aqQU7RGwXVw3wB8ZhH.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "cricket",
+        "start_time": 1760796000,
+        "end_time": 1760805000,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3338,
+            "name": "CBS SPORTS Golazo",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 257,
+        "name": "Leicester City 🆚 Portsmouth",
+        "stage": null,
+        "logo": "logo/events/blackburn-rovers-middlesbrough_x6aqQU7RGwXVw3wB8ZhH.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "cricket",
+        "start_time": 1760813100,
+        "end_time": 1760822100,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3283,
+            "name": "beIN Sport 3 - AUS",
             "description": null
           }
         ]
@@ -1670,102 +1770,40 @@
     ]
   },
   {
-    "id": 37,
-    "name": "EFL Championship",
-    "logo": "logo/events/categories/efl-championship_hWDkHuBlOH3M0hqEXMCx.png",
+    "id": 44,
+    "name": "FIFA U-20 World Cup",
+    "logo": "logo/events/categories/fifa-club-world-cup_uKXWsqNaJmoeEKidZZbj.png",
     "type": "Football",
     "items": [
       {
-        "id": 258,
-        "name": "Middlesbrough 🆚 Ipswich Town",
-        "stage": null,
-        "logo": "logo/events/blackburn-rovers-middlesbrough_x6aqQU7RGwXVw3wB8ZhH.png",
+        "id": 337,
+        "name": "FIFA U-20 World Cup",
+        "stage": "Third Place",
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
         "color": null,
-        "type": "single",
-        "sport_type": "cricket",
-        "start_time": 1760727600,
-        "end_time": 1760736600,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1760814000,
+        "end_time": 1760823000,
         "show_duration": true,
+        "team_1": {
+          "name": "France",
+          "logo": "logo/teams/france_aUU9YpY9mRlZaIN96Jcj.png"
+        },
+        "team_2": {
+          "name": "Colombia",
+          "logo": "logo/teams/colombia_Qtn8lNsfufrLzN3t77jo.png"
+        },
+        "full_team_name": "France 🆚 Colombia",
         "sources": [
           {
-            "id": 3289,
-            "name": "beIN Sport 2 - AUS",
+            "id": 2937,
+            "name": "LINK 1",
             "description": null
-          }
-        ]
-      },
-      {
-        "id": 284,
-        "name": "Queens Park Rangers 🆚 Millwall",
-        "stage": null,
-        "logo": "logo/events/blackburn-rovers-middlesbrough_x6aqQU7RGwXVw3wB8ZhH.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "cricket",
-        "start_time": 1760787000,
-        "end_time": 1760796000,
-        "show_duration": true,
-        "sources": [
+          },
           {
-            "id": 3289,
-            "name": "beIN Sport 2 - AUS",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 253,
-        "name": "Southampton 🆚 Swansea City",
-        "stage": null,
-        "logo": "logo/events/blackburn-rovers-middlesbrough_x6aqQU7RGwXVw3wB8ZhH.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "cricket",
-        "start_time": 1760787000,
-        "end_time": 1760796000,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3338,
-            "name": "CBS SPORTS Golazo",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 285,
-        "name": "Norwich City 🆚 Bristol City",
-        "stage": null,
-        "logo": "logo/events/blackburn-rovers-middlesbrough_x6aqQU7RGwXVw3wB8ZhH.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "cricket",
-        "start_time": 1760796000,
-        "end_time": 1760805000,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3338,
-            "name": "CBS SPORTS Golazo",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 257,
-        "name": "Leicester City 🆚 Portsmouth",
-        "stage": null,
-        "logo": "logo/events/blackburn-rovers-middlesbrough_x6aqQU7RGwXVw3wB8ZhH.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "cricket",
-        "start_time": 1760813100,
-        "end_time": 1760822100,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3283,
-            "name": "beIN Sport 3 - AUS",
+            "id": 3761,
+            "name": "LINK 2",
             "description": null
           }
         ]
