@@ -227,38 +227,6 @@
     ]
   },
   {
-    "id": 43,
-    "name": "EFL League One",
-    "logo": "logo/events/categories/efl-league-one_IU6bYqO7AzM7rCp1IuH0.png",
-    "type": "Football",
-    "items": [
-      {
-        "id": 287,
-        "name": "Huddersfield Town 🆚 Bolton Wanderers",
-        "stage": null,
-        "logo": "logo/events/leyton-orient-stockport-county_3PX69CZeYzamHrLTTTxR.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "cricket",
-        "start_time": 1760641200,
-        "end_time": 1760650200,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3283,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 3683,
-            "name": "LINK 2",
-            "description": null
-          }
-        ]
-      }
-    ]
-  },
-  {
     "id": 10,
     "name": "Saudi Pro League",
     "logo": "logo/events/categories/saudi-pro-league_u7DXK6SUZP664JoFeYfB.png",
@@ -1161,6 +1129,97 @@
           {
             "id": 3721,
             "name": "LINK 3",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 360,
+        "name": "Juárez 🆚 Pachuca",
+        "stage": null,
+        "logo": "logo/events/puebla-pachuca_b2MU6rHq9XOT8tkBpPE0.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "cricket",
+        "start_time": 1760828400,
+        "end_time": 1760837400,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3669,
+            "name": "Fox Deportes",
+            "description": null
+          },
+          {
+            "id": 3456,
+            "name": "Universo",
+            "description": null
+          },
+          {
+            "id": 3575,
+            "name": "Telemundo",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 361,
+        "name": "Toluca 🆚 Querétaro",
+        "stage": null,
+        "logo": "logo/events/puebla-pachuca_b2MU6rHq9XOT8tkBpPE0.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "cricket",
+        "start_time": 1760828400,
+        "end_time": 1760837400,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3721,
+            "name": "LINK 1",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 362,
+        "name": "Monterrey 🆚 Pumas UNAM",
+        "stage": null,
+        "logo": "logo/events/puebla-pachuca_b2MU6rHq9XOT8tkBpPE0.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "cricket",
+        "start_time": 1760835600,
+        "end_time": 1760844600,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3648,
+            "name": "TUDN USA",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 357,
+        "name": "Guadalajara 🆚 Mazatlán",
+        "stage": null,
+        "logo": "logo/events/puebla-pachuca_b2MU6rHq9XOT8tkBpPE0.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "cricket",
+        "start_time": 1760836020,
+        "end_time": 1760845020,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3456,
+            "name": "Universo",
+            "description": null
+          },
+          {
+            "id": 3575,
+            "name": "Telemundo",
             "description": null
           }
         ]
