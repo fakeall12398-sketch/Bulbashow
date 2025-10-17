@@ -814,30 +814,6 @@
         ]
       },
       {
-        "id": 369,
-        "name": "Wolfsburg 🆚 Stuttgart",
-        "stage": null,
-        "logo": "logo/events/hoffenheim-bayer-leverkusen_W0M2W6UxsD7TsKSPbJB3.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "football",
-        "start_time": 1760794200,
-        "end_time": 1760803200,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3682,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 3463,
-            "name": "beIN Sport 5 MAX - FR",
-            "description": null
-          }
-        ]
-      },
-      {
         "id": 273,
         "name": "RB Leipzig 🆚 Hamburger SV",
         "stage": null,
@@ -857,6 +833,30 @@
           {
             "id": 3683,
             "name": "LINK 1",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 369,
+        "name": "Wolfsburg 🆚 Stuttgart",
+        "stage": null,
+        "logo": "logo/events/hoffenheim-bayer-leverkusen_W0M2W6UxsD7TsKSPbJB3.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1760794200,
+        "end_time": 1760803200,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3682,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3463,
+            "name": "beIN Sport 5 MAX - FR",
             "description": null
           }
         ]
@@ -1220,6 +1220,25 @@
           {
             "id": 3575,
             "name": "Telemundo",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 368,
+        "name": "Cruz Azul 🆚 América",
+        "stage": null,
+        "logo": "logo/events/puebla-pachuca_b2MU6rHq9XOT8tkBpPE0.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "cricket",
+        "start_time": 1760843100,
+        "end_time": 1760852100,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3648,
+            "name": "LINK 1",
             "description": null
           }
         ]
