@@ -90,176 +90,6 @@
     "type": "Football",
     "items": [
       {
-        "id": 163,
-        "name": "Premier League",
-        "stage": null,
-        "logo": "logo/events/premier-league_653.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1760796000,
-        "end_time": 1760805000,
-        "show_duration": true,
-        "team_1": {
-          "name": "Manchester United",
-          "logo": "logo/teams/manchester-united_iJc37lFllOk8N6EP8gAF.png"
-        },
-        "team_2": {
-          "name": "Everton",
-          "logo": "logo/teams/everton_5cRKu7aLE5iyDE8ZWKnA.png"
-        },
-        "full_team_name": "Manchester United 🆚 Everton",
-        "sources": [
-          {
-            "id": 3721,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 851,
-            "name": "beIN Sport 2 - AR",
-            "description": null
-          },
-          {
-            "id": 2652,
-            "name": "DAZN 1 - POR",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 60,
-        "name": "Premier League",
-        "stage": null,
-        "logo": "logo/events/premier-league_653.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1760796000,
-        "end_time": 1760805000,
-        "show_duration": true,
-        "team_1": {
-          "name": "Brighton & Hove Albion",
-          "logo": "logo/teams/brighton-hove-albion_7mqn09wAXsSL23oihWk2.png"
-        },
-        "team_2": {
-          "name": "Newcastle United",
-          "logo": "logo/teams/newcastle-united_qG9rETosUsgCorWNBlog.png"
-        },
-        "full_team_name": "Brighton & Hove Albion 🆚 Newcastle United",
-        "sources": [
-          {
-            "id": 1714,
-            "name": "USA Network",
-            "description": null
-          },
-          {
-            "id": 3118,
-            "name": "LINK 2",
-            "description": null
-          },
-          {
-            "id": 3456,
-            "name": "Universo",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 78,
-        "name": "Premier League",
-        "stage": null,
-        "logo": "logo/events/premier-league_653.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1760796000,
-        "end_time": 1760805000,
-        "show_duration": true,
-        "team_1": {
-          "name": "Burnley",
-          "logo": "logo/teams/burnley_KdAGgnWdhThDpljBlQqe.png"
-        },
-        "team_2": {
-          "name": "Leeds United",
-          "logo": "logo/teams/leeds-united_chV0LJ49sgZs8F3aML49.png"
-        },
-        "full_team_name": "Burnley 🆚 Leeds United",
-        "sources": [
-          {
-            "id": 866,
-            "name": "beIN Sport 5 - AR",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 83,
-        "name": "Premier League",
-        "stage": null,
-        "logo": "logo/events/premier-league_653.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1760796000,
-        "end_time": 1760805000,
-        "show_duration": true,
-        "team_1": {
-          "name": "Crystal Palace",
-          "logo": "logo/teams/crystal-palace_sWmHvniii42Bo088yMRT.png"
-        },
-        "team_2": {
-          "name": "AFC Bournemouth",
-          "logo": "logo/teams/afc-bournemouth_qVGIj8fyj0I6KNXz33Y1.png"
-        },
-        "full_team_name": "Crystal Palace 🆚 AFC Bournemouth",
-        "sources": [
-          {
-            "id": 3721,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 2088,
-            "name": "Arena Sports 5 - BA",
-            "description": null
-          },
-          {
-            "id": 861,
-            "name": "beIN Sport 4 - AR",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 62,
-        "name": "Premier League",
-        "stage": null,
-        "logo": "logo/events/premier-league_653.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1760796000,
-        "end_time": 1760805000,
-        "show_duration": true,
-        "team_1": {
-          "name": "Sunderland",
-          "logo": "logo/teams/sunderland_CJfeVa5gItOnDonuHn99.png"
-        },
-        "team_2": {
-          "name": "Wolverhampton Wanderers",
-          "logo": "logo/teams/wolverhampton-wanderers_wEFzoM24wynMivX0nJZ5.png"
-        },
-        "full_team_name": "Sunderland 🆚 Wolverhampton Wanderers",
-        "sources": [
-          {
-            "id": 3486,
-            "name": "LINK 1",
-            "description": null
-          }
-        ]
-      },
-      {
         "id": 64,
         "name": "Premier League",
         "stage": null,
@@ -391,49 +221,6 @@
     "logo": "logo/events/categories/la-liga_09FFBteASyl11hboQ8x9.png",
     "type": "Football",
     "items": [
-      {
-        "id": 65,
-        "name": "LALIGA",
-        "stage": null,
-        "logo": "logo/events/celta-de-vigo-valencia_jIVHMZlw4Oj0Ls1xze8y.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1760796900,
-        "end_time": 1760805900,
-        "show_duration": true,
-        "team_1": {
-          "name": "Barcelona",
-          "logo": "logo/teams/barcelona_NiCxfEeaPHngHzLBDHm2.png"
-        },
-        "team_2": {
-          "name": "Girona",
-          "logo": "logo/teams/girona_JjwoRrzPtyq2ftaBwfvd.png"
-        },
-        "full_team_name": "Barcelona 🆚 Girona",
-        "sources": [
-          {
-            "id": 3289,
-            "name": "beIN Sport 2 - AUS",
-            "description": null
-          },
-          {
-            "id": 3043,
-            "name": "LALIGA TV",
-            "description": null
-          },
-          {
-            "id": 2665,
-            "name": "ZIGGO SPORT",
-            "description": null
-          },
-          {
-            "id": 3462,
-            "name": "beIN Sport 3 - FR",
-            "description": null
-          }
-        ]
-      },
       {
         "id": 72,
         "name": "LALIGA",
@@ -685,49 +472,6 @@
     "logo": "logo/events/categories/ligue-1_5qqt6renj8lsMs1YGSmI.png",
     "type": "Football",
     "items": [
-      {
-        "id": 71,
-        "name": "Ligue 1",
-        "stage": null,
-        "logo": "logo/events/ligue-1_338.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1760799600,
-        "end_time": 1760808600,
-        "show_duration": true,
-        "team_1": {
-          "name": "Nice",
-          "logo": "logo/teams/nice_Iayy9Zi74iNiYmGPvIXP.png"
-        },
-        "team_2": {
-          "name": "Olympique Lyonnais",
-          "logo": "logo/teams/olympique-lyonnais_l6Fd2M2EBBNv2FFgLw8J.png"
-        },
-        "full_team_name": "Nice 🆚 Olympique Lyonnais",
-        "sources": [
-          {
-            "id": 3652,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 3721,
-            "name": "LINK 2",
-            "description": null
-          },
-          {
-            "id": 3446,
-            "name": "beIN Sport 1 - FR",
-            "description": null
-          },
-          {
-            "id": 3275,
-            "name": "beIN Sport - USA",
-            "description": null
-          }
-        ]
-      },
       {
         "id": 100,
         "name": "Ligue 1",
@@ -1272,49 +1016,6 @@
     "type": "Football",
     "items": [
       {
-        "id": 70,
-        "name": "Al Ittifaq 🆚 Al Hilal",
-        "stage": null,
-        "logo": "logo/events/roshn-saudi-league_327.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "football",
-        "start_time": 1760798700,
-        "end_time": 1760807700,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3692,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 2888,
-            "name": "Sportdigital",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 264,
-        "name": "Al Akhdoud 🆚 Al Hazm",
-        "stage": null,
-        "logo": "logo/events/roshn-saudi-league_327.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "football",
-        "start_time": 1760800500,
-        "end_time": 1760809500,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3691,
-            "name": "LINK 1",
-            "description": null
-          }
-        ]
-      },
-      {
         "id": 4,
         "name": "Al Nassr 🆚 Al Fateh",
         "stage": null,
@@ -1558,25 +1259,6 @@
     "type": "Football",
     "items": [
       {
-        "id": 285,
-        "name": "Norwich City 🆚 Bristol City",
-        "stage": null,
-        "logo": "logo/events/blackburn-rovers-middlesbrough_x6aqQU7RGwXVw3wB8ZhH.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "cricket",
-        "start_time": 1760796000,
-        "end_time": 1760805000,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3338,
-            "name": "CBS SPORTS Golazo",
-            "description": null
-          }
-        ]
-      },
-      {
         "id": 257,
         "name": "Leicester City 🆚 Portsmouth",
         "stage": null,
@@ -1721,39 +1403,6 @@
     "logo": "logo/events/categories/icc-womens-world-cup_Tac4U4YHpuekyiqOw3CJ.png",
     "type": "Cricket",
     "items": [
-      {
-        "id": 328,
-        "name": "ICC Womens World Cup",
-        "stage": "19th Match",
-        "logo": "",
-        "color": null,
-        "type": "team",
-        "sport_type": "cricket",
-        "start_time": 1760779800,
-        "end_time": 1760808600,
-        "show_duration": true,
-        "team_1": {
-          "name": "New Zealand",
-          "logo": "logo/teams/new-zealand_Bo0hBUgvsLhkGvuy7NLf.png"
-        },
-        "team_2": {
-          "name": "Pakisthan",
-          "logo": "logo/teams/pakisthan_QCFdXH7TItyN21PE72wI.png"
-        },
-        "full_team_name": "New Zealand 🆚 Pakisthan",
-        "sources": [
-          {
-            "id": 3202,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 3734,
-            "name": "LINK 2",
-            "description": null
-          }
-        ]
-      },
       {
         "id": 329,
         "name": "ICC Womens World Cup",
