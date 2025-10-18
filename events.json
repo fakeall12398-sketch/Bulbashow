@@ -233,39 +233,6 @@
     "type": "Football",
     "items": [
       {
-        "id": 3,
-        "name": "Ligue 1",
-        "stage": null,
-        "logo": "logo/events/ligue-1_338.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1760726700,
-        "end_time": 1760735700,
-        "show_duration": true,
-        "team_1": {
-          "name": "PSG",
-          "logo": "logo/teams/psg_gPACrkwZo7y4GwFBYJlm.png"
-        },
-        "team_2": {
-          "name": "Strasbourg",
-          "logo": "logo/teams/strasbourg_Vrsd3bucdd4a9hSGGZc2.png"
-        },
-        "full_team_name": "PSG 🆚 Strasbourg",
-        "sources": [
-          {
-            "id": 3652,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 3721,
-            "name": "LINK 2",
-            "description": null
-          }
-        ]
-      },
-      {
         "id": 71,
         "name": "Ligue 1",
         "stage": null,
@@ -705,44 +672,6 @@
     "type": "Football",
     "items": [
       {
-        "id": 79,
-        "name": "LALIGA",
-        "stage": null,
-        "logo": "logo/events/sevilla-villarreal_wqSkWfYjIH5dihHm8c1A.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1760727600,
-        "end_time": 1760736600,
-        "show_duration": true,
-        "team_1": {
-          "name": "Real Oviedo",
-          "logo": "logo/teams/real-oviedo_51jeSpuF0f23HGcE4wiZ.png"
-        },
-        "team_2": {
-          "name": "Espanyol",
-          "logo": "logo/teams/espanyol_YRX1tfHvMxMw3umCf9l7.png"
-        },
-        "full_team_name": "Real Oviedo 🆚 Espanyol",
-        "sources": [
-          {
-            "id": 3283,
-            "name": "beIN Sport 3 - AUS",
-            "description": null
-          },
-          {
-            "id": 3043,
-            "name": "LALIGA TV",
-            "description": null
-          },
-          {
-            "id": 2558,
-            "name": "ZIGGO SPORT 2",
-            "description": null
-          }
-        ]
-      },
-      {
         "id": 80,
         "name": "LALIGA",
         "stage": null,
@@ -1075,35 +1004,6 @@
     "type": "Football",
     "items": [
       {
-        "id": 196,
-        "name": "Union Berlin 🆚 Borussia M'gladbach",
-        "stage": null,
-        "logo": "logo/events/hoffenheim-bayer-leverkusen_W0M2W6UxsD7TsKSPbJB3.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "football",
-        "start_time": 1760725800,
-        "end_time": 1760734800,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3683,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 3290,
-            "name": "beIN Sport 1 - AUS",
-            "description": null
-          },
-          {
-            "id": 2937,
-            "name": "SPORTV",
-            "description": null
-          }
-        ]
-      },
-      {
         "id": 93,
         "name": "Mainz 05 🆚 Bayer Leverkusen",
         "stage": null,
@@ -1166,30 +1066,6 @@
         ]
       },
       {
-        "id": 369,
-        "name": "Wolfsburg 🆚 Stuttgart",
-        "stage": null,
-        "logo": "logo/events/hoffenheim-bayer-leverkusen_W0M2W6UxsD7TsKSPbJB3.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "football",
-        "start_time": 1760794200,
-        "end_time": 1760803200,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3682,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 3463,
-            "name": "beIN Sport 5 MAX - FR",
-            "description": null
-          }
-        ]
-      },
-      {
         "id": 273,
         "name": "RB Leipzig 🆚 Hamburger SV",
         "stage": null,
@@ -1209,6 +1085,30 @@
           {
             "id": 3683,
             "name": "LINK 1",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 369,
+        "name": "Wolfsburg 🆚 Stuttgart",
+        "stage": null,
+        "logo": "logo/events/hoffenheim-bayer-leverkusen_W0M2W6UxsD7TsKSPbJB3.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1760794200,
+        "end_time": 1760803200,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3682,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3463,
+            "name": "beIN Sport 5 MAX - FR",
             "description": null
           }
         ]
@@ -1424,25 +1324,6 @@
     "logo": "logo/events/categories/efl-championship_hWDkHuBlOH3M0hqEXMCx.png",
     "type": "Football",
     "items": [
-      {
-        "id": 258,
-        "name": "Middlesbrough 🆚 Ipswich Town",
-        "stage": null,
-        "logo": "logo/events/blackburn-rovers-middlesbrough_x6aqQU7RGwXVw3wB8ZhH.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "cricket",
-        "start_time": 1760727600,
-        "end_time": 1760736600,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3289,
-            "name": "beIN Sport 2 - AUS",
-            "description": null
-          }
-        ]
-      },
       {
         "id": 284,
         "name": "Queens Park Rangers 🆚 Millwall",
@@ -2329,6 +2210,39 @@
         ]
       },
       {
+        "id": 75,
+        "name": "Serie A",
+        "stage": null,
+        "logo": "logo/events/serie-a_562.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1760911200,
+        "end_time": 1760920200,
+        "show_duration": true,
+        "team_1": {
+          "name": "Atalanta",
+          "logo": "logo/teams/atalanta_b0AAzCzjZ2ZxB0duJ34q.png"
+        },
+        "team_2": {
+          "name": "Lazio",
+          "logo": "logo/teams/lazio_z39VbfmpNCElriI7gdIx.png"
+        },
+        "full_team_name": "Atalanta 🆚 Lazio",
+        "sources": [
+          {
+            "id": 3283,
+            "name": "beIN Sport 3 - AUS",
+            "description": null
+          },
+          {
+            "id": 3338,
+            "name": "CBS SPORTS Golazo",
+            "description": null
+          }
+        ]
+      },
+      {
         "id": 7,
         "name": "Serie A",
         "stage": null,
@@ -2403,6 +2317,49 @@
           {
             "id": 3761,
             "name": "LINK 2",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 291,
+        "name": "FIFA U-20 World Cup",
+        "stage": "FINAL",
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1760914800,
+        "end_time": 1760923800,
+        "show_duration": true,
+        "team_1": {
+          "name": "Argentina",
+          "logo": "logo/teams/argentina_pDa8KIvC0PZ1iOF1swve.png"
+        },
+        "team_2": {
+          "name": "Morocco",
+          "logo": "logo/teams/morocco_PmfSAM1qmVEHVMEj4bDl.png"
+        },
+        "full_team_name": "Argentina 🆚 Morocco",
+        "sources": [
+          {
+            "id": 3666,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3575,
+            "name": "LINK 2",
+            "description": null
+          },
+          {
+            "id": 2937,
+            "name": "SPORTV",
+            "description": null
+          },
+          {
+            "id": 2750,
+            "name": "TSN 5",
             "description": null
           }
         ]
