@@ -27,13 +27,18 @@
         "full_team_name": "France 🆚 Colombia",
         "sources": [
           {
-            "id": 2937,
+            "id": 3670,
             "name": "LINK 1",
             "description": null
           },
           {
-            "id": 3761,
+            "id": 2938,
             "name": "LINK 2",
+            "description": null
+          },
+          {
+            "id": 3783,
+            "name": "LINK 3",
             "description": null
           }
         ]
@@ -89,44 +94,6 @@
     "logo": "logo/events/categories/premier-league_DxTuHXdZHzmgURaJXIV3.png",
     "type": "Football",
     "items": [
-      {
-        "id": 64,
-        "name": "Premier League",
-        "stage": null,
-        "logo": "logo/events/premier-league_653.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1760805000,
-        "end_time": 1760814000,
-        "show_duration": true,
-        "team_1": {
-          "name": "Arsenal",
-          "logo": "logo/teams/arsenal_fc6aAPzStsGPPVTcPQMZ.png"
-        },
-        "team_2": {
-          "name": "Fulham",
-          "logo": "logo/teams/fulham_ZtmiztFY6TcDY03VX8wu.png"
-        },
-        "full_team_name": "Arsenal 🆚 Fulham",
-        "sources": [
-          {
-            "id": 981,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 3456,
-            "name": "Universo",
-            "description": null
-          },
-          {
-            "id": 3485,
-            "name": "FUBO Sports",
-            "description": null
-          }
-        ]
-      },
       {
         "id": 77,
         "name": "Premier League",
@@ -212,6 +179,44 @@
             "description": null
           }
         ]
+      },
+      {
+        "id": 16,
+        "name": "Premier League",
+        "stage": null,
+        "logo": "logo/events/premier-league_653.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1760986800,
+        "end_time": 1760995800,
+        "show_duration": true,
+        "team_1": {
+          "name": "West Ham United",
+          "logo": "logo/teams/west-ham-united_ZH09jHWYKL3jxywDbqrp.png"
+        },
+        "team_2": {
+          "name": "Brentford",
+          "logo": "logo/teams/brentford_0MEh8wP4adPwsQr3Wqlv.png"
+        },
+        "full_team_name": "West Ham United 🆚 Brentford",
+        "sources": [
+          {
+            "id": 981,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 1714,
+            "name": "USA Network",
+            "description": null
+          },
+          {
+            "id": 3485,
+            "name": "FUBO Sports",
+            "description": null
+          }
+        ]
       }
     ]
   },
@@ -221,44 +226,6 @@
     "logo": "logo/events/categories/la-liga_09FFBteASyl11hboQ8x9.png",
     "type": "Football",
     "items": [
-      {
-        "id": 72,
-        "name": "LALIGA",
-        "stage": null,
-        "logo": "logo/events/sevilla-villarreal_wqSkWfYjIH5dihHm8c1A.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1760805000,
-        "end_time": 1760814000,
-        "show_duration": true,
-        "team_1": {
-          "name": "Villarreal",
-          "logo": "logo/teams/villarreal_9ztBwUV50RgNFebIe13O.png"
-        },
-        "team_2": {
-          "name": "Real Betis",
-          "logo": "logo/teams/real-betis_Zy9S6WZE2jtyrnfZiFK7.png"
-        },
-        "full_team_name": "Villarreal 🆚 Real Betis",
-        "sources": [
-          {
-            "id": 3290,
-            "name": "beIN Sport 1 - AUS",
-            "description": null
-          },
-          {
-            "id": 3043,
-            "name": "LALIGA TV",
-            "description": null
-          },
-          {
-            "id": 2665,
-            "name": "ZIGGO SPORT",
-            "description": null
-          }
-        ]
-      },
       {
         "id": 215,
         "name": "LALIGA",
@@ -460,6 +427,44 @@
           {
             "id": 2665,
             "name": "ZIGGO SPORT",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 135,
+        "name": "LALIGA",
+        "stage": null,
+        "logo": "logo/events/sevilla-villarreal_wqSkWfYjIH5dihHm8c1A.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1760986800,
+        "end_time": 1760995800,
+        "show_duration": true,
+        "team_1": {
+          "name": "Deportivo Alavés",
+          "logo": "logo/teams/deportivo-alaves_MjSSu8ns81zY2K4BqeB5.png"
+        },
+        "team_2": {
+          "name": "Valencia",
+          "logo": "logo/teams/valencia_Il7Acs58wgzuVXt4kKM2.png"
+        },
+        "full_team_name": "Deportivo Alavés 🆚 Valencia",
+        "sources": [
+          {
+            "id": 2861,
+            "name": "Premier Sports 1 ",
+            "description": null
+          },
+          {
+            "id": 2558,
+            "name": "ZIGGO SPORT 2",
+            "description": null
+          },
+          {
+            "id": 3043,
+            "name": "LALIGA TV",
             "description": null
           }
         ]
@@ -737,49 +742,6 @@
     "type": "Football",
     "items": [
       {
-        "id": 74,
-        "name": "Serie A",
-        "stage": null,
-        "logo": "logo/events/serie-a_562.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1760803200,
-        "end_time": 1760812200,
-        "show_duration": true,
-        "team_1": {
-          "name": "Napoli",
-          "logo": "logo/teams/napoli_NYdRhOCsu0S7p6Z3pnfO.png"
-        },
-        "team_2": {
-          "name": "Torino",
-          "logo": "logo/teams/torino_1t5rKnzvXh5aNoneNsRI.png"
-        },
-        "full_team_name": "Napoli 🆚 Torino",
-        "sources": [
-          {
-            "id": 3283,
-            "name": "beIN Sport 3 - AUS",
-            "description": null
-          },
-          {
-            "id": 3669,
-            "name": "Fox Deportes",
-            "description": null
-          },
-          {
-            "id": 3338,
-            "name": "CBS SPORTS Golazo",
-            "description": null
-          },
-          {
-            "id": 2558,
-            "name": "ZIGGO SPORT 2",
-            "description": null
-          }
-        ]
-      },
-      {
         "id": 124,
         "name": "Serie A",
         "stage": null,
@@ -1006,6 +968,39 @@
             "description": null
           }
         ]
+      },
+      {
+        "id": 364,
+        "name": "Serie A",
+        "stage": null,
+        "logo": "logo/events/serie-a_562.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1760985900,
+        "end_time": 1760994900,
+        "show_duration": true,
+        "team_1": {
+          "name": "Udinese",
+          "logo": "logo/teams/udinese_q4FaAL4szKj7lyZxQsCi.png"
+        },
+        "team_2": {
+          "name": "Cremonese",
+          "logo": "logo/teams/cremonese_CJVjeC0IKjDMjWxRsazq.png"
+        },
+        "full_team_name": "Udinese 🆚 Cremonese",
+        "sources": [
+          {
+            "id": 3283,
+            "name": "beIN Sport 3 - AUS",
+            "description": null
+          },
+          {
+            "id": 3486,
+            "name": "FUBO Sports 2",
+            "description": null
+          }
+        ]
       }
     ]
   },
@@ -1104,30 +1099,6 @@
     "logo": "logo/events/categories/bundesliga_TUnq97qHRnlbiCVmw2bE.png",
     "type": "Football",
     "items": [
-      {
-        "id": 95,
-        "name": "Bayern München 🆚 Borussia Dortmund",
-        "stage": null,
-        "logo": "logo/events/hoffenheim-bayer-leverkusen_W0M2W6UxsD7TsKSPbJB3.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "football",
-        "start_time": 1760805000,
-        "end_time": 1760814000,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3289,
-            "name": "beIN Sport 2 - AUS",
-            "description": null
-          },
-          {
-            "id": 3461,
-            "name": "beIN Sport 2 - FR",
-            "description": null
-          }
-        ]
-      },
       {
         "id": 274,
         "name": "Freiburg 🆚 Eintracht Frankfurt",
