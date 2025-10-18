@@ -1066,30 +1066,6 @@
         ]
       },
       {
-        "id": 273,
-        "name": "RB Leipzig 🆚 Hamburger SV",
-        "stage": null,
-        "logo": "logo/events/hoffenheim-bayer-leverkusen_W0M2W6UxsD7TsKSPbJB3.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "football",
-        "start_time": 1760794200,
-        "end_time": 1760803200,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3461,
-            "name": "beIN Sport 2 - FR",
-            "description": null
-          },
-          {
-            "id": 3683,
-            "name": "LINK 1",
-            "description": null
-          }
-        ]
-      },
-      {
         "id": 369,
         "name": "Wolfsburg 🆚 Stuttgart",
         "stage": null,
@@ -1109,6 +1085,30 @@
           {
             "id": 3463,
             "name": "beIN Sport 5 MAX - FR",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 273,
+        "name": "RB Leipzig 🆚 Hamburger SV",
+        "stage": null,
+        "logo": "logo/events/hoffenheim-bayer-leverkusen_W0M2W6UxsD7TsKSPbJB3.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1760794200,
+        "end_time": 1760803200,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3461,
+            "name": "beIN Sport 2 - FR",
+            "description": null
+          },
+          {
+            "id": 3683,
+            "name": "LINK 1",
             "description": null
           }
         ]
@@ -1408,78 +1408,6 @@
     "logo": "logo/events/categories/liga-mx_9NgAE2moXr18M9dTzX16.png",
     "type": "Football",
     "items": [
-      {
-        "id": 356,
-        "name": "Puebla 🆚 Tijuana",
-        "stage": null,
-        "logo": "logo/events/puebla-pachuca_b2MU6rHq9XOT8tkBpPE0.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "cricket",
-        "start_time": 1760749200,
-        "end_time": 1760758200,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3721,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 3648,
-            "name": "LINK 2",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 358,
-        "name": "Atlético San Luis 🆚 Atlas",
-        "stage": null,
-        "logo": "logo/events/puebla-pachuca_b2MU6rHq9XOT8tkBpPE0.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "cricket",
-        "start_time": 1760756400,
-        "end_time": 1760765400,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3648,
-            "name": "LINK 1",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 359,
-        "name": "Tigres UANL 🆚 Necaxa",
-        "stage": null,
-        "logo": "logo/events/puebla-pachuca_b2MU6rHq9XOT8tkBpPE0.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "cricket",
-        "start_time": 1760756400,
-        "end_time": 1760765400,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3669,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 3456,
-            "name": "LINK 2",
-            "description": null
-          },
-          {
-            "id": 3721,
-            "name": "LINK 3",
-            "description": null
-          }
-        ]
-      },
       {
         "id": 360,
         "name": "Juárez 🆚 Pachuca",
@@ -2198,13 +2126,13 @@
         "full_team_name": "Genoa 🆚 Parma",
         "sources": [
           {
-            "id": 3338,
-            "name": "CBS SPORTS Golazo",
+            "id": 3669,
+            "name": "Fox Deportes",
             "description": null
           },
           {
-            "id": 3669,
-            "name": "Fox Deportes",
+            "id": 3338,
+            "name": "CBS SPORTS Golazo",
             "description": null
           }
         ]
