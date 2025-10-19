@@ -1,48 +1,237 @@
 [
   {
+    "id": 6,
+    "name": "Cricket",
+    "logo": "logo/events/categories/cricket_34rT8noo6pPjKMC5Wm9f.webp",
+    "type": "Cricket",
+    "items": [
+      {
+        "id": 22,
+        "name": "India tour of Australia",
+        "stage": "1st ODI",
+        "logo": "",
+        "color": null,
+        "type": "team",
+        "sport_type": "cricket",
+        "start_time": 1760844600,
+        "end_time": null,
+        "show_duration": true,
+        "team_1": {
+          "name": "India",
+          "logo": "logo/teams/india_R8DzB45mwxgV921JfOUc.png"
+        },
+        "team_2": {
+          "name": "Australia",
+          "logo": "logo/teams/australia_ft0IHOvqYgEhT2QZC10y.png"
+        },
+        "full_team_name": "India 🆚 Australia",
+        "sources": [
+          {
+            "id": 902,
+            "name": "LINK 1",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 125,
+        "name": "England tour of New Zealand",
+        "stage": "2nd T20I",
+        "logo": "",
+        "color": null,
+        "type": "team",
+        "sport_type": "cricket",
+        "start_time": 1760940900,
+        "end_time": null,
+        "show_duration": true,
+        "team_1": {
+          "name": "England",
+          "logo": "logo/teams/england_lR9prItXfM5WG6lZqsOD.png"
+        },
+        "team_2": {
+          "name": "New Zealand",
+          "logo": "logo/teams/new-zealand_Bo0hBUgvsLhkGvuy7NLf.png"
+        },
+        "full_team_name": "England 🆚 New Zealand",
+        "sources": [
+          {
+            "id": 902,
+            "name": "TNT Sports 1 (BT Sports) ",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 76,
+        "name": "South Africa tour of Pakistan",
+        "stage": "2nd Test, Day 1",
+        "logo": "",
+        "color": null,
+        "type": "team",
+        "sport_type": "cricket",
+        "start_time": 1760936400,
+        "end_time": null,
+        "show_duration": true,
+        "team_1": {
+          "name": "Pakisthan",
+          "logo": "logo/teams/pakisthan_QCFdXH7TItyN21PE72wI.png"
+        },
+        "team_2": {
+          "name": "South Africa",
+          "logo": "logo/teams/south-africa_Ft4TOjd1f9xQlzGVM4a2.png"
+        },
+        "full_team_name": "Pakisthan 🆚 South Africa",
+        "sources": [
+          {
+            "id": 3654,
+            "name": "LINK 2",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 68,
+        "name": "Afghanistan tour of Zimbabwe",
+        "stage": "Test, Day 1",
+        "logo": "",
+        "color": null,
+        "type": "team",
+        "sport_type": "cricket",
+        "start_time": 1760947200,
+        "end_time": null,
+        "show_duration": true,
+        "team_1": {
+          "name": "Afghanistan",
+          "logo": "logo/teams/afghanistan_pNuVU1zMVjnpDx1wW4Me.png"
+        },
+        "team_2": {
+          "name": "Zimbabwe",
+          "logo": "logo/teams/zimbabwe_1NrjbqGp14rS7YaZibaP.png"
+        },
+        "full_team_name": "Afghanistan 🆚 Zimbabwe",
+        "sources": [
+          {
+            "id": 3541,
+            "name": "LINK 1",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 290,
+        "name": "West Indies tour of Bangladesh",
+        "stage": "2nd ODI",
+        "logo": "",
+        "color": null,
+        "type": "team",
+        "sport_type": "cricket",
+        "start_time": 1761031800,
+        "end_time": null,
+        "show_duration": true,
+        "team_1": {
+          "name": "Bangladesh",
+          "logo": "logo/teams/bangladesh_9mfG8dxYyOTt53INypBM.png"
+        },
+        "team_2": {
+          "name": "West Indies",
+          "logo": "logo/teams/west-indies_Q6wRrBT7yHbEpRQVsW4z.png"
+        },
+        "full_team_name": "Bangladesh 🆚 West Indies",
+        "sources": [
+          {
+            "id": 3276,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3541,
+            "name": "SD",
+            "description": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "name": "ICC Womens World Cup",
+    "logo": "logo/events/categories/icc-womens-world-cup_Tac4U4YHpuekyiqOw3CJ.png",
+    "type": "Cricket",
+    "items": [
+      {
+        "id": 329,
+        "name": "ICC Womens World Cup",
+        "stage": "20th Match",
+        "logo": "",
+        "color": null,
+        "type": "team",
+        "sport_type": "cricket",
+        "start_time": 1760866200,
+        "end_time": 1760895000,
+        "show_duration": true,
+        "team_1": {
+          "name": "England",
+          "logo": "logo/teams/england_lR9prItXfM5WG6lZqsOD.png"
+        },
+        "team_2": {
+          "name": "India",
+          "logo": "logo/teams/india_R8DzB45mwxgV921JfOUc.png"
+        },
+        "full_team_name": "England 🆚 India",
+        "sources": [
+          {
+            "id": 3202,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3734,
+            "name": "LINK 2",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 330,
+        "name": "ICC Womens World Cup",
+        "stage": "21st Match",
+        "logo": "",
+        "color": null,
+        "type": "team",
+        "sport_type": "cricket",
+        "start_time": 1760952600,
+        "end_time": 1760981400,
+        "show_duration": true,
+        "team_1": {
+          "name": "Bangladesh",
+          "logo": "logo/teams/bangladesh_9mfG8dxYyOTt53INypBM.png"
+        },
+        "team_2": {
+          "name": "Sri Lanka",
+          "logo": "logo/teams/sri-lanka_oUuxxnRFqx3sjQ3WUtfY.jpg"
+        },
+        "full_team_name": "Bangladesh 🆚 Sri Lanka",
+        "sources": [
+          {
+            "id": 3202,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3734,
+            "name": "LINK 2",
+            "description": null
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 44,
     "name": "FIFA U-20 World Cup",
     "logo": "logo/events/categories/fifa-club-world-cup_uKXWsqNaJmoeEKidZZbj.png",
     "type": "Football",
     "items": [
-      {
-        "id": 337,
-        "name": "FIFA U-20 World Cup",
-        "stage": "Third Place",
-        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1760814000,
-        "end_time": 1760823000,
-        "show_duration": true,
-        "team_1": {
-          "name": "France",
-          "logo": "logo/teams/france_aUU9YpY9mRlZaIN96Jcj.png"
-        },
-        "team_2": {
-          "name": "Colombia",
-          "logo": "logo/teams/colombia_Qtn8lNsfufrLzN3t77jo.png"
-        },
-        "full_team_name": "France 🆚 Colombia",
-        "sources": [
-          {
-            "id": 3670,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 2938,
-            "name": "LINK 2",
-            "description": null
-          },
-          {
-            "id": 3783,
-            "name": "LINK 3",
-            "description": null
-          }
-        ]
-      },
       {
         "id": 291,
         "name": "FIFA U-20 World Cup",
@@ -226,44 +415,6 @@
     "logo": "logo/events/categories/la-liga_09FFBteASyl11hboQ8x9.png",
     "type": "Football",
     "items": [
-      {
-        "id": 215,
-        "name": "LALIGA",
-        "stage": null,
-        "logo": "logo/events/sevilla-villarreal_wqSkWfYjIH5dihHm8c1A.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1760814000,
-        "end_time": 1760823000,
-        "show_duration": true,
-        "team_1": {
-          "name": "Atlético Madrid",
-          "logo": "logo/teams/atletico-madrid_4CExDv7KUcKomWVKyjxf.png"
-        },
-        "team_2": {
-          "name": "Osasuna",
-          "logo": "logo/teams/osasuna_g84VgmCK3M4Wn83DcqmE.png"
-        },
-        "full_team_name": "Atlético Madrid 🆚 Osasuna",
-        "sources": [
-          {
-            "id": 3290,
-            "name": "beIN Sport 1 - AUS",
-            "description": null
-          },
-          {
-            "id": 3043,
-            "name": "LALIGA TV",
-            "description": null
-          },
-          {
-            "id": 2558,
-            "name": "ZIGGO SPORT 2",
-            "description": null
-          }
-        ]
-      },
       {
         "id": 214,
         "name": "LALIGA",
@@ -478,39 +629,6 @@
     "type": "Football",
     "items": [
       {
-        "id": 252,
-        "name": "Ligue 1",
-        "stage": null,
-        "logo": "logo/events/ligue-1_338.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1760814300,
-        "end_time": 1760823300,
-        "show_duration": true,
-        "team_1": {
-          "name": "Olympique Marseille",
-          "logo": "logo/teams/olympique-marseille_p69Uuc33val55SO7Qwbw.png"
-        },
-        "team_2": {
-          "name": "Le Havre",
-          "logo": "logo/teams/le-havre_ruBqgF1Q4zFILvZcdJZv.png"
-        },
-        "full_team_name": "Olympique Marseille 🆚 Le Havre",
-        "sources": [
-          {
-            "id": 3652,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 3721,
-            "name": "LINK 2",
-            "description": null
-          }
-        ]
-      },
-      {
         "id": 213,
         "name": "Ligue 1",
         "stage": null,
@@ -704,54 +822,6 @@
     "type": "Football",
     "items": [
       {
-        "id": 124,
-        "name": "Serie A",
-        "stage": null,
-        "logo": "logo/events/serie-a_562.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1760813100,
-        "end_time": 1760822100,
-        "show_duration": true,
-        "team_1": {
-          "name": "Roma",
-          "logo": "logo/teams/roma_Sc0O78CfmYENhBVg3Ath.png"
-        },
-        "team_2": {
-          "name": "Internazionale",
-          "logo": "logo/teams/internazionale_2CwVe8TFyTB8etpuSs1V.png"
-        },
-        "full_team_name": "Roma 🆚 Internazionale",
-        "sources": [
-          {
-            "id": 902,
-            "name": "TNT Sports 1 (BT Sports) ",
-            "description": null
-          },
-          {
-            "id": 3289,
-            "name": "beIN Sport 2 - AUS",
-            "description": null
-          },
-          {
-            "id": 3669,
-            "name": "Fox Deportes",
-            "description": null
-          },
-          {
-            "id": 3486,
-            "name": "FUBO Sports 2",
-            "description": null
-          },
-          {
-            "id": 2665,
-            "name": "ZIGGO SPORT",
-            "description": null
-          }
-        ]
-      },
-      {
         "id": 190,
         "name": "Serie A",
         "stage": null,
@@ -849,13 +919,13 @@
         "full_team_name": "Genoa 🆚 Parma",
         "sources": [
           {
-            "id": 3669,
-            "name": "Fox Deportes",
+            "id": 3338,
+            "name": "CBS SPORTS Golazo",
             "description": null
           },
           {
-            "id": 3338,
-            "name": "CBS SPORTS Golazo",
+            "id": 3669,
+            "name": "Fox Deportes",
             "description": null
           }
         ]
@@ -1089,25 +1159,6 @@
     "type": "Football",
     "items": [
       {
-        "id": 317,
-        "name": "Bochum 🆚 Hertha BSC",
-        "stage": null,
-        "logo": "logo/events/elversberg-kaiserslautern_u7XcxXJ8sRFF8zKriQ0p.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "cricket",
-        "start_time": 1760812200,
-        "end_time": 1760821200,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3683,
-            "name": "LINK 1",
-            "description": null
-          }
-        ]
-      },
-      {
         "id": 370,
         "name": "Darmstadt 98 🆚 Magdeburg",
         "stage": null,
@@ -1167,105 +1218,11 @@
     ]
   },
   {
-    "id": 37,
-    "name": "EFL Championship",
-    "logo": "logo/events/categories/efl-championship_hWDkHuBlOH3M0hqEXMCx.png",
-    "type": "Football",
-    "items": [
-      {
-        "id": 257,
-        "name": "Leicester City 🆚 Portsmouth",
-        "stage": null,
-        "logo": "logo/events/blackburn-rovers-middlesbrough_x6aqQU7RGwXVw3wB8ZhH.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "cricket",
-        "start_time": 1760813100,
-        "end_time": 1760822100,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3283,
-            "name": "beIN Sport 3 - AUS",
-            "description": null
-          }
-        ]
-      }
-    ]
-  },
-  {
     "id": 51,
     "name": "Liga MX",
     "logo": "logo/events/categories/liga-mx_9NgAE2moXr18M9dTzX16.png",
     "type": "Football",
     "items": [
-      {
-        "id": 360,
-        "name": "Juárez 🆚 Pachuca",
-        "stage": null,
-        "logo": "logo/events/puebla-pachuca_b2MU6rHq9XOT8tkBpPE0.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "cricket",
-        "start_time": 1760828400,
-        "end_time": 1760837400,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3669,
-            "name": "Fox Deportes",
-            "description": null
-          },
-          {
-            "id": 3456,
-            "name": "Universo",
-            "description": null
-          },
-          {
-            "id": 3575,
-            "name": "Telemundo",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 361,
-        "name": "Toluca 🆚 Querétaro",
-        "stage": null,
-        "logo": "logo/events/puebla-pachuca_b2MU6rHq9XOT8tkBpPE0.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "cricket",
-        "start_time": 1760828400,
-        "end_time": 1760837400,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3721,
-            "name": "LINK 1",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 362,
-        "name": "Monterrey 🆚 Pumas UNAM",
-        "stage": null,
-        "logo": "logo/events/puebla-pachuca_b2MU6rHq9XOT8tkBpPE0.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "cricket",
-        "start_time": 1760835600,
-        "end_time": 1760844600,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3648,
-            "name": "TUDN USA",
-            "description": null
-          }
-        ]
-      },
       {
         "id": 357,
         "name": "Guadalajara 🆚 Mazatlán",
@@ -1305,200 +1262,6 @@
           {
             "id": 3648,
             "name": "LINK 1",
-            "description": null
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": 18,
-    "name": "ICC Womens World Cup",
-    "logo": "logo/events/categories/icc-womens-world-cup_Tac4U4YHpuekyiqOw3CJ.png",
-    "type": "Cricket",
-    "items": [
-      {
-        "id": 329,
-        "name": "ICC Womens World Cup",
-        "stage": "20th Match",
-        "logo": "",
-        "color": null,
-        "type": "team",
-        "sport_type": "cricket",
-        "start_time": 1760866200,
-        "end_time": 1760895000,
-        "show_duration": true,
-        "team_1": {
-          "name": "England",
-          "logo": "logo/teams/england_lR9prItXfM5WG6lZqsOD.png"
-        },
-        "team_2": {
-          "name": "India",
-          "logo": "logo/teams/india_R8DzB45mwxgV921JfOUc.png"
-        },
-        "full_team_name": "England 🆚 India",
-        "sources": [
-          {
-            "id": 3202,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 3734,
-            "name": "LINK 2",
-            "description": null
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": 6,
-    "name": "Cricket",
-    "logo": "logo/events/categories/cricket_34rT8noo6pPjKMC5Wm9f.webp",
-    "type": "Cricket",
-    "items": [
-      {
-        "id": 22,
-        "name": "India tour of Australia",
-        "stage": "1st ODI",
-        "logo": "",
-        "color": null,
-        "type": "team",
-        "sport_type": "cricket",
-        "start_time": 1760844600,
-        "end_time": null,
-        "show_duration": true,
-        "team_1": {
-          "name": "India",
-          "logo": "logo/teams/india_R8DzB45mwxgV921JfOUc.png"
-        },
-        "team_2": {
-          "name": "Australia",
-          "logo": "logo/teams/australia_ft0IHOvqYgEhT2QZC10y.png"
-        },
-        "full_team_name": "India 🆚 Australia",
-        "sources": [
-          {
-            "id": 902,
-            "name": "LINK 1",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 125,
-        "name": "England tour of New Zealand",
-        "stage": "2nd T20I",
-        "logo": "",
-        "color": null,
-        "type": "team",
-        "sport_type": "cricket",
-        "start_time": 1760940900,
-        "end_time": null,
-        "show_duration": true,
-        "team_1": {
-          "name": "England",
-          "logo": "logo/teams/england_lR9prItXfM5WG6lZqsOD.png"
-        },
-        "team_2": {
-          "name": "New Zealand",
-          "logo": "logo/teams/new-zealand_Bo0hBUgvsLhkGvuy7NLf.png"
-        },
-        "full_team_name": "England 🆚 New Zealand",
-        "sources": [
-          {
-            "id": 902,
-            "name": "TNT Sports 1 (BT Sports) ",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 76,
-        "name": "South Africa tour of Pakistan",
-        "stage": "2nd Test, Day 1",
-        "logo": "",
-        "color": null,
-        "type": "team",
-        "sport_type": "cricket",
-        "start_time": 1760936400,
-        "end_time": null,
-        "show_duration": true,
-        "team_1": {
-          "name": "Pakisthan",
-          "logo": "logo/teams/pakisthan_QCFdXH7TItyN21PE72wI.png"
-        },
-        "team_2": {
-          "name": "South Africa",
-          "logo": "logo/teams/south-africa_Ft4TOjd1f9xQlzGVM4a2.png"
-        },
-        "full_team_name": "Pakisthan 🆚 South Africa",
-        "sources": [
-          {
-            "id": 3654,
-            "name": "LINK 2",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 68,
-        "name": "Afghanistan tour of Zimbabwe",
-        "stage": "Test, Day 1",
-        "logo": "",
-        "color": null,
-        "type": "team",
-        "sport_type": "cricket",
-        "start_time": 1760947200,
-        "end_time": null,
-        "show_duration": true,
-        "team_1": {
-          "name": "Afghanistan",
-          "logo": "logo/teams/afghanistan_pNuVU1zMVjnpDx1wW4Me.png"
-        },
-        "team_2": {
-          "name": "Zimbabwe",
-          "logo": "logo/teams/zimbabwe_1NrjbqGp14rS7YaZibaP.png"
-        },
-        "full_team_name": "Afghanistan 🆚 Zimbabwe",
-        "sources": [
-          {
-            "id": 3541,
-            "name": "LINK 1",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 290,
-        "name": "West Indies tour of Bangladesh",
-        "stage": "2nd ODI",
-        "logo": "",
-        "color": null,
-        "type": "team",
-        "sport_type": "cricket",
-        "start_time": 1761031800,
-        "end_time": null,
-        "show_duration": true,
-        "team_1": {
-          "name": "Bangladesh",
-          "logo": "logo/teams/bangladesh_9mfG8dxYyOTt53INypBM.png"
-        },
-        "team_2": {
-          "name": "West Indies",
-          "logo": "logo/teams/west-indies_Q6wRrBT7yHbEpRQVsW4z.png"
-        },
-        "full_team_name": "Bangladesh 🆚 West Indies",
-        "sources": [
-          {
-            "id": 3276,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 3541,
-            "name": "SD",
             "description": null
           }
         ]
