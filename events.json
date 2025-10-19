@@ -1055,7 +1055,7 @@
         "show_duration": true,
         "sources": [
           {
-            "id": 3692,
+            "id": 2937,
             "name": "LINK 1",
             "description": null
           }
@@ -1223,30 +1223,6 @@
     "logo": "logo/events/categories/liga-mx_9NgAE2moXr18M9dTzX16.png",
     "type": "Football",
     "items": [
-      {
-        "id": 357,
-        "name": "Guadalajara 🆚 Mazatlán",
-        "stage": null,
-        "logo": "logo/events/puebla-pachuca_b2MU6rHq9XOT8tkBpPE0.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "cricket",
-        "start_time": 1760836020,
-        "end_time": 1760845020,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3456,
-            "name": "Universo",
-            "description": null
-          },
-          {
-            "id": 3575,
-            "name": "Telemundo",
-            "description": null
-          }
-        ]
-      },
       {
         "id": 368,
         "name": "Cruz Azul 🆚 América",
