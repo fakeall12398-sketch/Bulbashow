@@ -164,39 +164,6 @@
     "type": "Cricket",
     "items": [
       {
-        "id": 330,
-        "name": "ICC Womens World Cup",
-        "stage": "21st Match",
-        "logo": "",
-        "color": null,
-        "type": "team",
-        "sport_type": "cricket",
-        "start_time": 1760952600,
-        "end_time": 1760981400,
-        "show_duration": true,
-        "team_1": {
-          "name": "Bangladesh",
-          "logo": "logo/teams/bangladesh_9mfG8dxYyOTt53INypBM.png"
-        },
-        "team_2": {
-          "name": "Sri Lanka",
-          "logo": "logo/teams/sri-lanka_oUuxxnRFqx3sjQ3WUtfY.jpg"
-        },
-        "full_team_name": "Bangladesh 🆚 Sri Lanka",
-        "sources": [
-          {
-            "id": 3202,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 3734,
-            "name": "LINK 2",
-            "description": null
-          }
-        ]
-      },
-      {
         "id": 162,
         "name": "ICC Womens World Cup",
         "stage": "22nd Match",
@@ -398,6 +365,33 @@
     ]
   },
   {
+    "id": 10,
+    "name": "Saudi Pro League",
+    "logo": "logo/events/categories/saudi-pro-league_u7DXK6SUZP664JoFeYfB.png",
+    "type": "Football",
+    "items": [
+      {
+        "id": 69,
+        "name": "Al Najma 🆚 Al-Ahli",
+        "stage": null,
+        "logo": "logo/events/roshn-saudi-league_327.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1761156000,
+        "end_time": 1761165000,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3669,
+            "name": "LINK 1",
+            "description": null
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 37,
     "name": "EFL Championship",
     "logo": "logo/events/categories/efl-championship_hWDkHuBlOH3M0hqEXMCx.png",
@@ -418,6 +412,25 @@
           {
             "id": 3283,
             "name": "beIN Sport 3 - AUS",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 254,
+        "name": "Sheffield Wednesday 🆚 Middlesbrough",
+        "stage": null,
+        "logo": "logo/events/blackburn-rovers-middlesbrough_x6aqQU7RGwXVw3wB8ZhH.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "cricket",
+        "start_time": 1761159600,
+        "end_time": 1761168600,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3683,
+            "name": "LINK 1",
             "description": null
           }
         ]
@@ -659,13 +672,13 @@
         "full_team_name": "Internazionale 🆚 Union Saint-Gilloise",
         "sources": [
           {
-            "id": 866,
-            "name": "beIN Sport 5 - AR",
+            "id": 2877,
+            "name": "DAZN 2 - DE",
             "description": null
           },
           {
-            "id": 2877,
-            "name": "DAZN 2 - DE",
+            "id": 866,
+            "name": "beIN Sport 5 - AR",
             "description": null
           }
         ]
@@ -694,6 +707,138 @@
           {
             "id": 2665,
             "name": "ZIGGO SPORT",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 104,
+        "name": "UEFA Champions League",
+        "stage": null,
+        "logo": "logo/events/young-boys-aston-villa_TBYhsDy4LQeUHE1sx9JD.png",
+        "color": "#FFD700",
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1761151500,
+        "end_time": 1761160500,
+        "show_duration": true,
+        "team_1": {
+          "name": "Athletic Club",
+          "logo": "logo/teams/athletic-club_IMrU8myTY6ecoOB2UlrJ.png"
+        },
+        "team_2": {
+          "name": "Qarabağ",
+          "logo": "logo/teams/qarabag_mLO5NBcn4s3pL4bsniwu.png"
+        },
+        "full_team_name": "Athletic Club 🆚 Qarabağ",
+        "sources": [
+          {
+            "id": 2053,
+            "name": "TNT Sports 4 (BT Sports)",
+            "description": null
+          },
+          {
+            "id": 2667,
+            "name": "ZIGGO SPORT 3",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 90,
+        "name": "UEFA Champions League",
+        "stage": null,
+        "logo": "logo/events/uefa_GeRIdYHuqxPzlmNgiTc4.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1761151500,
+        "end_time": 1761160500,
+        "show_duration": true,
+        "team_1": {
+          "name": "Bodø / Glimt",
+          "logo": "logo/teams/bodo-glimt_X3hxQya5haH4injMTf0o.png"
+        },
+        "team_2": {
+          "name": "Galatasaray",
+          "logo": "logo/teams/galatasaray_6tlTUhxbuFGXqCs6vp7W.png"
+        },
+        "full_team_name": "Bodø / Glimt 🆚 Galatasaray",
+        "sources": [
+          {
+            "id": 902,
+            "name": "TNT Sports 1 (BT Sports) ",
+            "description": null
+          },
+          {
+            "id": 2558,
+            "name": "ZIGGO SPORT 2",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 39,
+        "name": "UEFA Champions League",
+        "stage": null,
+        "logo": "logo/events/juventus-psv_Quk9CbAnGkaxbrirFINV.png",
+        "color": "#FFD700",
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1761159600,
+        "end_time": 1761168600,
+        "show_duration": true,
+        "team_1": {
+          "name": "Liverpool",
+          "logo": "logo/teams/liverpool_HMqVIBRuCRoiG9WsnSWg.png"
+        },
+        "team_2": {
+          "name": "Eintracht Frankfurt",
+          "logo": "logo/teams/eintracht-frankfurt_naBThnJdvRzSaXNhh9s0.png"
+        },
+        "full_team_name": "Liverpool 🆚 Eintracht Frankfurt",
+        "sources": [
+          {
+            "id": 3469,
+            "name": "ZIGGO SPORT 5",
+            "description": null
+          },
+          {
+            "id": 861,
+            "name": "beIN Sport 4 - AR",
+            "description": null
+          },
+          {
+            "id": 824,
+            "name": "Arena Sports 1 - BA",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 199,
+        "name": "UEFA Champions League",
+        "stage": null,
+        "logo": "logo/events/juventus-psv_Quk9CbAnGkaxbrirFINV.png",
+        "color": "#FFD700",
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1761159600,
+        "end_time": 1761168600,
+        "show_duration": true,
+        "team_1": {
+          "name": "Real Madrid",
+          "logo": "logo/teams/real-madrid_CUgA3ukonrMdp3gfsRbJ.png"
+        },
+        "team_2": {
+          "name": "Juventus",
+          "logo": "logo/teams/juventus_1WZ6BUDiLNixSnojyYvv.png"
+        },
+        "full_team_name": "Real Madrid 🆚 Juventus",
+        "sources": [
+          {
+            "id": 2667,
+            "name": "ZIGGO SPORT 3",
             "description": null
           }
         ]
