@@ -232,57 +232,6 @@
     ]
   },
   {
-    "id": 44,
-    "name": "FIFA U-20 World Cup",
-    "logo": "logo/events/categories/fifa-club-world-cup_uKXWsqNaJmoeEKidZZbj.png",
-    "type": "Football",
-    "items": [
-      {
-        "id": 291,
-        "name": "FIFA U-20 World Cup",
-        "stage": "FINAL",
-        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1760914800,
-        "end_time": 1760923800,
-        "show_duration": true,
-        "team_1": {
-          "name": "Argentina",
-          "logo": "logo/teams/argentina_pDa8KIvC0PZ1iOF1swve.png"
-        },
-        "team_2": {
-          "name": "Morocco",
-          "logo": "logo/teams/morocco_PmfSAM1qmVEHVMEj4bDl.png"
-        },
-        "full_team_name": "Argentina 🆚 Morocco",
-        "sources": [
-          {
-            "id": 3666,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 3575,
-            "name": "LINK 2",
-            "description": null
-          },
-          {
-            "id": 2937,
-            "name": "SPORTV",
-            "description": null
-          },
-          {
-            "id": 2750,
-            "name": "TSN 5",
-            "description": null
-          }
-        ]
-      }
-    ]
-  },
-  {
     "id": 11,
     "name": "Premier League",
     "logo": "logo/events/categories/premier-league_DxTuHXdZHzmgURaJXIV3.png",
@@ -380,39 +329,6 @@
     "logo": "logo/events/categories/serie-a_I13YO3O5lVJj1vhJRU6w.png",
     "type": "Football",
     "items": [
-      {
-        "id": 75,
-        "name": "Serie A",
-        "stage": null,
-        "logo": "logo/events/serie-a_562.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1760911200,
-        "end_time": 1760920200,
-        "show_duration": true,
-        "team_1": {
-          "name": "Atalanta",
-          "logo": "logo/teams/atalanta_b0AAzCzjZ2ZxB0duJ34q.png"
-        },
-        "team_2": {
-          "name": "Lazio",
-          "logo": "logo/teams/lazio_z39VbfmpNCElriI7gdIx.png"
-        },
-        "full_team_name": "Atalanta 🆚 Lazio",
-        "sources": [
-          {
-            "id": 3283,
-            "name": "beIN Sport 3 - AUS",
-            "description": null
-          },
-          {
-            "id": 3338,
-            "name": "CBS SPORTS Golazo",
-            "description": null
-          }
-        ]
-      },
       {
         "id": 364,
         "name": "Serie A",
