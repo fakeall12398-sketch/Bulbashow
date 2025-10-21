@@ -232,139 +232,6 @@
     ]
   },
   {
-    "id": 11,
-    "name": "Premier League",
-    "logo": "logo/events/categories/premier-league_DxTuHXdZHzmgURaJXIV3.png",
-    "type": "Football",
-    "items": [
-      {
-        "id": 16,
-        "name": "Premier League",
-        "stage": null,
-        "logo": "logo/events/premier-league_653.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1760986800,
-        "end_time": 1760995800,
-        "show_duration": true,
-        "team_1": {
-          "name": "West Ham United",
-          "logo": "logo/teams/west-ham-united_ZH09jHWYKL3jxywDbqrp.png"
-        },
-        "team_2": {
-          "name": "Brentford",
-          "logo": "logo/teams/brentford_0MEh8wP4adPwsQr3Wqlv.png"
-        },
-        "full_team_name": "West Ham United 🆚 Brentford",
-        "sources": [
-          {
-            "id": 981,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 1714,
-            "name": "USA Network",
-            "description": null
-          },
-          {
-            "id": 3485,
-            "name": "FUBO Sports",
-            "description": null
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": 13,
-    "name": "LA LIGA",
-    "logo": "logo/events/categories/la-liga_09FFBteASyl11hboQ8x9.png",
-    "type": "Football",
-    "items": [
-      {
-        "id": 135,
-        "name": "LALIGA",
-        "stage": null,
-        "logo": "logo/events/sevilla-villarreal_wqSkWfYjIH5dihHm8c1A.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1760986800,
-        "end_time": 1760995800,
-        "show_duration": true,
-        "team_1": {
-          "name": "Deportivo Alavés",
-          "logo": "logo/teams/deportivo-alaves_MjSSu8ns81zY2K4BqeB5.png"
-        },
-        "team_2": {
-          "name": "Valencia",
-          "logo": "logo/teams/valencia_Il7Acs58wgzuVXt4kKM2.png"
-        },
-        "full_team_name": "Deportivo Alavés 🆚 Valencia",
-        "sources": [
-          {
-            "id": 2861,
-            "name": "Premier Sports 1 ",
-            "description": null
-          },
-          {
-            "id": 2558,
-            "name": "ZIGGO SPORT 2",
-            "description": null
-          },
-          {
-            "id": 3043,
-            "name": "LALIGA TV",
-            "description": null
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": 14,
-    "name": "Serie A",
-    "logo": "logo/events/categories/serie-a_I13YO3O5lVJj1vhJRU6w.png",
-    "type": "Football",
-    "items": [
-      {
-        "id": 364,
-        "name": "Serie A",
-        "stage": null,
-        "logo": "logo/events/serie-a_562.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1760985900,
-        "end_time": 1760994900,
-        "show_duration": true,
-        "team_1": {
-          "name": "Udinese",
-          "logo": "logo/teams/udinese_q4FaAL4szKj7lyZxQsCi.png"
-        },
-        "team_2": {
-          "name": "Cremonese",
-          "logo": "logo/teams/cremonese_CJVjeC0IKjDMjWxRsazq.png"
-        },
-        "full_team_name": "Udinese 🆚 Cremonese",
-        "sources": [
-          {
-            "id": 3283,
-            "name": "beIN Sport 3 - AUS",
-            "description": null
-          },
-          {
-            "id": 3486,
-            "name": "FUBO Sports 2",
-            "description": null
-          }
-        ]
-      }
-    ]
-  },
-  {
     "id": 10,
     "name": "Saudi Pro League",
     "logo": "logo/events/categories/saudi-pro-league_u7DXK6SUZP664JoFeYfB.png",
@@ -672,13 +539,13 @@
         "full_team_name": "Internazionale 🆚 Union Saint-Gilloise",
         "sources": [
           {
-            "id": 2877,
-            "name": "DAZN 2 - DE",
+            "id": 866,
+            "name": "beIN Sport 5 - AR",
             "description": null
           },
           {
-            "id": 866,
-            "name": "beIN Sport 5 - AR",
+            "id": 2877,
+            "name": "DAZN 2 - DE",
             "description": null
           }
         ]
