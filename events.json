@@ -395,72 +395,6 @@
         ]
       },
       {
-        "id": 104,
-        "name": "UEFA Champions League",
-        "stage": null,
-        "logo": "logo/events/young-boys-aston-villa_TBYhsDy4LQeUHE1sx9JD.png",
-        "color": "#FFD700",
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1761151500,
-        "end_time": 1761160500,
-        "show_duration": true,
-        "team_1": {
-          "name": "Athletic Club",
-          "logo": "logo/teams/athletic-club_IMrU8myTY6ecoOB2UlrJ.png"
-        },
-        "team_2": {
-          "name": "Qarabağ",
-          "logo": "logo/teams/qarabag_mLO5NBcn4s3pL4bsniwu.png"
-        },
-        "full_team_name": "Athletic Club 🆚 Qarabağ",
-        "sources": [
-          {
-            "id": 2053,
-            "name": "TNT Sports 4 (BT Sports)",
-            "description": null
-          },
-          {
-            "id": 2667,
-            "name": "ZIGGO SPORT 3",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 90,
-        "name": "UEFA Champions League",
-        "stage": null,
-        "logo": "logo/events/uefa_GeRIdYHuqxPzlmNgiTc4.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1761151500,
-        "end_time": 1761160500,
-        "show_duration": true,
-        "team_1": {
-          "name": "Bodø / Glimt",
-          "logo": "logo/teams/bodo-glimt_X3hxQya5haH4injMTf0o.png"
-        },
-        "team_2": {
-          "name": "Galatasaray",
-          "logo": "logo/teams/galatasaray_6tlTUhxbuFGXqCs6vp7W.png"
-        },
-        "full_team_name": "Bodø / Glimt 🆚 Galatasaray",
-        "sources": [
-          {
-            "id": 902,
-            "name": "TNT Sports 1 (BT Sports) ",
-            "description": null
-          },
-          {
-            "id": 2558,
-            "name": "ZIGGO SPORT 2",
-            "description": null
-          }
-        ]
-      },
-      {
         "id": 39,
         "name": "UEFA Champions League",
         "stage": null,
@@ -522,6 +456,138 @@
           {
             "id": 2667,
             "name": "ZIGGO SPORT 3",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 198,
+        "name": "UEFA Champions League",
+        "stage": null,
+        "logo": "logo/events/uefa_GeRIdYHuqxPzlmNgiTc4.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1761159600,
+        "end_time": 1761168600,
+        "show_duration": true,
+        "team_1": {
+          "name": "Chelsea",
+          "logo": "logo/teams/chelsea_4qmk0ruyKon66luWMjkX.webp"
+        },
+        "team_2": {
+          "name": "Ajax",
+          "logo": "logo/teams/ajax_I8cDRI6sDPG9uM4wNyNJ.png"
+        },
+        "full_team_name": "Chelsea 🆚 Ajax",
+        "sources": [
+          {
+            "id": 905,
+            "name": "TNT Sports 2 (BT Sports)",
+            "description": null
+          },
+          {
+            "id": 2665,
+            "name": "ZIGGO SPORT",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 35,
+        "name": "UEFA Champions League",
+        "stage": null,
+        "logo": "logo/events/uefa_i2gGRxCyWtuczfdeHAEo.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1761159600,
+        "end_time": 1761168600,
+        "show_duration": true,
+        "team_1": {
+          "name": "Tottenham Hotspur",
+          "logo": "logo/teams/tottenham-hotspur_wRuMqVZrIxbbxVAzReN9.png"
+        },
+        "team_2": {
+          "name": "Monaco",
+          "logo": "logo/teams/monaco_3OpFAHbszyvVUmTbamFa.png"
+        },
+        "full_team_name": "Tottenham Hotspur 🆚 Monaco",
+        "sources": [
+          {
+            "id": 908,
+            "name": "TNT Sports 3 (BT Sports)",
+            "description": null
+          },
+          {
+            "id": 1036,
+            "name": "ZIGGO SPORT 6",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 104,
+        "name": "UEFA Champions League",
+        "stage": null,
+        "logo": "logo/events/young-boys-aston-villa_TBYhsDy4LQeUHE1sx9JD.png",
+        "color": "#FFD700",
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1761151500,
+        "end_time": 1761160500,
+        "show_duration": true,
+        "team_1": {
+          "name": "Athletic Club",
+          "logo": "logo/teams/athletic-club_IMrU8myTY6ecoOB2UlrJ.png"
+        },
+        "team_2": {
+          "name": "Qarabağ",
+          "logo": "logo/teams/qarabag_mLO5NBcn4s3pL4bsniwu.png"
+        },
+        "full_team_name": "Athletic Club 🆚 Qarabağ",
+        "sources": [
+          {
+            "id": 2053,
+            "name": "TNT Sports 4 (BT Sports)",
+            "description": null
+          },
+          {
+            "id": 2667,
+            "name": "ZIGGO SPORT 3",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 90,
+        "name": "UEFA Champions League",
+        "stage": null,
+        "logo": "logo/events/uefa_GeRIdYHuqxPzlmNgiTc4.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1761151500,
+        "end_time": 1761160500,
+        "show_duration": true,
+        "team_1": {
+          "name": "Bodø / Glimt",
+          "logo": "logo/teams/bodo-glimt_X3hxQya5haH4injMTf0o.png"
+        },
+        "team_2": {
+          "name": "Galatasaray",
+          "logo": "logo/teams/galatasaray_6tlTUhxbuFGXqCs6vp7W.png"
+        },
+        "full_team_name": "Bodø / Glimt 🆚 Galatasaray",
+        "sources": [
+          {
+            "id": 902,
+            "name": "TNT Sports 1 (BT Sports) ",
+            "description": null
+          },
+          {
+            "id": 2558,
+            "name": "ZIGGO SPORT 2",
             "description": null
           }
         ]
@@ -892,6 +958,44 @@
             "description": null
           }
         ]
+      },
+      {
+        "id": 361,
+        "name": "Querétaro 🆚 Guadalajara",
+        "stage": null,
+        "logo": "logo/events/puebla-pachuca_b2MU6rHq9XOT8tkBpPE0.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "cricket",
+        "start_time": 1761181200,
+        "end_time": 1761190200,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3721,
+            "name": "LINK 1",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 362,
+        "name": "Tijuana 🆚 Toluca",
+        "stage": null,
+        "logo": "logo/events/puebla-pachuca_b2MU6rHq9XOT8tkBpPE0.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "cricket",
+        "start_time": 1761188400,
+        "end_time": 1761197400,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3721,
+            "name": "LINK 1",
+            "description": null
+          }
+        ]
       }
     ]
   },
@@ -963,6 +1067,234 @@
           {
             "id": 3734,
             "name": "LINK 2",
+            "description": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "name": "UEFA Europa League",
+    "logo": "logo/events/categories/uefa-europa-league_yfAtMPOpgNHhnuAScUSy.png",
+    "type": "Football",
+    "items": [
+      {
+        "id": 158,
+        "name": "UEFA Europa League",
+        "stage": null,
+        "logo": "logo/events/bayern-munchen-dinamo-zagreb_ndnI1DeigBFiVpqh9f1s.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1761237900,
+        "end_time": 1761246900,
+        "show_duration": true,
+        "team_1": {
+          "name": "FCSB",
+          "logo": "logo/teams/fcsb_DOjsWofMPvTFgnCnixKz.png"
+        },
+        "team_2": {
+          "name": "Bologna",
+          "logo": "logo/teams/bologna_Y2dad7YDrmlCWKyXTkeh.png"
+        },
+        "full_team_name": "FCSB 🆚 Bologna",
+        "sources": [
+          {
+            "id": 2053,
+            "name": "TNT Sports 4 (BT Sports)",
+            "description": null
+          },
+          {
+            "id": 3469,
+            "name": "ZIGGO SPORT 5",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 147,
+        "name": "Go Ahead Eagles🆚 Aston Villa",
+        "stage": null,
+        "logo": "logo/events/bayern-munchen-dinamo-zagreb_ndnI1DeigBFiVpqh9f1s.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1761237900,
+        "end_time": 1761246900,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 902,
+            "name": "TNT Sports 1 (BT Sports) ",
+            "description": null
+          },
+          {
+            "id": 2667,
+            "name": "ZIGGO SPORT 3",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 150,
+        "name": "Brann 🆚 Rangers",
+        "stage": null,
+        "logo": "logo/events/bayern-munchen-dinamo-zagreb_ndnI1DeigBFiVpqh9f1s.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1761237900,
+        "end_time": 1761246900,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 871,
+            "name": "beIN Sport 6 - AR",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 157,
+        "name": "Fenerbahçe 🆚 Stuttgart",
+        "stage": null,
+        "logo": "logo/events/bayern-munchen-dinamo-zagreb_ndnI1DeigBFiVpqh9f1s.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1761237900,
+        "end_time": 1761246900,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3469,
+            "name": "ZIGGO SPORT 5",
+            "description": null
+          },
+          {
+            "id": 861,
+            "name": "beIN Sport 4 - AR",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 144,
+        "name": "Feyenoord 🆚 Panathinaikos",
+        "stage": null,
+        "logo": "logo/events/bayern-munchen-dinamo-zagreb_ndnI1DeigBFiVpqh9f1s.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1761237900,
+        "end_time": 1761246900,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 2665,
+            "name": "ZIGGO SPORT",
+            "description": null
+          },
+          {
+            "id": 866,
+            "name": "beIN Sport 5 - AR",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 156,
+        "name": "Genk 🆚 Real Betis",
+        "stage": null,
+        "logo": "logo/events/bayern-munchen-dinamo-zagreb_ndnI1DeigBFiVpqh9f1s.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1761237900,
+        "end_time": 1761246900,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 1036,
+            "name": "ZIGGO SPORT 6",
+            "description": null
+          },
+          {
+            "id": 851,
+            "name": "beIN Sport 2 - AR",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 148,
+        "name": "Olympique Lyonnais 🆚 Basel",
+        "stage": null,
+        "logo": "logo/events/bayern-munchen-dinamo-zagreb_ndnI1DeigBFiVpqh9f1s.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1761237900,
+        "end_time": 1761246900,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 856,
+            "name": "beIN Sport 3 - AR",
+            "description": null
+          },
+          {
+            "id": 830,
+            "name": "Arena Sports 4 - BA",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 154,
+        "name": "Salzburg 🆚 Ferencváros",
+        "stage": null,
+        "logo": "logo/events/bayern-munchen-dinamo-zagreb_ndnI1DeigBFiVpqh9f1s.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1761237900,
+        "end_time": 1761246900,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3702,
+            "name": "beIN Sport Xtra",
+            "description": null
+          },
+          {
+            "id": 2088,
+            "name": "Arena Sports 5 - BA",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 153,
+        "name": "Sporting Braga 🆚 Crvena Zvezda",
+        "stage": null,
+        "logo": "logo/events/bayern-munchen-dinamo-zagreb_ndnI1DeigBFiVpqh9f1s.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1761237900,
+        "end_time": 1761246900,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 881,
+            "name": "beIN Sport 8 - AR",
+            "description": null
+          },
+          {
+            "id": 2542,
+            "name": "Arena Sports 1 Premium - BA",
             "description": null
           }
         ]
