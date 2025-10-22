@@ -238,63 +238,6 @@
     "type": "Football",
     "items": [
       {
-        "id": 356,
-        "name": "América 🆚 Puebla",
-        "stage": null,
-        "logo": "logo/events/puebla-pachuca_b2MU6rHq9XOT8tkBpPE0.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "cricket",
-        "start_time": 1761094800,
-        "end_time": 1761103800,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3720,
-            "name": "LINK 1",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 358,
-        "name": "Mazatlán 🆚 Santos Laguna",
-        "stage": null,
-        "logo": "logo/events/puebla-pachuca_b2MU6rHq9XOT8tkBpPE0.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "cricket",
-        "start_time": 1761102000,
-        "end_time": 1761111000,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3721,
-            "name": "LINK 1",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 359,
-        "name": "Monterrey 🆚 Juárez",
-        "stage": null,
-        "logo": "logo/events/puebla-pachuca_b2MU6rHq9XOT8tkBpPE0.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "cricket",
-        "start_time": 1761102300,
-        "end_time": 1761111300,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3720,
-            "name": "LINK 1",
-            "description": null
-          }
-        ]
-      },
-      {
         "id": 360,
         "name": "Pachuca 🆚 Tigres UANL",
         "stage": null,
@@ -721,13 +664,13 @@
         "show_duration": true,
         "sources": [
           {
-            "id": 2667,
-            "name": "ZIGGO SPORT 3",
+            "id": 902,
+            "name": "TNT Sports 1 (BT Sports) ",
             "description": null
           },
           {
-            "id": 902,
-            "name": "TNT Sports 1 (BT Sports) ",
+            "id": 2667,
+            "name": "ZIGGO SPORT 3",
             "description": null
           }
         ]
@@ -884,13 +827,13 @@
         "show_duration": true,
         "sources": [
           {
-            "id": 2542,
-            "name": "Arena Sports 1 Premium - BA",
+            "id": 881,
+            "name": "beIN Sport 8 - AR",
             "description": null
           },
           {
-            "id": 881,
-            "name": "beIN Sport 8 - AR",
+            "id": 2542,
+            "name": "Arena Sports 1 Premium - BA",
             "description": null
           }
         ]
@@ -1177,13 +1120,13 @@
         "show_duration": true,
         "sources": [
           {
-            "id": 2665,
-            "name": "ZIGGO SPORT",
+            "id": 2558,
+            "name": "ZIGGO SPORT 2",
             "description": null
           },
           {
-            "id": 2558,
-            "name": "ZIGGO SPORT 2",
+            "id": 2665,
+            "name": "ZIGGO SPORT",
             "description": null
           }
         ]
