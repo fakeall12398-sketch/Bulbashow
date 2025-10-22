@@ -597,34 +597,6 @@
         ]
       },
       {
-        "id": 326,
-        "name": "FIFA U-17 Women's World Cup",
-        "stage": null,
-        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1761138000,
-        "end_time": 1761147000,
-        "show_duration": true,
-        "team_1": {
-          "name": "Spain",
-          "logo": "logo/teams/spain_iyBZzr7BgNu358JERkex.png"
-        },
-        "team_2": {
-          "name": "South Korea",
-          "logo": "logo/teams/south-korea_G763uCvqhFDeayiWMZPR.jpg"
-        },
-        "full_team_name": "Spain 🆚 South Korea",
-        "sources": [
-          {
-            "id": 3666,
-            "name": "LINK 1",
-            "description": null
-          }
-        ]
-      },
-      {
         "id": 301,
         "name": "Samoa 🆚 Canada",
         "stage": null,
@@ -1153,13 +1125,13 @@
         "show_duration": true,
         "sources": [
           {
-            "id": 2558,
-            "name": "ZIGGO SPORT 2",
+            "id": 2665,
+            "name": "ZIGGO SPORT",
             "description": null
           },
           {
-            "id": 2665,
-            "name": "ZIGGO SPORT",
+            "id": 2558,
+            "name": "ZIGGO SPORT 2",
             "description": null
           }
         ]
@@ -1262,6 +1234,49 @@
         "sources": [
           {
             "id": 3669,
+            "name": "LINK 1",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 70,
+        "name": "Al Fateh 🆚 Al Ittifaq",
+        "stage": null,
+        "logo": "logo/events/roshn-saudi-league_327.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1761317100,
+        "end_time": 1761326100,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3692,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 2888,
+            "name": "Sportdigital",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 264,
+        "name": "NEOM 🆚 Al Khaleej",
+        "stage": null,
+        "logo": "logo/events/roshn-saudi-league_327.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1761319800,
+        "end_time": 1761328800,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3691,
             "name": "LINK 1",
             "description": null
           }
