@@ -6,14 +6,70 @@
     "type": "Cricket",
     "items": [
       {
-        "id": 290,
-        "name": "West Indies tour of Bangladesh",
-        "stage": "2nd ODI",
+        "id": 76,
+        "name": "South Africa tour of Pakistan",
+        "stage": "2nd Test, Day 3",
         "logo": "",
         "color": null,
         "type": "team",
         "sport_type": "cricket",
-        "start_time": 1761031800,
+        "start_time": 1761109200,
+        "end_time": null,
+        "show_duration": true,
+        "team_1": {
+          "name": "Pakisthan",
+          "logo": "logo/teams/pakisthan_QCFdXH7TItyN21PE72wI.png"
+        },
+        "team_2": {
+          "name": "South Africa",
+          "logo": "logo/teams/south-africa_Ft4TOjd1f9xQlzGVM4a2.png"
+        },
+        "full_team_name": "Pakisthan 🆚 South Africa",
+        "sources": [
+          {
+            "id": 3654,
+            "name": "LINK 2",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 68,
+        "name": "Afghanistan tour of Zimbabwe",
+        "stage": "Test, Day 3",
+        "logo": "",
+        "color": null,
+        "type": "team",
+        "sport_type": "cricket",
+        "start_time": 1761120000,
+        "end_time": null,
+        "show_duration": true,
+        "team_1": {
+          "name": "Afghanistan",
+          "logo": "logo/teams/afghanistan_pNuVU1zMVjnpDx1wW4Me.png"
+        },
+        "team_2": {
+          "name": "Zimbabwe",
+          "logo": "logo/teams/zimbabwe_1NrjbqGp14rS7YaZibaP.png"
+        },
+        "full_team_name": "Afghanistan 🆚 Zimbabwe",
+        "sources": [
+          {
+            "id": 3195,
+            "name": "LINK 1",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 290,
+        "name": "West Indies tour of Bangladesh",
+        "stage": "3rd ODI",
+        "logo": "",
+        "color": null,
+        "type": "team",
+        "sport_type": "cricket",
+        "start_time": 1761204600,
         "end_time": null,
         "show_duration": true,
         "team_1": {
@@ -34,34 +90,6 @@
           {
             "id": 3541,
             "name": "SD",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 68,
-        "name": "Afghanistan tour of Zimbabwe",
-        "stage": "Test, Day 2",
-        "logo": "",
-        "color": null,
-        "type": "team",
-        "sport_type": "cricket",
-        "start_time": 1761033600,
-        "end_time": null,
-        "show_duration": true,
-        "team_1": {
-          "name": "Afghanistan",
-          "logo": "logo/teams/afghanistan_pNuVU1zMVjnpDx1wW4Me.png"
-        },
-        "team_2": {
-          "name": "Zimbabwe",
-          "logo": "logo/teams/zimbabwe_1NrjbqGp14rS7YaZibaP.png"
-        },
-        "full_team_name": "Afghanistan 🆚 Zimbabwe",
-        "sources": [
-          {
-            "id": 3195,
-            "name": "LINK 1",
             "description": null
           }
         ]
@@ -90,34 +118,6 @@
           {
             "id": 902,
             "name": "TNT Sports 1 (BT Sports) ",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 76,
-        "name": "South Africa tour of Pakistan",
-        "stage": "2nd Test, Day 3",
-        "logo": "",
-        "color": null,
-        "type": "team",
-        "sport_type": "cricket",
-        "start_time": 1761109200,
-        "end_time": null,
-        "show_duration": true,
-        "team_1": {
-          "name": "Pakisthan",
-          "logo": "logo/teams/pakisthan_QCFdXH7TItyN21PE72wI.png"
-        },
-        "team_2": {
-          "name": "South Africa",
-          "logo": "logo/teams/south-africa_Ft4TOjd1f9xQlzGVM4a2.png"
-        },
-        "full_team_name": "Pakisthan 🆚 South Africa",
-        "sources": [
-          {
-            "id": 3654,
-            "name": "LINK 2",
             "description": null
           }
         ]
@@ -158,242 +158,207 @@
     ]
   },
   {
+    "id": 18,
+    "name": "ICC Womens World Cup",
+    "logo": "logo/events/categories/icc-womens-world-cup_Tac4U4YHpuekyiqOw3CJ.png",
+    "type": "Cricket",
+    "items": [
+      {
+        "id": 107,
+        "name": "ICC Womens World Cup",
+        "stage": "23rd Match",
+        "logo": "",
+        "color": null,
+        "type": "team",
+        "sport_type": "cricket",
+        "start_time": 1761125400,
+        "end_time": 1761154200,
+        "show_duration": true,
+        "team_1": {
+          "name": "Australia",
+          "logo": "logo/teams/australia_ft0IHOvqYgEhT2QZC10y.png"
+        },
+        "team_2": {
+          "name": "England",
+          "logo": "logo/teams/england_lR9prItXfM5WG6lZqsOD.png"
+        },
+        "full_team_name": "Australia 🆚 England",
+        "sources": [
+          {
+            "id": 3202,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3734,
+            "name": "LINK 2",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 88,
+        "name": "ICC Womens World Cup",
+        "stage": "24th Match",
+        "logo": "",
+        "color": null,
+        "type": "team",
+        "sport_type": "cricket",
+        "start_time": 1761211800,
+        "end_time": 1761240600,
+        "show_duration": true,
+        "team_1": {
+          "name": "India",
+          "logo": "logo/teams/india_R8DzB45mwxgV921JfOUc.png"
+        },
+        "team_2": {
+          "name": "New Zealand",
+          "logo": "logo/teams/new-zealand_Bo0hBUgvsLhkGvuy7NLf.png"
+        },
+        "full_team_name": "India 🆚 New Zealand",
+        "sources": [
+          {
+            "id": 3202,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3734,
+            "name": "LINK 2",
+            "description": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "name": "Liga MX",
+    "logo": "logo/events/categories/liga-mx_9NgAE2moXr18M9dTzX16.png",
+    "type": "Football",
+    "items": [
+      {
+        "id": 356,
+        "name": "América 🆚 Puebla",
+        "stage": null,
+        "logo": "logo/events/puebla-pachuca_b2MU6rHq9XOT8tkBpPE0.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "cricket",
+        "start_time": 1761094800,
+        "end_time": 1761103800,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3720,
+            "name": "LINK 1",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 358,
+        "name": "Mazatlán 🆚 Santos Laguna",
+        "stage": null,
+        "logo": "logo/events/puebla-pachuca_b2MU6rHq9XOT8tkBpPE0.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "cricket",
+        "start_time": 1761102000,
+        "end_time": 1761111000,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3721,
+            "name": "LINK 1",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 359,
+        "name": "Monterrey 🆚 Juárez",
+        "stage": null,
+        "logo": "logo/events/puebla-pachuca_b2MU6rHq9XOT8tkBpPE0.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "cricket",
+        "start_time": 1761102300,
+        "end_time": 1761111300,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3720,
+            "name": "LINK 1",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 360,
+        "name": "Pachuca 🆚 Tigres UANL",
+        "stage": null,
+        "logo": "logo/events/puebla-pachuca_b2MU6rHq9XOT8tkBpPE0.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "cricket",
+        "start_time": 1761181200,
+        "end_time": 1761190200,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3721,
+            "name": "LINK 1",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 361,
+        "name": "Querétaro 🆚 Guadalajara",
+        "stage": null,
+        "logo": "logo/events/puebla-pachuca_b2MU6rHq9XOT8tkBpPE0.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "cricket",
+        "start_time": 1761181200,
+        "end_time": 1761190200,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3721,
+            "name": "LINK 1",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 362,
+        "name": "Tijuana 🆚 Toluca",
+        "stage": null,
+        "logo": "logo/events/puebla-pachuca_b2MU6rHq9XOT8tkBpPE0.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "cricket",
+        "start_time": 1761188400,
+        "end_time": 1761197400,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3721,
+            "name": "LINK 1",
+            "description": null
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 2,
     "name": "UEFA Champions League",
     "logo": "logo/events/categories/uefa-champions-league_PruXdiO3P0XKL0srUXYS.png",
     "type": "Football",
     "items": [
-      {
-        "id": 36,
-        "name": "UEFA Champions League",
-        "stage": null,
-        "logo": "logo/events/uefa-champions-league_SoMek7REXsG9ouH4HX7R.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1761073200,
-        "end_time": 1761082200,
-        "show_duration": true,
-        "team_1": {
-          "name": "PSG",
-          "logo": "logo/teams/psg_gPACrkwZo7y4GwFBYJlm.png"
-        },
-        "team_2": {
-          "name": "Bayer Leverkusen",
-          "logo": "logo/teams/bayer-leverkusen_t3QmumtTtNUgN72IDMqx.png"
-        },
-        "full_team_name": "PSG 🆚 Bayer Leverkusen",
-        "sources": [
-          {
-            "id": 3424,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 2558,
-            "name": "ZIGGO SPORT 2",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 91,
-        "name": "UEFA Champions League",
-        "stage": null,
-        "logo": "logo/events/sporting-cp-lille_KgvODttvDnhYVMwg7dPs.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1761073200,
-        "end_time": 1761082200,
-        "show_duration": true,
-        "team_1": {
-          "name": "Manchester City",
-          "logo": "logo/teams/manchester-city_dULBNGyWBdlIi9PhjqbC.png"
-        },
-        "team_2": {
-          "name": "Villarreal",
-          "logo": "logo/teams/villarreal_9ztBwUV50RgNFebIe13O.png"
-        },
-        "full_team_name": "Manchester City 🆚 Villarreal",
-        "sources": [
-          {
-            "id": 902,
-            "name": "TNT Sports 1 (BT Sports) ",
-            "description": null
-          },
-          {
-            "id": 2667,
-            "name": "ZIGGO SPORT 3",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 34,
-        "name": "UEFA Champions League",
-        "stage": null,
-        "logo": "logo/events/young-boys-aston-villa_TBYhsDy4LQeUHE1sx9JD.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1761073200,
-        "end_time": 1761082200,
-        "show_duration": true,
-        "team_1": {
-          "name": "Newcastle United",
-          "logo": "logo/teams/newcastle-united_qG9rETosUsgCorWNBlog.png"
-        },
-        "team_2": {
-          "name": "Benfica",
-          "logo": "logo/teams/benfica_p5HWa6SGYWDR2wcXVD9F.png"
-        },
-        "full_team_name": "Newcastle United 🆚 Benfica",
-        "sources": [
-          {
-            "id": 905,
-            "name": "TNT Sports 2 (BT Sports)",
-            "description": null
-          },
-          {
-            "id": 3469,
-            "name": "ZIGGO SPORT 5",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 27,
-        "name": "UEFA Champions League",
-        "stage": null,
-        "logo": "logo/events/uefa-nations-league_ixp9i7dT2hvg2LbKpwfS.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1761073200,
-        "end_time": 1761082200,
-        "show_duration": true,
-        "team_1": {
-          "name": "Arsenal",
-          "logo": "logo/teams/arsenal_fc6aAPzStsGPPVTcPQMZ.png"
-        },
-        "team_2": {
-          "name": "Atlético Madrid",
-          "logo": "logo/teams/atletico-madrid_4CExDv7KUcKomWVKyjxf.png"
-        },
-        "full_team_name": "Arsenal 🆚 Atlético Madrid",
-        "sources": [
-          {
-            "id": 3425,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 1036,
-            "name": "ZIGGO SPORT 6",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 92,
-        "name": "UEFA Champions League",
-        "stage": null,
-        "logo": "logo/events/bayern-munchen-dinamo-zagreb_ndnI1DeigBFiVpqh9f1s.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1761073200,
-        "end_time": 1761082200,
-        "show_duration": true,
-        "team_1": {
-          "name": "kobenhavn",
-          "logo": "logo/teams/kobenhavn_j1SigJIST5cgj0XppQil.png"
-        },
-        "team_2": {
-          "name": "Borussia Dortmund",
-          "logo": "logo/teams/borussia-dortmund_UAiL1fFnZIVlcddPozzF.webp"
-        },
-        "full_team_name": "kobenhavn 🆚 Borussia Dortmund",
-        "sources": [
-          {
-            "id": 3426,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 3412,
-            "name": "DAZN 1 - DE",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 103,
-        "name": "UEFA Champions League",
-        "stage": null,
-        "logo": "logo/events/uefa_i2gGRxCyWtuczfdeHAEo.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1761073200,
-        "end_time": 1761082200,
-        "show_duration": true,
-        "team_1": {
-          "name": "Internazionale",
-          "logo": "logo/teams/internazionale_2CwVe8TFyTB8etpuSs1V.png"
-        },
-        "team_2": {
-          "name": "Union Saint-Gilloise",
-          "logo": "logo/teams/union-saint-gilloise_GxSUBEfbUyOKSCsHfUrY.png"
-        },
-        "full_team_name": "Internazionale 🆚 Union Saint-Gilloise",
-        "sources": [
-          {
-            "id": 866,
-            "name": "beIN Sport 5 - AR",
-            "description": null
-          },
-          {
-            "id": 2877,
-            "name": "DAZN 2 - DE",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 200,
-        "name": "UEFA Champions League",
-        "stage": null,
-        "logo": "logo/events/juventus-psv_Quk9CbAnGkaxbrirFINV.png",
-        "color": "#FFD700",
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1761073200,
-        "end_time": 1761082200,
-        "show_duration": true,
-        "team_1": {
-          "name": "Napoli",
-          "logo": "logo/teams/napoli_NYdRhOCsu0S7p6Z3pnfO.png"
-        },
-        "team_2": {
-          "name": "PSV",
-          "logo": "logo/teams/psv_aGHcAUKMcIwY2YOZHHEg.png"
-        },
-        "full_team_name": "Napoli 🆚 PSV",
-        "sources": [
-          {
-            "id": 3338,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 2665,
-            "name": "ZIGGO SPORT",
-            "description": null
-          }
-        ]
-      },
       {
         "id": 39,
         "name": "UEFA Champions League",
@@ -595,95 +560,11 @@
     ]
   },
   {
-    "id": 19,
-    "name": "AFC Champions League Elite",
-    "logo": "logo/events/categories/afc-champions-league-elite_brds9I8ApeU3ZaOzsGUI.png",
-    "type": "Football",
-    "items": [
-      {
-        "id": 210,
-        "name": "Al Hilal 🆚 Al Sadd",
-        "stage": null,
-        "logo": "logo/events/al-ain-al-hilal_uunLP8g5Dtbk2qLKcir5.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "football",
-        "start_time": 1761070500,
-        "end_time": 1761079500,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3541,
-            "name": "LINK 1",
-            "description": null
-          }
-        ]
-      }
-    ]
-  },
-  {
     "id": 37,
     "name": "EFL Championship",
     "logo": "logo/events/categories/efl-championship_hWDkHuBlOH3M0hqEXMCx.png",
     "type": "Football",
     "items": [
-      {
-        "id": 255,
-        "name": "Bristol City 🆚 Southampton",
-        "stage": null,
-        "logo": "logo/events/blackburn-rovers-middlesbrough_x6aqQU7RGwXVw3wB8ZhH.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "football",
-        "start_time": 1761073200,
-        "end_time": 1761082200,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3283,
-            "name": "beIN Sport 3 - AUS",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 258,
-        "name": "Hull City 🆚 Leicester City",
-        "stage": null,
-        "logo": "logo/events/blackburn-rovers-middlesbrough_x6aqQU7RGwXVw3wB8ZhH.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "cricket",
-        "start_time": 1761072300,
-        "end_time": 1761081300,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3785,
-            "name": "LINK 1",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 284,
-        "name": "Derby County 🆚 Norwich City",
-        "stage": null,
-        "logo": "logo/events/blackburn-rovers-middlesbrough_x6aqQU7RGwXVw3wB8ZhH.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "football",
-        "start_time": 1761072300,
-        "end_time": 1761081300,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3786,
-            "name": "LINK 1",
-            "description": null
-          }
-        ]
-      },
       {
         "id": 254,
         "name": "Sheffield Wednesday 🆚 Middlesbrough",
@@ -711,95 +592,6 @@
     "logo": "logo/events/categories/fifa-club-world-cup_uKXWsqNaJmoeEKidZZbj.png",
     "type": "Football",
     "items": [
-      {
-        "id": 333,
-        "name": "FIFA U-17 Women's World Cup",
-        "stage": "Semi Final 1",
-        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1761073200,
-        "end_time": 1761082200,
-        "show_duration": true,
-        "team_1": {
-          "name": "Morocco",
-          "logo": "logo/teams/morocco_PmfSAM1qmVEHVMEj4bDl.png"
-        },
-        "team_2": {
-          "name": "Italy",
-          "logo": "logo/teams/italy_mChUeuYcWwpL0H8ODZhh.png"
-        },
-        "full_team_name": "Morocco 🆚 Italy",
-        "sources": [
-          {
-            "id": 3670,
-            "name": "LINK 1",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 325,
-        "name": "FIFA U-17 Women's World Cup",
-        "stage": "Semi Final 2",
-        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1761073200,
-        "end_time": 1761082200,
-        "show_duration": true,
-        "team_1": {
-          "name": "Netherlands",
-          "logo": "logo/teams/netherlands_jQ1TsSgSAxDObcL1V8Uj.png"
-        },
-        "team_2": {
-          "name": "Mexico",
-          "logo": "logo/teams/mexico_lk7XNO7RfkxtdTS3n4S0.png"
-        },
-        "full_team_name": "Netherlands 🆚 Mexico",
-        "sources": [
-          {
-            "id": 3666,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 3679,
-            "name": "LINK 2",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 337,
-        "name": "FIFA U-17 Women's World Cup",
-        "stage": "Third Place",
-        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1761073200,
-        "end_time": 1761082200,
-        "show_duration": true,
-        "team_1": {
-          "name": "Norway",
-          "logo": "logo/teams/norway_JtXveAd8feRDei0pPuBh.png"
-        },
-        "team_2": {
-          "name": "Ecuador",
-          "logo": "logo/teams/ecuador_p1HR4xMsIa3CPw9m2wRR.png"
-        },
-        "full_team_name": "Norway 🆚 Ecuador",
-        "sources": [
-          {
-            "id": 3680,
-            "name": "LINK 1",
-            "description": null
-          }
-        ]
-      },
       {
         "id": 291,
         "name": "FIFA U-17 Women's World Cup",
@@ -878,202 +670,6 @@
     ]
   },
   {
-    "id": 51,
-    "name": "Liga MX",
-    "logo": "logo/events/categories/liga-mx_9NgAE2moXr18M9dTzX16.png",
-    "type": "Football",
-    "items": [
-      {
-        "id": 356,
-        "name": "América 🆚 Puebla",
-        "stage": null,
-        "logo": "logo/events/puebla-pachuca_b2MU6rHq9XOT8tkBpPE0.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "cricket",
-        "start_time": 1761094800,
-        "end_time": 1761103800,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3720,
-            "name": "LINK 1",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 358,
-        "name": "Mazatlán 🆚 Santos Laguna",
-        "stage": null,
-        "logo": "logo/events/puebla-pachuca_b2MU6rHq9XOT8tkBpPE0.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "cricket",
-        "start_time": 1761102000,
-        "end_time": 1761111000,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3721,
-            "name": "LINK 1",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 359,
-        "name": "Monterrey 🆚 Juárez",
-        "stage": null,
-        "logo": "logo/events/puebla-pachuca_b2MU6rHq9XOT8tkBpPE0.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "cricket",
-        "start_time": 1761102300,
-        "end_time": 1761111300,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3720,
-            "name": "LINK 1",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 360,
-        "name": "Pachuca 🆚 Tigres UANL",
-        "stage": null,
-        "logo": "logo/events/puebla-pachuca_b2MU6rHq9XOT8tkBpPE0.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "cricket",
-        "start_time": 1761181200,
-        "end_time": 1761190200,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3721,
-            "name": "LINK 1",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 361,
-        "name": "Querétaro 🆚 Guadalajara",
-        "stage": null,
-        "logo": "logo/events/puebla-pachuca_b2MU6rHq9XOT8tkBpPE0.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "cricket",
-        "start_time": 1761181200,
-        "end_time": 1761190200,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3721,
-            "name": "LINK 1",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 362,
-        "name": "Tijuana 🆚 Toluca",
-        "stage": null,
-        "logo": "logo/events/puebla-pachuca_b2MU6rHq9XOT8tkBpPE0.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "cricket",
-        "start_time": 1761188400,
-        "end_time": 1761197400,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3721,
-            "name": "LINK 1",
-            "description": null
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": 18,
-    "name": "ICC Womens World Cup",
-    "logo": "logo/events/categories/icc-womens-world-cup_Tac4U4YHpuekyiqOw3CJ.png",
-    "type": "Cricket",
-    "items": [
-      {
-        "id": 107,
-        "name": "ICC Womens World Cup",
-        "stage": "23rd Match",
-        "logo": "",
-        "color": null,
-        "type": "team",
-        "sport_type": "cricket",
-        "start_time": 1761125400,
-        "end_time": 1761154200,
-        "show_duration": true,
-        "team_1": {
-          "name": "Australia",
-          "logo": "logo/teams/australia_ft0IHOvqYgEhT2QZC10y.png"
-        },
-        "team_2": {
-          "name": "England",
-          "logo": "logo/teams/england_lR9prItXfM5WG6lZqsOD.png"
-        },
-        "full_team_name": "Australia 🆚 England",
-        "sources": [
-          {
-            "id": 3202,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 3734,
-            "name": "LINK 2",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 88,
-        "name": "ICC Womens World Cup",
-        "stage": "24th Match",
-        "logo": "",
-        "color": null,
-        "type": "team",
-        "sport_type": "cricket",
-        "start_time": 1761211800,
-        "end_time": 1761240600,
-        "show_duration": true,
-        "team_1": {
-          "name": "India",
-          "logo": "logo/teams/india_R8DzB45mwxgV921JfOUc.png"
-        },
-        "team_2": {
-          "name": "New Zealand",
-          "logo": "logo/teams/new-zealand_Bo0hBUgvsLhkGvuy7NLf.png"
-        },
-        "full_team_name": "India 🆚 New Zealand",
-        "sources": [
-          {
-            "id": 3202,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 3734,
-            "name": "LINK 2",
-            "description": null
-          }
-        ]
-      }
-    ]
-  },
-  {
     "id": 23,
     "name": "UEFA Europa League",
     "logo": "logo/events/categories/uefa-europa-league_yfAtMPOpgNHhnuAScUSy.png",
@@ -1125,13 +721,13 @@
         "show_duration": true,
         "sources": [
           {
-            "id": 902,
-            "name": "TNT Sports 1 (BT Sports) ",
+            "id": 2667,
+            "name": "ZIGGO SPORT 3",
             "description": null
           },
           {
-            "id": 2667,
-            "name": "ZIGGO SPORT 3",
+            "id": 902,
+            "name": "TNT Sports 1 (BT Sports) ",
             "description": null
           }
         ]
@@ -1288,13 +884,344 @@
         "show_duration": true,
         "sources": [
           {
-            "id": 881,
-            "name": "beIN Sport 8 - AR",
+            "id": 2542,
+            "name": "Arena Sports 1 Premium - BA",
             "description": null
           },
           {
-            "id": 2542,
-            "name": "Arena Sports 1 Premium - BA",
+            "id": 881,
+            "name": "beIN Sport 8 - AR",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 160,
+        "name": "UEFA Champions League",
+        "stage": null,
+        "logo": "logo/events/bayern-munchen-dinamo-zagreb_ndnI1DeigBFiVpqh9f1s.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1761246000,
+        "end_time": 1761255000,
+        "show_duration": true,
+        "team_1": {
+          "name": "Nottingham Forest",
+          "logo": "logo/teams/nottingham-forest_ZlzDoHRM4YWe1pXsIvkm.png"
+        },
+        "team_2": {
+          "name": "Porto",
+          "logo": "logo/teams/porto_Bx7SWPZP3VZWhq3o5A30.png"
+        },
+        "full_team_name": "Nottingham Forest 🆚 Porto",
+        "sources": [
+          {
+            "id": 902,
+            "name": "TNT Sports 1 (BT Sports) ",
+            "description": null
+          },
+          {
+            "id": 1036,
+            "name": "ZIGGO SPORT 6",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 149,
+        "name": "UEFA Europa League",
+        "stage": null,
+        "logo": "logo/events/bayern-munchen-dinamo-zagreb_ndnI1DeigBFiVpqh9f1s.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1761246000,
+        "end_time": 1761255000,
+        "show_duration": true,
+        "team_1": {
+          "name": "Nice",
+          "logo": "logo/teams/nice_Iayy9Zi74iNiYmGPvIXP.png"
+        },
+        "team_2": {
+          "name": "Celta De Vigo",
+          "logo": "logo/teams/celta-de-vigo_f2UTUG14GHxaN7eRQjfT.png"
+        },
+        "full_team_name": "Nice 🆚 Celta De Vigo",
+        "sources": [
+          {
+            "id": 861,
+            "name": "beIN Sport 4 - AR",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 151,
+        "name": "Celtic 🆚 Sturm Graz",
+        "stage": null,
+        "logo": "logo/events/bayern-munchen-dinamo-zagreb_ndnI1DeigBFiVpqh9f1s.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1761246000,
+        "end_time": 1761255000,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 905,
+            "name": "TNT Sports 2 (BT Sports)",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 145,
+        "name": "Freiburg 🆚 Utrecht",
+        "stage": null,
+        "logo": "logo/events/bayern-munchen-dinamo-zagreb_ndnI1DeigBFiVpqh9f1s.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1761246000,
+        "end_time": 1761255000,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 2667,
+            "name": "ZIGGO SPORT 3",
+            "description": null
+          },
+          {
+            "id": 886,
+            "name": "beIN Sport 9 - AR",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 365,
+        "name": "Lille 🆚 PAOK",
+        "stage": null,
+        "logo": "logo/events/bayern-munchen-dinamo-zagreb_ndnI1DeigBFiVpqh9f1s.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1761246000,
+        "end_time": 1761255000,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3683,
+            "name": "LINK 1",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 155,
+        "name": "Malmö FF 🆚 Dinamo Zagreb",
+        "stage": null,
+        "logo": "logo/events/bayern-munchen-dinamo-zagreb_ndnI1DeigBFiVpqh9f1s.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1761246000,
+        "end_time": 1761255000,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 881,
+            "name": "beIN Sport 8 - AR",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 152,
+        "name": "Roma 🆚 Viktoria Plzeň",
+        "stage": null,
+        "logo": "logo/events/bayern-munchen-dinamo-zagreb_ndnI1DeigBFiVpqh9f1s.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1761246000,
+        "end_time": 1761255000,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3469,
+            "name": "ZIGGO SPORT 5",
+            "description": null
+          },
+          {
+            "id": 856,
+            "name": "beIN Sport 3 - AR",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 159,
+        "name": "Young Boys 🆚 Ludogorets",
+        "stage": null,
+        "logo": "logo/events/bayern-munchen-dinamo-zagreb_ndnI1DeigBFiVpqh9f1s.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1761246000,
+        "end_time": 1761255000,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 871,
+            "name": "beIN Sport 6 - AR",
+            "description": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "name": "UEFA Conference League",
+    "logo": "logo/events/categories/uefa-conference-league_NW482QWRgKIcpUJMbg6I.png",
+    "type": "Football",
+    "items": [
+      {
+        "id": 132,
+        "name": "AEK Athens 🆚 Aberdeen",
+        "stage": null,
+        "logo": "logo/events/uefa_i2gGRxCyWtuczfdeHAEo.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1761237900,
+        "end_time": 1761246900,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 908,
+            "name": "TNT Sports 3 (BT Sports)",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 133,
+        "name": "Häcken 🆚 Rayo Vallecano",
+        "stage": null,
+        "logo": "logo/events/uefa_i2gGRxCyWtuczfdeHAEo.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1761237900,
+        "end_time": 1761246900,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 886,
+            "name": "beIN Sport 9 - AR",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 140,
+        "name": "Rapid Wien 🆚 Fiorentina",
+        "stage": null,
+        "logo": "logo/events/uefa_i2gGRxCyWtuczfdeHAEo.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1761237900,
+        "end_time": 1761246900,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3683,
+            "name": "LINK 1",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 143,
+        "name": "Škendija 79 🆚 Shelbourne",
+        "stage": null,
+        "logo": "logo/events/uefa_i2gGRxCyWtuczfdeHAEo.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1761237900,
+        "end_time": 1761246900,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 2693,
+            "name": "TNT Sports 5 (BT Sports)",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 141,
+        "name": "AZ 🆚 Slovan Bratislava",
+        "stage": null,
+        "logo": "logo/events/uefa_i2gGRxCyWtuczfdeHAEo.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1761246000,
+        "end_time": 1761255000,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 2665,
+            "name": "ZIGGO SPORT",
+            "description": null
+          },
+          {
+            "id": 2558,
+            "name": "ZIGGO SPORT 2",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 142,
+        "name": "Crystal Palace 🆚 AEK Larnaca",
+        "stage": null,
+        "logo": "logo/events/uefa_i2gGRxCyWtuczfdeHAEo.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1761246000,
+        "end_time": 1761255000,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 908,
+            "name": "TNT Sports 3 (BT Sports)",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 166,
+        "name": "Mainz 05 🆚 Zrinjski",
+        "stage": null,
+        "logo": "logo/events/uefa_i2gGRxCyWtuczfdeHAEo.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1761246000,
+        "end_time": 1761255000,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 846,
+            "name": "beIN Sport 2 - EN",
             "description": null
           }
         ]
