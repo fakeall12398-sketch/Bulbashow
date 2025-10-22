@@ -158,99 +158,11 @@
     ]
   },
   {
-    "id": 44,
-    "name": "FIFA U-17 Women's World Cup",
-    "logo": "logo/events/categories/fifa-club-world-cup_uKXWsqNaJmoeEKidZZbj.png",
-    "type": "Football",
-    "items": [
-      {
-        "id": 291,
-        "name": "FIFA U-17 Women's World Cup",
-        "stage": "FINAL",
-        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1761148800,
-        "end_time": 1761157800,
-        "show_duration": true,
-        "team_1": {
-          "name": "Japan",
-          "logo": "logo/teams/japan_kob7f67JBkvUorLgiTLG.png"
-        },
-        "team_2": {
-          "name": "Zambia",
-          "logo": "logo/teams/zambia_QlOMo0GKQoVQ69C6wnVm.png"
-        },
-        "full_team_name": "Japan 🆚 Zambia",
-        "sources": [
-          {
-            "id": 3679,
-            "name": "LINK 1",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 301,
-        "name": "Samoa 🆚 Canada",
-        "stage": null,
-        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "football",
-        "start_time": 1761148800,
-        "end_time": 1761157800,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3680,
-            "name": "LINK 1",
-            "description": null
-          }
-        ]
-      }
-    ]
-  },
-  {
     "id": 18,
     "name": "ICC Womens World Cup",
     "logo": "logo/events/categories/icc-womens-world-cup_Tac4U4YHpuekyiqOw3CJ.png",
     "type": "Cricket",
     "items": [
-      {
-        "id": 107,
-        "name": "ICC Womens World Cup",
-        "stage": "23rd Match",
-        "logo": "",
-        "color": null,
-        "type": "team",
-        "sport_type": "cricket",
-        "start_time": 1761125400,
-        "end_time": 1761154200,
-        "show_duration": true,
-        "team_1": {
-          "name": "Australia",
-          "logo": "logo/teams/australia_ft0IHOvqYgEhT2QZC10y.png"
-        },
-        "team_2": {
-          "name": "England",
-          "logo": "logo/teams/england_lR9prItXfM5WG6lZqsOD.png"
-        },
-        "full_team_name": "Australia 🆚 England",
-        "sources": [
-          {
-            "id": 3202,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 3734,
-            "name": "LINK 2",
-            "description": null
-          }
-        ]
-      },
       {
         "id": 88,
         "name": "ICC Womens World Cup",
@@ -453,72 +365,6 @@
           {
             "id": 1036,
             "name": "ZIGGO SPORT 6",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 104,
-        "name": "UEFA Champions League",
-        "stage": null,
-        "logo": "logo/events/young-boys-aston-villa_TBYhsDy4LQeUHE1sx9JD.png",
-        "color": "#FFD700",
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1761151500,
-        "end_time": 1761160500,
-        "show_duration": true,
-        "team_1": {
-          "name": "Athletic Club",
-          "logo": "logo/teams/athletic-club_IMrU8myTY6ecoOB2UlrJ.png"
-        },
-        "team_2": {
-          "name": "Qarabağ",
-          "logo": "logo/teams/qarabag_mLO5NBcn4s3pL4bsniwu.png"
-        },
-        "full_team_name": "Athletic Club 🆚 Qarabağ",
-        "sources": [
-          {
-            "id": 2053,
-            "name": "TNT Sports 4 (BT Sports)",
-            "description": null
-          },
-          {
-            "id": 2667,
-            "name": "ZIGGO SPORT 3",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 90,
-        "name": "UEFA Champions League",
-        "stage": null,
-        "logo": "logo/events/uefa_GeRIdYHuqxPzlmNgiTc4.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1761151500,
-        "end_time": 1761160500,
-        "show_duration": true,
-        "team_1": {
-          "name": "Bodø / Glimt",
-          "logo": "logo/teams/bodo-glimt_X3hxQya5haH4injMTf0o.png"
-        },
-        "team_2": {
-          "name": "Galatasaray",
-          "logo": "logo/teams/galatasaray_6tlTUhxbuFGXqCs6vp7W.png"
-        },
-        "full_team_name": "Bodø / Glimt 🆚 Galatasaray",
-        "sources": [
-          {
-            "id": 902,
-            "name": "TNT Sports 1 (BT Sports) ",
-            "description": null
-          },
-          {
-            "id": 2558,
-            "name": "ZIGGO SPORT 2",
             "description": null
           }
         ]
@@ -1125,13 +971,13 @@
         "show_duration": true,
         "sources": [
           {
-            "id": 2665,
-            "name": "ZIGGO SPORT",
+            "id": 2558,
+            "name": "ZIGGO SPORT 2",
             "description": null
           },
           {
-            "id": 2558,
-            "name": "ZIGGO SPORT 2",
+            "id": 2665,
+            "name": "ZIGGO SPORT",
             "description": null
           }
         ]
@@ -1221,25 +1067,6 @@
         ]
       },
       {
-        "id": 69,
-        "name": "Al Najma 🆚 Al-Ahli",
-        "stage": null,
-        "logo": "logo/events/roshn-saudi-league_327.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "football",
-        "start_time": 1761156000,
-        "end_time": 1761165000,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3669,
-            "name": "LINK 1",
-            "description": null
-          }
-        ]
-      },
-      {
         "id": 70,
         "name": "Al Fateh 🆚 Al Ittifaq",
         "stage": null,
@@ -1278,6 +1105,30 @@
           {
             "id": 3691,
             "name": "LINK 1",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Al Ittihad 🆚 Al Hilal",
+        "stage": null,
+        "logo": "logo/events/roshn-saudi-league_327.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1761328800,
+        "end_time": 1761337800,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 2888,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 2937,
+            "name": "LINK 2",
             "description": null
           }
         ]
