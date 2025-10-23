@@ -39,6 +39,39 @@
         ]
       },
       {
+        "id": 22,
+        "name": "India tour of Australia",
+        "stage": "2nd ODI",
+        "logo": "",
+        "color": null,
+        "type": "team",
+        "sport_type": "cricket",
+        "start_time": 1761190200,
+        "end_time": null,
+        "show_duration": true,
+        "team_1": {
+          "name": "India",
+          "logo": "logo/teams/india_R8DzB45mwxgV921JfOUc.png"
+        },
+        "team_2": {
+          "name": "Australia",
+          "logo": "logo/teams/australia_ft0IHOvqYgEhT2QZC10y.png"
+        },
+        "full_team_name": "India 🆚 Australia",
+        "sources": [
+          {
+            "id": 908,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3784,
+            "name": "LINK 2",
+            "description": null
+          }
+        ]
+      },
+      {
         "id": 76,
         "name": "South Africa tour of Pakistan",
         "stage": "2nd Test, Day 4",
@@ -90,39 +123,6 @@
           {
             "id": 902,
             "name": "TNT Sports 1 (BT Sports) ",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 22,
-        "name": "India tour of Australia",
-        "stage": "2nd ODI",
-        "logo": "",
-        "color": null,
-        "type": "team",
-        "sport_type": "cricket",
-        "start_time": 1761190200,
-        "end_time": null,
-        "show_duration": true,
-        "team_1": {
-          "name": "India",
-          "logo": "logo/teams/india_R8DzB45mwxgV921JfOUc.png"
-        },
-        "team_2": {
-          "name": "Australia",
-          "logo": "logo/teams/australia_ft0IHOvqYgEhT2QZC10y.png"
-        },
-        "full_team_name": "India 🆚 Australia",
-        "sources": [
-          {
-            "id": 905,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 3784,
-            "name": "LINK 2",
             "description": null
           }
         ]
@@ -351,63 +351,6 @@
     "type": "Football",
     "items": [
       {
-        "id": 360,
-        "name": "Pachuca 🆚 Tigres UANL",
-        "stage": null,
-        "logo": "logo/events/puebla-pachuca_b2MU6rHq9XOT8tkBpPE0.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "cricket",
-        "start_time": 1761181200,
-        "end_time": 1761190200,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3721,
-            "name": "LINK 1",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 361,
-        "name": "Querétaro 🆚 Guadalajara",
-        "stage": null,
-        "logo": "logo/events/puebla-pachuca_b2MU6rHq9XOT8tkBpPE0.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "cricket",
-        "start_time": 1761181200,
-        "end_time": 1761190200,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3721,
-            "name": "LINK 1",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 362,
-        "name": "Tijuana 🆚 Toluca",
-        "stage": null,
-        "logo": "logo/events/puebla-pachuca_b2MU6rHq9XOT8tkBpPE0.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "cricket",
-        "start_time": 1761188400,
-        "end_time": 1761197400,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3721,
-            "name": "LINK 1",
-            "description": null
-          }
-        ]
-      },
-      {
         "id": 357,
         "name": "Juárez 🆚 Puebla",
         "stage": null,
@@ -619,13 +562,13 @@
         "show_duration": true,
         "sources": [
           {
-            "id": 830,
-            "name": "Arena Sports 4 - BA",
+            "id": 856,
+            "name": "beIN Sport 3 - AR",
             "description": null
           },
           {
-            "id": 856,
-            "name": "beIN Sport 3 - AR",
+            "id": 830,
+            "name": "Arena Sports 4 - BA",
             "description": null
           }
         ]
@@ -643,13 +586,13 @@
         "show_duration": true,
         "sources": [
           {
-            "id": 3702,
-            "name": "beIN Sport Xtra",
+            "id": 2088,
+            "name": "Arena Sports 5 - BA",
             "description": null
           },
           {
-            "id": 2088,
-            "name": "Arena Sports 5 - BA",
+            "id": 3702,
+            "name": "beIN Sport Xtra",
             "description": null
           }
         ]
@@ -667,13 +610,13 @@
         "show_duration": true,
         "sources": [
           {
-            "id": 2542,
-            "name": "Arena Sports 1 Premium - BA",
+            "id": 881,
+            "name": "beIN Sport 8 - AR",
             "description": null
           },
           {
-            "id": 881,
-            "name": "beIN Sport 8 - AR",
+            "id": 2542,
+            "name": "Arena Sports 1 Premium - BA",
             "description": null
           }
         ]
@@ -960,13 +903,13 @@
         "show_duration": true,
         "sources": [
           {
-            "id": 2665,
-            "name": "ZIGGO SPORT",
+            "id": 2558,
+            "name": "ZIGGO SPORT 2",
             "description": null
           },
           {
-            "id": 2558,
-            "name": "ZIGGO SPORT 2",
+            "id": 2665,
+            "name": "ZIGGO SPORT",
             "description": null
           }
         ]
