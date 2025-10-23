@@ -158,277 +158,6 @@
     ]
   },
   {
-    "id": 18,
-    "name": "ICC Womens World Cup",
-    "logo": "logo/events/categories/icc-womens-world-cup_Tac4U4YHpuekyiqOw3CJ.png",
-    "type": "Cricket",
-    "items": [
-      {
-        "id": 88,
-        "name": "ICC Womens World Cup",
-        "stage": "24th Match",
-        "logo": "",
-        "color": null,
-        "type": "team",
-        "sport_type": "cricket",
-        "start_time": 1761211800,
-        "end_time": 1761240600,
-        "show_duration": true,
-        "team_1": {
-          "name": "India",
-          "logo": "logo/teams/india_R8DzB45mwxgV921JfOUc.png"
-        },
-        "team_2": {
-          "name": "New Zealand",
-          "logo": "logo/teams/new-zealand_Bo0hBUgvsLhkGvuy7NLf.png"
-        },
-        "full_team_name": "India 🆚 New Zealand",
-        "sources": [
-          {
-            "id": 3202,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 3734,
-            "name": "LINK 2",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 161,
-        "name": "ICC Womens World Cup",
-        "stage": "25th Match",
-        "logo": "",
-        "color": null,
-        "type": "team",
-        "sport_type": "cricket",
-        "start_time": 1761298200,
-        "end_time": 1761327000,
-        "show_duration": true,
-        "team_1": {
-          "name": "Sri Lanka",
-          "logo": "logo/teams/sri-lanka_oUuxxnRFqx3sjQ3WUtfY.jpg"
-        },
-        "team_2": {
-          "name": "Pakisthan",
-          "logo": "logo/teams/pakisthan_QCFdXH7TItyN21PE72wI.png"
-        },
-        "full_team_name": "Sri Lanka 🆚 Pakisthan",
-        "sources": [
-          {
-            "id": 3202,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 3734,
-            "name": "LINK 2",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 327,
-        "name": "ICC Womens World Cup",
-        "stage": "26th Match",
-        "logo": "",
-        "color": null,
-        "type": "team",
-        "sport_type": "cricket",
-        "start_time": 1761384600,
-        "end_time": 1761413400,
-        "show_duration": true,
-        "team_1": {
-          "name": "Australia",
-          "logo": "logo/teams/australia_ft0IHOvqYgEhT2QZC10y.png"
-        },
-        "team_2": {
-          "name": "South Africa",
-          "logo": "logo/teams/south-africa_Ft4TOjd1f9xQlzGVM4a2.png"
-        },
-        "full_team_name": "Australia 🆚 South Africa",
-        "sources": [
-          {
-            "id": 3202,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 3734,
-            "name": "LINK 2",
-            "description": null
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": 10,
-    "name": "Saudi Pro League",
-    "logo": "logo/events/categories/saudi-pro-league_u7DXK6SUZP664JoFeYfB.png",
-    "type": "Football",
-    "items": [
-      {
-        "id": 251,
-        "name": "Al Riyadh 🆚 Al Kholood",
-        "stage": null,
-        "logo": "logo/events/roshn-saudi-league_327.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "football",
-        "start_time": 1761231300,
-        "end_time": 1761240300,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3692,
-            "name": "LINK 1",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 374,
-        "name": "Al Feiha 🆚 Al Taawon",
-        "stage": null,
-        "logo": "logo/events/roshn-saudi-league_327.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "football",
-        "start_time": 1761231600,
-        "end_time": 1761240600,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3691,
-            "name": "LINK 1",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 70,
-        "name": "Al Fateh 🆚 Al Ittifaq",
-        "stage": null,
-        "logo": "logo/events/roshn-saudi-league_327.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "football",
-        "start_time": 1761317100,
-        "end_time": 1761326100,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3692,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 2888,
-            "name": "Sportdigital",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 264,
-        "name": "NEOM 🆚 Al Khaleej",
-        "stage": null,
-        "logo": "logo/events/roshn-saudi-league_327.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "football",
-        "start_time": 1761319800,
-        "end_time": 1761328800,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3691,
-            "name": "LINK 1",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 4,
-        "name": "Al Ittihad 🆚 Al Hilal",
-        "stage": null,
-        "logo": "logo/events/roshn-saudi-league_327.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "football",
-        "start_time": 1761328800,
-        "end_time": 1761337800,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 2888,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 2937,
-            "name": "LINK 2",
-            "description": null
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": 51,
-    "name": "Liga MX",
-    "logo": "logo/events/categories/liga-mx_9NgAE2moXr18M9dTzX16.png",
-    "type": "Football",
-    "items": [
-      {
-        "id": 357,
-        "name": "Juárez 🆚 Puebla",
-        "stage": null,
-        "logo": "logo/events/puebla-pachuca_b2MU6rHq9XOT8tkBpPE0.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "cricket",
-        "start_time": 1761354000,
-        "end_time": 1761363000,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3721,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 3456,
-            "name": "Universo",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 368,
-        "name": "Mazatlán 🆚 América",
-        "stage": null,
-        "logo": "logo/events/puebla-pachuca_b2MU6rHq9XOT8tkBpPE0.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "cricket",
-        "start_time": 1761361200,
-        "end_time": 1761370200,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3721,
-            "name": "LINK 1",
-            "description": null
-          }
-        ]
-      }
-    ]
-  },
-  {
     "id": 23,
     "name": "UEFA Europa League",
     "logo": "logo/events/categories/uefa-europa-league_yfAtMPOpgNHhnuAScUSy.png",
@@ -480,13 +209,13 @@
         "show_duration": true,
         "sources": [
           {
-            "id": 902,
-            "name": "TNT Sports 1 (BT Sports) ",
+            "id": 2667,
+            "name": "ZIGGO SPORT 3",
             "description": null
           },
           {
-            "id": 2667,
-            "name": "ZIGGO SPORT 3",
+            "id": 902,
+            "name": "TNT Sports 1 (BT Sports) ",
             "description": null
           }
         ]
@@ -595,13 +324,13 @@
         "show_duration": true,
         "sources": [
           {
-            "id": 856,
-            "name": "beIN Sport 3 - AR",
+            "id": 830,
+            "name": "Arena Sports 4 - BA",
             "description": null
           },
           {
-            "id": 830,
-            "name": "Arena Sports 4 - BA",
+            "id": 856,
+            "name": "beIN Sport 3 - AR",
             "description": null
           }
         ]
@@ -619,13 +348,13 @@
         "show_duration": true,
         "sources": [
           {
-            "id": 2088,
-            "name": "Arena Sports 5 - BA",
+            "id": 3702,
+            "name": "beIN Sport Xtra",
             "description": null
           },
           {
-            "id": 3702,
-            "name": "beIN Sport Xtra",
+            "id": 2088,
+            "name": "Arena Sports 5 - BA",
             "description": null
           }
         ]
@@ -981,6 +710,249 @@
           {
             "id": 846,
             "name": "beIN Sport 2 - EN",
+            "description": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "name": "ICC Womens World Cup",
+    "logo": "logo/events/categories/icc-womens-world-cup_Tac4U4YHpuekyiqOw3CJ.png",
+    "type": "Cricket",
+    "items": [
+      {
+        "id": 161,
+        "name": "ICC Womens World Cup",
+        "stage": "25th Match",
+        "logo": "",
+        "color": null,
+        "type": "team",
+        "sport_type": "cricket",
+        "start_time": 1761298200,
+        "end_time": 1761327000,
+        "show_duration": true,
+        "team_1": {
+          "name": "Sri Lanka",
+          "logo": "logo/teams/sri-lanka_oUuxxnRFqx3sjQ3WUtfY.jpg"
+        },
+        "team_2": {
+          "name": "Pakisthan",
+          "logo": "logo/teams/pakisthan_QCFdXH7TItyN21PE72wI.png"
+        },
+        "full_team_name": "Sri Lanka 🆚 Pakisthan",
+        "sources": [
+          {
+            "id": 3202,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3734,
+            "name": "LINK 2",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 327,
+        "name": "ICC Womens World Cup",
+        "stage": "26th Match",
+        "logo": "",
+        "color": null,
+        "type": "team",
+        "sport_type": "cricket",
+        "start_time": 1761384600,
+        "end_time": 1761413400,
+        "show_duration": true,
+        "team_1": {
+          "name": "Australia",
+          "logo": "logo/teams/australia_ft0IHOvqYgEhT2QZC10y.png"
+        },
+        "team_2": {
+          "name": "South Africa",
+          "logo": "logo/teams/south-africa_Ft4TOjd1f9xQlzGVM4a2.png"
+        },
+        "full_team_name": "Australia 🆚 South Africa",
+        "sources": [
+          {
+            "id": 3202,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3734,
+            "name": "LINK 2",
+            "description": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Saudi Pro League",
+    "logo": "logo/events/categories/saudi-pro-league_u7DXK6SUZP664JoFeYfB.png",
+    "type": "Football",
+    "items": [
+      {
+        "id": 70,
+        "name": "Al Fateh 🆚 Al Ittifaq",
+        "stage": null,
+        "logo": "logo/events/roshn-saudi-league_327.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1761317100,
+        "end_time": 1761326100,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3692,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 2888,
+            "name": "Sportdigital",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 264,
+        "name": "NEOM 🆚 Al Khaleej",
+        "stage": null,
+        "logo": "logo/events/roshn-saudi-league_327.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1761319800,
+        "end_time": 1761328800,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3691,
+            "name": "LINK 1",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Al Ittihad 🆚 Al Hilal",
+        "stage": null,
+        "logo": "logo/events/roshn-saudi-league_327.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1761328800,
+        "end_time": 1761337800,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 2888,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 2937,
+            "name": "LINK 2",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 373,
+        "name": "Al Quadisiya 🆚 Al Akhdoud",
+        "stage": null,
+        "logo": "logo/events/roshn-saudi-league_327.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1761403200,
+        "end_time": 1761412200,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 2937,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3692,
+            "name": "LINK 2",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 205,
+        "name": "Al Shabab 🆚 Damac",
+        "stage": null,
+        "logo": "logo/events/roshn-saudi-league_327.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1761404100,
+        "end_time": 1761413100,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3691,
+            "name": "LINK 1",
+            "description": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "name": "Liga MX",
+    "logo": "logo/events/categories/liga-mx_9NgAE2moXr18M9dTzX16.png",
+    "type": "Football",
+    "items": [
+      {
+        "id": 357,
+        "name": "Juárez 🆚 Puebla",
+        "stage": null,
+        "logo": "logo/events/puebla-pachuca_b2MU6rHq9XOT8tkBpPE0.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "cricket",
+        "start_time": 1761354000,
+        "end_time": 1761363000,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3721,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3456,
+            "name": "Universo",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 368,
+        "name": "Mazatlán 🆚 América",
+        "stage": null,
+        "logo": "logo/events/puebla-pachuca_b2MU6rHq9XOT8tkBpPE0.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "cricket",
+        "start_time": 1761361200,
+        "end_time": 1761370200,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3721,
+            "name": "LINK 1",
             "description": null
           }
         ]
