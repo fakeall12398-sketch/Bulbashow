@@ -228,6 +228,217 @@
             "description": null
           }
         ]
+      },
+      {
+        "id": 328,
+        "name": "ICC Womens World Cup",
+        "stage": "27th Match",
+        "logo": "",
+        "color": null,
+        "type": "team",
+        "sport_type": "cricket",
+        "start_time": 1761456600,
+        "end_time": 1761485400,
+        "show_duration": true,
+        "team_1": {
+          "name": "New Zealand",
+          "logo": "logo/teams/new-zealand_Bo0hBUgvsLhkGvuy7NLf.png"
+        },
+        "team_2": {
+          "name": "England",
+          "logo": "logo/teams/england_lR9prItXfM5WG6lZqsOD.png"
+        },
+        "full_team_name": "New Zealand 🆚 England",
+        "sources": [
+          {
+            "id": 3202,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3734,
+            "name": "LINK 2",
+            "description": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Premier League",
+    "logo": "logo/events/categories/premier-league_DxTuHXdZHzmgURaJXIV3.png",
+    "type": "Football",
+    "items": [
+      {
+        "id": 63,
+        "name": "Premier League",
+        "stage": null,
+        "logo": "logo/events/premier-league_653.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1761334200,
+        "end_time": 1761375600,
+        "show_duration": true,
+        "team_1": {
+          "name": "Leeds United",
+          "logo": "logo/teams/leeds-united_chV0LJ49sgZs8F3aML49.png"
+        },
+        "team_2": {
+          "name": "West Ham United",
+          "logo": "logo/teams/west-ham-united_ZH09jHWYKL3jxywDbqrp.png"
+        },
+        "full_team_name": "Leeds United 🆚 West Ham United",
+        "sources": [
+          {
+            "id": 1714,
+            "name": "USA Network",
+            "description": null
+          },
+          {
+            "id": 3485,
+            "name": "FUBO Sports",
+            "description": null
+          },
+          {
+            "id": 981,
+            "name": "SKY SPORTS  Premier League",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 163,
+        "name": "Premier League",
+        "stage": null,
+        "logo": "logo/events/premier-league_653.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1761400800,
+        "end_time": 1761409800,
+        "show_duration": true,
+        "team_1": {
+          "name": "Chelsea",
+          "logo": "logo/teams/chelsea_4qmk0ruyKon66luWMjkX.webp"
+        },
+        "team_2": {
+          "name": "Sunderland",
+          "logo": "logo/teams/sunderland_CJfeVa5gItOnDonuHn99.png"
+        },
+        "full_team_name": "Chelsea 🆚 Sunderland",
+        "sources": [
+          {
+            "id": 3118,
+            "name": "SKY SPORTS MIX ",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 60,
+        "name": "Premier League",
+        "stage": null,
+        "logo": "logo/events/premier-league_653.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1761400800,
+        "end_time": 1761409800,
+        "show_duration": true,
+        "team_1": {
+          "name": "Newcastle United",
+          "logo": "logo/teams/newcastle-united_qG9rETosUsgCorWNBlog.png"
+        },
+        "team_2": {
+          "name": "Fulham",
+          "logo": "logo/teams/fulham_ZtmiztFY6TcDY03VX8wu.png"
+        },
+        "full_team_name": "Newcastle United 🆚 Fulham",
+        "sources": [
+          {
+            "id": 1714,
+            "name": "USA Network",
+            "description": null
+          },
+          {
+            "id": 981,
+            "name": "SKY SPORTS  Premier League",
+            "description": null
+          },
+          {
+            "id": 3456,
+            "name": "Universo",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 78,
+        "name": "Premier League",
+        "stage": null,
+        "logo": "logo/events/premier-league_653.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1761409800,
+        "end_time": 1761418800,
+        "show_duration": true,
+        "team_1": {
+          "name": "Manchester United",
+          "logo": "logo/teams/manchester-united_iJc37lFllOk8N6EP8gAF.png"
+        },
+        "team_2": {
+          "name": "Brighton & Hove Albion",
+          "logo": "logo/teams/brighton-hove-albion_7mqn09wAXsSL23oihWk2.png"
+        },
+        "full_team_name": "Manchester United 🆚 Brighton & Hove Albion",
+        "sources": [
+          {
+            "id": 3456,
+            "name": "Universo",
+            "description": null
+          },
+          {
+            "id": 981,
+            "name": "SKY SPORTS  Premier League",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 83,
+        "name": "Premier League",
+        "stage": null,
+        "logo": "logo/events/premier-league_653.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1761418800,
+        "end_time": 1761427800,
+        "show_duration": true,
+        "team_1": {
+          "name": "Liverpool",
+          "logo": "logo/teams/liverpool_HMqVIBRuCRoiG9WsnSWg.png"
+        },
+        "team_2": {
+          "name": "Brentford",
+          "logo": "logo/teams/brentford_0MEh8wP4adPwsQr3Wqlv.png"
+        },
+        "full_team_name": "Liverpool 🆚 Brentford",
+        "sources": [
+          {
+            "id": 3456,
+            "name": "Universo",
+            "description": null
+          },
+          {
+            "id": 981,
+            "name": "SKY SPORTS  Premier League",
+            "description": null
+          }
+        ]
       }
     ]
   },
@@ -343,6 +554,161 @@
           {
             "id": 3691,
             "name": "LINK 1",
+            "description": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Ligue 1",
+    "logo": "logo/events/categories/ligue-1_5qqt6renj8lsMs1YGSmI.png",
+    "type": "Football",
+    "items": [
+      {
+        "id": 3,
+        "name": "Ligue 1",
+        "stage": null,
+        "logo": "logo/events/ligue-1_338.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1761374700,
+        "end_time": 1761383700,
+        "show_duration": true,
+        "team_1": {
+          "name": "Paris",
+          "logo": "logo/teams/paris_ytqXEPsNf7QpbJ4HTLGl.png"
+        },
+        "team_2": {
+          "name": "Nantes",
+          "logo": "logo/teams/nantes_4Wwms9crvMifQbqAeFMP.png"
+        },
+        "full_team_name": "Paris 🆚 Nantes",
+        "sources": [
+          {
+            "id": 3652,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3721,
+            "name": "LINK 2",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 71,
+        "name": "Ligue 1",
+        "stage": null,
+        "logo": "logo/events/ligue-1_338.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1761404400,
+        "end_time": 1761413400,
+        "show_duration": true,
+        "team_1": {
+          "name": "PSG",
+          "logo": "logo/teams/psg_gPACrkwZo7y4GwFBYJlm.png"
+        },
+        "team_2": {
+          "name": "Brest",
+          "logo": "logo/teams/brest_IivZC8tgseCkWCR7ZjpJ.png"
+        },
+        "full_team_name": "PSG 🆚 Brest",
+        "sources": [
+          {
+            "id": 3652,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3721,
+            "name": "LINK 2",
+            "description": null
+          },
+          {
+            "id": 3446,
+            "name": "beIN Sport 1 - FR",
+            "description": null
+          },
+          {
+            "id": 3275,
+            "name": "beIN Sport - USA",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 100,
+        "name": "Ligue 1",
+        "stage": null,
+        "logo": "logo/events/ligue-1_338.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1761411600,
+        "end_time": 1761420600,
+        "show_duration": true,
+        "team_1": {
+          "name": "Monaco",
+          "logo": "logo/teams/monaco_3OpFAHbszyvVUmTbamFa.png"
+        },
+        "team_2": {
+          "name": "Toulouse",
+          "logo": "logo/teams/toulouse_dvf4wseKuijFiAtEFRXN.png"
+        },
+        "full_team_name": "Monaco 🆚 Toulouse",
+        "sources": [
+          {
+            "id": 3652,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3721,
+            "name": "LINK 2",
+            "description": null
+          },
+          {
+            "id": 3275,
+            "name": "beIN Sport - USA",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 252,
+        "name": "Ligue 1",
+        "stage": null,
+        "logo": "logo/events/ligue-1_338.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1761419100,
+        "end_time": 1761428100,
+        "show_duration": true,
+        "team_1": {
+          "name": "RC Lens",
+          "logo": "logo/teams/rc-lens_E6mC6ceh7Wb2ZQhBAz5z.png"
+        },
+        "team_2": {
+          "name": "Olympique Marseille",
+          "logo": "logo/teams/olympique-marseille_p69Uuc33val55SO7Qwbw.png"
+        },
+        "full_team_name": "RC Lens 🆚 Olympique Marseille",
+        "sources": [
+          {
+            "id": 3652,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3721,
+            "name": "LINK 2",
             "description": null
           }
         ]
