@@ -6,14 +6,75 @@
     "type": "Cricket",
     "items": [
       {
-        "id": 290,
-        "name": "West Indies tour of Bangladesh",
+        "id": 22,
+        "name": "India tour of Australia",
         "stage": "3rd ODI",
         "logo": "",
         "color": null,
         "type": "team",
         "sport_type": "cricket",
-        "start_time": 1761204600,
+        "start_time": 1761363000,
+        "end_time": null,
+        "show_duration": true,
+        "team_1": {
+          "name": "India",
+          "logo": "logo/teams/india_R8DzB45mwxgV921JfOUc.png"
+        },
+        "team_2": {
+          "name": "Australia",
+          "logo": "logo/teams/australia_ft0IHOvqYgEhT2QZC10y.png"
+        },
+        "full_team_name": "India 🆚 Australia",
+        "sources": [
+          {
+            "id": 2053,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3784,
+            "name": "LINK 2",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 125,
+        "name": "England tour of New Zealand",
+        "stage": "1st ODI",
+        "logo": "",
+        "color": null,
+        "type": "team",
+        "sport_type": "cricket",
+        "start_time": 1761440400,
+        "end_time": null,
+        "show_duration": true,
+        "team_1": {
+          "name": "England",
+          "logo": "logo/teams/england_lR9prItXfM5WG6lZqsOD.png"
+        },
+        "team_2": {
+          "name": "New Zealand",
+          "logo": "logo/teams/new-zealand_Bo0hBUgvsLhkGvuy7NLf.png"
+        },
+        "full_team_name": "England 🆚 New Zealand",
+        "sources": [
+          {
+            "id": 902,
+            "name": "TNT Sports 1 (BT Sports) ",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 290,
+        "name": "West Indies tour of Bangladesh",
+        "stage": "1st T20I",
+        "logo": "",
+        "color": null,
+        "type": "team",
+        "sport_type": "cricket",
+        "start_time": 1761566400,
         "end_time": null,
         "show_duration": true,
         "team_1": {
@@ -39,47 +100,14 @@
         ]
       },
       {
-        "id": 22,
-        "name": "India tour of Australia",
-        "stage": "2nd ODI",
-        "logo": "",
-        "color": null,
-        "type": "team",
-        "sport_type": "cricket",
-        "start_time": 1761190200,
-        "end_time": null,
-        "show_duration": true,
-        "team_1": {
-          "name": "India",
-          "logo": "logo/teams/india_R8DzB45mwxgV921JfOUc.png"
-        },
-        "team_2": {
-          "name": "Australia",
-          "logo": "logo/teams/australia_ft0IHOvqYgEhT2QZC10y.png"
-        },
-        "full_team_name": "India 🆚 Australia",
-        "sources": [
-          {
-            "id": 908,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 3784,
-            "name": "LINK 2",
-            "description": null
-          }
-        ]
-      },
-      {
         "id": 76,
         "name": "South Africa tour of Pakistan",
-        "stage": "2nd Test, Day 4",
+        "stage": "1st T20I",
         "logo": "",
         "color": null,
         "type": "team",
         "sport_type": "cricket",
-        "start_time": 1761195600,
+        "start_time": 1761663600,
         "end_time": null,
         "show_duration": true,
         "team_1": {
@@ -95,34 +123,6 @@
           {
             "id": 3654,
             "name": "LINK 2",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 125,
-        "name": "England tour of New Zealand",
-        "stage": "3rd T20I",
-        "logo": "",
-        "color": null,
-        "type": "team",
-        "sport_type": "cricket",
-        "start_time": 1761200100,
-        "end_time": null,
-        "show_duration": true,
-        "team_1": {
-          "name": "England",
-          "logo": "logo/teams/england_lR9prItXfM5WG6lZqsOD.png"
-        },
-        "team_2": {
-          "name": "New Zealand",
-          "logo": "logo/teams/new-zealand_Bo0hBUgvsLhkGvuy7NLf.png"
-        },
-        "full_team_name": "England 🆚 New Zealand",
-        "sources": [
-          {
-            "id": 902,
-            "name": "TNT Sports 1 (BT Sports) ",
             "description": null
           }
         ]
