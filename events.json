@@ -205,44 +205,6 @@
     "type": "Football",
     "items": [
       {
-        "id": 124,
-        "name": "Serie A",
-        "stage": null,
-        "logo": "logo/events/serie-a_562.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1761417900,
-        "end_time": 1761426900,
-        "show_duration": true,
-        "team_1": {
-          "name": "Cremonese",
-          "logo": "logo/teams/cremonese_CJVjeC0IKjDMjWxRsazq.png"
-        },
-        "team_2": {
-          "name": "Atalanta",
-          "logo": "logo/teams/atalanta_b0AAzCzjZ2ZxB0duJ34q.png"
-        },
-        "full_team_name": "Cremonese 🆚 Atalanta",
-        "sources": [
-          {
-            "id": 3283,
-            "name": "beIN Sport 3 - AUS",
-            "description": null
-          },
-          {
-            "id": 3338,
-            "name": "CBS SPORTS Golazo",
-            "description": null
-          },
-          {
-            "id": 3669,
-            "name": "Fox Deportes",
-            "description": null
-          }
-        ]
-      },
-      {
         "id": 190,
         "name": "Serie A",
         "stage": null,
@@ -405,39 +367,6 @@
     "logo": "logo/events/categories/premier-league_DxTuHXdZHzmgURaJXIV3.png",
     "type": "Football",
     "items": [
-      {
-        "id": 83,
-        "name": "Premier League",
-        "stage": null,
-        "logo": "logo/events/premier-league_653.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1761418800,
-        "end_time": 1761427800,
-        "show_duration": true,
-        "team_1": {
-          "name": "Liverpool",
-          "logo": "logo/teams/liverpool_HMqVIBRuCRoiG9WsnSWg.png"
-        },
-        "team_2": {
-          "name": "Brentford",
-          "logo": "logo/teams/brentford_0MEh8wP4adPwsQr3Wqlv.png"
-        },
-        "full_team_name": "Liverpool 🆚 Brentford",
-        "sources": [
-          {
-            "id": 3456,
-            "name": "Universo",
-            "description": null
-          },
-          {
-            "id": 981,
-            "name": "SKY SPORTS  Premier League",
-            "description": null
-          }
-        ]
-      },
       {
         "id": 62,
         "name": "Premier League",
@@ -626,44 +555,6 @@
     "logo": "logo/events/categories/la-liga_09FFBteASyl11hboQ8x9.png",
     "type": "Football",
     "items": [
-      {
-        "id": 215,
-        "name": "LALIGA",
-        "stage": null,
-        "logo": "logo/events/sevilla-villarreal_wqSkWfYjIH5dihHm8c1A.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1761418800,
-        "end_time": 1761427800,
-        "show_duration": true,
-        "team_1": {
-          "name": "Valencia",
-          "logo": "logo/teams/valencia_Il7Acs58wgzuVXt4kKM2.png"
-        },
-        "team_2": {
-          "name": "Villarreal",
-          "logo": "logo/teams/villarreal_9ztBwUV50RgNFebIe13O.png"
-        },
-        "full_team_name": "Valencia 🆚 Villarreal",
-        "sources": [
-          {
-            "id": 3289,
-            "name": "beIN Sport 2 - AUS",
-            "description": null
-          },
-          {
-            "id": 3043,
-            "name": "LALIGA TV",
-            "description": null
-          },
-          {
-            "id": 3461,
-            "name": "beIN Sport 2 - FR",
-            "description": null
-          }
-        ]
-      },
       {
         "id": 214,
         "name": "LALIGA",
@@ -857,39 +748,6 @@
     "logo": "logo/events/categories/ligue-1_5qqt6renj8lsMs1YGSmI.png",
     "type": "Football",
     "items": [
-      {
-        "id": 252,
-        "name": "Ligue 1",
-        "stage": null,
-        "logo": "logo/events/ligue-1_338.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1761419100,
-        "end_time": 1761428100,
-        "show_duration": true,
-        "team_1": {
-          "name": "RC Lens",
-          "logo": "logo/teams/rc-lens_E6mC6ceh7Wb2ZQhBAz5z.png"
-        },
-        "team_2": {
-          "name": "Olympique Marseille",
-          "logo": "logo/teams/olympique-marseille_p69Uuc33val55SO7Qwbw.png"
-        },
-        "full_team_name": "RC Lens 🆚 Olympique Marseille",
-        "sources": [
-          {
-            "id": 3652,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 3721,
-            "name": "LINK 2",
-            "description": null
-          }
-        ]
-      },
       {
         "id": 213,
         "name": "Ligue 1",
