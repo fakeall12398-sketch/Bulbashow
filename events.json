@@ -158,6 +158,85 @@
     ]
   },
   {
+    "id": 14,
+    "name": "Serie A",
+    "logo": "logo/events/categories/serie-a_I13YO3O5lVJj1vhJRU6w.png",
+    "type": "Football",
+    "items": [
+      {
+        "id": 75,
+        "name": "Serie A",
+        "stage": null,
+        "logo": "logo/events/serie-a_562.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1761672600,
+        "end_time": 1761681600,
+        "show_duration": true,
+        "team_1": {
+          "name": "Lecce",
+          "logo": "logo/teams/lecce_EZcAfpxxytVd4QjVZMur.png"
+        },
+        "team_2": {
+          "name": "Napoli",
+          "logo": "logo/teams/napoli_NYdRhOCsu0S7p6Z3pnfO.png"
+        },
+        "full_team_name": "Lecce 🆚 Napoli",
+        "sources": [
+          {
+            "id": 902,
+            "name": "TNT Sports 1 (BT Sports) ",
+            "description": null
+          },
+          {
+            "id": 3283,
+            "name": "beIN Sport 3 - AUS",
+            "description": null
+          },
+          {
+            "id": 3486,
+            "name": "FUBO",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "name": "Serie A",
+        "stage": null,
+        "logo": "logo/events/serie-a_562.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1761680700,
+        "end_time": 1761689700,
+        "show_duration": true,
+        "team_1": {
+          "name": "Atalanta",
+          "logo": "logo/teams/atalanta_b0AAzCzjZ2ZxB0duJ34q.png"
+        },
+        "team_2": {
+          "name": "AC Milan",
+          "logo": "logo/teams/ac-milan_BBQvGlF4Ys3t5YLUCeEu.png"
+        },
+        "full_team_name": "Atalanta 🆚 AC Milan",
+        "sources": [
+          {
+            "id": 902,
+            "name": "TNT Sports 1 (BT Sports) ",
+            "description": null
+          },
+          {
+            "id": 3485,
+            "name": "FUBO Sports",
+            "description": null
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 13,
     "name": "LA LIGA",
     "logo": "logo/events/categories/la-liga_09FFBteASyl11hboQ8x9.png",
