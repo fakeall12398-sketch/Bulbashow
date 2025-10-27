@@ -274,6 +274,95 @@
             "description": null
           }
         ]
+      },
+      {
+        "id": 364,
+        "name": "Serie A",
+        "stage": null,
+        "logo": "logo/events/serie-a_562.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1761759000,
+        "end_time": 1761768000,
+        "show_duration": true,
+        "team_1": {
+          "name": "Juventus",
+          "logo": "logo/teams/juventus_1WZ6BUDiLNixSnojyYvv.png"
+        },
+        "team_2": {
+          "name": "Udinese",
+          "logo": "logo/teams/udinese_q4FaAL4szKj7lyZxQsCi.png"
+        },
+        "full_team_name": "Juventus 🆚 Udinese",
+        "sources": [
+          {
+            "id": 3283,
+            "name": "beIN Sport 3 - AUS",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 212,
+        "name": "Serie A",
+        "stage": null,
+        "logo": "logo/events/serie-a_562.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1761759000,
+        "end_time": 1761768000,
+        "show_duration": true,
+        "team_1": {
+          "name": "Parma",
+          "logo": "logo/teams/parma_bS36NvFFKsw9lNb2kERX.png"
+        },
+        "team_2": {
+          "name": "Roma",
+          "logo": "logo/teams/roma_Sc0O78CfmYENhBVg3Ath.png"
+        },
+        "full_team_name": "Parma 🆚 Roma",
+        "sources": [
+          {
+            "id": 2558,
+            "name": "ZIGGO SPORT 2",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 96,
+        "name": "Serie A",
+        "stage": null,
+        "logo": "logo/events/serie-a_562.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1761759000,
+        "end_time": 1761768000,
+        "show_duration": true,
+        "team_1": {
+          "name": "Como",
+          "logo": "logo/teams/como_mRRoVFoOpOTOv2lZt6j9.png"
+        },
+        "team_2": {
+          "name": "Hellas Verona",
+          "logo": "logo/teams/hellas-verona_iaFosaH2RijQDdw1HHiI.png"
+        },
+        "full_team_name": "Como 🆚 Hellas Verona",
+        "sources": [
+          {
+            "id": 3486,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3669,
+            "name": "Fox Deportes",
+            "description": null
+          }
+        ]
       }
     ]
   },
