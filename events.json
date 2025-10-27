@@ -322,5 +322,59 @@
         ]
       }
     ]
+  },
+  {
+    "id": 43,
+    "name": "EFL League One",
+    "logo": "logo/events/categories/efl-league-one_IU6bYqO7AzM7rCp1IuH0.png",
+    "type": "Football",
+    "items": [
+      {
+        "id": 287,
+        "name": "Port Vale 🆚 Stockport County",
+        "stage": null,
+        "logo": "logo/events/leyton-orient-stockport-county_3PX69CZeYzamHrLTTTxR.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "cricket",
+        "start_time": 1761595200,
+        "end_time": 1761604200,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3289,
+            "name": "beIN Sport 2 - AUS",
+            "description": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "name": "English Football League",
+    "logo": "logo/events/categories/english-football-league_Pi1xbPd3WYUA2a4mfQpU.png",
+    "type": "Football",
+    "items": [
+      {
+        "id": 121,
+        "name": "Grimsby Town 🆚 Brentford",
+        "stage": null,
+        "logo": "logo/events/english-football-league_fqPAFfhdPBnfOflWlVRT.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1761680700,
+        "end_time": 1761689700,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3289,
+            "name": "beIN Sport 2 - AUS",
+            "description": null
+          }
+        ]
+      }
+    ]
   }
 ]
