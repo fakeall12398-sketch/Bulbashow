@@ -238,39 +238,6 @@
     "type": "Football",
     "items": [
       {
-        "id": 7,
-        "name": "Serie A",
-        "stage": null,
-        "logo": "logo/events/serie-a_562.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1761680700,
-        "end_time": 1761689700,
-        "show_duration": true,
-        "team_1": {
-          "name": "Atalanta",
-          "logo": "logo/teams/atalanta_b0AAzCzjZ2ZxB0duJ34q.png"
-        },
-        "team_2": {
-          "name": "AC Milan",
-          "logo": "logo/teams/ac-milan_BBQvGlF4Ys3t5YLUCeEu.png"
-        },
-        "full_team_name": "Atalanta 🆚 AC Milan",
-        "sources": [
-          {
-            "id": 902,
-            "name": "TNT Sports 1 (BT Sports) ",
-            "description": null
-          },
-          {
-            "id": 3485,
-            "name": "FUBO Sports",
-            "description": null
-          }
-        ]
-      },
-      {
         "id": 364,
         "name": "Serie A",
         "stage": null,
@@ -355,33 +322,6 @@
           {
             "id": 3669,
             "name": "Fox Deportes",
-            "description": null
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": 17,
-    "name": "English Football League",
-    "logo": "logo/events/categories/english-football-league_Pi1xbPd3WYUA2a4mfQpU.png",
-    "type": "Football",
-    "items": [
-      {
-        "id": 121,
-        "name": "Grimsby Town 🆚 Brentford",
-        "stage": null,
-        "logo": "logo/events/english-football-league_fqPAFfhdPBnfOflWlVRT.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "football",
-        "start_time": 1761680700,
-        "end_time": 1761689700,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3289,
-            "name": "beIN Sport 2 - AUS",
             "description": null
           }
         ]
