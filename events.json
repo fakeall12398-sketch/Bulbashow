@@ -327,5 +327,168 @@
         ]
       }
     ]
+  },
+  {
+    "id": 17,
+    "name": "English Football League",
+    "logo": "logo/events/categories/english-football-league_Pi1xbPd3WYUA2a4mfQpU.png",
+    "type": "Football",
+    "items": [
+      {
+        "id": 322,
+        "name": "English Football League",
+        "stage": null,
+        "logo": "logo/events/english-football-league_fqPAFfhdPBnfOflWlVRT.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1761767100,
+        "end_time": 1761776100,
+        "show_duration": true,
+        "team_1": {
+          "name": "Liverpool",
+          "logo": "logo/teams/liverpool_HMqVIBRuCRoiG9WsnSWg.png"
+        },
+        "team_2": {
+          "name": "Crystal Palace",
+          "logo": "logo/teams/crystal-palace_sWmHvniii42Bo088yMRT.png"
+        },
+        "full_team_name": "Liverpool 🆚 Crystal Palace",
+        "sources": [
+          {
+            "id": 3289,
+            "name": "beIN Sport 2 - AUS",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 122,
+        "name": "English Football League",
+        "stage": null,
+        "logo": "logo/events/english-football-league_fqPAFfhdPBnfOflWlVRT.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1761767100,
+        "end_time": 1761776100,
+        "show_duration": true,
+        "team_1": {
+          "name": "Manchester City",
+          "logo": "logo/teams/manchester-city_dULBNGyWBdlIi9PhjqbC.png"
+        },
+        "team_2": {
+          "name": "Swansea City",
+          "logo": "logo/teams/swansea-city_NrF1ZcT0X3fApvwPfhnH.png"
+        },
+        "full_team_name": "Manchester City 🆚 Swansea City",
+        "sources": [
+          {
+            "id": 3464,
+            "name": "beIN Sport 6 MAX - FR",
+            "description": null
+          },
+          {
+            "id": 871,
+            "name": "beIN Sport 6 - AR",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 121,
+        "name": "English Football League",
+        "stage": null,
+        "logo": "logo/events/english-football-league_fqPAFfhdPBnfOflWlVRT.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1761767100,
+        "end_time": 1761776100,
+        "show_duration": true,
+        "team_1": {
+          "name": "Arsenal",
+          "logo": "logo/teams/arsenal_fc6aAPzStsGPPVTcPQMZ.png"
+        },
+        "team_2": {
+          "name": "Brighton & Hove Albion",
+          "logo": "logo/teams/brighton-hove-albion_7mqn09wAXsSL23oihWk2.png"
+        },
+        "full_team_name": "Arsenal 🆚 Brighton & Hove Albion",
+        "sources": [
+          {
+            "id": 3463,
+            "name": "beIN Sport 5 MAX - FR",
+            "description": null
+          },
+          {
+            "id": 856,
+            "name": "beIN Sport 3 - AR",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 123,
+        "name": "English Football League",
+        "stage": null,
+        "logo": "logo/events/english-football-league_fqPAFfhdPBnfOflWlVRT.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1761767100,
+        "end_time": 1761776100,
+        "show_duration": true,
+        "team_1": {
+          "name": "Chelsea",
+          "logo": "logo/teams/chelsea_4qmk0ruyKon66luWMjkX.webp"
+        },
+        "team_2": {
+          "name": "Wolverhampton Wanderers",
+          "logo": "logo/teams/wolverhampton-wanderers_wEFzoM24wynMivX0nJZ5.png"
+        },
+        "full_team_name": "Chelsea 🆚 Wolverhampton Wanderers",
+        "sources": [
+          {
+            "id": 3465,
+            "name": "beIN Sport 7 MAX - FR",
+            "description": null
+          },
+          {
+            "id": 881,
+            "name": "beIN Sport 8 - AR",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 120,
+        "name": "English Football League",
+        "stage": null,
+        "logo": "logo/events/english-football-league_fqPAFfhdPBnfOflWlVRT.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1761768000,
+        "end_time": 1761777000,
+        "show_duration": true,
+        "team_1": {
+          "name": "Newcastle United",
+          "logo": "logo/teams/newcastle-united_qG9rETosUsgCorWNBlog.png"
+        },
+        "team_2": {
+          "name": "Tottenham Hotspur",
+          "logo": "logo/teams/tottenham-hotspur_wRuMqVZrIxbbxVAzReN9.png"
+        },
+        "full_team_name": "Newcastle United 🆚 Tottenham Hotspur",
+        "sources": [
+          {
+            "id": 3283,
+            "name": "beIN Sport 3 - AUS",
+            "description": null
+          }
+        ]
+      }
+    ]
   }
 ]
