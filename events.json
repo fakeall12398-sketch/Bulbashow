@@ -164,138 +164,6 @@
     "type": "Football",
     "items": [
       {
-        "id": 3,
-        "name": "Ligue 1",
-        "stage": null,
-        "logo": "logo/events/ligue-1_338.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1761760800,
-        "end_time": 1761769800,
-        "show_duration": true,
-        "team_1": {
-          "name": "PSG",
-          "logo": "logo/teams/psg_gPACrkwZo7y4GwFBYJlm.png"
-        },
-        "team_2": {
-          "name": "Lorient",
-          "logo": "logo/teams/lorient_AuCBnQQ1fBB0rhD3uBsb.png"
-        },
-        "full_team_name": "PSG 🆚 Lorient",
-        "sources": [
-          {
-            "id": 3652,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 3721,
-            "name": "LINK 2",
-            "description": null
-          },
-          {
-            "id": 3787,
-            "name": "LINK 3",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 71,
-        "name": "Ligue 1",
-        "stage": null,
-        "logo": "logo/events/ligue-1_338.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1761760800,
-        "end_time": 1761769800,
-        "show_duration": true,
-        "team_1": {
-          "name": "Le Havre",
-          "logo": "logo/teams/le-havre_ruBqgF1Q4zFILvZcdJZv.png"
-        },
-        "team_2": {
-          "name": "Brest",
-          "logo": "logo/teams/brest_IivZC8tgseCkWCR7ZjpJ.png"
-        },
-        "full_team_name": "Le Havre 🆚 Brest",
-        "sources": [
-          {
-            "id": 3652,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 3721,
-            "name": "LINK 2",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 100,
-        "name": "Ligue 1",
-        "stage": null,
-        "logo": "logo/events/ligue-1_338.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1761760800,
-        "end_time": 1761769800,
-        "show_duration": true,
-        "team_1": {
-          "name": "Nice",
-          "logo": "logo/teams/nice_Iayy9Zi74iNiYmGPvIXP.png"
-        },
-        "team_2": {
-          "name": "Lille",
-          "logo": "logo/teams/lille_dfhDvSeQB5ldB3YRUDzk.png"
-        },
-        "full_team_name": "Nice 🆚 Lille",
-        "sources": [
-          {
-            "id": 3652,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 3721,
-            "name": "LINK 2",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 252,
-        "name": "Ligue 1",
-        "stage": null,
-        "logo": "logo/events/ligue-1_338.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1761760800,
-        "end_time": 1761769800,
-        "show_duration": true,
-        "team_1": {
-          "name": "Metz",
-          "logo": "logo/teams/metz_tsAVkcK4kchtJ67SGWdV.png"
-        },
-        "team_2": {
-          "name": "RC Lens",
-          "logo": "logo/teams/rc-lens_E6mC6ceh7Wb2ZQhBAz5z.png"
-        },
-        "full_team_name": "Metz 🆚 RC Lens",
-        "sources": [
-          {
-            "id": 861,
-            "name": "beIN Sport 4 - AR",
-            "description": null
-          }
-        ]
-      },
-      {
         "id": 213,
         "name": "Ligue 1",
         "stage": null,
@@ -468,103 +336,6 @@
     ]
   },
   {
-    "id": 14,
-    "name": "Serie A",
-    "logo": "logo/events/categories/serie-a_I13YO3O5lVJj1vhJRU6w.png",
-    "type": "Football",
-    "items": [
-      {
-        "id": 364,
-        "name": "Serie A",
-        "stage": null,
-        "logo": "logo/events/serie-a_562.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1761759000,
-        "end_time": 1761768000,
-        "show_duration": true,
-        "team_1": {
-          "name": "Juventus",
-          "logo": "logo/teams/juventus_1WZ6BUDiLNixSnojyYvv.png"
-        },
-        "team_2": {
-          "name": "Udinese",
-          "logo": "logo/teams/udinese_q4FaAL4szKj7lyZxQsCi.png"
-        },
-        "full_team_name": "Juventus 🆚 Udinese",
-        "sources": [
-          {
-            "id": 3283,
-            "name": "beIN Sport 3 - AUS",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 212,
-        "name": "Serie A",
-        "stage": null,
-        "logo": "logo/events/serie-a_562.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1761759000,
-        "end_time": 1761768000,
-        "show_duration": true,
-        "team_1": {
-          "name": "Parma",
-          "logo": "logo/teams/parma_bS36NvFFKsw9lNb2kERX.png"
-        },
-        "team_2": {
-          "name": "Roma",
-          "logo": "logo/teams/roma_Sc0O78CfmYENhBVg3Ath.png"
-        },
-        "full_team_name": "Parma 🆚 Roma",
-        "sources": [
-          {
-            "id": 2558,
-            "name": "ZIGGO SPORT 2",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 96,
-        "name": "Serie A",
-        "stage": null,
-        "logo": "logo/events/serie-a_562.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1761759000,
-        "end_time": 1761768000,
-        "show_duration": true,
-        "team_1": {
-          "name": "Como",
-          "logo": "logo/teams/como_mRRoVFoOpOTOv2lZt6j9.png"
-        },
-        "team_2": {
-          "name": "Hellas Verona",
-          "logo": "logo/teams/hellas-verona_iaFosaH2RijQDdw1HHiI.png"
-        },
-        "full_team_name": "Como 🆚 Hellas Verona",
-        "sources": [
-          {
-            "id": 3486,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 3669,
-            "name": "Fox Deportes",
-            "description": null
-          }
-        ]
-      }
-    ]
-  },
-  {
     "id": 18,
     "name": "ICC Womens World Cup",
     "logo": "logo/events/categories/icc-womens-world-cup_Tac4U4YHpuekyiqOw3CJ.png",
@@ -694,13 +465,13 @@
         "full_team_name": "Arsenal 🆚 Brighton & Hove Albion",
         "sources": [
           {
-            "id": 856,
-            "name": "beIN Sport 3 - AR",
+            "id": 3463,
+            "name": "beIN Sport 5 MAX - FR",
             "description": null
           },
           {
-            "id": 3463,
-            "name": "beIN Sport 5 MAX - FR",
+            "id": 856,
+            "name": "beIN Sport 3 - AR",
             "description": null
           }
         ]
