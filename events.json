@@ -6,67 +6,6 @@
     "type": "Cricket",
     "items": [
       {
-        "id": 290,
-        "name": "West Indies tour of Bangladesh",
-        "stage": "2nd T20I",
-        "logo": "",
-        "color": null,
-        "type": "team",
-        "sport_type": "cricket",
-        "start_time": 1761739200,
-        "end_time": null,
-        "show_duration": true,
-        "team_1": {
-          "name": "Bangladesh",
-          "logo": "logo/teams/bangladesh_9mfG8dxYyOTt53INypBM.png"
-        },
-        "team_2": {
-          "name": "West Indies",
-          "logo": "logo/teams/west-indies_Q6wRrBT7yHbEpRQVsW4z.png"
-        },
-        "full_team_name": "Bangladesh 🆚 West Indies",
-        "sources": [
-          {
-            "id": 3276,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 3541,
-            "name": "SD",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 68,
-        "name": "Afghanistan tour of Zimbabwe",
-        "stage": "1st T20I",
-        "logo": "",
-        "color": null,
-        "type": "team",
-        "sport_type": "cricket",
-        "start_time": 1761737400,
-        "end_time": null,
-        "show_duration": true,
-        "team_1": {
-          "name": "Afghanistan",
-          "logo": "logo/teams/afghanistan_pNuVU1zMVjnpDx1wW4Me.png"
-        },
-        "team_2": {
-          "name": "Zimbabwe",
-          "logo": "logo/teams/zimbabwe_1NrjbqGp14rS7YaZibaP.png"
-        },
-        "full_team_name": "Afghanistan 🆚 Zimbabwe",
-        "sources": [
-          {
-            "id": 3195,
-            "name": "LINK 1",
-            "description": null
-          }
-        ]
-      },
-      {
         "id": 125,
         "name": "England tour of New Zealand",
         "stage": "3rd ODI",
@@ -123,6 +62,67 @@
           {
             "id": 3784,
             "name": "LINK 2",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 290,
+        "name": "West Indies tour of Bangladesh",
+        "stage": "3rd T20I",
+        "logo": "",
+        "color": null,
+        "type": "team",
+        "sport_type": "cricket",
+        "start_time": 1761912000,
+        "end_time": null,
+        "show_duration": true,
+        "team_1": {
+          "name": "Bangladesh",
+          "logo": "logo/teams/bangladesh_9mfG8dxYyOTt53INypBM.png"
+        },
+        "team_2": {
+          "name": "West Indies",
+          "logo": "logo/teams/west-indies_Q6wRrBT7yHbEpRQVsW4z.png"
+        },
+        "full_team_name": "Bangladesh 🆚 West Indies",
+        "sources": [
+          {
+            "id": 3276,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3541,
+            "name": "SD",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 68,
+        "name": "Afghanistan tour of Zimbabwe",
+        "stage": "2nd T20I",
+        "logo": "",
+        "color": null,
+        "type": "team",
+        "sport_type": "cricket",
+        "start_time": 1761910200,
+        "end_time": null,
+        "show_duration": true,
+        "team_1": {
+          "name": "Afghanistan",
+          "logo": "logo/teams/afghanistan_pNuVU1zMVjnpDx1wW4Me.png"
+        },
+        "team_2": {
+          "name": "Zimbabwe",
+          "logo": "logo/teams/zimbabwe_1NrjbqGp14rS7YaZibaP.png"
+        },
+        "full_team_name": "Afghanistan 🆚 Zimbabwe",
+        "sources": [
+          {
+            "id": 3195,
+            "name": "LINK 1",
             "description": null
           }
         ]
@@ -472,6 +472,34 @@
             "description": null
           }
         ]
+      },
+      {
+        "id": 212,
+        "name": "Serie A",
+        "stage": null,
+        "logo": "logo/events/serie-a_562.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1762016400,
+        "end_time": 1762025400,
+        "show_duration": true,
+        "team_1": {
+          "name": "Napoli",
+          "logo": "logo/teams/napoli_NYdRhOCsu0S7p6Z3pnfO.png"
+        },
+        "team_2": {
+          "name": "Como",
+          "logo": "logo/teams/como_mRRoVFoOpOTOv2lZt6j9.png"
+        },
+        "full_team_name": "Napoli 🆚 Como",
+        "sources": [
+          {
+            "id": 3283,
+            "name": "beIN Sport 3 - AUS",
+            "description": null
+          }
+        ]
       }
     ]
   },
@@ -596,6 +624,33 @@
           {
             "id": 2665,
             "name": "ZIGGO SPORT",
+            "description": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "name": "Liga MX",
+    "logo": "logo/events/categories/liga-mx_9NgAE2moXr18M9dTzX16.png",
+    "type": "Football",
+    "items": [
+      {
+        "id": 356,
+        "name": "Necaxa 🆚 Santos Laguna",
+        "stage": null,
+        "logo": "logo/events/puebla-pachuca_b2MU6rHq9XOT8tkBpPE0.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "cricket",
+        "start_time": 1761958800,
+        "end_time": 1761967800,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3720,
+            "name": "LINK 1",
             "description": null
           }
         ]
