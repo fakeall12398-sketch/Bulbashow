@@ -657,6 +657,72 @@
             "description": null
           }
         ]
+      },
+      {
+        "id": 190,
+        "name": "Serie A",
+        "stage": null,
+        "logo": "logo/events/serie-a_562.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1762092000,
+        "end_time": 1762101000,
+        "show_duration": true,
+        "team_1": {
+          "name": "Torino",
+          "logo": "logo/teams/torino_1t5rKnzvXh5aNoneNsRI.png"
+        },
+        "team_2": {
+          "name": "Pisa",
+          "logo": "logo/teams/pisa_xp72Xeorj8IoN3cgf16j.png"
+        },
+        "full_team_name": "Torino 🆚 Pisa",
+        "sources": [
+          {
+            "id": 3669,
+            "name": "Fox Deportes",
+            "description": null
+          },
+          {
+            "id": 3283,
+            "name": "beIN Sport 3 - AUS",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 124,
+        "name": "Serie A",
+        "stage": null,
+        "logo": "logo/events/serie-a_562.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1762092000,
+        "end_time": 1762101000,
+        "show_duration": true,
+        "team_1": {
+          "name": "Fiorentina",
+          "logo": "logo/teams/fiorentina_QbvrwRJXJf2f8PHVcgek.png"
+        },
+        "team_2": {
+          "name": "Lecce",
+          "logo": "logo/teams/lecce_EZcAfpxxytVd4QjVZMur.png"
+        },
+        "full_team_name": "Fiorentina 🆚 Lecce",
+        "sources": [
+          {
+            "id": 1009,
+            "name": "Sport TV 2",
+            "description": null
+          },
+          {
+            "id": 2544,
+            "name": "Arena Sports 2 Premium - BA",
+            "description": null
+          }
+        ]
       }
     ]
   },
