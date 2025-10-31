@@ -164,49 +164,6 @@
     "type": "Football",
     "items": [
       {
-        "id": 373,
-        "name": "Al Akhdoud 🆚 Al Najma",
-        "stage": null,
-        "logo": "logo/events/roshn-saudi-league_327.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "football",
-        "start_time": 1761917400,
-        "end_time": 1761926400,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3692,
-            "name": "LINK 2",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 205,
-        "name": "Al Hilal 🆚 Al Shabab",
-        "stage": null,
-        "logo": "logo/events/roshn-saudi-league_327.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "football",
-        "start_time": 1761922200,
-        "end_time": 1761931200,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3666,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 3669,
-            "name": "LINK 2",
-            "description": null
-          }
-        ]
-      },
-      {
         "id": 250,
         "name": "Al Ittifaq 🆚 Al Hazm",
         "stage": null,
@@ -527,6 +484,82 @@
             "description": null
           }
         ]
+      },
+      {
+        "id": 281,
+        "name": "LALIGA",
+        "stage": null,
+        "logo": "logo/events/sevilla-villarreal_wqSkWfYjIH5dihHm8c1A.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1762096500,
+        "end_time": 1762105500,
+        "show_duration": true,
+        "team_1": {
+          "name": "Deportivo Alavés",
+          "logo": "logo/teams/deportivo-alaves_MjSSu8ns81zY2K4BqeB5.png"
+        },
+        "team_2": {
+          "name": "Espanyol",
+          "logo": "logo/teams/espanyol_YRX1tfHvMxMw3umCf9l7.png"
+        },
+        "full_team_name": "Deportivo Alavés 🆚 Espanyol",
+        "sources": [
+          {
+            "id": 2862,
+            "name": "Premier Sports 2",
+            "description": null
+          },
+          {
+            "id": 3043,
+            "name": "LALIGA TV",
+            "description": null
+          },
+          {
+            "id": 2665,
+            "name": "ZIGGO SPORT",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 216,
+        "name": "LALIGA",
+        "stage": null,
+        "logo": "logo/events/sevilla-villarreal_wqSkWfYjIH5dihHm8c1A.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1762104600,
+        "end_time": 1762113600,
+        "show_duration": true,
+        "team_1": {
+          "name": "Barcelona",
+          "logo": "logo/teams/barcelona_NiCxfEeaPHngHzLBDHm2.png"
+        },
+        "team_2": {
+          "name": "Elche",
+          "logo": "logo/teams/elche_j1S95zmn1prBiAUxUYuy.png"
+        },
+        "full_team_name": "Barcelona 🆚 Elche",
+        "sources": [
+          {
+            "id": 3289,
+            "name": "beIN Sport 2 - AUS",
+            "description": null
+          },
+          {
+            "id": 3043,
+            "name": "LALIGA TV",
+            "description": null
+          },
+          {
+            "id": 2665,
+            "name": "ZIGGO SPORT",
+            "description": null
+          }
+        ]
       }
     ]
   },
@@ -720,6 +753,39 @@
           {
             "id": 2544,
             "name": "Arena Sports 2 Premium - BA",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 175,
+        "name": "Serie A",
+        "stage": null,
+        "logo": "logo/events/serie-a_562.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1762102800,
+        "end_time": 1762111800,
+        "show_duration": true,
+        "team_1": {
+          "name": "Parma",
+          "logo": "logo/teams/parma_bS36NvFFKsw9lNb2kERX.png"
+        },
+        "team_2": {
+          "name": "Bologna",
+          "logo": "logo/teams/bologna_Y2dad7YDrmlCWKyXTkeh.png"
+        },
+        "full_team_name": "Parma 🆚 Bologna",
+        "sources": [
+          {
+            "id": 3283,
+            "name": "beIN Sport 3 - AUS",
+            "description": null
+          },
+          {
+            "id": 3669,
+            "name": "Fox Deportes",
             "description": null
           }
         ]
