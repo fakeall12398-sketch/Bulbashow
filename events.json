@@ -125,80 +125,6 @@
     ]
   },
   {
-    "id": 12,
-    "name": "Ligue 1",
-    "logo": "logo/events/categories/ligue-1_5qqt6renj8lsMs1YGSmI.png",
-    "type": "Football",
-    "items": [
-      {
-        "id": 3,
-        "name": "Ligue 1",
-        "stage": null,
-        "logo": "logo/events/ligue-1_338.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1762012800,
-        "end_time": 1762021800,
-        "show_duration": true,
-        "team_1": {
-          "name": "PSG",
-          "logo": "logo/teams/psg_gPACrkwZo7y4GwFBYJlm.png"
-        },
-        "team_2": {
-          "name": "Nice",
-          "logo": "logo/teams/nice_Iayy9Zi74iNiYmGPvIXP.png"
-        },
-        "full_team_name": "PSG 🆚 Nice",
-        "sources": [
-          {
-            "id": 3652,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 3721,
-            "name": "LINK 2",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 71,
-        "name": "Ligue 1",
-        "stage": null,
-        "logo": "logo/events/ligue-1_338.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1762020000,
-        "end_time": 1762029000,
-        "show_duration": true,
-        "team_1": {
-          "name": "Monaco",
-          "logo": "logo/teams/monaco_3OpFAHbszyvVUmTbamFa.png"
-        },
-        "team_2": {
-          "name": "Paris",
-          "logo": "logo/teams/paris_ytqXEPsNf7QpbJ4HTLGl.png"
-        },
-        "full_team_name": "Monaco 🆚 Paris",
-        "sources": [
-          {
-            "id": 3652,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 3721,
-            "name": "LINK 2",
-            "description": null
-          }
-        ]
-      }
-    ]
-  },
-  {
     "id": 11,
     "name": "Premier League",
     "logo": "logo/events/categories/premier-league_DxTuHXdZHzmgURaJXIV3.png",
@@ -368,13 +294,13 @@
         "full_team_name": "Fulham 🆚 Wolverhampton Wanderers",
         "sources": [
           {
-            "id": 2992,
-            "name": "Sky Sport 6 - NZ",
+            "id": 866,
+            "name": "beIN Sport 5 - AR",
             "description": null
           },
           {
-            "id": 866,
-            "name": "beIN Sport 5 - AR",
+            "id": 2992,
+            "name": "Sky Sport 6 - NZ",
             "description": null
           }
         ]
@@ -537,6 +463,326 @@
           {
             "id": 3575,
             "name": "Telemundo",
+            "description": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Ligue 1",
+    "logo": "logo/events/categories/ligue-1_5qqt6renj8lsMs1YGSmI.png",
+    "type": "Football",
+    "items": [
+      {
+        "id": 3,
+        "name": "Ligue 1",
+        "stage": null,
+        "logo": "logo/events/ligue-1_338.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1762012800,
+        "end_time": 1762021800,
+        "show_duration": true,
+        "team_1": {
+          "name": "PSG",
+          "logo": "logo/teams/psg_gPACrkwZo7y4GwFBYJlm.png"
+        },
+        "team_2": {
+          "name": "Nice",
+          "logo": "logo/teams/nice_Iayy9Zi74iNiYmGPvIXP.png"
+        },
+        "full_team_name": "PSG 🆚 Nice",
+        "sources": [
+          {
+            "id": 3652,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3721,
+            "name": "LINK 2",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 71,
+        "name": "Ligue 1",
+        "stage": null,
+        "logo": "logo/events/ligue-1_338.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1762020000,
+        "end_time": 1762029000,
+        "show_duration": true,
+        "team_1": {
+          "name": "Monaco",
+          "logo": "logo/teams/monaco_3OpFAHbszyvVUmTbamFa.png"
+        },
+        "team_2": {
+          "name": "Paris",
+          "logo": "logo/teams/paris_ytqXEPsNf7QpbJ4HTLGl.png"
+        },
+        "full_team_name": "Monaco 🆚 Paris",
+        "sources": [
+          {
+            "id": 3652,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3721,
+            "name": "LINK 2",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 213,
+        "name": "Ligue 1",
+        "stage": null,
+        "logo": "logo/events/ligue-1_338.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1762027500,
+        "end_time": 1762036500,
+        "show_duration": true,
+        "team_1": {
+          "name": "Auxerre",
+          "logo": "logo/teams/auxerre_vcLGRA1IjiBRcAeaRZDU.png"
+        },
+        "team_2": {
+          "name": "Olympique Marseille",
+          "logo": "logo/teams/olympique-marseille_p69Uuc33val55SO7Qwbw.png"
+        },
+        "full_team_name": "Auxerre 🆚 Olympique Marseille",
+        "sources": [
+          {
+            "id": 3652,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3721,
+            "name": "LINK 2",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 100,
+        "name": "Ligue 1",
+        "stage": null,
+        "logo": "logo/events/ligue-1_338.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1762092000,
+        "end_time": 1762101000,
+        "show_duration": true,
+        "team_1": {
+          "name": "Rennes",
+          "logo": "logo/teams/rennes_SIovruEQdZbRTfRYp6Vx.png"
+        },
+        "team_2": {
+          "name": "Strasbourg",
+          "logo": "logo/teams/strasbourg_Vrsd3bucdd4a9hSGGZc2.png"
+        },
+        "full_team_name": "Rennes 🆚 Strasbourg",
+        "sources": [
+          {
+            "id": 3652,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3721,
+            "name": "LINK 2",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 252,
+        "name": "Ligue 1",
+        "stage": null,
+        "logo": "logo/events/ligue-1_338.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1762100100,
+        "end_time": 1762109100,
+        "show_duration": true,
+        "team_1": {
+          "name": "RC Lens",
+          "logo": "logo/teams/rc-lens_E6mC6ceh7Wb2ZQhBAz5z.png"
+        },
+        "team_2": {
+          "name": "Lorient",
+          "logo": "logo/teams/lorient_AuCBnQQ1fBB0rhD3uBsb.png"
+        },
+        "full_team_name": "RC Lens 🆚 Lorient",
+        "sources": [
+          {
+            "id": 3652,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3721,
+            "name": "LINK 2",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 176,
+        "name": "Ligue 1",
+        "stage": null,
+        "logo": "logo/events/ligue-1_338.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1762100100,
+        "end_time": 1762109100,
+        "show_duration": true,
+        "team_1": {
+          "name": "Lille",
+          "logo": "logo/teams/lille_dfhDvSeQB5ldB3YRUDzk.png"
+        },
+        "team_2": {
+          "name": "Angers SCO",
+          "logo": "logo/teams/angers-sco_sV8JT19UcyO5admBinLo.png"
+        },
+        "full_team_name": "Lille 🆚 Angers SCO",
+        "sources": [
+          {
+            "id": 3652,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3721,
+            "name": "LINK 2",
+            "description": null
+          },
+          {
+            "id": 861,
+            "name": "beIN Sport 4 - AR",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 61,
+        "name": "Ligue 1",
+        "stage": null,
+        "logo": "logo/events/ligue-1_338.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1762100100,
+        "end_time": 1762109100,
+        "show_duration": true,
+        "team_1": {
+          "name": "Nantes",
+          "logo": "logo/teams/nantes_4Wwms9crvMifQbqAeFMP.png"
+        },
+        "team_2": {
+          "name": "Metz",
+          "logo": "logo/teams/metz_tsAVkcK4kchtJ67SGWdV.png"
+        },
+        "full_team_name": "Nantes 🆚 Metz",
+        "sources": [
+          {
+            "id": 3652,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3721,
+            "name": "LINK 2",
+            "description": null
+          },
+          {
+            "id": 871,
+            "name": "beIN Sport 6 - AR",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 97,
+        "name": "Ligue 1",
+        "stage": null,
+        "logo": "logo/events/ligue-1_338.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1762100100,
+        "end_time": 1762109100,
+        "show_duration": true,
+        "team_1": {
+          "name": "Toulouse",
+          "logo": "logo/teams/toulouse_dvf4wseKuijFiAtEFRXN.png"
+        },
+        "team_2": {
+          "name": "Le Havre",
+          "logo": "logo/teams/le-havre_ruBqgF1Q4zFILvZcdJZv.png"
+        },
+        "full_team_name": "Toulouse 🆚 Le Havre",
+        "sources": [
+          {
+            "id": 3652,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3721,
+            "name": "LINK 2",
+            "description": null
+          },
+          {
+            "id": 876,
+            "name": "beIN Sport 7 - AR",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 177,
+        "name": "Ligue 1",
+        "stage": null,
+        "logo": "logo/events/ligue-1_338.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1762112700,
+        "end_time": 1762121700,
+        "show_duration": true,
+        "team_1": {
+          "name": "Brest",
+          "logo": "logo/teams/brest_IivZC8tgseCkWCR7ZjpJ.png"
+        },
+        "team_2": {
+          "name": "Olympique Lyonnais",
+          "logo": "logo/teams/olympique-lyonnais_l6Fd2M2EBBNv2FFgLw8J.png"
+        },
+        "full_team_name": "Brest 🆚 Olympique Lyonnais",
+        "sources": [
+          {
+            "id": 3652,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3721,
+            "name": "LINK 2",
             "description": null
           }
         ]
@@ -1211,13 +1457,387 @@
             "description": null
           },
           {
-            "id": 902,
-            "name": "TNT Sports 1 (BT Sports) ",
+            "id": 3669,
+            "name": "Fox Deportes",
             "description": null
           },
           {
-            "id": 3669,
-            "name": "Fox Deportes",
+            "id": 902,
+            "name": "TNT Sports 1 (BT Sports) ",
+            "description": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Bundesliga",
+    "logo": "logo/events/categories/bundesliga_TUnq97qHRnlbiCVmw2bE.png",
+    "type": "Football",
+    "items": [
+      {
+        "id": 93,
+        "name": "Heidenheim 🆚 Eintracht Frankfurt",
+        "stage": null,
+        "logo": "logo/events/hoffenheim-bayer-leverkusen_W0M2W6UxsD7TsKSPbJB3.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1762007400,
+        "end_time": 1762016400,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3699,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3468,
+            "name": "beIN Sport 10 MAX - FR",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 272,
+        "name": "Mainz 05 🆚 Werder Bremen",
+        "stage": null,
+        "logo": "logo/events/hoffenheim-bayer-leverkusen_W0M2W6UxsD7TsKSPbJB3.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1762007400,
+        "end_time": 1762016400,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3684,
+            "name": "LINK 1",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 134,
+        "name": "RB Leipzig 🆚 Stuttgart",
+        "stage": null,
+        "logo": "logo/events/hoffenheim-bayer-leverkusen_W0M2W6UxsD7TsKSPbJB3.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1762007400,
+        "end_time": 1762016400,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3464,
+            "name": "beIN Sport 6 MAX - FR",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 273,
+        "name": "St. Pauli 🆚 Borussia M'gladbach",
+        "stage": null,
+        "logo": "logo/events/hoffenheim-bayer-leverkusen_W0M2W6UxsD7TsKSPbJB3.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1762007400,
+        "end_time": 1762016400,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3683,
+            "name": "LINK 1",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 369,
+        "name": "Union Berlin 🆚 Freiburg",
+        "stage": null,
+        "logo": "logo/events/hoffenheim-bayer-leverkusen_W0M2W6UxsD7TsKSPbJB3.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1762007400,
+        "end_time": 1762016400,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3685,
+            "name": "LINK 1",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 95,
+        "name": "Bayern München 🆚 Bayer Leverkusen",
+        "stage": null,
+        "logo": "logo/events/hoffenheim-bayer-leverkusen_W0M2W6UxsD7TsKSPbJB3.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1762018200,
+        "end_time": 1762027200,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3289,
+            "name": "beIN Sport 2 - AUS",
+            "description": null
+          },
+          {
+            "id": 3461,
+            "name": "beIN Sport 2 - FR",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 274,
+        "name": "Köln 🆚 Hamburger SV",
+        "stage": null,
+        "logo": "logo/events/hoffenheim-bayer-leverkusen_W0M2W6UxsD7TsKSPbJB3.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1762093800,
+        "end_time": 1762102800,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3446,
+            "name": "beIN Sport 1 - FR",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 101,
+        "name": "Wolfsburg 🆚 Hoffenheim",
+        "stage": null,
+        "logo": "logo/events/hoffenheim-bayer-leverkusen_W0M2W6UxsD7TsKSPbJB3.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1762101000,
+        "end_time": 1762110000,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3463,
+            "name": "beIN Sport 5 MAX - FR",
+            "description": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "name": "FIFA U-17 Women's World Cup",
+    "logo": "logo/events/categories/fifa-club-world-cup_uKXWsqNaJmoeEKidZZbj.png",
+    "type": "Football",
+    "items": [
+      {
+        "id": 333,
+        "name": "FIFA U-17 Women's World Cup",
+        "stage": "Quarter Final 1",
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1762011000,
+        "end_time": 1762020000,
+        "show_duration": true,
+        "team_1": {
+          "name": "Brazil",
+          "logo": "logo/teams/brazil_2gKRZsvaLKJcHbZ9zIEj.png"
+        },
+        "team_2": {
+          "name": "Canada",
+          "logo": "logo/teams/canada_phdsl5w0wsMQtVxWaShw.png"
+        },
+        "full_team_name": "Brazil 🆚 Canada",
+        "sources": [
+          {
+            "id": 2748,
+            "name": "TSN 3",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 325,
+        "name": "FIFA U-17 Women's World Cup",
+        "stage": "Quarter Final 2",
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1762023600,
+        "end_time": 1762032600,
+        "show_duration": true,
+        "team_1": {
+          "name": "North Korea",
+          "logo": "logo/teams/north-korea_OGdXu2cE1EWWtobCPnEs.png"
+        },
+        "team_2": {
+          "name": "Japan",
+          "logo": "logo/teams/japan_kob7f67JBkvUorLgiTLG.png"
+        },
+        "full_team_name": "North Korea 🆚 Japan",
+        "sources": [
+          {
+            "id": 3679,
+            "name": "LINK 2",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 337,
+        "name": "FIFA U-17 Women's World Cup",
+        "stage": "Quarter Final 3",
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1762097400,
+        "end_time": 1762106400,
+        "show_duration": true,
+        "team_1": {
+          "name": "France",
+          "logo": "logo/teams/france_aUU9YpY9mRlZaIN96Jcj.png"
+        },
+        "team_2": {
+          "name": "Netherlands",
+          "logo": "logo/teams/netherlands_jQ1TsSgSAxDObcL1V8Uj.png"
+        },
+        "full_team_name": "France 🆚 Netherlands",
+        "sources": [
+          {
+            "id": 3666,
+            "name": "FOX SPORT 2 - US",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 291,
+        "name": "FIFA U-17 Women's World Cup",
+        "stage": "Quarter Final 4",
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1762110000,
+        "end_time": 1762119000,
+        "show_duration": true,
+        "team_1": {
+          "name": "Mexico",
+          "logo": "logo/teams/mexico_lk7XNO7RfkxtdTS3n4S0.png"
+        },
+        "team_2": {
+          "name": "Italy",
+          "logo": "logo/teams/italy_mChUeuYcWwpL0H8ODZhh.png"
+        },
+        "full_team_name": "Mexico 🆚 Italy",
+        "sources": [
+          {
+            "id": 3679,
+            "name": "LINK 1",
+            "description": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "name": "Bundesliga 2",
+    "logo": "logo/events/categories/bundesliga-2_tGbrOFPMKnV8Bo3aOQda.png",
+    "type": "Football",
+    "items": [
+      {
+        "id": 367,
+        "name": "Darmstadt 98 🆚 Arminia Bielefeld",
+        "stage": null,
+        "logo": "logo/events/elversberg-kaiserslautern_u7XcxXJ8sRFF8zKriQ0p.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "cricket",
+        "start_time": 1762025400,
+        "end_time": 1762034400,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3683,
+            "name": "LINK 1",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 366,
+        "name": "Bochum 🆚 Magdeburg",
+        "stage": null,
+        "logo": "logo/events/elversberg-kaiserslautern_u7XcxXJ8sRFF8zKriQ0p.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "cricket",
+        "start_time": 1762086600,
+        "end_time": 1762095600,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3699,
+            "name": "LINK 1",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 315,
+        "name": "Fortuna Düsseldorf 🆚 Kaiserslautern",
+        "stage": null,
+        "logo": "logo/events/elversberg-kaiserslautern_u7XcxXJ8sRFF8zKriQ0p.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "cricket",
+        "start_time": 1762086600,
+        "end_time": 1762095600,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3682,
+            "name": "LINK 1",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 316,
+        "name": "Paderborn 🆚 Greuther Fürth",
+        "stage": null,
+        "logo": "logo/events/elversberg-kaiserslautern_u7XcxXJ8sRFF8zKriQ0p.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "cricket",
+        "start_time": 1762086600,
+        "end_time": 1762095600,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3684,
+            "name": "LINK 1",
             "description": null
           }
         ]
