@@ -793,8 +793,8 @@
         "full_team_name": "Roma 🆚 AC Milan",
         "sources": [
           {
-            "id": 3283,
-            "name": "beIN Sport 3 - AUS",
+            "id": 902,
+            "name": "TNT Sports 1 (BT Sports) ",
             "description": null
           },
           {
@@ -803,8 +803,8 @@
             "description": null
           },
           {
-            "id": 902,
-            "name": "TNT Sports 1 (BT Sports) ",
+            "id": 3283,
+            "name": "beIN Sport 3 - AUS",
             "description": null
           }
         ]
@@ -846,33 +846,6 @@
           {
             "id": 3734,
             "name": "LINK 2",
-            "description": null
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": 51,
-    "name": "Liga MX",
-    "logo": "logo/events/categories/liga-mx_9NgAE2moXr18M9dTzX16.png",
-    "type": "Football",
-    "items": [
-      {
-        "id": 356,
-        "name": "Necaxa 🆚 Santos Laguna",
-        "stage": null,
-        "logo": "logo/events/puebla-pachuca_b2MU6rHq9XOT8tkBpPE0.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "cricket",
-        "start_time": 1761958800,
-        "end_time": 1761967800,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3720,
-            "name": "LINK 1",
             "description": null
           }
         ]
