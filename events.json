@@ -131,54 +131,6 @@
     "type": "Football",
     "items": [
       {
-        "id": 83,
-        "name": "Premier League",
-        "stage": null,
-        "logo": "logo/events/premier-league_653.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1762027200,
-        "end_time": 1762036200,
-        "show_duration": true,
-        "team_1": {
-          "name": "Liverpool",
-          "logo": "logo/teams/liverpool_HMqVIBRuCRoiG9WsnSWg.png"
-        },
-        "team_2": {
-          "name": "Aston Villa",
-          "logo": "logo/teams/aston-villa_9BPRqMxn2Znvkj7pltfK.png"
-        },
-        "full_team_name": "Liverpool 🆚 Aston Villa",
-        "sources": [
-          {
-            "id": 981,
-            "name": "SKY SPORTS  Premier League",
-            "description": null
-          },
-          {
-            "id": 1714,
-            "name": "USA Network",
-            "description": null
-          },
-          {
-            "id": 3485,
-            "name": "FUBO Sports",
-            "description": null
-          },
-          {
-            "id": 3456,
-            "name": "Universo",
-            "description": null
-          },
-          {
-            "id": 3575,
-            "name": "Telemundo",
-            "description": null
-          }
-        ]
-      },
-      {
         "id": 77,
         "name": "Premier League",
         "stage": null,
@@ -310,39 +262,6 @@
     "logo": "logo/events/categories/ligue-1_5qqt6renj8lsMs1YGSmI.png",
     "type": "Football",
     "items": [
-      {
-        "id": 213,
-        "name": "Ligue 1",
-        "stage": null,
-        "logo": "logo/events/ligue-1_338.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1762027500,
-        "end_time": 1762036500,
-        "show_duration": true,
-        "team_1": {
-          "name": "Auxerre",
-          "logo": "logo/teams/auxerre_vcLGRA1IjiBRcAeaRZDU.png"
-        },
-        "team_2": {
-          "name": "Olympique Marseille",
-          "logo": "logo/teams/olympique-marseille_p69Uuc33val55SO7Qwbw.png"
-        },
-        "full_team_name": "Auxerre 🆚 Olympique Marseille",
-        "sources": [
-          {
-            "id": 3652,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 3721,
-            "name": "LINK 2",
-            "description": null
-          }
-        ]
-      },
       {
         "id": 100,
         "name": "Ligue 1",
@@ -565,49 +484,6 @@
     "type": "Football",
     "items": [
       {
-        "id": 215,
-        "name": "LALIGA",
-        "stage": null,
-        "logo": "logo/events/sevilla-villarreal_wqSkWfYjIH5dihHm8c1A.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1762027200,
-        "end_time": 1762036200,
-        "show_duration": true,
-        "team_1": {
-          "name": "Real Madrid",
-          "logo": "logo/teams/real-madrid_CUgA3ukonrMdp3gfsRbJ.png"
-        },
-        "team_2": {
-          "name": "Valencia",
-          "logo": "logo/teams/valencia_Il7Acs58wgzuVXt4kKM2.png"
-        },
-        "full_team_name": "Real Madrid 🆚 Valencia",
-        "sources": [
-          {
-            "id": 3289,
-            "name": "beIN Sport 2 - AUS",
-            "description": null
-          },
-          {
-            "id": 3043,
-            "name": "LALIGA TV",
-            "description": null
-          },
-          {
-            "id": 2665,
-            "name": "ZIGGO SPORT",
-            "description": null
-          },
-          {
-            "id": 3461,
-            "name": "beIN Sport 2 - FR",
-            "description": null
-          }
-        ]
-      },
-      {
         "id": 214,
         "name": "LALIGA",
         "stage": null,
@@ -806,39 +682,6 @@
     "type": "Football",
     "items": [
       {
-        "id": 96,
-        "name": "Serie A",
-        "stage": null,
-        "logo": "logo/events/serie-a_562.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1762026300,
-        "end_time": 1762035300,
-        "show_duration": true,
-        "team_1": {
-          "name": "Juventus",
-          "logo": "logo/teams/juventus_1WZ6BUDiLNixSnojyYvv.png"
-        },
-        "team_2": {
-          "name": "Cremonese",
-          "logo": "logo/teams/cremonese_CJVjeC0IKjDMjWxRsazq.png"
-        },
-        "full_team_name": "Juventus 🆚 Cremonese",
-        "sources": [
-          {
-            "id": 3486,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 3283,
-            "name": "beIN Sport 3 - AUS",
-            "description": null
-          }
-        ]
-      },
-      {
         "id": 74,
         "name": "Serie A",
         "stage": null,
@@ -992,8 +835,8 @@
         "full_team_name": "Roma 🆚 AC Milan",
         "sources": [
           {
-            "id": 902,
-            "name": "TNT Sports 1 (BT Sports) ",
+            "id": 3283,
+            "name": "beIN Sport 3 - AUS",
             "description": null
           },
           {
@@ -1002,8 +845,8 @@
             "description": null
           },
           {
-            "id": 3283,
-            "name": "beIN Sport 3 - AUS",
+            "id": 902,
+            "name": "TNT Sports 1 (BT Sports) ",
             "description": null
           }
         ]
@@ -1062,34 +905,6 @@
     "logo": "logo/events/categories/fifa-club-world-cup_uKXWsqNaJmoeEKidZZbj.png",
     "type": "Football",
     "items": [
-      {
-        "id": 325,
-        "name": "FIFA U-17 Women's World Cup",
-        "stage": "Quarter Final 2",
-        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1762023600,
-        "end_time": 1762032600,
-        "show_duration": true,
-        "team_1": {
-          "name": "North Korea",
-          "logo": "logo/teams/north-korea_OGdXu2cE1EWWtobCPnEs.png"
-        },
-        "team_2": {
-          "name": "Japan",
-          "logo": "logo/teams/japan_kob7f67JBkvUorLgiTLG.png"
-        },
-        "full_team_name": "North Korea 🆚 Japan",
-        "sources": [
-          {
-            "id": 3679,
-            "name": "LINK 2",
-            "description": null
-          }
-        ]
-      },
       {
         "id": 337,
         "name": "FIFA U-17 Women's World Cup",
@@ -1154,25 +969,6 @@
     "logo": "logo/events/categories/bundesliga-2_tGbrOFPMKnV8Bo3aOQda.png",
     "type": "Football",
     "items": [
-      {
-        "id": 367,
-        "name": "Darmstadt 98 🆚 Arminia Bielefeld",
-        "stage": null,
-        "logo": "logo/events/elversberg-kaiserslautern_u7XcxXJ8sRFF8zKriQ0p.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "cricket",
-        "start_time": 1762025400,
-        "end_time": 1762034400,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3683,
-            "name": "LINK 1",
-            "description": null
-          }
-        ]
-      },
       {
         "id": 366,
         "name": "Bochum 🆚 Magdeburg",
