@@ -1,5 +1,46 @@
 [
   {
+    "id": 18,
+    "name": "ICC Womens World Cup",
+    "logo": "logo/events/categories/icc-womens-world-cup_Tac4U4YHpuekyiqOw3CJ.png",
+    "type": "Cricket",
+    "items": [
+      {
+        "id": 162,
+        "name": "ICC Womens World Cup",
+        "stage": "FINAL",
+        "logo": "",
+        "color": null,
+        "type": "team",
+        "sport_type": "cricket",
+        "start_time": 1762075800,
+        "end_time": 1762106400,
+        "show_duration": true,
+        "team_1": {
+          "name": "India",
+          "logo": "logo/teams/india_R8DzB45mwxgV921JfOUc.png"
+        },
+        "team_2": {
+          "name": "South Africa",
+          "logo": "logo/teams/south-africa_Ft4TOjd1f9xQlzGVM4a2.png"
+        },
+        "full_team_name": "India 🆚 South Africa",
+        "sources": [
+          {
+            "id": 3202,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3734,
+            "name": "LINK 2",
+            "description": null
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 6,
     "name": "Cricket",
     "logo": "logo/events/categories/cricket_34rT8noo6pPjKMC5Wm9f.webp",
@@ -676,6 +717,52 @@
     ]
   },
   {
+    "id": 16,
+    "name": "Bundesliga",
+    "logo": "logo/events/categories/bundesliga_TUnq97qHRnlbiCVmw2bE.png",
+    "type": "Football",
+    "items": [
+      {
+        "id": 274,
+        "name": "Köln 🆚 Hamburger SV",
+        "stage": null,
+        "logo": "logo/events/hoffenheim-bayer-leverkusen_W0M2W6UxsD7TsKSPbJB3.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1762093800,
+        "end_time": 1762102800,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3446,
+            "name": "beIN Sport 1 - FR",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 101,
+        "name": "Wolfsburg 🆚 Hoffenheim",
+        "stage": null,
+        "logo": "logo/events/hoffenheim-bayer-leverkusen_W0M2W6UxsD7TsKSPbJB3.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1762101000,
+        "end_time": 1762110000,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3463,
+            "name": "beIN Sport 5 MAX - FR",
+            "description": null
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 14,
     "name": "Serie A",
     "logo": "logo/events/categories/serie-a_I13YO3O5lVJj1vhJRU6w.png",
@@ -854,52 +941,6 @@
     ]
   },
   {
-    "id": 16,
-    "name": "Bundesliga",
-    "logo": "logo/events/categories/bundesliga_TUnq97qHRnlbiCVmw2bE.png",
-    "type": "Football",
-    "items": [
-      {
-        "id": 274,
-        "name": "Köln 🆚 Hamburger SV",
-        "stage": null,
-        "logo": "logo/events/hoffenheim-bayer-leverkusen_W0M2W6UxsD7TsKSPbJB3.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "football",
-        "start_time": 1762093800,
-        "end_time": 1762102800,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3446,
-            "name": "beIN Sport 1 - FR",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 101,
-        "name": "Wolfsburg 🆚 Hoffenheim",
-        "stage": null,
-        "logo": "logo/events/hoffenheim-bayer-leverkusen_W0M2W6UxsD7TsKSPbJB3.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "football",
-        "start_time": 1762101000,
-        "end_time": 1762110000,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3463,
-            "name": "beIN Sport 5 MAX - FR",
-            "description": null
-          }
-        ]
-      }
-    ]
-  },
-  {
     "id": 44,
     "name": "FIFA U-17 Women's World Cup",
     "logo": "logo/events/categories/fifa-club-world-cup_uKXWsqNaJmoeEKidZZbj.png",
@@ -1022,47 +1063,6 @@
           {
             "id": 3684,
             "name": "LINK 1",
-            "description": null
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": 18,
-    "name": "ICC Womens World Cup",
-    "logo": "logo/events/categories/icc-womens-world-cup_Tac4U4YHpuekyiqOw3CJ.png",
-    "type": "Cricket",
-    "items": [
-      {
-        "id": 162,
-        "name": "ICC Womens World Cup",
-        "stage": "FINAL",
-        "logo": "",
-        "color": null,
-        "type": "team",
-        "sport_type": "cricket",
-        "start_time": 1762075800,
-        "end_time": 1762106400,
-        "show_duration": true,
-        "team_1": {
-          "name": "India",
-          "logo": "logo/teams/india_R8DzB45mwxgV921JfOUc.png"
-        },
-        "team_2": {
-          "name": "South Africa",
-          "logo": "logo/teams/south-africa_Ft4TOjd1f9xQlzGVM4a2.png"
-        },
-        "full_team_name": "India 🆚 South Africa",
-        "sources": [
-          {
-            "id": 3202,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 3734,
-            "name": "LINK 2",
             "description": null
           }
         ]
