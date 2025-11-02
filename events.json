@@ -1,94 +1,10 @@
 [
   {
-    "id": 18,
-    "name": "ICC Womens World Cup",
-    "logo": "logo/events/categories/icc-womens-world-cup_Tac4U4YHpuekyiqOw3CJ.png",
-    "type": "Cricket",
-    "items": [
-      {
-        "id": 162,
-        "name": "ICC Womens World Cup",
-        "stage": "FINAL",
-        "logo": "",
-        "color": null,
-        "type": "team",
-        "sport_type": "cricket",
-        "start_time": 1762075800,
-        "end_time": 1762106400,
-        "show_duration": true,
-        "team_1": {
-          "name": "India",
-          "logo": "logo/teams/india_R8DzB45mwxgV921JfOUc.png"
-        },
-        "team_2": {
-          "name": "South Africa",
-          "logo": "logo/teams/south-africa_Ft4TOjd1f9xQlzGVM4a2.png"
-        },
-        "full_team_name": "India 🆚 South Africa",
-        "sources": [
-          {
-            "id": 3202,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 3734,
-            "name": "LINK 2",
-            "description": null
-          }
-        ]
-      }
-    ]
-  },
-  {
     "id": 11,
     "name": "Premier League",
     "logo": "logo/events/categories/premier-league_DxTuHXdZHzmgURaJXIV3.png",
     "type": "Football",
     "items": [
-      {
-        "id": 164,
-        "name": "Premier League",
-        "stage": null,
-        "logo": "logo/events/premier-league_653.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1762101000,
-        "end_time": 1762110000,
-        "show_duration": true,
-        "team_1": {
-          "name": "Manchester City",
-          "logo": "logo/teams/manchester-city_dULBNGyWBdlIi9PhjqbC.png"
-        },
-        "team_2": {
-          "name": "AFC Bournemouth",
-          "logo": "logo/teams/afc-bournemouth_qVGIj8fyj0I6KNXz33Y1.png"
-        },
-        "full_team_name": "Manchester City 🆚 AFC Bournemouth",
-        "sources": [
-          {
-            "id": 981,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 1714,
-            "name": "USA Network",
-            "description": null
-          },
-          {
-            "id": 3485,
-            "name": "FUBO Sports",
-            "description": null
-          },
-          {
-            "id": 3575,
-            "name": "Telemundo",
-            "description": null
-          }
-        ]
-      },
       {
         "id": 16,
         "name": "Premier League",
@@ -135,82 +51,6 @@
     "logo": "logo/events/categories/la-liga_09FFBteASyl11hboQ8x9.png",
     "type": "Football",
     "items": [
-      {
-        "id": 281,
-        "name": "LALIGA",
-        "stage": null,
-        "logo": "logo/events/sevilla-villarreal_wqSkWfYjIH5dihHm8c1A.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1762096500,
-        "end_time": 1762105500,
-        "show_duration": true,
-        "team_1": {
-          "name": "Deportivo Alavés",
-          "logo": "logo/teams/deportivo-alaves_MjSSu8ns81zY2K4BqeB5.png"
-        },
-        "team_2": {
-          "name": "Espanyol",
-          "logo": "logo/teams/espanyol_YRX1tfHvMxMw3umCf9l7.png"
-        },
-        "full_team_name": "Deportivo Alavés 🆚 Espanyol",
-        "sources": [
-          {
-            "id": 2862,
-            "name": "Premier Sports 2",
-            "description": null
-          },
-          {
-            "id": 3043,
-            "name": "LALIGA TV",
-            "description": null
-          },
-          {
-            "id": 2665,
-            "name": "ZIGGO SPORT",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 216,
-        "name": "LALIGA",
-        "stage": null,
-        "logo": "logo/events/sevilla-villarreal_wqSkWfYjIH5dihHm8c1A.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1762104600,
-        "end_time": 1762113600,
-        "show_duration": true,
-        "team_1": {
-          "name": "Barcelona",
-          "logo": "logo/teams/barcelona_NiCxfEeaPHngHzLBDHm2.png"
-        },
-        "team_2": {
-          "name": "Elche",
-          "logo": "logo/teams/elche_j1S95zmn1prBiAUxUYuy.png"
-        },
-        "full_team_name": "Barcelona 🆚 Elche",
-        "sources": [
-          {
-            "id": 3289,
-            "name": "beIN Sport 2 - AUS",
-            "description": null
-          },
-          {
-            "id": 3043,
-            "name": "LALIGA TV",
-            "description": null
-          },
-          {
-            "id": 2665,
-            "name": "ZIGGO SPORT",
-            "description": null
-          }
-        ]
-      },
       {
         "id": 66,
         "name": "LALIGA",
@@ -296,153 +136,6 @@
     "type": "Football",
     "items": [
       {
-        "id": 252,
-        "name": "Ligue 1",
-        "stage": null,
-        "logo": "logo/events/ligue-1_338.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1762100100,
-        "end_time": 1762109100,
-        "show_duration": true,
-        "team_1": {
-          "name": "RC Lens",
-          "logo": "logo/teams/rc-lens_E6mC6ceh7Wb2ZQhBAz5z.png"
-        },
-        "team_2": {
-          "name": "Lorient",
-          "logo": "logo/teams/lorient_AuCBnQQ1fBB0rhD3uBsb.png"
-        },
-        "full_team_name": "RC Lens 🆚 Lorient",
-        "sources": [
-          {
-            "id": 3652,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 3721,
-            "name": "LINK 2",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 176,
-        "name": "Ligue 1",
-        "stage": null,
-        "logo": "logo/events/ligue-1_338.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1762100100,
-        "end_time": 1762109100,
-        "show_duration": true,
-        "team_1": {
-          "name": "Lille",
-          "logo": "logo/teams/lille_dfhDvSeQB5ldB3YRUDzk.png"
-        },
-        "team_2": {
-          "name": "Angers SCO",
-          "logo": "logo/teams/angers-sco_sV8JT19UcyO5admBinLo.png"
-        },
-        "full_team_name": "Lille 🆚 Angers SCO",
-        "sources": [
-          {
-            "id": 3652,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 3721,
-            "name": "LINK 2",
-            "description": null
-          },
-          {
-            "id": 861,
-            "name": "beIN Sport 4 - AR",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 61,
-        "name": "Ligue 1",
-        "stage": null,
-        "logo": "logo/events/ligue-1_338.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1762100100,
-        "end_time": 1762109100,
-        "show_duration": true,
-        "team_1": {
-          "name": "Nantes",
-          "logo": "logo/teams/nantes_4Wwms9crvMifQbqAeFMP.png"
-        },
-        "team_2": {
-          "name": "Metz",
-          "logo": "logo/teams/metz_tsAVkcK4kchtJ67SGWdV.png"
-        },
-        "full_team_name": "Nantes 🆚 Metz",
-        "sources": [
-          {
-            "id": 3652,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 3721,
-            "name": "LINK 2",
-            "description": null
-          },
-          {
-            "id": 871,
-            "name": "beIN Sport 6 - AR",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 97,
-        "name": "Ligue 1",
-        "stage": null,
-        "logo": "logo/events/ligue-1_338.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1762100100,
-        "end_time": 1762109100,
-        "show_duration": true,
-        "team_1": {
-          "name": "Toulouse",
-          "logo": "logo/teams/toulouse_dvf4wseKuijFiAtEFRXN.png"
-        },
-        "team_2": {
-          "name": "Le Havre",
-          "logo": "logo/teams/le-havre_ruBqgF1Q4zFILvZcdJZv.png"
-        },
-        "full_team_name": "Toulouse 🆚 Le Havre",
-        "sources": [
-          {
-            "id": 3652,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 3721,
-            "name": "LINK 2",
-            "description": null
-          },
-          {
-            "id": 876,
-            "name": "beIN Sport 7 - AR",
-            "description": null
-          }
-        ]
-      },
-      {
         "id": 177,
         "name": "Ligue 1",
         "stage": null,
@@ -478,90 +171,11 @@
     ]
   },
   {
-    "id": 16,
-    "name": "Bundesliga",
-    "logo": "logo/events/categories/bundesliga_TUnq97qHRnlbiCVmw2bE.png",
-    "type": "Football",
-    "items": [
-      {
-        "id": 274,
-        "name": "Köln 🆚 Hamburger SV",
-        "stage": null,
-        "logo": "logo/events/hoffenheim-bayer-leverkusen_W0M2W6UxsD7TsKSPbJB3.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "football",
-        "start_time": 1762093800,
-        "end_time": 1762102800,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3446,
-            "name": "beIN Sport 1 - FR",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 101,
-        "name": "Wolfsburg 🆚 Hoffenheim",
-        "stage": null,
-        "logo": "logo/events/hoffenheim-bayer-leverkusen_W0M2W6UxsD7TsKSPbJB3.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "football",
-        "start_time": 1762101000,
-        "end_time": 1762110000,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3463,
-            "name": "beIN Sport 5 MAX - FR",
-            "description": null
-          }
-        ]
-      }
-    ]
-  },
-  {
     "id": 14,
     "name": "Serie A",
     "logo": "logo/events/categories/serie-a_I13YO3O5lVJj1vhJRU6w.png",
     "type": "Football",
     "items": [
-      {
-        "id": 175,
-        "name": "Serie A",
-        "stage": null,
-        "logo": "logo/events/serie-a_562.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1762102800,
-        "end_time": 1762111800,
-        "show_duration": true,
-        "team_1": {
-          "name": "Parma",
-          "logo": "logo/teams/parma_bS36NvFFKsw9lNb2kERX.png"
-        },
-        "team_2": {
-          "name": "Bologna",
-          "logo": "logo/teams/bologna_Y2dad7YDrmlCWKyXTkeh.png"
-        },
-        "full_team_name": "Parma 🆚 Bologna",
-        "sources": [
-          {
-            "id": 3283,
-            "name": "beIN Sport 3 - AUS",
-            "description": null
-          },
-          {
-            "id": 3669,
-            "name": "Fox Deportes",
-            "description": null
-          }
-        ]
-      },
       {
         "id": 73,
         "name": "Serie A",
@@ -584,13 +198,13 @@
         "full_team_name": "Roma 🆚 AC Milan",
         "sources": [
           {
-            "id": 902,
-            "name": "TNT Sports 1 (BT Sports) ",
+            "id": 3669,
+            "name": "Fox Deportes",
             "description": null
           },
           {
-            "id": 3669,
-            "name": "Fox Deportes",
+            "id": 902,
+            "name": "TNT Sports 1 (BT Sports) ",
             "description": null
           },
           {
@@ -608,34 +222,6 @@
     "logo": "logo/events/categories/fifa-club-world-cup_uKXWsqNaJmoeEKidZZbj.png",
     "type": "Football",
     "items": [
-      {
-        "id": 337,
-        "name": "FIFA U-17 Women's World Cup",
-        "stage": "Quarter Final 3",
-        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1762097400,
-        "end_time": 1762106400,
-        "show_duration": true,
-        "team_1": {
-          "name": "France",
-          "logo": "logo/teams/france_aUU9YpY9mRlZaIN96Jcj.png"
-        },
-        "team_2": {
-          "name": "Netherlands",
-          "logo": "logo/teams/netherlands_jQ1TsSgSAxDObcL1V8Uj.png"
-        },
-        "full_team_name": "France 🆚 Netherlands",
-        "sources": [
-          {
-            "id": 3666,
-            "name": "FOX SPORT 2 - US",
-            "description": null
-          }
-        ]
-      },
       {
         "id": 291,
         "name": "FIFA U-17 Women's World Cup",
