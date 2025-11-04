@@ -103,77 +103,6 @@
     "type": "Football",
     "items": [
       {
-        "id": 36,
-        "name": "UEFA Champions League",
-        "stage": null,
-        "logo": "logo/events/uefa-champions-league_SoMek7REXsG9ouH4HX7R.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1762278300,
-        "end_time": 1762287300,
-        "show_duration": true,
-        "team_1": {
-          "name": "Napoli",
-          "logo": "logo/teams/napoli_NYdRhOCsu0S7p6Z3pnfO.png"
-        },
-        "team_2": {
-          "name": "Eintracht Frankfurt",
-          "logo": "logo/teams/eintracht-frankfurt_naBThnJdvRzSaXNhh9s0.png"
-        },
-        "full_team_name": "Napoli 🆚 Eintracht Frankfurt",
-        "sources": [
-          {
-            "id": 905,
-            "name": "TNT Sports 2 (BT Sports)",
-            "description": null
-          },
-          {
-            "id": 3338,
-            "name": "CBS SPORTS Golazo",
-            "description": null
-          },
-          {
-            "id": 2558,
-            "name": "ZIGGO SPORT 2",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 91,
-        "name": "UEFA Champions League",
-        "stage": null,
-        "logo": "logo/events/sporting-cp-lille_KgvODttvDnhYVMwg7dPs.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1762278300,
-        "end_time": 1762287300,
-        "show_duration": true,
-        "team_1": {
-          "name": "Arsenal",
-          "logo": "logo/teams/arsenal_fc6aAPzStsGPPVTcPQMZ.png"
-        },
-        "team_2": {
-          "name": "Slavia Praha",
-          "logo": "logo/teams/slavia-praha_VxYiNRnRFvgKjdxW4Oy1.svg"
-        },
-        "full_team_name": "Arsenal 🆚 Slavia Praha",
-        "sources": [
-          {
-            "id": 902,
-            "name": "TNT Sports 1 (BT Sports) ",
-            "description": null
-          },
-          {
-            "id": 2667,
-            "name": "ZIGGO SPORT 3",
-            "description": null
-          }
-        ]
-      },
-      {
         "id": 27,
         "name": "UEFA Champions League",
         "stage": null,
@@ -387,44 +316,6 @@
     "logo": "logo/events/categories/afc-champions-league-elite_brds9I8ApeU3ZaOzsGUI.png",
     "type": "Football",
     "items": [
-      {
-        "id": 109,
-        "name": "Buriram United 🆚 Shanghai Port",
-        "stage": null,
-        "logo": "logo/events/al-ain-al-hilal_uunLP8g5Dtbk2qLKcir5.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "football",
-        "start_time": 1762258500,
-        "end_time": 1762267500,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3541,
-            "name": "LINK 1",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 108,
-        "name": "Al Sadd 🆚 Al-Ahli",
-        "stage": null,
-        "logo": "logo/events/al-ain-al-hilal_uunLP8g5Dtbk2qLKcir5.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "football",
-        "start_time": 1762272000,
-        "end_time": 1762281000,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3541,
-            "name": "LINK 1",
-            "description": null
-          }
-        ]
-      },
       {
         "id": 111,
         "name": "Al Ittihad 🆚 Al Sharjah",
