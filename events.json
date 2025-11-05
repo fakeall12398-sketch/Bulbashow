@@ -378,13 +378,13 @@
         "full_team_name": "Internazionale 🆚 Kairat",
         "sources": [
           {
-            "id": 828,
-            "name": "Arena Sports 3 - BA",
+            "id": 861,
+            "name": "beIN Sport 4 - AR",
             "description": null
           },
           {
-            "id": 861,
-            "name": "beIN Sport 4 - AR",
+            "id": 828,
+            "name": "Arena Sports 3 - BA",
             "description": null
           }
         ]
@@ -412,6 +412,33 @@
           {
             "id": 3195,
             "name": "LINK 1",
+            "description": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "name": "EFL Championship",
+    "logo": "logo/events/categories/efl-championship_hWDkHuBlOH3M0hqEXMCx.png",
+    "type": "Football",
+    "items": [
+      {
+        "id": 255,
+        "name": "Portsmouth 🆚 Wrexham",
+        "stage": null,
+        "logo": "logo/events/blackburn-rovers-middlesbrough_x6aqQU7RGwXVw3wB8ZhH.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1762372800,
+        "end_time": 1762381800,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3283,
+            "name": "beIN Sport 3 - AUS",
             "description": null
           }
         ]
