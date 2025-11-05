@@ -103,77 +103,6 @@
     "type": "Football",
     "items": [
       {
-        "id": 36,
-        "name": "UEFA Champions League",
-        "stage": null,
-        "logo": "logo/events/uefa-champions-league_SoMek7REXsG9ouH4HX7R.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1762364700,
-        "end_time": 1762373700,
-        "show_duration": true,
-        "team_1": {
-          "name": "Chelsea",
-          "logo": "logo/teams/chelsea_4qmk0ruyKon66luWMjkX.webp"
-        },
-        "team_2": {
-          "name": "Qarabağ",
-          "logo": "logo/teams/qarabag_mLO5NBcn4s3pL4bsniwu.png"
-        },
-        "full_team_name": "Chelsea 🆚 Qarabağ",
-        "sources": [
-          {
-            "id": 905,
-            "name": "TNT Sports 2 (BT Sports)",
-            "description": null
-          },
-          {
-            "id": 2558,
-            "name": "ZIGGO SPORT 2",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 91,
-        "name": "UEFA Champions League",
-        "stage": null,
-        "logo": "logo/events/sporting-cp-lille_KgvODttvDnhYVMwg7dPs.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1762364700,
-        "end_time": 1762372800,
-        "show_duration": true,
-        "team_1": {
-          "name": "Villarreal",
-          "logo": "logo/teams/villarreal_9ztBwUV50RgNFebIe13O.png"
-        },
-        "team_2": {
-          "name": "Paphos",
-          "logo": "logo/teams/paphos_F1W8jtiMlDbOw0gCYUGI.png"
-        },
-        "full_team_name": "Villarreal 🆚 Paphos",
-        "sources": [
-          {
-            "id": 908,
-            "name": "TNT Sports 3 (BT Sports)",
-            "description": null
-          },
-          {
-            "id": 3338,
-            "name": "CBS SPORTS Golazo",
-            "description": null
-          },
-          {
-            "id": 2667,
-            "name": "ZIGGO SPORT 3",
-            "description": null
-          }
-        ]
-      },
-      {
         "id": 27,
         "name": "UEFA Champions League",
         "stage": null,
@@ -385,33 +314,6 @@
           {
             "id": 828,
             "name": "Arena Sports 3 - BA",
-            "description": null
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": 19,
-    "name": "AFC Champions League Elite",
-    "logo": "logo/events/categories/afc-champions-league-elite_brds9I8ApeU3ZaOzsGUI.png",
-    "type": "Football",
-    "items": [
-      {
-        "id": 109,
-        "name": "Johor Darul Ta'zim 🆚 Shanghai Shenhua",
-        "stage": null,
-        "logo": "logo/events/al-ain-al-hilal_uunLP8g5Dtbk2qLKcir5.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "football",
-        "start_time": 1762344900,
-        "end_time": 1762353900,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3195,
-            "name": "LINK 1",
             "description": null
           }
         ]
