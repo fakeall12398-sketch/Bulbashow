@@ -134,6 +134,260 @@
             "description": null
           }
         ]
+      },
+      {
+        "id": 91,
+        "name": "UEFA Champions League",
+        "stage": null,
+        "logo": "logo/events/sporting-cp-lille_KgvODttvDnhYVMwg7dPs.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1762364700,
+        "end_time": 1762372800,
+        "show_duration": true,
+        "team_1": {
+          "name": "Villarreal",
+          "logo": "logo/teams/villarreal_9ztBwUV50RgNFebIe13O.png"
+        },
+        "team_2": {
+          "name": "Paphos",
+          "logo": "logo/teams/paphos_F1W8jtiMlDbOw0gCYUGI.png"
+        },
+        "full_team_name": "Villarreal 🆚 Paphos",
+        "sources": [
+          {
+            "id": 908,
+            "name": "TNT Sports 3 (BT Sports)",
+            "description": null
+          },
+          {
+            "id": 3338,
+            "name": "CBS SPORTS Golazo",
+            "description": null
+          },
+          {
+            "id": 2667,
+            "name": "ZIGGO SPORT 3",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 27,
+        "name": "UEFA Champions League",
+        "stage": null,
+        "logo": "logo/events/uefa-nations-league_ixp9i7dT2hvg2LbKpwfS.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1762372800,
+        "end_time": 1762381800,
+        "show_duration": true,
+        "team_1": {
+          "name": "Barcelona",
+          "logo": "logo/teams/barcelona_NiCxfEeaPHngHzLBDHm2.png"
+        },
+        "team_2": {
+          "name": "Club Brugge",
+          "logo": "logo/teams/club-brugge_qrmm9LloeBdhTHbfQ0kf.png"
+        },
+        "full_team_name": "Barcelona 🆚 Club Brugge",
+        "sources": [
+          {
+            "id": 2053,
+            "name": "TNT Sports 4 (BT Sports)",
+            "description": null
+          },
+          {
+            "id": 2558,
+            "name": "ZIGGO SPORT 2",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 34,
+        "name": "UEFA Champions League",
+        "stage": null,
+        "logo": "logo/events/young-boys-aston-villa_TBYhsDy4LQeUHE1sx9JD.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1762372800,
+        "end_time": 1762381800,
+        "show_duration": true,
+        "team_1": {
+          "name": "Manchester City",
+          "logo": "logo/teams/manchester-city_dULBNGyWBdlIi9PhjqbC.png"
+        },
+        "team_2": {
+          "name": "Borussia Dortmund",
+          "logo": "logo/teams/borussia-dortmund_UAiL1fFnZIVlcddPozzF.webp"
+        },
+        "full_team_name": "Manchester City 🆚 Borussia Dortmund",
+        "sources": [
+          {
+            "id": 902,
+            "name": "TNT Sports 1 (BT Sports) ",
+            "description": null
+          },
+          {
+            "id": 2667,
+            "name": "ZIGGO SPORT 3",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 92,
+        "name": "UEFA Champions League",
+        "stage": null,
+        "logo": "logo/events/bayern-munchen-dinamo-zagreb_ndnI1DeigBFiVpqh9f1s.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1762372800,
+        "end_time": 1762381800,
+        "show_duration": true,
+        "team_1": {
+          "name": "Ajax",
+          "logo": "logo/teams/ajax_I8cDRI6sDPG9uM4wNyNJ.png"
+        },
+        "team_2": {
+          "name": "Galatasaray",
+          "logo": "logo/teams/galatasaray_6tlTUhxbuFGXqCs6vp7W.png"
+        },
+        "full_team_name": "Ajax 🆚 Galatasaray",
+        "sources": [
+          {
+            "id": 2665,
+            "name": "ZIGGO SPORT",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 103,
+        "name": "UEFA Champions League",
+        "stage": null,
+        "logo": "logo/events/uefa_i2gGRxCyWtuczfdeHAEo.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1762372800,
+        "end_time": 1762381800,
+        "show_duration": true,
+        "team_1": {
+          "name": "Benfica",
+          "logo": "logo/teams/benfica_p5HWa6SGYWDR2wcXVD9F.png"
+        },
+        "team_2": {
+          "name": "Bayer Leverkusen",
+          "logo": "logo/teams/bayer-leverkusen_t3QmumtTtNUgN72IDMqx.png"
+        },
+        "full_team_name": "Benfica 🆚 Bayer Leverkusen",
+        "sources": [
+          {
+            "id": 3469,
+            "name": "LINK 1",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 39,
+        "name": "UEFA Champions League",
+        "stage": null,
+        "logo": "logo/events/juventus-psv_Quk9CbAnGkaxbrirFINV.png",
+        "color": "#FFD700",
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1762372800,
+        "end_time": 1762381800,
+        "show_duration": true,
+        "team_1": {
+          "name": "Newcastle United",
+          "logo": "logo/teams/newcastle-united_qG9rETosUsgCorWNBlog.png"
+        },
+        "team_2": {
+          "name": "Athletic Club",
+          "logo": "logo/teams/athletic-club_IMrU8myTY6ecoOB2UlrJ.png"
+        },
+        "full_team_name": "Newcastle United 🆚 Athletic Club",
+        "sources": [
+          {
+            "id": 905,
+            "name": "TNT Sports 2 (BT Sports)",
+            "description": null
+          },
+          {
+            "id": 1036,
+            "name": "ZIGGO SPORT 6",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 199,
+        "name": "UEFA Champions League",
+        "stage": null,
+        "logo": "logo/events/juventus-psv_Quk9CbAnGkaxbrirFINV.png",
+        "color": "#FFD700",
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1762372800,
+        "end_time": 1762381800,
+        "show_duration": true,
+        "team_1": {
+          "name": "Olympique Marseille",
+          "logo": "logo/teams/olympique-marseille_p69Uuc33val55SO7Qwbw.png"
+        },
+        "team_2": {
+          "name": "Atalanta",
+          "logo": "logo/teams/atalanta_b0AAzCzjZ2ZxB0duJ34q.png"
+        },
+        "full_team_name": "Olympique Marseille 🆚 Atalanta",
+        "sources": [
+          {
+            "id": 3338,
+            "name": "CBS SPORTS Golazo",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 200,
+        "name": "UEFA Champions League",
+        "stage": null,
+        "logo": "logo/events/juventus-psv_Quk9CbAnGkaxbrirFINV.png",
+        "color": "#FFD700",
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1762372800,
+        "end_time": 1762381800,
+        "show_duration": true,
+        "team_1": {
+          "name": "Internazionale",
+          "logo": "logo/teams/internazionale_2CwVe8TFyTB8etpuSs1V.png"
+        },
+        "team_2": {
+          "name": "Kairat",
+          "logo": "logo/teams/kairat_OiErXLDO5XaopMTopNkl.png"
+        },
+        "full_team_name": "Internazionale 🆚 Kairat",
+        "sources": [
+          {
+            "id": 828,
+            "name": "Arena Sports 3 - BA",
+            "description": null
+          },
+          {
+            "id": 861,
+            "name": "beIN Sport 4 - AR",
+            "description": null
+          }
+        ]
       }
     ]
   },
