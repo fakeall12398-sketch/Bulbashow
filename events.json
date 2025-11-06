@@ -41,12 +41,12 @@
       {
         "id": 125,
         "name": "West Indies tour of New Zealand",
-        "stage": "2nd T20I",
+        "stage": "3rd T20I",
         "logo": "",
         "color": null,
         "type": "team",
         "sport_type": "cricket",
-        "start_time": 1762409700,
+        "start_time": 1762647300,
         "end_time": null,
         "show_duration": true,
         "team_1": {
@@ -62,39 +62,6 @@
           {
             "id": 908,
             "name": "LINK 1",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 76,
-        "name": "South Africa tour of Pakistan",
-        "stage": "2nd ODI",
-        "logo": "",
-        "color": null,
-        "type": "team",
-        "sport_type": "cricket",
-        "start_time": 1762423200,
-        "end_time": 1762432200,
-        "show_duration": true,
-        "team_1": {
-          "name": "Pakisthan",
-          "logo": "logo/teams/pakisthan_QCFdXH7TItyN21PE72wI.png"
-        },
-        "team_2": {
-          "name": "South Africa",
-          "logo": "logo/teams/south-africa_Ft4TOjd1f9xQlzGVM4a2.png"
-        },
-        "full_team_name": "Pakisthan 🆚 South Africa",
-        "sources": [
-          {
-            "id": 3659,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 3654,
-            "name": "LINK 2",
             "description": null
           }
         ]
