@@ -67,5 +67,132 @@
         ]
       }
     ]
+  },
+  {
+    "id": 10,
+    "name": "Saudi Pro League",
+    "logo": "logo/events/categories/saudi-pro-league_u7DXK6SUZP664JoFeYfB.png",
+    "type": "Football",
+    "items": [
+      {
+        "id": 251,
+        "name": "Al Feiha 🆚 Al Akhdoud",
+        "stage": null,
+        "logo": "logo/events/roshn-saudi-league_327.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1762521600,
+        "end_time": 1762530600,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3692,
+            "name": "LINK 1",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 374,
+        "name": "Al Fateh 🆚 Al Taawon",
+        "stage": null,
+        "logo": "logo/events/roshn-saudi-league_327.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1762526100,
+        "end_time": 1762535100,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3691,
+            "name": "LINK 1",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 69,
+        "name": "Al Najma 🆚 Al Hilal",
+        "stage": null,
+        "logo": "logo/events/roshn-saudi-league_327.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1762536600,
+        "end_time": 1762545600,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3669,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 2888,
+            "name": "Sportdigital",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 70,
+        "name": "NEOM 🆚 Al Nassr",
+        "stage": null,
+        "logo": "logo/events/roshn-saudi-league_327.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1762609800,
+        "end_time": 1762618800,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 2888,
+            "name": "Sportdigital",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 264,
+        "name": "Al Shabab 🆚 Al Ittifaq",
+        "stage": null,
+        "logo": "logo/events/roshn-saudi-league_327.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1762613100,
+        "end_time": 1762622100,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3691,
+            "name": "LINK 1",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Al Ittihad 🆚 Al-Ahli",
+        "stage": null,
+        "logo": "logo/events/roshn-saudi-league_327.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1762623000,
+        "end_time": 1762632000,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 2939,
+            "name": "SPOTV",
+            "description": null
+          }
+        ]
+      }
+    ]
   }
 ]
