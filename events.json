@@ -75,68 +75,6 @@
     "type": "Football",
     "items": [
       {
-        "id": 251,
-        "name": "Al Feiha 🆚 Al Akhdoud",
-        "stage": null,
-        "logo": "logo/events/roshn-saudi-league_327.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "football",
-        "start_time": 1762521600,
-        "end_time": 1762530600,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3692,
-            "name": "LINK 1",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 374,
-        "name": "Al Fateh 🆚 Al Taawon",
-        "stage": null,
-        "logo": "logo/events/roshn-saudi-league_327.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "football",
-        "start_time": 1762526100,
-        "end_time": 1762535100,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3691,
-            "name": "LINK 1",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 69,
-        "name": "Al Najma 🆚 Al Hilal",
-        "stage": null,
-        "logo": "logo/events/roshn-saudi-league_327.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "football",
-        "start_time": 1762536600,
-        "end_time": 1762545600,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3669,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 2888,
-            "name": "Sportdigital",
-            "description": null
-          }
-        ]
-      },
-      {
         "id": 70,
         "name": "NEOM 🆚 Al Nassr",
         "stage": null,
