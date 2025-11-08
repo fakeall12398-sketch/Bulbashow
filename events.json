@@ -8,12 +8,12 @@
       {
         "id": 22,
         "name": "India tour of Australia",
-        "stage": "4th T20I",
+        "stage": "5th T20I",
         "logo": "",
         "color": null,
         "type": "team",
         "sport_type": "cricket",
-        "start_time": 1762416900,
+        "start_time": 1762589700,
         "end_time": null,
         "show_duration": true,
         "team_1": {
@@ -27,12 +27,45 @@
         "full_team_name": "India 🆚 Australia",
         "sources": [
           {
-            "id": 905,
+            "id": 908,
             "name": "LINK 1",
             "description": null
           },
           {
             "id": 3784,
+            "name": "LINK 2",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 76,
+        "name": "South Africa tour of Pakistan",
+        "stage": "3rd ODI",
+        "logo": "",
+        "color": null,
+        "type": "team",
+        "sport_type": "cricket",
+        "start_time": 1762596000,
+        "end_time": null,
+        "show_duration": true,
+        "team_1": {
+          "name": "Pakisthan",
+          "logo": "logo/teams/pakisthan_QCFdXH7TItyN21PE72wI.png"
+        },
+        "team_2": {
+          "name": "South Africa",
+          "logo": "logo/teams/south-africa_Ft4TOjd1f9xQlzGVM4a2.png"
+        },
+        "full_team_name": "Pakisthan 🆚 South Africa",
+        "sources": [
+          {
+            "id": 3659,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3654,
             "name": "LINK 2",
             "description": null
           }
@@ -62,6 +95,369 @@
           {
             "id": 908,
             "name": "LINK 1",
+            "description": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Premier League",
+    "logo": "logo/events/categories/premier-league_DxTuHXdZHzmgURaJXIV3.png",
+    "type": "Football",
+    "items": [
+      {
+        "id": 163,
+        "name": "Premier League",
+        "stage": null,
+        "logo": "logo/events/premier-league_653.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1762605000,
+        "end_time": 1762614000,
+        "show_duration": true,
+        "team_1": {
+          "name": "Manchester United",
+          "logo": "logo/teams/manchester-united_iJc37lFllOk8N6EP8gAF.png"
+        },
+        "team_2": {
+          "name": "Tottenham Hotspur",
+          "logo": "logo/teams/tottenham-hotspur_wRuMqVZrIxbbxVAzReN9.png"
+        },
+        "full_team_name": "Manchester United 🆚 Tottenham Hotspur",
+        "sources": [
+          {
+            "id": 902,
+            "name": "TNT Sports 1 (BT Sports) ",
+            "description": null
+          },
+          {
+            "id": 3485,
+            "name": "FUBO Sports",
+            "description": null
+          },
+          {
+            "id": 3721,
+            "name": "LINK 3",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 60,
+        "name": "Premier League",
+        "stage": null,
+        "logo": "logo/events/premier-league_653.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1762614000,
+        "end_time": 1762623000,
+        "show_duration": true,
+        "team_1": {
+          "name": "Everton",
+          "logo": "logo/teams/everton_5cRKu7aLE5iyDE8ZWKnA.png"
+        },
+        "team_2": {
+          "name": "Fulham",
+          "logo": "logo/teams/fulham_ZtmiztFY6TcDY03VX8wu.png"
+        },
+        "full_team_name": "Everton 🆚 Fulham",
+        "sources": [
+          {
+            "id": 981,
+            "name": "SKY SPORTS  Premier League",
+            "description": null
+          },
+          {
+            "id": 1714,
+            "name": "USA Network",
+            "description": null
+          },
+          {
+            "id": 3456,
+            "name": "Universo",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 78,
+        "name": "Premier League",
+        "stage": null,
+        "logo": "logo/events/premier-league_653.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1762614000,
+        "end_time": 1762623000,
+        "show_duration": true,
+        "team_1": {
+          "name": "West Ham United",
+          "logo": "logo/teams/west-ham-united_ZH09jHWYKL3jxywDbqrp.png"
+        },
+        "team_2": {
+          "name": "Burnley",
+          "logo": "logo/teams/burnley_KdAGgnWdhThDpljBlQqe.png"
+        },
+        "full_team_name": "West Ham United 🆚 Burnley",
+        "sources": [
+          {
+            "id": 3721,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 2993,
+            "name": "Sky Sport 7 - NZ",
+            "description": null
+          },
+          {
+            "id": 851,
+            "name": "beIN Sport 2 - AR",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 63,
+        "name": "Premier League",
+        "stage": null,
+        "logo": "logo/events/premier-league_653.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1762623000,
+        "end_time": 1762632000,
+        "show_duration": true,
+        "team_1": {
+          "name": "Arsenal",
+          "logo": "logo/teams/arsenal_fc6aAPzStsGPPVTcPQMZ.png"
+        },
+        "team_2": {
+          "name": "Sunderland",
+          "logo": "logo/teams/sunderland_CJfeVa5gItOnDonuHn99.png"
+        },
+        "full_team_name": "Arsenal 🆚 Sunderland",
+        "sources": [
+          {
+            "id": 981,
+            "name": "SKY SPORTS  Premier League",
+            "description": null
+          },
+          {
+            "id": 3456,
+            "name": "Universo",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 83,
+        "name": "Premier League",
+        "stage": null,
+        "logo": "logo/events/premier-league_653.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1762632000,
+        "end_time": 1762641000,
+        "show_duration": true,
+        "team_1": {
+          "name": "Chelsea",
+          "logo": "logo/teams/chelsea_4qmk0ruyKon66luWMjkX.webp"
+        },
+        "team_2": {
+          "name": "Wolverhampton Wanderers",
+          "logo": "logo/teams/wolverhampton-wanderers_wEFzoM24wynMivX0nJZ5.png"
+        },
+        "full_team_name": "Chelsea 🆚 Wolverhampton Wanderers",
+        "sources": [
+          {
+            "id": 981,
+            "name": "SKY SPORTS  Premier League",
+            "description": null
+          },
+          {
+            "id": 3456,
+            "name": "Universo",
+            "description": null
+          },
+          {
+            "id": 3485,
+            "name": "FUBO Sports",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 62,
+        "name": "Premier League",
+        "stage": null,
+        "logo": "logo/events/premier-league_653.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1762696800,
+        "end_time": 1762705800,
+        "show_duration": true,
+        "team_1": {
+          "name": "Aston Villa",
+          "logo": "logo/teams/aston-villa_9BPRqMxn2Znvkj7pltfK.png"
+        },
+        "team_2": {
+          "name": "AFC Bournemouth",
+          "logo": "logo/teams/afc-bournemouth_qVGIj8fyj0I6KNXz33Y1.png"
+        },
+        "full_team_name": "Aston Villa 🆚 AFC Bournemouth",
+        "sources": [
+          {
+            "id": 1714,
+            "name": "USA Network",
+            "description": null
+          },
+          {
+            "id": 3721,
+            "name": "LINK 2",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 64,
+        "name": "Premier League",
+        "stage": null,
+        "logo": "logo/events/premier-league_653.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1762696800,
+        "end_time": 1762705800,
+        "show_duration": true,
+        "team_1": {
+          "name": "Brentford",
+          "logo": "logo/teams/brentford_0MEh8wP4adPwsQr3Wqlv.png"
+        },
+        "team_2": {
+          "name": "Newcastle United",
+          "logo": "logo/teams/newcastle-united_qG9rETosUsgCorWNBlog.png"
+        },
+        "full_team_name": "Brentford 🆚 Newcastle United",
+        "sources": [
+          {
+            "id": 824,
+            "name": "Arena Sports 1 - BA",
+            "description": null
+          },
+          {
+            "id": 871,
+            "name": "beIN Sport 6 - AR",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 77,
+        "name": "Premier League",
+        "stage": null,
+        "logo": "logo/events/premier-league_653.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1762696800,
+        "end_time": 1762705800,
+        "show_duration": true,
+        "team_1": {
+          "name": "Crystal Palace",
+          "logo": "logo/teams/crystal-palace_sWmHvniii42Bo088yMRT.png"
+        },
+        "team_2": {
+          "name": "Brighton & Hove Albion",
+          "logo": "logo/teams/brighton-hove-albion_7mqn09wAXsSL23oihWk2.png"
+        },
+        "full_team_name": "Crystal Palace 🆚 Brighton & Hove Albion",
+        "sources": [
+          {
+            "id": 3486,
+            "name": "FUBO",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 179,
+        "name": "Premier League",
+        "stage": null,
+        "logo": "logo/events/premier-league_653.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1762696800,
+        "end_time": 1762705800,
+        "show_duration": true,
+        "team_1": {
+          "name": "Nottingham Forest",
+          "logo": "logo/teams/nottingham-forest_ZlzDoHRM4YWe1pXsIvkm.png"
+        },
+        "team_2": {
+          "name": "Leeds United",
+          "logo": "logo/teams/leeds-united_chV0LJ49sgZs8F3aML49.png"
+        },
+        "full_team_name": "Nottingham Forest 🆚 Leeds United",
+        "sources": [
+          {
+            "id": 3721,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 871,
+            "name": "beIN Sport 6 - AR",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 164,
+        "name": "Premier League",
+        "stage": null,
+        "logo": "logo/events/premier-league_653.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1762705800,
+        "end_time": 1762714800,
+        "show_duration": true,
+        "team_1": {
+          "name": "Manchester City",
+          "logo": "logo/teams/manchester-city_dULBNGyWBdlIi9PhjqbC.png"
+        },
+        "team_2": {
+          "name": "Liverpool",
+          "logo": "logo/teams/liverpool_HMqVIBRuCRoiG9WsnSWg.png"
+        },
+        "full_team_name": "Manchester City 🆚 Liverpool",
+        "sources": [
+          {
+            "id": 981,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 1714,
+            "name": "USA Network",
+            "description": null
+          },
+          {
+            "id": 3485,
+            "name": "FUBO Sports",
+            "description": null
+          },
+          {
+            "id": 3575,
+            "name": "Telemundo",
             "description": null
           }
         ]
