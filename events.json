@@ -356,44 +356,6 @@
     "type": "Football",
     "items": [
       {
-        "id": 74,
-        "name": "Serie A",
-        "stage": null,
-        "logo": "logo/events/serie-a_562.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1762687800,
-        "end_time": 1762696800,
-        "show_duration": true,
-        "team_1": {
-          "name": "Atalanta",
-          "logo": "logo/teams/atalanta_b0AAzCzjZ2ZxB0duJ34q.png"
-        },
-        "team_2": {
-          "name": "Sassuolo",
-          "logo": "logo/teams/sassuolo_sEUwnMmvt83dg7i7hZwd.png"
-        },
-        "full_team_name": "Atalanta 🆚 Sassuolo",
-        "sources": [
-          {
-            "id": 3283,
-            "name": "beIN Sport 3 - AUS",
-            "description": null
-          },
-          {
-            "id": 905,
-            "name": "TNT Sports 2 (BT Sports)",
-            "description": null
-          },
-          {
-            "id": 3669,
-            "name": "Fox Deportes",
-            "description": null
-          }
-        ]
-      },
-      {
         "id": 190,
         "name": "Serie A",
         "stage": null,
