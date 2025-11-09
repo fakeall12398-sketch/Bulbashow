@@ -108,44 +108,6 @@
     "type": "Football",
     "items": [
       {
-        "id": 83,
-        "name": "Premier League",
-        "stage": null,
-        "logo": "logo/events/premier-league_653.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1762632000,
-        "end_time": 1762641000,
-        "show_duration": true,
-        "team_1": {
-          "name": "Chelsea",
-          "logo": "logo/teams/chelsea_4qmk0ruyKon66luWMjkX.webp"
-        },
-        "team_2": {
-          "name": "Wolverhampton Wanderers",
-          "logo": "logo/teams/wolverhampton-wanderers_wEFzoM24wynMivX0nJZ5.png"
-        },
-        "full_team_name": "Chelsea 🆚 Wolverhampton Wanderers",
-        "sources": [
-          {
-            "id": 981,
-            "name": "SKY SPORTS  Premier League",
-            "description": null
-          },
-          {
-            "id": 3456,
-            "name": "Universo",
-            "description": null
-          },
-          {
-            "id": 3485,
-            "name": "FUBO Sports",
-            "description": null
-          }
-        ]
-      },
-      {
         "id": 62,
         "name": "Premier League",
         "stage": null,
@@ -200,13 +162,13 @@
         "full_team_name": "Brentford 🆚 Newcastle United",
         "sources": [
           {
-            "id": 871,
-            "name": "beIN Sport 6 - AR",
+            "id": 824,
+            "name": "Arena Sports 1 - BA",
             "description": null
           },
           {
-            "id": 824,
-            "name": "Arena Sports 1 - BA",
+            "id": 871,
+            "name": "beIN Sport 6 - AR",
             "description": null
           }
         ]
@@ -393,34 +355,6 @@
     "logo": "logo/events/categories/serie-a_I13YO3O5lVJj1vhJRU6w.png",
     "type": "Football",
     "items": [
-      {
-        "id": 96,
-        "name": "Serie A",
-        "stage": null,
-        "logo": "logo/events/serie-a_562.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1762631100,
-        "end_time": 1762640100,
-        "show_duration": true,
-        "team_1": {
-          "name": "Parma",
-          "logo": "logo/teams/parma_bS36NvFFKsw9lNb2kERX.png"
-        },
-        "team_2": {
-          "name": "AC Milan",
-          "logo": "logo/teams/ac-milan_BBQvGlF4Ys3t5YLUCeEu.png"
-        },
-        "full_team_name": "Parma 🆚 AC Milan",
-        "sources": [
-          {
-            "id": 3283,
-            "name": "beIN Sport 3 - AUS",
-            "description": null
-          }
-        ]
-      },
       {
         "id": 74,
         "name": "Serie A",
@@ -609,44 +543,6 @@
     "logo": "logo/events/categories/la-liga_09FFBteASyl11hboQ8x9.png",
     "type": "Football",
     "items": [
-      {
-        "id": 215,
-        "name": "LALIGA",
-        "stage": null,
-        "logo": "logo/events/sevilla-villarreal_wqSkWfYjIH5dihHm8c1A.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1762632000,
-        "end_time": 1762641000,
-        "show_duration": true,
-        "team_1": {
-          "name": "Espanyol",
-          "logo": "logo/teams/espanyol_YRX1tfHvMxMw3umCf9l7.png"
-        },
-        "team_2": {
-          "name": "Villarreal",
-          "logo": "logo/teams/villarreal_9ztBwUV50RgNFebIe13O.png"
-        },
-        "full_team_name": "Espanyol 🆚 Villarreal",
-        "sources": [
-          {
-            "id": 3289,
-            "name": "beIN Sport 2 - AUS",
-            "description": null
-          },
-          {
-            "id": 3043,
-            "name": "LALIGA TV",
-            "description": null
-          },
-          {
-            "id": 2667,
-            "name": "ZIGGO SPORT 3",
-            "description": null
-          }
-        ]
-      },
       {
         "id": 214,
         "name": "LALIGA",
@@ -845,80 +741,11 @@
     ]
   },
   {
-    "id": 44,
-    "name": "FIFA U-17 Women's World Cup",
-    "logo": "logo/events/categories/fifa-club-world-cup_uKXWsqNaJmoeEKidZZbj.png",
-    "type": "Football",
-    "items": [
-      {
-        "id": 325,
-        "name": "FIFA U-17 Women's World Cup",
-        "stage": "Final",
-        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1762628400,
-        "end_time": 1762637400,
-        "show_duration": true,
-        "team_1": {
-          "name": "North Korea",
-          "logo": "logo/teams/north-korea_OGdXu2cE1EWWtobCPnEs.png"
-        },
-        "team_2": {
-          "name": "Netherlands",
-          "logo": "logo/teams/netherlands_jQ1TsSgSAxDObcL1V8Uj.png"
-        },
-        "full_team_name": "North Korea 🆚 Netherlands",
-        "sources": [
-          {
-            "id": 3666,
-            "name": "LINK 1",
-            "description": null
-          }
-        ]
-      }
-    ]
-  },
-  {
     "id": 12,
     "name": "Ligue 1",
     "logo": "logo/events/categories/ligue-1_5qqt6renj8lsMs1YGSmI.png",
     "type": "Football",
     "items": [
-      {
-        "id": 213,
-        "name": "Ligue 1",
-        "stage": null,
-        "logo": "logo/events/ligue-1_338.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1762632300,
-        "end_time": 1762641300,
-        "show_duration": true,
-        "team_1": {
-          "name": "Monaco",
-          "logo": "logo/teams/monaco_3OpFAHbszyvVUmTbamFa.png"
-        },
-        "team_2": {
-          "name": "RC Lens",
-          "logo": "logo/teams/rc-lens_E6mC6ceh7Wb2ZQhBAz5z.png"
-        },
-        "full_team_name": "Monaco 🆚 RC Lens",
-        "sources": [
-          {
-            "id": 3652,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 3721,
-            "name": "LINK 2",
-            "description": null
-          }
-        ]
-      },
       {
         "id": 100,
         "name": "Ligue 1",
@@ -1097,49 +924,6 @@
     "logo": "logo/events/categories/liga-mx_9NgAE2moXr18M9dTzX16.png",
     "type": "Football",
     "items": [
-      {
-        "id": 356,
-        "name": "Tigres UANL 🆚 Atlético San Luis",
-        "stage": null,
-        "logo": "logo/events/puebla-pachuca_b2MU6rHq9XOT8tkBpPE0.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "cricket",
-        "start_time": 1762642800,
-        "end_time": 1762651800,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3456,
-            "name": "Universo",
-            "description": null
-          },
-          {
-            "id": 3669,
-            "name": "Fox Deportes",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 358,
-        "name": "Guadalajara 🆚 Monterrey",
-        "stage": null,
-        "logo": "logo/events/puebla-pachuca_b2MU6rHq9XOT8tkBpPE0.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "cricket",
-        "start_time": 1762642800,
-        "end_time": 1762651800,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3575,
-            "name": "Telemundo",
-            "description": null
-          }
-        ]
-      },
       {
         "id": 360,
         "name": "León 🆚 Puebla",
