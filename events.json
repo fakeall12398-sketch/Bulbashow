@@ -6,34 +6,6 @@
     "type": "Cricket",
     "items": [
       {
-        "id": 290,
-        "name": "Ireland tour of Bangladesh",
-        "stage": "1st Test, Day 3",
-        "logo": "",
-        "color": null,
-        "type": "team",
-        "sport_type": "cricket",
-        "start_time": 1763006400,
-        "end_time": null,
-        "show_duration": true,
-        "team_1": {
-          "name": "Bangladesh",
-          "logo": "logo/teams/bangladesh_9mfG8dxYyOTt53INypBM.png"
-        },
-        "team_2": {
-          "name": "Ireland",
-          "logo": "logo/teams/ireland_pW7Q2BitmiFUYE4SDXr6.png"
-        },
-        "full_team_name": "Bangladesh 🆚 Ireland",
-        "sources": [
-          {
-            "id": 3195,
-            "name": "LINK 1",
-            "description": null
-          }
-        ]
-      },
-      {
         "id": 76,
         "name": "Sri Lanka tour of Pakistan",
         "stage": "2nd ODI",
@@ -41,7 +13,7 @@
         "color": null,
         "type": "team",
         "sport_type": "cricket",
-        "start_time": 1763024400,
+        "start_time": 1763112600,
         "end_time": null,
         "show_duration": true,
         "team_1": {
@@ -55,7 +27,7 @@
         "full_team_name": "Pakisthan 🆚 Sri Lanka",
         "sources": [
           {
-            "id": 3202,
+            "id": 3659,
             "name": "LINK 1",
             "description": null
           },
@@ -67,20 +39,25 @@
         ]
       },
       {
-        "id": 167,
-        "name": "Womens Big Bash League",
-        "stage": "7th Match ",
-        "logo": "logo/events/big-bash-league_QJNd2FtoWKu1oQHodosi.png",
+        "id": 24,
+        "name": "India A 🆚 United Arab Emirates",
+        "stage": "2nd Match",
+        "logo": "logo/events/asia-cup-rising-stars_Ivt2t3mPEHjABJn8UaJr.png",
         "color": null,
         "type": "single",
         "sport_type": "cricket",
-        "start_time": 1763021400,
+        "start_time": 1763119800,
         "end_time": null,
-        "show_duration": true,
+        "show_duration": false,
         "sources": [
           {
-            "id": 988,
-            "name": "SKY SPORTS Cricket ",
+            "id": 3202,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3790,
+            "name": "LINK 2 - LIV",
             "description": null
           }
         ]
@@ -88,12 +65,12 @@
       {
         "id": 22,
         "name": "South Africa tour of India",
-        "stage": "1st Test, Day 1",
+        "stage": "1st Test, Day 2",
         "logo": "",
         "color": null,
         "type": "team",
         "sport_type": "cricket",
-        "start_time": 1763092800,
+        "start_time": 1763179200,
         "end_time": null,
         "show_duration": true,
         "team_1": {
@@ -107,13 +84,32 @@
         "full_team_name": "India 🆚 South Africa",
         "sources": [
           {
-            "id": 902,
+            "id": 908,
             "name": "LINK 1",
             "description": null
           },
           {
             "id": 3784,
             "name": "LINK 2",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 167,
+        "name": "Womens Big Bash League",
+        "stage": "10th Match ",
+        "logo": "logo/events/big-bash-league_QJNd2FtoWKu1oQHodosi.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "cricket",
+        "start_time": 1763181600,
+        "end_time": null,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 988,
+            "name": "SKY SPORTS Cricket ",
             "description": null
           }
         ]
@@ -140,177 +136,36 @@
         "full_team_name": "New Zealand 🆚 West Indies",
         "sources": [
           {
-            "id": 908,
-            "name": "LINK 1",
-            "description": null
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": 52,
-    "name": "FIFA World Cup Qualifying",
-    "logo": "logo/events/categories/fifa-world-cup-qualifying_KseXA5ZohFslvn5ZLJHG.png",
-    "type": "Football",
-    "items": [
-      {
-        "id": 300,
-        "name": "FIFA World Cup Qualifying",
-        "stage": null,
-        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1763139600,
-        "end_time": 1763148600,
-        "show_duration": true,
-        "team_1": {
-          "name": "Finland",
-          "logo": "logo/teams/finland_FDupfocJpnVMjmQvldh1.png"
-        },
-        "team_2": {
-          "name": "Malta",
-          "logo": "logo/teams/malta_6kpDAiFe3cD7DBbqDfKT.png"
-        },
-        "full_team_name": "Finland 🆚 Malta",
-        "sources": [
-          {
-            "id": 836,
-            "name": "beIN Sport 1 - AR",
-            "description": null
-          },
-          {
-            "id": 2990,
-            "name": "Sky Sport 3 - NZ",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 338,
-        "name": "FIFA World Cup Qualifying",
-        "stage": null,
-        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1763149500,
-        "end_time": 1763158500,
-        "show_duration": true,
-        "team_1": {
-          "name": "Germany",
-          "logo": "logo/teams/germany_MX6p338mvCEG5bh0NxAQ.png"
-        },
-        "team_2": {
-          "name": "Luxembourg",
-          "logo": "logo/teams/luxembourg_YiAOKmJEQSkY4Oelx5rm.png"
-        },
-        "full_team_name": "Germany 🆚 Luxembourg",
-        "sources": [
-          {
-            "id": 3666,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 2937,
-            "name": "LINK 2",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 299,
-        "name": "FIFA World Cup Qualifying",
-        "stage": null,
-        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1763149500,
-        "end_time": 1763158500,
-        "show_duration": true,
-        "team_1": {
-          "name": "Netherlands",
-          "logo": "logo/teams/netherlands_jQ1TsSgSAxDObcL1V8Uj.png"
-        },
-        "team_2": {
-          "name": "Poland",
-          "logo": "logo/teams/poland_dkmjQIbkjJtOsv0v0aGA.png"
-        },
-        "full_team_name": "Netherlands 🆚 Poland",
-        "sources": [
-          {
-            "id": 2989,
-            "name": "Sky Sport 2 - NZ",
-            "description": null
-          },
-          {
-            "id": 851,
-            "name": "beIN Sport 2 - AR",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 336,
-        "name": "Slovakia 🆚 Northern Ireland",
-        "stage": null,
-        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "football",
-        "start_time": 1763149500,
-        "end_time": 1763158500,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3644,
+            "id": 2053,
             "name": "LINK 1",
             "description": null
           }
         ]
       },
       {
-        "id": 339,
-        "name": "Gibraltar 🆚 Montenegro",
-        "stage": null,
-        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "id": 290,
+        "name": "Ireland tour of Bangladesh",
+        "stage": "2nd Test, Day 1",
+        "logo": "",
         "color": null,
-        "type": "single",
-        "sport_type": "football",
-        "start_time": 1763149500,
-        "end_time": 1763158500,
+        "type": "team",
+        "sport_type": "cricket",
+        "start_time": 1763524800,
+        "end_time": null,
         "show_duration": true,
+        "team_1": {
+          "name": "Bangladesh",
+          "logo": "logo/teams/bangladesh_9mfG8dxYyOTt53INypBM.png"
+        },
+        "team_2": {
+          "name": "Ireland",
+          "logo": "logo/teams/ireland_pW7Q2BitmiFUYE4SDXr6.png"
+        },
+        "full_team_name": "Bangladesh 🆚 Ireland",
         "sources": [
           {
-            "id": 866,
-            "name": "beIN Sport 5 - AR",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 332,
-        "name": "Croatia 🆚 Faroe Islands",
-        "stage": null,
-        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "football",
-        "start_time": 1763149500,
-        "end_time": 1763158500,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 856,
-            "name": "beIN Sport 3 - AR",
-            "description": null
-          },
-          {
-            "id": 2990,
-            "name": "Sky Sport 3 - NZ",
+            "id": 3195,
+            "name": "LINK 1",
             "description": null
           }
         ]
@@ -648,8 +503,13 @@
         "full_team_name": "Ireland 🆚 Canada",
         "sources": [
           {
-            "id": 3341,
+            "id": 3745,
             "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3341,
+            "name": "LINK 2",
             "description": null
           }
         ]
@@ -675,6 +535,11 @@
         },
         "full_team_name": "Argentina 🆚 Mexico",
         "sources": [
+          {
+            "id": 3681,
+            "name": "LINK 1",
+            "description": null
+          },
           {
             "id": 3575,
             "name": "Telemundo",
@@ -739,6 +604,175 @@
           {
             "id": 3680,
             "name": "LINK 1",
+            "description": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "name": "FIFA World Cup Qualifying",
+    "logo": "logo/events/categories/fifa-world-cup-qualifying_KseXA5ZohFslvn5ZLJHG.png",
+    "type": "Football",
+    "items": [
+      {
+        "id": 300,
+        "name": "FIFA World Cup Qualifying",
+        "stage": null,
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1763139600,
+        "end_time": 1763148600,
+        "show_duration": true,
+        "team_1": {
+          "name": "Finland",
+          "logo": "logo/teams/finland_FDupfocJpnVMjmQvldh1.png"
+        },
+        "team_2": {
+          "name": "Malta",
+          "logo": "logo/teams/malta_6kpDAiFe3cD7DBbqDfKT.png"
+        },
+        "full_team_name": "Finland 🆚 Malta",
+        "sources": [
+          {
+            "id": 836,
+            "name": "beIN Sport 1 - AR",
+            "description": null
+          },
+          {
+            "id": 2990,
+            "name": "Sky Sport 3 - NZ",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 338,
+        "name": "FIFA World Cup Qualifying",
+        "stage": null,
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1763149500,
+        "end_time": 1763158500,
+        "show_duration": true,
+        "team_1": {
+          "name": "Germany",
+          "logo": "logo/teams/germany_MX6p338mvCEG5bh0NxAQ.png"
+        },
+        "team_2": {
+          "name": "Luxembourg",
+          "logo": "logo/teams/luxembourg_YiAOKmJEQSkY4Oelx5rm.png"
+        },
+        "full_team_name": "Germany 🆚 Luxembourg",
+        "sources": [
+          {
+            "id": 3666,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 2937,
+            "name": "LINK 2",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 299,
+        "name": "FIFA World Cup Qualifying",
+        "stage": null,
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1763149500,
+        "end_time": 1763158500,
+        "show_duration": true,
+        "team_1": {
+          "name": "Netherlands",
+          "logo": "logo/teams/netherlands_jQ1TsSgSAxDObcL1V8Uj.png"
+        },
+        "team_2": {
+          "name": "Poland",
+          "logo": "logo/teams/poland_dkmjQIbkjJtOsv0v0aGA.png"
+        },
+        "full_team_name": "Netherlands 🆚 Poland",
+        "sources": [
+          {
+            "id": 2989,
+            "name": "Sky Sport 2 - NZ",
+            "description": null
+          },
+          {
+            "id": 851,
+            "name": "beIN Sport 2 - AR",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 336,
+        "name": "Slovakia 🆚 Northern Ireland",
+        "stage": null,
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1763149500,
+        "end_time": 1763158500,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3644,
+            "name": "LINK 1",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 339,
+        "name": "Gibraltar 🆚 Montenegro",
+        "stage": null,
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1763149500,
+        "end_time": 1763158500,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 866,
+            "name": "beIN Sport 5 - AR",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 332,
+        "name": "Croatia 🆚 Faroe Islands",
+        "stage": null,
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1763149500,
+        "end_time": 1763158500,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 856,
+            "name": "beIN Sport 3 - AR",
+            "description": null
+          },
+          {
+            "id": 2990,
+            "name": "Sky Sport 3 - NZ",
             "description": null
           }
         ]
