@@ -179,67 +179,6 @@
     "type": "Football",
     "items": [
       {
-        "id": 300,
-        "name": "FIFA World Cup Qualifying",
-        "stage": null,
-        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1763226000,
-        "end_time": 1763235000,
-        "show_duration": true,
-        "team_1": {
-          "name": "Spain",
-          "logo": "logo/teams/spain_iyBZzr7BgNu358JERkex.png"
-        },
-        "team_2": {
-          "name": "Georgia",
-          "logo": "logo/teams/georgia_Sgd0YMMJ1J0SIhPAb1Pd.png"
-        },
-        "full_team_name": "Spain 🆚 Georgia",
-        "sources": [
-          {
-            "id": 2665,
-            "name": "ZIGGO SPORT",
-            "description": null
-          },
-          {
-            "id": 2667,
-            "name": "ZIGGO SPORT 3",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 338,
-        "name": "FIFA World Cup Qualifying",
-        "stage": null,
-        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1763226000,
-        "end_time": 1763235000,
-        "show_duration": true,
-        "team_1": {
-          "name": "Turkey",
-          "logo": "logo/teams/turkey_Uh0kLeIVdY0cedG7zonW.png"
-        },
-        "team_2": {
-          "name": "Bulgaria",
-          "logo": "logo/teams/bulgaria_tc8RBqZjEAC0BAhAlcEG.png"
-        },
-        "full_team_name": "Turkey 🆚 Bulgaria",
-        "sources": [
-          {
-            "id": 2558,
-            "name": "ZIGGO SPORT 2",
-            "description": null
-          }
-        ]
-      },
-      {
         "id": 299,
         "name": "FIFA World Cup Qualifying",
         "stage": null,
@@ -406,13 +345,13 @@
         "full_team_name": "United States 🆚 Paraguay",
         "sources": [
           {
-            "id": 3575,
-            "name": "Telemundo",
+            "id": 3456,
+            "name": "Universo",
             "description": null
           },
           {
-            "id": 3456,
-            "name": "Universo",
+            "id": 3575,
+            "name": "Telemundo",
             "description": null
           }
         ]
