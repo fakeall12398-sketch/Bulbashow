@@ -179,62 +179,6 @@
     "type": "Football",
     "items": [
       {
-        "id": 10,
-        "name": "Friendly",
-        "stage": null,
-        "logo": "",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1763254800,
-        "end_time": 1763263800,
-        "show_duration": true,
-        "team_1": {
-          "name": "Colombia",
-          "logo": "logo/teams/colombia_Qtn8lNsfufrLzN3t77jo.png"
-        },
-        "team_2": {
-          "name": "New Zealand",
-          "logo": "logo/teams/new-zealand_jDFDOl2ZfzcLFfSnSwIC.png"
-        },
-        "full_team_name": "Colombia 🆚 New Zealand",
-        "sources": [
-          {
-            "id": 1008,
-            "name": "Sport TV 1",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 31,
-        "name": "Club Friendly",
-        "stage": null,
-        "logo": "",
-        "color": "#003a86",
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1763254800,
-        "end_time": 1763263800,
-        "show_duration": true,
-        "team_1": {
-          "name": "Mexico",
-          "logo": "logo/teams/mexico_lk7XNO7RfkxtdTS3n4S0.png"
-        },
-        "team_2": {
-          "name": "Uruguay",
-          "logo": "logo/teams/uruguay_yf3lsEbf3gMA84YzrxtO.png"
-        },
-        "full_team_name": "Mexico 🆚 Uruguay",
-        "sources": [
-          {
-            "id": 3669,
-            "name": "Fox Deportes",
-            "description": null
-          }
-        ]
-      },
-      {
         "id": 293,
         "name": "Friendly",
         "stage": null,
