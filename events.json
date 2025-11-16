@@ -8,12 +8,12 @@
       {
         "id": 76,
         "name": "Sri Lanka tour of Pakistan",
-        "stage": "2nd ODI",
+        "stage": "3rd ODI",
         "logo": "",
         "color": null,
         "type": "team",
         "sport_type": "cricket",
-        "start_time": 1763112600,
+        "start_time": 1763285400,
         "end_time": null,
         "show_duration": true,
         "team_1": {
@@ -40,13 +40,13 @@
       },
       {
         "id": 24,
-        "name": "India A 🆚 United Arab Emirates",
+        "name": "Asia Cup Rising Stars",
         "stage": "2nd Match",
         "logo": "logo/events/asia-cup-rising-stars_Ivt2t3mPEHjABJn8UaJr.png",
         "color": null,
         "type": "single",
         "sport_type": "cricket",
-        "start_time": 1763119800,
+        "start_time": 1763285400,
         "end_time": null,
         "show_duration": false,
         "sources": [
@@ -63,47 +63,14 @@
         ]
       },
       {
-        "id": 22,
-        "name": "South Africa tour of India",
-        "stage": "1st Test, Day 2",
-        "logo": "",
-        "color": null,
-        "type": "team",
-        "sport_type": "cricket",
-        "start_time": 1763179200,
-        "end_time": null,
-        "show_duration": true,
-        "team_1": {
-          "name": "India",
-          "logo": "logo/teams/india_R8DzB45mwxgV921JfOUc.png"
-        },
-        "team_2": {
-          "name": "South Africa",
-          "logo": "logo/teams/south-africa_Ft4TOjd1f9xQlzGVM4a2.png"
-        },
-        "full_team_name": "India 🆚 South Africa",
-        "sources": [
-          {
-            "id": 908,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 3784,
-            "name": "LINK 2",
-            "description": null
-          }
-        ]
-      },
-      {
         "id": 167,
         "name": "Womens Big Bash League",
-        "stage": "10th Match ",
+        "stage": "14th Match ",
         "logo": "logo/events/big-bash-league_QJNd2FtoWKu1oQHodosi.png",
         "color": null,
         "type": "single",
         "sport_type": "cricket",
-        "start_time": 1763181600,
+        "start_time": 1763453400,
         "end_time": null,
         "show_duration": true,
         "sources": [
@@ -117,12 +84,12 @@
       {
         "id": 125,
         "name": "West Indies tour of New Zealand",
-        "stage": "1st ODI",
+        "stage": "2nd T20I",
         "logo": "",
         "color": null,
         "type": "team",
         "sport_type": "cricket",
-        "start_time": 1763254800,
+        "start_time": 1763514000,
         "end_time": null,
         "show_duration": true,
         "team_1": {
@@ -136,7 +103,7 @@
         "full_team_name": "New Zealand 🆚 West Indies",
         "sources": [
           {
-            "id": 2053,
+            "id": 902,
             "name": "LINK 1",
             "description": null
           }
@@ -169,6 +136,363 @@
             "description": null
           }
         ]
+      },
+      {
+        "id": 67,
+        "name": "England Lions tour of Australia",
+        "stage": "1st Test, Day 1",
+        "logo": "",
+        "color": null,
+        "type": "team",
+        "sport_type": "cricket",
+        "start_time": 1763692200,
+        "end_time": null,
+        "show_duration": true,
+        "team_1": {
+          "name": "England",
+          "logo": "logo/teams/england_lR9prItXfM5WG6lZqsOD.png"
+        },
+        "team_2": {
+          "name": "Australia",
+          "logo": "logo/teams/australia_ft0IHOvqYgEhT2QZC10y.png"
+        },
+        "full_team_name": "England 🆚 Australia",
+        "sources": [
+          {
+            "id": 3598,
+            "name": "LIV",
+            "description": null
+          },
+          {
+            "id": 3603,
+            "name": "LIV - HINDI",
+            "description": null
+          },
+          {
+            "id": 988,
+            "name": "SKY SPORTS Cricket ",
+            "description": null
+          },
+          {
+            "id": 997,
+            "name": "SKY SPORTS Main Event",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 22,
+        "name": "South Africa tour of India",
+        "stage": "2nd Test, Day 1",
+        "logo": "",
+        "color": null,
+        "type": "team",
+        "sport_type": "cricket",
+        "start_time": 1763782200,
+        "end_time": null,
+        "show_duration": true,
+        "team_1": {
+          "name": "India",
+          "logo": "logo/teams/india_R8DzB45mwxgV921JfOUc.png"
+        },
+        "team_2": {
+          "name": "South Africa",
+          "logo": "logo/teams/south-africa_Ft4TOjd1f9xQlzGVM4a2.png"
+        },
+        "full_team_name": "India 🆚 South Africa",
+        "sources": [
+          {
+            "id": 905,
+            "name": "LINK 1",
+            "description": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "name": "FIFA World Cup Qualifying",
+    "logo": "logo/events/categories/fifa-world-cup-qualifying_KseXA5ZohFslvn5ZLJHG.png",
+    "type": "Football",
+    "items": [
+      {
+        "id": 335,
+        "name": "FIFA World Cup Qualifying",
+        "stage": null,
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1763301600,
+        "end_time": 1763310600,
+        "show_duration": true,
+        "team_1": {
+          "name": "Portugal",
+          "logo": "logo/teams/portugal_Gs8ir1xWAj6XfWvhiFMb.png"
+        },
+        "team_2": {
+          "name": "Armenia",
+          "logo": "logo/teams/armenia_hitMTmWvt7WHODfwbmn3.png"
+        },
+        "full_team_name": "Portugal 🆚 Armenia",
+        "sources": [
+          {
+            "id": 3666,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 2558,
+            "name": "ZIGGO SPORT 2",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 334,
+        "name": "FIFA World Cup Qualifying",
+        "stage": null,
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1763301600,
+        "end_time": 1763310600,
+        "show_duration": true,
+        "team_1": {
+          "name": "Hungary",
+          "logo": "logo/teams/hungary_eu1UjX8j9CfsXnmZi1F6.png"
+        },
+        "team_2": {
+          "name": "Ireland",
+          "logo": "logo/teams/ireland_PrwdmMLhfxJAoffAE9AE.png"
+        },
+        "full_team_name": "Hungary 🆚 Ireland",
+        "sources": [
+          {
+            "id": 941,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 2667,
+            "name": "ZIGGO SPORT 3",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 331,
+        "name": "FIFA World Cup Qualifying",
+        "stage": null,
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1763312400,
+        "end_time": 1763321400,
+        "show_duration": true,
+        "team_1": {
+          "name": "England",
+          "logo": "logo/teams/england_uXHP1Ttaijy4yq2kheYG.png"
+        },
+        "team_2": {
+          "name": "Albania",
+          "logo": "logo/teams/albania_62WTNIKkJ4XTyyqC8LvC.png"
+        },
+        "full_team_name": "England 🆚 Albania",
+        "sources": [
+          {
+            "id": 3789,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 2665,
+            "name": "ZIGGO SPORT",
+            "description": null
+          },
+          {
+            "id": 2667,
+            "name": "ZIGGO SPORT 3",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 341,
+        "name": "FIFA World Cup Qualifying",
+        "stage": null,
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1763312400,
+        "end_time": 1763321400,
+        "show_duration": true,
+        "team_1": {
+          "name": "France",
+          "logo": "logo/teams/france_aUU9YpY9mRlZaIN96Jcj.png"
+        },
+        "team_2": {
+          "name": "Azerbaijan",
+          "logo": "logo/teams/azerbaijan_kBHSGFA7igc0JmFYDSAN.png"
+        },
+        "full_team_name": "France 🆚 Azerbaijan",
+        "sources": [
+          {
+            "id": 3666,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 2558,
+            "name": "ZIGGO SPORT 2",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 338,
+        "name": "FIFA World Cup Qualifying",
+        "stage": null,
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1763312400,
+        "end_time": 1763321400,
+        "show_duration": true,
+        "team_1": {
+          "name": "Iceland",
+          "logo": "logo/teams/iceland_fhOdGb7XZLrjg8H4QQRm.png"
+        },
+        "team_2": {
+          "name": "Ukraine",
+          "logo": "logo/teams/ukraine_A1a1Ix3gqpZtvp1YGjLE.png"
+        },
+        "full_team_name": "Iceland 🆚 Ukraine",
+        "sources": [
+          {
+            "id": 3644,
+            "name": "LINK 1",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 300,
+        "name": "FIFA World Cup Qualifying",
+        "stage": null,
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1763312400,
+        "end_time": 1763321400,
+        "show_duration": true,
+        "team_1": {
+          "name": "Serbia",
+          "logo": "logo/teams/serbia_Vv3GDUPSotoLNUGk1pb7.png"
+        },
+        "team_2": {
+          "name": "Latvia",
+          "logo": "logo/teams/latvia_vR3spJBFxyRaGkWwNxhc.png"
+        },
+        "full_team_name": "Serbia 🆚 Latvia",
+        "sources": [
+          {
+            "id": 856,
+            "name": "beIN Sport 3 - AR",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 299,
+        "name": "FIFA World Cup Qualifying",
+        "stage": null,
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1763322300,
+        "end_time": 1763331300,
+        "show_duration": true,
+        "team_1": {
+          "name": "Italy",
+          "logo": "logo/teams/italy_mChUeuYcWwpL0H8ODZhh.png"
+        },
+        "team_2": {
+          "name": "Norway",
+          "logo": "logo/teams/norway_JtXveAd8feRDei0pPuBh.png"
+        },
+        "full_team_name": "Italy 🆚 Norway",
+        "sources": [
+          {
+            "id": 941,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 2665,
+            "name": "ZIGGO SPORT",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 336,
+        "name": "Nigeria 🆚 Congo DR",
+        "stage": null,
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1763322300,
+        "end_time": 1763331300,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 2888,
+            "name": "LINK 1",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 339,
+        "name": "FIFA World Cup Qualifying",
+        "stage": null,
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1763322300,
+        "end_time": 1763331300,
+        "show_duration": true,
+        "team_1": {
+          "name": "Israel",
+          "logo": "logo/teams/israel_tCMLUbSytlXWKbOqCfVi.png"
+        },
+        "team_2": {
+          "name": "Moldova",
+          "logo": "logo/teams/moldova_CfqTM3biPVR9nCkffrzL.png"
+        },
+        "full_team_name": "Israel 🆚 Moldova",
+        "sources": [
+          {
+            "id": 2558,
+            "name": "ZIGGO SPORT 2",
+            "description": null
+          },
+          {
+            "id": 846,
+            "name": "beIN Sport 2 - EN",
+            "description": null
+          }
+        ]
       }
     ]
   },
@@ -178,6 +502,25 @@
     "logo": "logo/events/categories/club-friendly_ecYCwMmRVPRI4yF7vmAm.jpg",
     "type": "Football",
     "items": [
+      {
+        "id": 295,
+        "name": "Egypt 🆚 Cape Verde Islands",
+        "stage": null,
+        "logo": "",
+        "color": "#003a86",
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1763398800,
+        "end_time": 1763407800,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3669,
+            "name": "LINK 1",
+            "description": null
+          }
+        ]
+      },
       {
         "id": 293,
         "name": "Friendly",
