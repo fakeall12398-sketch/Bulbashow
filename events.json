@@ -211,99 +211,6 @@
     ]
   },
   {
-    "id": 52,
-    "name": "FIFA World Cup Qualifying",
-    "logo": "logo/events/categories/fifa-world-cup-qualifying_KseXA5ZohFslvn5ZLJHG.png",
-    "type": "Football",
-    "items": [
-      {
-        "id": 299,
-        "name": "FIFA World Cup Qualifying",
-        "stage": null,
-        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1763322300,
-        "end_time": 1763331300,
-        "show_duration": true,
-        "team_1": {
-          "name": "Italy",
-          "logo": "logo/teams/italy_mChUeuYcWwpL0H8ODZhh.png"
-        },
-        "team_2": {
-          "name": "Norway",
-          "logo": "logo/teams/norway_JtXveAd8feRDei0pPuBh.png"
-        },
-        "full_team_name": "Italy 🆚 Norway",
-        "sources": [
-          {
-            "id": 941,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 2665,
-            "name": "ZIGGO SPORT",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 336,
-        "name": "Nigeria 🆚 Congo DR",
-        "stage": null,
-        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "football",
-        "start_time": 1763322300,
-        "end_time": 1763331300,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 2888,
-            "name": "LINK 1",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 339,
-        "name": "FIFA World Cup Qualifying",
-        "stage": null,
-        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1763322300,
-        "end_time": 1763331300,
-        "show_duration": true,
-        "team_1": {
-          "name": "Israel",
-          "logo": "logo/teams/israel_tCMLUbSytlXWKbOqCfVi.png"
-        },
-        "team_2": {
-          "name": "Moldova",
-          "logo": "logo/teams/moldova_CfqTM3biPVR9nCkffrzL.png"
-        },
-        "full_team_name": "Israel 🆚 Moldova",
-        "sources": [
-          {
-            "id": 2558,
-            "name": "ZIGGO SPORT 2",
-            "description": null
-          },
-          {
-            "id": 846,
-            "name": "beIN Sport 2 - EN",
-            "description": null
-          }
-        ]
-      }
-    ]
-  },
-  {
     "id": 5,
     "name": "Friendly",
     "logo": "logo/events/categories/club-friendly_ecYCwMmRVPRI4yF7vmAm.jpg",
@@ -404,6 +311,95 @@
           {
             "id": 2937,
             "name": "SPORTV",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 58,
+        "name": "Friendly",
+        "stage": null,
+        "logo": "",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1763499600,
+        "end_time": 1763508600,
+        "show_duration": true,
+        "team_1": {
+          "name": "Canada",
+          "logo": "logo/teams/canada_phdsl5w0wsMQtVxWaShw.png"
+        },
+        "team_2": {
+          "name": "Venezuela",
+          "logo": "logo/teams/venezuela_p5FTDEiPrN59c4RChQqb.png"
+        },
+        "full_team_name": "Canada 🆚 Venezuela",
+        "sources": [
+          {
+            "id": 941,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 2742,
+            "name": "LINK 2",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "name": "Friendly",
+        "stage": null,
+        "logo": "",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1763510400,
+        "end_time": 1763519400,
+        "show_duration": true,
+        "team_1": {
+          "name": "United States",
+          "logo": "logo/teams/united-states_Tnl0x0Mqm0tYaRL6x7Xd.png"
+        },
+        "team_2": {
+          "name": "Uruguay",
+          "logo": "logo/teams/uruguay_yf3lsEbf3gMA84YzrxtO.png"
+        },
+        "full_team_name": "United States 🆚 Uruguay",
+        "sources": [
+          {
+            "id": 3456,
+            "name": "LINK 1",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 31,
+        "name": "Club Friendly",
+        "stage": null,
+        "logo": "",
+        "color": "#003a86",
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1763515800,
+        "end_time": 1763524800,
+        "show_duration": true,
+        "team_1": {
+          "name": "Mexico",
+          "logo": "logo/teams/mexico_lk7XNO7RfkxtdTS3n4S0.png"
+        },
+        "team_2": {
+          "name": "Paraguay",
+          "logo": "logo/teams/paraguay_ZzSxXyuMetTr5cG31RAm.png"
+        },
+        "full_team_name": "Mexico 🆚 Paraguay",
+        "sources": [
+          {
+            "id": 3669,
+            "name": "Fox Deportes",
             "description": null
           }
         ]
