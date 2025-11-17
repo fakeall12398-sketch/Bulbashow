@@ -68,6 +68,53 @@
         ]
       },
       {
+        "id": 76,
+        "name": "Pakistan T20I Tri-Series",
+        "stage": "1\\",
+        "logo": "",
+        "color": null,
+        "type": "team",
+        "sport_type": "cricket",
+        "start_time": 1763470800,
+        "end_time": null,
+        "show_duration": true,
+        "team_1": {
+          "name": "Pakisthan",
+          "logo": "logo/teams/pakisthan_QCFdXH7TItyN21PE72wI.png"
+        },
+        "team_2": {
+          "name": "Zimbabwe",
+          "logo": "logo/teams/zimbabwe_1NrjbqGp14rS7YaZibaP.png"
+        },
+        "full_team_name": "Pakisthan 🆚 Zimbabwe",
+        "sources": [
+          {
+            "id": 3654,
+            "name": "LINK 2",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 112,
+        "name": "Abu Dhabi T10 League",
+        "stage": "1st T20I",
+        "logo": "logo/events/abu-dhabi-t10-league_zWRjqSGQK2KVDq5oJUIS.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "cricket",
+        "start_time": 1763473500,
+        "end_time": null,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 902,
+            "name": "TNT Sports 1 (BT Sports) ",
+            "description": null
+          }
+        ]
+      },
+      {
         "id": 290,
         "name": "Ireland tour of Bangladesh",
         "stage": "2nd Test, Day 1",
@@ -162,6 +209,25 @@
           {
             "id": 997,
             "name": "SKY SPORTS Main Event",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 59,
+        "name": "The Ashes",
+        "stage": null,
+        "logo": "logo/events/the-ashes_f0oiFIkbTXFF8PajxnLU.jpg",
+        "color": "#FF0000",
+        "type": "single",
+        "sport_type": "cricket",
+        "start_time": 1763692200,
+        "end_time": null,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3791,
+            "name": "LINK 1",
             "description": null
           }
         ]
@@ -271,13 +337,13 @@
         "show_duration": true,
         "sources": [
           {
-            "id": 2992,
-            "name": "Sky Sport 6 - NZ",
+            "id": 866,
+            "name": "beIN Sport 5 - AR",
             "description": null
           },
           {
-            "id": 866,
-            "name": "beIN Sport 5 - AR",
+            "id": 2992,
+            "name": "Sky Sport 6 - NZ",
             "description": null
           }
         ]
@@ -333,13 +399,13 @@
         "show_duration": true,
         "sources": [
           {
-            "id": 856,
-            "name": "beIN Sport 3 - AR",
+            "id": 2987,
+            "name": "Sky Sport 4 - NZ",
             "description": null
           },
           {
-            "id": 2987,
-            "name": "Sky Sport 4 - NZ",
+            "id": 856,
+            "name": "beIN Sport 3 - AR",
             "description": null
           }
         ]
@@ -357,13 +423,13 @@
         "show_duration": true,
         "sources": [
           {
-            "id": 2993,
-            "name": "Sky Sport 7 - NZ",
+            "id": 871,
+            "name": "beIN Sport 6 - AR",
             "description": null
           },
           {
-            "id": 871,
-            "name": "beIN Sport 6 - AR",
+            "id": 2993,
+            "name": "Sky Sport 7 - NZ",
             "description": null
           }
         ]
@@ -488,13 +554,13 @@
         "full_team_name": "Brazil 🆚 Tunisia",
         "sources": [
           {
-            "id": 2888,
-            "name": "Sportdigital",
+            "id": 2937,
+            "name": "SPORTV",
             "description": null
           },
           {
-            "id": 2937,
-            "name": "SPORTV",
+            "id": 2888,
+            "name": "Sportdigital",
             "description": null
           }
         ]
@@ -584,6 +650,76 @@
           {
             "id": 3669,
             "name": "Fox Deportes",
+            "description": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Asian Cup Qualification",
+    "logo": "logo/events/categories/asian-cup-qualification_C8hQQU2pGstes7fLJR5Q.png",
+    "type": "Football",
+    "items": [
+      {
+        "id": 292,
+        "name": "Hong Kong 🆚 Singapore",
+        "stage": null,
+        "logo": "logo/events/asian-cup-qualification_i5ne2SWuoYRL2IE12K9M.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1763467200,
+        "end_time": 1763476200,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3738,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3742,
+            "name": "LINK 2",
+            "description": null
+          },
+          {
+            "id": 3544,
+            "name": "LINK 3",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 237,
+        "name": "Asian Cup Qualification",
+        "stage": null,
+        "logo": "logo/events/asian-cup-qualification_i5ne2SWuoYRL2IE12K9M.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1763474400,
+        "end_time": 1763483400,
+        "show_duration": true,
+        "team_1": {
+          "name": "Bangladesh",
+          "logo": "logo/teams/bangladesh_LE9by9vw0LTIb2cRc6KV.png"
+        },
+        "team_2": {
+          "name": "India",
+          "logo": "logo/teams/india_n9OPsC9juDKNG065XpXN.png"
+        },
+        "full_team_name": "Bangladesh 🆚 India",
+        "sources": [
+          {
+            "id": 3541,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3195,
+            "name": "LINK 2",
             "description": null
           }
         ]
