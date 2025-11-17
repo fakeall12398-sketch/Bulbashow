@@ -7,13 +7,13 @@
     "items": [
       {
         "id": 24,
-        "name": "Asia Cup Rising Stars",
+        "name": " Bangladesh A 🆚 Afghanistan A",
         "stage": "7th Match",
         "logo": "logo/events/asia-cup-rising-stars_Ivt2t3mPEHjABJn8UaJr.png",
         "color": null,
         "type": "single",
         "sport_type": "cricket",
-        "start_time": 1763371800,
+        "start_time": 1763389800,
         "end_time": null,
         "show_duration": false,
         "sources": [
@@ -25,6 +25,25 @@
           {
             "id": 3790,
             "name": "LINK 2 - LIV",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 102,
+        "name": "Nepal Premier League",
+        "stage": "1st Match",
+        "logo": "logo/events/nepal-premier-league_KuGV0wJozNuqK86ypAr5.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "cricket",
+        "start_time": 1763374500,
+        "end_time": null,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3195,
+            "name": "LINK 1",
             "description": null
           }
         ]
@@ -44,34 +63,6 @@
           {
             "id": 988,
             "name": "SKY SPORTS Cricket ",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 125,
-        "name": "West Indies tour of New Zealand",
-        "stage": "2nd T20I",
-        "logo": "",
-        "color": null,
-        "type": "team",
-        "sport_type": "cricket",
-        "start_time": 1763514000,
-        "end_time": null,
-        "show_duration": true,
-        "team_1": {
-          "name": "New Zealand",
-          "logo": "logo/teams/new-zealand_Bo0hBUgvsLhkGvuy7NLf.png"
-        },
-        "team_2": {
-          "name": "West Indies",
-          "logo": "logo/teams/west-indies_Q6wRrBT7yHbEpRQVsW4z.png"
-        },
-        "full_team_name": "New Zealand 🆚 West Indies",
-        "sources": [
-          {
-            "id": 902,
-            "name": "LINK 1",
             "description": null
           }
         ]
@@ -99,6 +90,34 @@
         "sources": [
           {
             "id": 3195,
+            "name": "LINK 1",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 125,
+        "name": "West Indies tour of New Zealand",
+        "stage": "2nd T20I",
+        "logo": "",
+        "color": null,
+        "type": "team",
+        "sport_type": "cricket",
+        "start_time": 1763514000,
+        "end_time": null,
+        "show_duration": true,
+        "team_1": {
+          "name": "New Zealand",
+          "logo": "logo/teams/new-zealand_Bo0hBUgvsLhkGvuy7NLf.png"
+        },
+        "team_2": {
+          "name": "West Indies",
+          "logo": "logo/teams/west-indies_Q6wRrBT7yHbEpRQVsW4z.png"
+        },
+        "full_team_name": "New Zealand 🆚 West Indies",
+        "sources": [
+          {
+            "id": 902,
             "name": "LINK 1",
             "description": null
           }
