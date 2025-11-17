@@ -399,13 +399,13 @@
         "show_duration": true,
         "sources": [
           {
-            "id": 2987,
-            "name": "Sky Sport 4 - NZ",
+            "id": 856,
+            "name": "beIN Sport 3 - AR",
             "description": null
           },
           {
-            "id": 856,
-            "name": "beIN Sport 3 - AR",
+            "id": 2987,
+            "name": "Sky Sport 4 - NZ",
             "description": null
           }
         ]
@@ -467,53 +467,6 @@
     "type": "Football",
     "items": [
       {
-        "id": 295,
-        "name": "Egypt 🆚 Cape Verde Islands",
-        "stage": null,
-        "logo": "",
-        "color": "#003a86",
-        "type": "single",
-        "sport_type": "football",
-        "start_time": 1763398800,
-        "end_time": 1763407800,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3669,
-            "name": "LINK 1",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 293,
-        "name": "Friendly",
-        "stage": null,
-        "logo": "",
-        "color": "#003a86",
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1763395200,
-        "end_time": 1763404200,
-        "show_duration": true,
-        "team_1": {
-          "name": "Finland",
-          "logo": "logo/teams/finland_FDupfocJpnVMjmQvldh1.png"
-        },
-        "team_2": {
-          "name": "Andorra",
-          "logo": "logo/teams/andorra_XqNA9imMc9ImEQOXWbyl.png"
-        },
-        "full_team_name": "Finland 🆚 Andorra",
-        "sources": [
-          {
-            "id": 3666,
-            "name": "LINK 1",
-            "description": null
-          }
-        ]
-      },
-      {
         "id": 298,
         "name": "Faroe Islands 🆚 Kazakhstan",
         "stage": null,
@@ -554,13 +507,13 @@
         "full_team_name": "Brazil 🆚 Tunisia",
         "sources": [
           {
-            "id": 2937,
-            "name": "SPORTV",
+            "id": 2888,
+            "name": "Sportdigital",
             "description": null
           },
           {
-            "id": 2888,
-            "name": "Sportdigital",
+            "id": 2937,
+            "name": "SPORTV",
             "description": null
           }
         ]
@@ -662,6 +615,25 @@
     "logo": "logo/events/categories/asian-cup-qualification_C8hQQU2pGstes7fLJR5Q.png",
     "type": "Football",
     "items": [
+      {
+        "id": 238,
+        "name": "Pakistan 🆚 Syria",
+        "stage": null,
+        "logo": "logo/events/asian-cup-qualification_i5ne2SWuoYRL2IE12K9M.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1763447400,
+        "end_time": 1763456400,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 2520,
+            "name": "LINK 1",
+            "description": null
+          }
+        ]
+      },
       {
         "id": 292,
         "name": "Hong Kong 🆚 Singapore",
