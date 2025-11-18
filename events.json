@@ -263,67 +263,68 @@
     ]
   },
   {
-    "id": 36,
-    "name": "Asian Cup Qualification",
-    "logo": "logo/events/categories/asian-cup-qualification_C8hQQU2pGstes7fLJR5Q.png",
-    "type": "Football",
-    "items": [
-      {
-        "id": 237,
-        "name": "Asian Cup Qualification",
-        "stage": null,
-        "logo": "logo/events/asian-cup-qualification_i5ne2SWuoYRL2IE12K9M.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1763474400,
-        "end_time": 1763483400,
-        "show_duration": true,
-        "team_1": {
-          "name": "Bangladesh",
-          "logo": "logo/teams/bangladesh_LE9by9vw0LTIb2cRc6KV.png"
-        },
-        "team_2": {
-          "name": "India",
-          "logo": "logo/teams/india_n9OPsC9juDKNG065XpXN.png"
-        },
-        "full_team_name": "Bangladesh 🆚 India",
-        "sources": [
-          {
-            "id": 3541,
-            "name": "LINK 1",
-            "description": null
-          }
-        ]
-      }
-    ]
-  },
-  {
     "id": 52,
     "name": "FIFA World Cup Qualifying",
     "logo": "logo/events/categories/fifa-world-cup-qualifying_KseXA5ZohFslvn5ZLJHG.png",
     "type": "Football",
     "items": [
       {
-        "id": 333,
-        "name": "Iraq 🆚 United Arab Emirates",
+        "id": 336,
+        "name": "FIFA World Cup Qualifying",
         "stage": null,
         "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
         "color": null,
-        "type": "single",
+        "type": "team",
         "sport_type": "football",
-        "start_time": 1763481600,
-        "end_time": 1763490600,
+        "start_time": 1763495100,
+        "end_time": 1763504100,
         "show_duration": true,
+        "team_1": {
+          "name": "Spain",
+          "logo": "logo/teams/spain_iyBZzr7BgNu358JERkex.png"
+        },
+        "team_2": {
+          "name": "Uruguay",
+          "logo": "logo/teams/uruguay_yf3lsEbf3gMA84YzrxtO.png"
+        },
+        "full_team_name": "Spain 🆚 Uruguay",
         "sources": [
           {
-            "id": 851,
-            "name": "beIN Sport 2 - AR",
+            "id": 2558,
+            "name": "ZIGGO SPORT 2",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 323,
+        "name": "FIFA World Cup Qualifying",
+        "stage": null,
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1763495100,
+        "end_time": 1763504100,
+        "show_duration": true,
+        "team_1": {
+          "name": "Scotland",
+          "logo": "logo/teams/scotland_zzp8k3Xv88EewaHBHnqc.png"
+        },
+        "team_2": {
+          "name": "Denmark",
+          "logo": "logo/teams/denmark_Qy3zpnwQbNGxsQhLH9pP.png"
+        },
+        "full_team_name": "Scotland 🆚 Denmark",
+        "sources": [
+          {
+            "id": 3644,
+            "name": "LINK 1",
             "description": null
           },
           {
-            "id": 836,
-            "name": "beIN Sport 1 - AR",
+            "id": 2667,
+            "name": "ZIGGO SPORT 3",
             "description": null
           }
         ]
