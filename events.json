@@ -269,30 +269,6 @@
     "type": "Football",
     "items": [
       {
-        "id": 292,
-        "name": "Hong Kong 🆚 Singapore",
-        "stage": null,
-        "logo": "logo/events/asian-cup-qualification_i5ne2SWuoYRL2IE12K9M.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "football",
-        "start_time": 1763467200,
-        "end_time": 1763476200,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3742,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 3544,
-            "name": "LINK 2",
-            "description": null
-          }
-        ]
-      },
-      {
         "id": 237,
         "name": "Asian Cup Qualification",
         "stage": null,
