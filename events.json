@@ -108,8 +108,8 @@
         "show_duration": true,
         "sources": [
           {
-            "id": 902,
-            "name": "TNT Sports 1 (BT Sports) ",
+            "id": 3195,
+            "name": "LINK 1",
             "description": null
           }
         ]
@@ -255,6 +255,66 @@
         "sources": [
           {
             "id": 905,
+            "name": "LINK 1",
+            "description": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Asian Cup Qualification",
+    "logo": "logo/events/categories/asian-cup-qualification_C8hQQU2pGstes7fLJR5Q.png",
+    "type": "Football",
+    "items": [
+      {
+        "id": 292,
+        "name": "Hong Kong 🆚 Singapore",
+        "stage": null,
+        "logo": "logo/events/asian-cup-qualification_i5ne2SWuoYRL2IE12K9M.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1763467200,
+        "end_time": 1763476200,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3742,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3544,
+            "name": "LINK 2",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 237,
+        "name": "Asian Cup Qualification",
+        "stage": null,
+        "logo": "logo/events/asian-cup-qualification_i5ne2SWuoYRL2IE12K9M.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1763474400,
+        "end_time": 1763483400,
+        "show_duration": true,
+        "team_1": {
+          "name": "Bangladesh",
+          "logo": "logo/teams/bangladesh_LE9by9vw0LTIb2cRc6KV.png"
+        },
+        "team_2": {
+          "name": "India",
+          "logo": "logo/teams/india_n9OPsC9juDKNG065XpXN.png"
+        },
+        "full_team_name": "Bangladesh 🆚 India",
+        "sources": [
+          {
+            "id": 3541,
             "name": "LINK 1",
             "description": null
           }
@@ -437,95 +497,6 @@
           {
             "id": 3669,
             "name": "Fox Deportes",
-            "description": null
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": 36,
-    "name": "Asian Cup Qualification",
-    "logo": "logo/events/categories/asian-cup-qualification_C8hQQU2pGstes7fLJR5Q.png",
-    "type": "Football",
-    "items": [
-      {
-        "id": 238,
-        "name": "Pakistan 🆚 Syria",
-        "stage": null,
-        "logo": "logo/events/asian-cup-qualification_i5ne2SWuoYRL2IE12K9M.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "football",
-        "start_time": 1763447400,
-        "end_time": 1763456400,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 2520,
-            "name": "LINK 1",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 292,
-        "name": "Hong Kong 🆚 Singapore",
-        "stage": null,
-        "logo": "logo/events/asian-cup-qualification_i5ne2SWuoYRL2IE12K9M.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "football",
-        "start_time": 1763467200,
-        "end_time": 1763476200,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3738,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 3742,
-            "name": "LINK 2",
-            "description": null
-          },
-          {
-            "id": 3544,
-            "name": "LINK 3",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 237,
-        "name": "Asian Cup Qualification",
-        "stage": null,
-        "logo": "logo/events/asian-cup-qualification_i5ne2SWuoYRL2IE12K9M.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1763474400,
-        "end_time": 1763483400,
-        "show_duration": true,
-        "team_1": {
-          "name": "Bangladesh",
-          "logo": "logo/teams/bangladesh_LE9by9vw0LTIb2cRc6KV.png"
-        },
-        "team_2": {
-          "name": "India",
-          "logo": "logo/teams/india_n9OPsC9juDKNG065XpXN.png"
-        },
-        "full_team_name": "Bangladesh 🆚 India",
-        "sources": [
-          {
-            "id": 3541,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 3195,
-            "name": "LINK 2",
             "description": null
           }
         ]
