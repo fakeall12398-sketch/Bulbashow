@@ -338,25 +338,6 @@
     "type": "Football",
     "items": [
       {
-        "id": 298,
-        "name": "Faroe Islands 🆚 Kazakhstan",
-        "stage": null,
-        "logo": "",
-        "color": null,
-        "type": "single",
-        "sport_type": "football",
-        "start_time": 1763485200,
-        "end_time": 1763494200,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3644,
-            "name": "LINK 1",
-            "description": null
-          }
-        ]
-      },
-      {
         "id": 297,
         "name": "Friendly",
         "stage": null,
