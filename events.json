@@ -236,5 +236,236 @@
         ]
       }
     ]
+  },
+  {
+    "id": 43,
+    "name": "EFL League One",
+    "logo": "logo/events/categories/efl-league-one_IU6bYqO7AzM7rCp1IuH0.png",
+    "type": "Football",
+    "items": [
+      {
+        "id": 287,
+        "name": "Peterborough United 🆚 Stockport County",
+        "stage": null,
+        "logo": "logo/events/leyton-orient-stockport-county_3PX69CZeYzamHrLTTTxR.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "cricket",
+        "start_time": 1763668800,
+        "end_time": 1763677800,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3283,
+            "name": "beIN Sport 3 - AUS",
+            "description": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "name": "Liga MX",
+    "logo": "logo/events/categories/liga-mx_9NgAE2moXr18M9dTzX16.png",
+    "type": "Football",
+    "items": [
+      {
+        "id": 360,
+        "name": "Pachuca 🆚 Pumas UNAM",
+        "stage": null,
+        "logo": "logo/events/puebla-pachuca_b2MU6rHq9XOT8tkBpPE0.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "cricket",
+        "start_time": 1763686800,
+        "end_time": 1763695800,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3721,
+            "name": "LINK 1",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 362,
+        "name": "Tijuana 🆚 Juárez",
+        "stage": null,
+        "logo": "logo/events/puebla-pachuca_b2MU6rHq9XOT8tkBpPE0.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "cricket",
+        "start_time": 1763694000,
+        "end_time": 1763703000,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3721,
+            "name": "LINK 1",
+            "description": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "LA LIGA",
+    "logo": "logo/events/categories/la-liga_09FFBteASyl11hboQ8x9.png",
+    "type": "Football",
+    "items": [
+      {
+        "id": 135,
+        "name": "LALIGA",
+        "stage": null,
+        "logo": "logo/events/sevilla-villarreal_wqSkWfYjIH5dihHm8c1A.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1763755200,
+        "end_time": 1763764200,
+        "show_duration": true,
+        "team_1": {
+          "name": "Valencia",
+          "logo": "logo/teams/valencia_Il7Acs58wgzuVXt4kKM2.png"
+        },
+        "team_2": {
+          "name": "Levante",
+          "logo": "logo/teams/levante_SR7CooILjAVBPqGeHgVi.png"
+        },
+        "full_team_name": "Valencia 🆚 Levante",
+        "sources": [
+          {
+            "id": 2861,
+            "name": "Premier Sports 1 ",
+            "description": null
+          },
+          {
+            "id": 3283,
+            "name": "beIN Sport 3 - AUS",
+            "description": null
+          },
+          {
+            "id": 3043,
+            "name": "LALIGA TV",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 80,
+        "name": "LALIGA",
+        "stage": null,
+        "logo": "logo/events/sevilla-villarreal_wqSkWfYjIH5dihHm8c1A.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1763816400,
+        "end_time": 1763825400,
+        "show_duration": true,
+        "team_1": {
+          "name": "Celta De Vigo",
+          "logo": "logo/teams/celta-de-vigo_f2UTUG14GHxaN7eRQjfT.png"
+        },
+        "team_2": {
+          "name": "Deportivo Alavés",
+          "logo": "logo/teams/deportivo-alaves_MjSSu8ns81zY2K4BqeB5.png"
+        },
+        "full_team_name": "Celta De Vigo 🆚 Deportivo Alavés",
+        "sources": [
+          {
+            "id": 2861,
+            "name": "Premier Sports 1 ",
+            "description": null
+          },
+          {
+            "id": 3043,
+            "name": "LALIGA TV",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 72,
+        "name": "LALIGA",
+        "stage": null,
+        "logo": "logo/events/sevilla-villarreal_wqSkWfYjIH5dihHm8c1A.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1763746200,
+        "end_time": 1763755200,
+        "show_duration": true,
+        "team_1": {
+          "name": "Osasuna",
+          "logo": "logo/teams/osasuna_g84VgmCK3M4Wn83DcqmE.png"
+        },
+        "team_2": {
+          "name": "Real Sociedad",
+          "logo": "logo/teams/real-sociedad_vG8elxWudfyDK9et8nLr.png"
+        },
+        "full_team_name": "Osasuna 🆚 Real Sociedad",
+        "sources": [
+          {
+            "id": 3289,
+            "name": "beIN Sport 2 - AUS",
+            "description": null
+          },
+          {
+            "id": 3043,
+            "name": "LALIGA TV",
+            "description": null
+          },
+          {
+            "id": 2861,
+            "name": "Premier Sports 1 ",
+            "description": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Ligue 1",
+    "logo": "logo/events/categories/ligue-1_5qqt6renj8lsMs1YGSmI.png",
+    "type": "Football",
+    "items": [
+      {
+        "id": 177,
+        "name": "Ligue 1",
+        "stage": null,
+        "logo": "logo/events/ligue-1_338.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1763754300,
+        "end_time": 1763763300,
+        "show_duration": true,
+        "team_1": {
+          "name": "Nice",
+          "logo": "logo/teams/nice_Iayy9Zi74iNiYmGPvIXP.png"
+        },
+        "team_2": {
+          "name": "Olympique Marseille",
+          "logo": "logo/teams/olympique-marseille_p69Uuc33val55SO7Qwbw.png"
+        },
+        "full_team_name": "Nice 🆚 Olympique Marseille",
+        "sources": [
+          {
+            "id": 3652,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3721,
+            "name": "LINK 2",
+            "description": null
+          }
+        ]
+      }
+    ]
   }
 ]
