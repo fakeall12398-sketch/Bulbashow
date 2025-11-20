@@ -467,5 +467,37 @@
         ]
       }
     ]
+  },
+  {
+    "id": 16,
+    "name": "Bundesliga",
+    "logo": "logo/events/categories/bundesliga_TUnq97qHRnlbiCVmw2bE.png",
+    "type": "Football",
+    "items": [
+      {
+        "id": 93,
+        "name": "Mainz 05 🆚 Hoffenheim",
+        "stage": null,
+        "logo": "logo/events/hoffenheim-bayer-leverkusen_W0M2W6UxsD7TsKSPbJB3.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1763753400,
+        "end_time": 1763762400,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3699,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3464,
+            "name": "beIN Sport 6 MAX - FR",
+            "description": null
+          }
+        ]
+      }
+    ]
   }
 ]
