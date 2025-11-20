@@ -388,6 +388,44 @@
         ]
       },
       {
+        "id": 65,
+        "name": "LALIGA",
+        "stage": null,
+        "logo": "logo/events/celta-de-vigo-valencia_jIVHMZlw4Oj0Ls1xze8y.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1763824500,
+        "end_time": 1763833500,
+        "show_duration": true,
+        "team_1": {
+          "name": "Barcelona",
+          "logo": "logo/teams/barcelona_NiCxfEeaPHngHzLBDHm2.png"
+        },
+        "team_2": {
+          "name": "Athletic Club",
+          "logo": "logo/teams/athletic-club_IMrU8myTY6ecoOB2UlrJ.png"
+        },
+        "full_team_name": "Barcelona 🆚 Athletic Club",
+        "sources": [
+          {
+            "id": 3289,
+            "name": "beIN Sport 2 - AUS",
+            "description": null
+          },
+          {
+            "id": 3043,
+            "name": "LALIGA TV",
+            "description": null
+          },
+          {
+            "id": 2665,
+            "name": "ZIGGO SPORT",
+            "description": null
+          }
+        ]
+      },
+      {
         "id": 72,
         "name": "LALIGA",
         "stage": null,
@@ -487,13 +525,222 @@
         "show_duration": true,
         "sources": [
           {
-            "id": 3699,
+            "id": 3118,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3683,
+            "name": "LINK 2",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 134,
+        "name": "Bayern München 🆚 Freiburg",
+        "stage": null,
+        "logo": "logo/events/hoffenheim-bayer-leverkusen_W0M2W6UxsD7TsKSPbJB3.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1763821800,
+        "end_time": 1763830800,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3682,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3283,
+            "name": "LINK 2",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 274,
+        "name": "Wolfsburg 🆚 Bayer Leverkusen",
+        "stage": null,
+        "logo": "logo/events/hoffenheim-bayer-leverkusen_W0M2W6UxsD7TsKSPbJB3.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1763821800,
+        "end_time": 1763830800,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3636,
             "name": "LINK 1",
             "description": null
           },
           {
             "id": 3464,
-            "name": "beIN Sport 6 MAX - FR",
+            "name": "LINK 2",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 272,
+        "name": "Augsburg 🆚 Hamburger SV",
+        "stage": null,
+        "logo": "logo/events/hoffenheim-bayer-leverkusen_W0M2W6UxsD7TsKSPbJB3.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1763821800,
+        "end_time": 1763830800,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3684,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3465,
+            "name": "LINK 2",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 273,
+        "name": "Borussia Dortmund 🆚 Stuttgart",
+        "stage": null,
+        "logo": "logo/events/hoffenheim-bayer-leverkusen_W0M2W6UxsD7TsKSPbJB3.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1763821800,
+        "end_time": 1763830800,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3463,
+            "name": "beIN Sport 5 MAX - FR",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 369,
+        "name": "Heidenheim 🆚 Borussia M'gladbach",
+        "stage": null,
+        "logo": "logo/events/hoffenheim-bayer-leverkusen_W0M2W6UxsD7TsKSPbJB3.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1763821800,
+        "end_time": 1763829900,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3685,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3466,
+            "name": "LINK 2",
+            "description": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "name": "A-League",
+    "logo": "logo/events/categories/a-league_b9wk9nYGrMKn27FGems1.webp",
+    "type": "Football",
+    "items": [
+      {
+        "id": 267,
+        "name": "Adelaide United 🆚 Melbourne City",
+        "stage": null,
+        "logo": "logo/events/adelaide-united-wellington-phoenix_v8jRJacsNUlN7dmoDsSj.webp",
+        "color": null,
+        "type": "single",
+        "sport_type": "cricket",
+        "start_time": 1763714100,
+        "end_time": 1763723100,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 905,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 2888,
+            "name": "LINK 2",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 269,
+        "name": "Wellington Phoenix 🆚 Macarthur",
+        "stage": null,
+        "logo": "logo/events/adelaide-united-wellington-phoenix_v8jRJacsNUlN7dmoDsSj.webp",
+        "color": null,
+        "type": "single",
+        "sport_type": "cricket",
+        "start_time": 1763784000,
+        "end_time": 1763793000,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 2053,
+            "name": "TNT Sports 4 (BT Sports)",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 271,
+        "name": "Western Sydney Wanderers 🆚 Central Coast Mariners",
+        "stage": null,
+        "logo": "logo/events/adelaide-united-wellington-phoenix_v8jRJacsNUlN7dmoDsSj.webp",
+        "color": null,
+        "type": "single",
+        "sport_type": "cricket",
+        "start_time": 1763791200,
+        "end_time": 1763800200,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 2053,
+            "name": "TNT Sports 4 (BT Sports)",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 268,
+        "name": "Sydney FC 🆚 Melbourne Victory",
+        "stage": null,
+        "logo": "logo/events/adelaide-united-wellington-phoenix_v8jRJacsNUlN7dmoDsSj.webp",
+        "color": null,
+        "type": "single",
+        "sport_type": "cricket",
+        "start_time": 1763800500,
+        "end_time": 1763809500,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 2053,
+            "name": "TNT Sports 4 (BT Sports)",
+            "description": null
+          },
+          {
+            "id": 2888,
+            "name": "Sportdigital",
             "description": null
           }
         ]
