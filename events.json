@@ -6,72 +6,29 @@
     "type": "Cricket",
     "items": [
       {
-        "id": 24,
-        "name": " Bangladesh A 🆚 Afghanistan A",
-        "stage": "7th Match",
-        "logo": "logo/events/asia-cup-rising-stars_Ivt2t3mPEHjABJn8UaJr.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "cricket",
-        "start_time": 1763389800,
-        "end_time": null,
-        "show_duration": false,
-        "sources": [
-          {
-            "id": 3202,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 3790,
-            "name": "LINK 2 - LIV",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 290,
-        "name": "Ireland tour of Bangladesh",
-        "stage": "2nd Test, Day 2",
+        "id": 76,
+        "name": "Pakistan T20I Tri-Series",
+        "stage": "2nd Match",
         "logo": "",
         "color": null,
         "type": "team",
         "sport_type": "cricket",
-        "start_time": 1763611200,
+        "start_time": 1763643600,
         "end_time": null,
         "show_duration": true,
         "team_1": {
-          "name": "Bangladesh",
-          "logo": "logo/teams/bangladesh_9mfG8dxYyOTt53INypBM.png"
+          "name": "Sri Lanka",
+          "logo": "logo/teams/sri-lanka_oUuxxnRFqx3sjQ3WUtfY.jpg"
         },
         "team_2": {
-          "name": "Ireland",
-          "logo": "logo/teams/ireland_pW7Q2BitmiFUYE4SDXr6.png"
+          "name": "Zimbabwe",
+          "logo": "logo/teams/zimbabwe_1NrjbqGp14rS7YaZibaP.png"
         },
-        "full_team_name": "Bangladesh 🆚 Ireland",
+        "full_team_name": "Sri Lanka 🆚 Zimbabwe",
         "sources": [
           {
-            "id": 3541,
-            "name": "LINK 1",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 167,
-        "name": "Womens Big Bash League",
-        "stage": "16th Match ",
-        "logo": "logo/events/big-bash-league_QJNd2FtoWKu1oQHodosi.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "cricket",
-        "start_time": 1763613600,
-        "end_time": null,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 988,
-            "name": "SKY SPORTS Cricket ",
+            "id": 3654,
+            "name": "LINK 2",
             "description": null
           }
         ]
@@ -89,7 +46,7 @@
         "show_duration": true,
         "sources": [
           {
-            "id": 3541,
+            "id": 3202,
             "name": "LINK 1",
             "description": null
           }
@@ -115,29 +72,62 @@
         ]
       },
       {
-        "id": 76,
-        "name": "Pakistan T20I Tri-Series",
-        "stage": "2nd Match",
+        "id": 24,
+        "name": "Asia Cup Rising Stars",
+        "stage": "1st Semi-Final",
+        "logo": "logo/events/asia-cup-rising-stars_Ivt2t3mPEHjABJn8UaJr.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "cricket",
+        "start_time": 1763717400,
+        "end_time": null,
+        "show_duration": false,
+        "team_1": {
+          "name": "Bangladesh A",
+          "logo": "logo/teams/bangladesh_9mfG8dxYyOTt53INypBM.png"
+        },
+        "team_2": {
+          "name": "India A",
+          "logo": "logo/teams/india_R8DzB45mwxgV921JfOUc.png"
+        },
+        "full_team_name": "Bangladesh A 🆚 India A",
+        "sources": [
+          {
+            "id": 3202,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3790,
+            "name": "LINK 2 - LIV",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 290,
+        "name": "Ireland tour of Bangladesh",
+        "stage": "2nd Test, Day 3",
         "logo": "",
         "color": null,
         "type": "team",
         "sport_type": "cricket",
-        "start_time": 1763643600,
+        "start_time": 1763697600,
         "end_time": null,
         "show_duration": true,
         "team_1": {
-          "name": "Sri Lanka",
-          "logo": "logo/teams/sri-lanka_oUuxxnRFqx3sjQ3WUtfY.jpg"
+          "name": "Bangladesh",
+          "logo": "logo/teams/bangladesh_9mfG8dxYyOTt53INypBM.png"
         },
         "team_2": {
-          "name": "Zimbabwe",
-          "logo": "logo/teams/zimbabwe_1NrjbqGp14rS7YaZibaP.png"
+          "name": "Ireland",
+          "logo": "logo/teams/ireland_pW7Q2BitmiFUYE4SDXr6.png"
         },
-        "full_team_name": "Sri Lanka 🆚 Zimbabwe",
+        "full_team_name": "Bangladesh 🆚 Ireland",
         "sources": [
           {
-            "id": 3654,
-            "name": "LINK 2",
+            "id": 3541,
+            "name": "LINK 1",
             "description": null
           }
         ]
