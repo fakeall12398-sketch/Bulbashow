@@ -6,105 +6,6 @@
     "type": "Cricket",
     "items": [
       {
-        "id": 59,
-        "name": "The Ashes",
-        "stage": null,
-        "logo": "logo/events/the-ashes_f0oiFIkbTXFF8PajxnLU.jpg",
-        "color": "#FF0000",
-        "type": "single",
-        "sport_type": "cricket",
-        "start_time": 1763692200,
-        "end_time": null,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 902,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 3791,
-            "name": "LINK 2",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 290,
-        "name": "Ireland tour of Bangladesh",
-        "stage": "2nd Test, Day 3",
-        "logo": "",
-        "color": null,
-        "type": "team",
-        "sport_type": "cricket",
-        "start_time": 1763697600,
-        "end_time": null,
-        "show_duration": true,
-        "team_1": {
-          "name": "Bangladesh",
-          "logo": "logo/teams/bangladesh_9mfG8dxYyOTt53INypBM.png"
-        },
-        "team_2": {
-          "name": "Ireland",
-          "logo": "logo/teams/ireland_pW7Q2BitmiFUYE4SDXr6.png"
-        },
-        "full_team_name": "Bangladesh 🆚 Ireland",
-        "sources": [
-          {
-            "id": 3541,
-            "name": "LINK 1",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 67,
-        "name": "England Lions tour of Australia",
-        "stage": "1st Test, Day 1",
-        "logo": "",
-        "color": null,
-        "type": "team",
-        "sport_type": "cricket",
-        "start_time": 1763692200,
-        "end_time": null,
-        "show_duration": true,
-        "team_1": {
-          "name": "England",
-          "logo": "logo/teams/england_lR9prItXfM5WG6lZqsOD.png"
-        },
-        "team_2": {
-          "name": "Australia",
-          "logo": "logo/teams/australia_ft0IHOvqYgEhT2QZC10y.png"
-        },
-        "full_team_name": "England 🆚 Australia",
-        "sources": [
-          {
-            "id": 902,
-            "name": "LINK 1",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 102,
-        "name": "Nepal Premier League",
-        "stage": "6th Match",
-        "logo": "logo/events/nepal-premier-league_KuGV0wJozNuqK86ypAr5.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "cricket",
-        "start_time": 1763720100,
-        "end_time": null,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3195,
-            "name": "LINK 1",
-            "description": null
-          }
-        ]
-      },
-      {
         "id": 24,
         "name": "Asia Cup Rising Stars",
         "stage": "1st Semi-Final",
@@ -150,7 +51,88 @@
         "show_duration": true,
         "sources": [
           {
-            "id": 3202,
+            "id": 2861,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3541,
+            "name": "LINK 2",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 102,
+        "name": "Nepal Premier League",
+        "stage": "6th Match",
+        "logo": "logo/events/nepal-premier-league_KuGV0wJozNuqK86ypAr5.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "cricket",
+        "start_time": 1763720100,
+        "end_time": null,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3792,
+            "name": "LINK 1 - BD",
+            "description": null
+          },
+          {
+            "id": 3793,
+            "name": "LINK 2 - IN",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 59,
+        "name": "The Ashes",
+        "stage": "1st Test, Day 2",
+        "logo": "logo/events/the-ashes_f0oiFIkbTXFF8PajxnLU.jpg",
+        "color": null,
+        "type": "single",
+        "sport_type": "cricket",
+        "start_time": 1763778600,
+        "end_time": null,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 902,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3791,
+            "name": "LINK 2",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 290,
+        "name": "Ireland tour of Bangladesh",
+        "stage": "2nd Test, Day 4",
+        "logo": "",
+        "color": null,
+        "type": "team",
+        "sport_type": "cricket",
+        "start_time": 1763784000,
+        "end_time": null,
+        "show_duration": true,
+        "team_1": {
+          "name": "Bangladesh",
+          "logo": "logo/teams/bangladesh_9mfG8dxYyOTt53INypBM.png"
+        },
+        "team_2": {
+          "name": "Ireland",
+          "logo": "logo/teams/ireland_pW7Q2BitmiFUYE4SDXr6.png"
+        },
+        "full_team_name": "Bangladesh 🆚 Ireland",
+        "sources": [
+          {
+            "id": 3541,
             "name": "LINK 1",
             "description": null
           }
@@ -243,35 +225,132 @@
     ]
   },
   {
+    "id": 44,
+    "name": "FIFA U-17 World Cup",
+    "logo": "logo/events/categories/fifa-club-world-cup_uKXWsqNaJmoeEKidZZbj.png",
+    "type": "Football",
+    "items": [
+      {
+        "id": 301,
+        "name": "FIFA U-17 World Cup",
+        "stage": null,
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1763728200,
+        "end_time": 1763737200,
+        "show_duration": true,
+        "team_1": {
+          "name": "Austria",
+          "logo": "logo/teams/austria_yMerO0yop0GN0CWNzFKH.png"
+        },
+        "team_2": {
+          "name": "Japan",
+          "logo": "logo/teams/japan_kob7f67JBkvUorLgiTLG.png"
+        },
+        "full_team_name": "Austria 🆚 Japan",
+        "sources": [
+          {
+            "id": 3680,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3783,
+            "name": "LINK 2",
+            "description": null
+          },
+          {
+            "id": 2748,
+            "name": "LINK 3",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 376,
+        "name": "Italy 🆚 Burkina Faso",
+        "stage": null,
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1763731800,
+        "end_time": 1763740800,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3666,
+            "name": "LINK 1",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 377,
+        "name": "FIFA U-17 World Cup",
+        "stage": null,
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1763736300,
+        "end_time": 1763745300,
+        "show_duration": true,
+        "team_1": {
+          "name": "Portugal",
+          "logo": "logo/teams/portugal_Gs8ir1xWAj6XfWvhiFMb.png"
+        },
+        "team_2": {
+          "name": "Switzerland",
+          "logo": "logo/teams/switzerland_I6wlvsMpT3DgauOvDFkw.png"
+        },
+        "full_team_name": "Portugal 🆚 Switzerland",
+        "sources": [
+          {
+            "id": 3783,
+            "name": "LINK 1",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 380,
+        "name": "FIFA U-17 World Cup",
+        "stage": null,
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1763739900,
+        "end_time": 1763748900,
+        "show_duration": true,
+        "team_1": {
+          "name": "Brazil",
+          "logo": "logo/teams/brazil_2gKRZsvaLKJcHbZ9zIEj.png"
+        },
+        "team_2": {
+          "name": "Morocco",
+          "logo": "logo/teams/morocco_PmfSAM1qmVEHVMEj4bDl.png"
+        },
+        "full_team_name": "Brazil 🆚 Morocco",
+        "sources": [
+          {
+            "id": 3666,
+            "name": "LINK 1",
+            "description": null
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 40,
     "name": "A-League",
     "logo": "logo/events/categories/a-league_b9wk9nYGrMKn27FGems1.webp",
     "type": "Football",
     "items": [
-      {
-        "id": 267,
-        "name": "Adelaide United 🆚 Melbourne City",
-        "stage": null,
-        "logo": "logo/events/adelaide-united-wellington-phoenix_v8jRJacsNUlN7dmoDsSj.webp",
-        "color": null,
-        "type": "single",
-        "sport_type": "cricket",
-        "start_time": 1763714100,
-        "end_time": 1763723100,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 905,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 2888,
-            "name": "LINK 2",
-            "description": null
-          }
-        ]
-      },
       {
         "id": 269,
         "name": "Wellington Phoenix 🆚 Macarthur",
@@ -561,6 +640,44 @@
           {
             "id": 2558,
             "name": "ZIGGO SPORT 2",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 214,
+        "name": "LALIGA",
+        "stage": null,
+        "logo": "logo/events/sevilla-villarreal_wqSkWfYjIH5dihHm8c1A.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1763902800,
+        "end_time": 1763911800,
+        "show_duration": true,
+        "team_1": {
+          "name": "Rayo Vallecano",
+          "logo": "logo/teams/rayo-vallecano_uIHkJUDNU2ehDPrWwnhp.png"
+        },
+        "team_2": {
+          "name": "Real Oviedo",
+          "logo": "logo/teams/real-oviedo_51jeSpuF0f23HGcE4wiZ.png"
+        },
+        "full_team_name": "Rayo Vallecano 🆚 Real Oviedo",
+        "sources": [
+          {
+            "id": 2861,
+            "name": "Premier Sports 1 ",
+            "description": null
+          },
+          {
+            "id": 3043,
+            "name": "LALIGA TV",
+            "description": null
+          },
+          {
+            "id": 2665,
+            "name": "ZIGGO SPORT",
             "description": null
           }
         ]
@@ -893,13 +1010,13 @@
         "show_duration": true,
         "sources": [
           {
-            "id": 3289,
-            "name": "beIN Sport 2 - AUS",
+            "id": 3338,
+            "name": "CBS SPORTS Golazo",
             "description": null
           },
           {
-            "id": 3338,
-            "name": "CBS SPORTS Golazo",
+            "id": 3289,
+            "name": "beIN Sport 2 - AUS",
             "description": null
           }
         ]
