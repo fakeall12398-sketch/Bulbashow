@@ -352,49 +352,22 @@
             "description": null
           }
         ]
-      }
-    ]
-  },
-  {
-    "id": 51,
-    "name": "Liga MX",
-    "logo": "logo/events/categories/liga-mx_9NgAE2moXr18M9dTzX16.png",
-    "type": "Football",
-    "items": [
-      {
-        "id": 360,
-        "name": "Pachuca 🆚 Pumas UNAM",
-        "stage": null,
-        "logo": "logo/events/puebla-pachuca_b2MU6rHq9XOT8tkBpPE0.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "cricket",
-        "start_time": 1763686800,
-        "end_time": 1763695800,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3721,
-            "name": "LINK 1",
-            "description": null
-          }
-        ]
       },
       {
-        "id": 362,
-        "name": "Tijuana 🆚 Juárez",
+        "id": 381,
+        "name": "Newcastle Jets 🆚 Perth Glory",
         "stage": null,
-        "logo": "logo/events/puebla-pachuca_b2MU6rHq9XOT8tkBpPE0.png",
+        "logo": "logo/events/adelaide-united-wellington-phoenix_v8jRJacsNUlN7dmoDsSj.webp",
         "color": null,
         "type": "single",
         "sport_type": "cricket",
-        "start_time": 1763694000,
-        "end_time": 1763703000,
+        "start_time": 1763877600,
+        "end_time": 1763886600,
         "show_duration": true,
         "sources": [
           {
-            "id": 3721,
-            "name": "LINK 1",
+            "id": 908,
+            "name": "TNT Sports 3 (BT Sports)",
             "description": null
           }
         ]
