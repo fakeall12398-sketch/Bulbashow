@@ -6,111 +6,6 @@
     "type": "Cricket",
     "items": [
       {
-        "id": 24,
-        "name": "Asia Cup Rising Stars",
-        "stage": "1st Semi-Final",
-        "logo": "logo/events/asia-cup-rising-stars_Ivt2t3mPEHjABJn8UaJr.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "cricket",
-        "start_time": 1763717400,
-        "end_time": null,
-        "show_duration": false,
-        "team_1": {
-          "name": "Bangladesh A",
-          "logo": "logo/teams/bangladesh_9mfG8dxYyOTt53INypBM.png"
-        },
-        "team_2": {
-          "name": "India A",
-          "logo": "logo/teams/india_R8DzB45mwxgV921JfOUc.png"
-        },
-        "full_team_name": "Bangladesh A 🆚 India A",
-        "sources": [
-          {
-            "id": 3202,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 3790,
-            "name": "LINK 2 - LIV",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 112,
-        "name": "Abu Dhabi T10 League",
-        "stage": null,
-        "logo": "logo/events/abu-dhabi-t10-league_zWRjqSGQK2KVDq5oJUIS.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "cricket",
-        "start_time": 1763724600,
-        "end_time": null,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 2861,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 3541,
-            "name": "LINK 2",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 102,
-        "name": "Nepal Premier League",
-        "stage": "6th Match",
-        "logo": "logo/events/nepal-premier-league_KuGV0wJozNuqK86ypAr5.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "cricket",
-        "start_time": 1763720100,
-        "end_time": null,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3792,
-            "name": "LINK 1 - BD",
-            "description": null
-          },
-          {
-            "id": 3793,
-            "name": "LINK 2 - IN",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 59,
-        "name": "The Ashes",
-        "stage": "1st Test, Day 2",
-        "logo": "logo/events/the-ashes_f0oiFIkbTXFF8PajxnLU.jpg",
-        "color": null,
-        "type": "single",
-        "sport_type": "cricket",
-        "start_time": 1763778600,
-        "end_time": null,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 902,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 3791,
-            "name": "LINK 2",
-            "description": null
-          }
-        ]
-      },
-      {
         "id": 290,
         "name": "Ireland tour of Bangladesh",
         "stage": "2nd Test, Day 4",
@@ -163,6 +58,35 @@
             "id": 905,
             "name": "LINK 1",
             "description": null
+          },
+          {
+            "id": 3202,
+            "name": "LINK 2",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 59,
+        "name": "The Ashes",
+        "stage": "1st Test, Day 2",
+        "logo": "logo/events/the-ashes_f0oiFIkbTXFF8PajxnLU.jpg",
+        "color": null,
+        "type": "single",
+        "sport_type": "cricket",
+        "start_time": 1763778600,
+        "end_time": null,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 902,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3791,
+            "name": "LINK 2",
+            "description": null
           }
         ]
       },
@@ -190,6 +114,82 @@
           {
             "id": 908,
             "name": "LINK 1",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 24,
+        "name": "Asia Cup Rising Stars",
+        "stage": "FINAL",
+        "logo": "logo/events/asia-cup-rising-stars_Ivt2t3mPEHjABJn8UaJr.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "cricket",
+        "start_time": 1763908200,
+        "end_time": null,
+        "show_duration": false,
+        "team_1": {
+          "name": "Bangladesh A",
+          "logo": "logo/teams/bangladesh_9mfG8dxYyOTt53INypBM.png"
+        },
+        "team_2": {
+          "name": "Pakisthan A",
+          "logo": "logo/teams/pakisthan_QCFdXH7TItyN21PE72wI.png"
+        },
+        "full_team_name": "Bangladesh A 🆚 Pakisthan A",
+        "sources": [
+          {
+            "id": 3202,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3790,
+            "name": "LINK 2 - LIV",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 167,
+        "name": "Womens Big Bash League",
+        "stage": "20th Match ",
+        "logo": "logo/events/big-bash-league_QJNd2FtoWKu1oQHodosi.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "cricket",
+        "start_time": 1763805000,
+        "end_time": null,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 988,
+            "name": "SKY SPORTS Cricket ",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 112,
+        "name": "Abu Dhabi T10 League",
+        "stage": null,
+        "logo": "logo/events/abu-dhabi-t10-league_zWRjqSGQK2KVDq5oJUIS.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "cricket",
+        "start_time": 1763811000,
+        "end_time": null,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 2861,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3541,
+            "name": "LINK 2",
             "description": null
           }
         ]
@@ -1280,25 +1280,6 @@
     "logo": "logo/events/categories/a-league_b9wk9nYGrMKn27FGems1.webp",
     "type": "Football",
     "items": [
-      {
-        "id": 269,
-        "name": "Wellington Phoenix 🆚 Macarthur",
-        "stage": null,
-        "logo": "logo/events/adelaide-united-wellington-phoenix_v8jRJacsNUlN7dmoDsSj.webp",
-        "color": null,
-        "type": "single",
-        "sport_type": "cricket",
-        "start_time": 1763784000,
-        "end_time": 1763793000,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 2053,
-            "name": "TNT Sports 4 (BT Sports)",
-            "description": null
-          }
-        ]
-      },
       {
         "id": 271,
         "name": "Western Sydney Wanderers 🆚 Central Coast Mariners",
