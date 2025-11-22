@@ -1281,25 +1281,6 @@
     "type": "Football",
     "items": [
       {
-        "id": 271,
-        "name": "Western Sydney Wanderers 🆚 Central Coast Mariners",
-        "stage": null,
-        "logo": "logo/events/adelaide-united-wellington-phoenix_v8jRJacsNUlN7dmoDsSj.webp",
-        "color": null,
-        "type": "single",
-        "sport_type": "cricket",
-        "start_time": 1763791200,
-        "end_time": 1763800200,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 2053,
-            "name": "TNT Sports 4 (BT Sports)",
-            "description": null
-          }
-        ]
-      },
-      {
         "id": 268,
         "name": "Sydney FC 🆚 Melbourne Victory",
         "stage": null,
