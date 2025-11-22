@@ -225,6 +225,42 @@
     ]
   },
   {
+    "id": 44,
+    "name": "FIFA U-17 World Cup",
+    "logo": "logo/events/categories/fifa-club-world-cup_uKXWsqNaJmoeEKidZZbj.png",
+    "type": "Football",
+    "items": [
+      {
+        "id": 302,
+        "name": "FIFA U-17 World Cup",
+        "stage": "Semi Final 1",
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1763987400,
+        "end_time": 1763996400,
+        "show_duration": true,
+        "team_1": {
+          "name": "TBD",
+          "logo": "logo/teams/tbc_qLJZPLER7vt7ZS6pHxiO.png"
+        },
+        "team_2": {
+          "name": "TBD",
+          "logo": "logo/teams/tbc_qLJZPLER7vt7ZS6pHxiO.png"
+        },
+        "full_team_name": "TBD 🆚 TBD",
+        "sources": [
+          {
+            "id": 3666,
+            "name": "LINK 1",
+            "description": null
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 10,
     "name": "Saudi Pro League",
     "logo": "logo/events/categories/saudi-pro-league_u7DXK6SUZP664JoFeYfB.png",
@@ -352,68 +388,6 @@
     "logo": "logo/events/categories/bundesliga-2_tGbrOFPMKnV8Bo3aOQda.png",
     "type": "Football",
     "items": [
-      {
-        "id": 316,
-        "name": "Preußen Münster 🆚 Schalke 04",
-        "stage": null,
-        "logo": "logo/events/elversberg-kaiserslautern_u7XcxXJ8sRFF8zKriQ0p.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "cricket",
-        "start_time": 1763812800,
-        "end_time": 1763821800,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3283,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 3699,
-            "name": "LINK 2",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 366,
-        "name": "Fortuna Düsseldorf 🆚 Magdeburg",
-        "stage": null,
-        "logo": "logo/events/elversberg-kaiserslautern_u7XcxXJ8sRFF8zKriQ0p.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "cricket",
-        "start_time": 1763812800,
-        "end_time": 1763821800,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3684,
-            "name": "LINK 1",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 315,
-        "name": "Paderborn 🆚 Hannover 96",
-        "stage": null,
-        "logo": "logo/events/elversberg-kaiserslautern_u7XcxXJ8sRFF8zKriQ0p.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "cricket",
-        "start_time": 1763812800,
-        "end_time": 1763821800,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3685,
-            "name": "LINK 1",
-            "description": null
-          }
-        ]
-      },
       {
         "id": 317,
         "name": "Darmstadt 98 🆚 Greuther Fürth",
@@ -1280,30 +1254,6 @@
     "logo": "logo/events/categories/a-league_b9wk9nYGrMKn27FGems1.webp",
     "type": "Football",
     "items": [
-      {
-        "id": 268,
-        "name": "Sydney FC 🆚 Melbourne Victory",
-        "stage": null,
-        "logo": "logo/events/adelaide-united-wellington-phoenix_v8jRJacsNUlN7dmoDsSj.webp",
-        "color": null,
-        "type": "single",
-        "sport_type": "cricket",
-        "start_time": 1763800500,
-        "end_time": 1763809500,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 2053,
-            "name": "TNT Sports 4 (BT Sports)",
-            "description": null
-          },
-          {
-            "id": 2888,
-            "name": "Sportdigital",
-            "description": null
-          }
-        ]
-      },
       {
         "id": 270,
         "name": "Auckland 🆚 Brisbane Roar",
