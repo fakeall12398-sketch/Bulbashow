@@ -225,6 +225,481 @@
     ]
   },
   {
+    "id": 11,
+    "name": "Premier League",
+    "logo": "logo/events/categories/premier-league_DxTuHXdZHzmgURaJXIV3.png",
+    "type": "Football",
+    "items": [
+      {
+        "id": 83,
+        "name": "Premier League",
+        "stage": null,
+        "logo": "logo/events/premier-league_653.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1763823600,
+        "end_time": 1763832600,
+        "show_duration": true,
+        "team_1": {
+          "name": "Liverpool",
+          "logo": "logo/teams/liverpool_HMqVIBRuCRoiG9WsnSWg.png"
+        },
+        "team_2": {
+          "name": "Nottingham Forest",
+          "logo": "logo/teams/nottingham-forest_ZlzDoHRM4YWe1pXsIvkm.png"
+        },
+        "full_team_name": "Liverpool 🆚 Nottingham Forest",
+        "sources": [
+          {
+            "id": 3485,
+            "name": "FUBO Sports",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 60,
+        "name": "Premier League",
+        "stage": null,
+        "logo": "logo/events/premier-league_653.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1763823600,
+        "end_time": 1763832600,
+        "show_duration": true,
+        "team_1": {
+          "name": "AFC Bournemouth",
+          "logo": "logo/teams/afc-bournemouth_qVGIj8fyj0I6KNXz33Y1.png"
+        },
+        "team_2": {
+          "name": "West Ham United",
+          "logo": "logo/teams/west-ham-united_ZH09jHWYKL3jxywDbqrp.png"
+        },
+        "full_team_name": "AFC Bournemouth 🆚 West Ham United",
+        "sources": [
+          {
+            "id": 3456,
+            "name": "Universo",
+            "description": null
+          },
+          {
+            "id": 1714,
+            "name": "USA Network",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 78,
+        "name": "Premier League",
+        "stage": null,
+        "logo": "logo/events/premier-league_653.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1763823600,
+        "end_time": 1763832600,
+        "show_duration": true,
+        "team_1": {
+          "name": "Brighton & Hove Albion",
+          "logo": "logo/teams/brighton-hove-albion_7mqn09wAXsSL23oihWk2.png"
+        },
+        "team_2": {
+          "name": "Brentford",
+          "logo": "logo/teams/brentford_0MEh8wP4adPwsQr3Wqlv.png"
+        },
+        "full_team_name": "Brighton & Hove Albion 🆚 Brentford",
+        "sources": [
+          {
+            "id": 3118,
+            "name": "LINK 1",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 63,
+        "name": "Premier League",
+        "stage": null,
+        "logo": "logo/events/premier-league_653.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1763823600,
+        "end_time": 1763832600,
+        "show_duration": true,
+        "team_1": {
+          "name": "Fulham",
+          "logo": "logo/teams/fulham_ZtmiztFY6TcDY03VX8wu.png"
+        },
+        "team_2": {
+          "name": "Sunderland",
+          "logo": "logo/teams/sunderland_CJfeVa5gItOnDonuHn99.png"
+        },
+        "full_team_name": "Fulham 🆚 Sunderland",
+        "sources": [
+          {
+            "id": 3721,
+            "name": "LINK 1",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 64,
+        "name": "Premier League",
+        "stage": null,
+        "logo": "logo/events/premier-league_653.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1763832600,
+        "end_time": 1763841600,
+        "show_duration": true,
+        "team_1": {
+          "name": "Manchester City",
+          "logo": "logo/teams/manchester-city_dULBNGyWBdlIi9PhjqbC.png"
+        },
+        "team_2": {
+          "name": "Newcastle United",
+          "logo": "logo/teams/newcastle-united_qG9rETosUsgCorWNBlog.png"
+        },
+        "full_team_name": "Manchester City 🆚 Newcastle United",
+        "sources": [
+          {
+            "id": 981,
+            "name": "SKY SPORTS  Premier League",
+            "description": null
+          },
+          {
+            "id": 3456,
+            "name": "Universo",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 77,
+        "name": "Premier League",
+        "stage": null,
+        "logo": "logo/events/premier-league_653.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1763906400,
+        "end_time": 1763915400,
+        "show_duration": true,
+        "team_1": {
+          "name": "Aston Villa",
+          "logo": "logo/teams/aston-villa_9BPRqMxn2Znvkj7pltfK.png"
+        },
+        "team_2": {
+          "name": "Leeds United",
+          "logo": "logo/teams/leeds-united_chV0LJ49sgZs8F3aML49.png"
+        },
+        "full_team_name": "Aston Villa 🆚 Leeds United",
+        "sources": [
+          {
+            "id": 1714,
+            "name": "USA Network",
+            "description": null
+          },
+          {
+            "id": 3683,
+            "name": "Sky",
+            "description": null
+          },
+          {
+            "id": 3575,
+            "name": "Telemundo",
+            "description": null
+          },
+          {
+            "id": 3486,
+            "name": "FUBO",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 179,
+        "name": "Premier League",
+        "stage": null,
+        "logo": "logo/events/premier-league_653.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1763915400,
+        "end_time": 1763924400,
+        "show_duration": true,
+        "team_1": {
+          "name": "Arsenal",
+          "logo": "logo/teams/arsenal_fc6aAPzStsGPPVTcPQMZ.png"
+        },
+        "team_2": {
+          "name": "Tottenham Hotspur",
+          "logo": "logo/teams/tottenham-hotspur_wRuMqVZrIxbbxVAzReN9.png"
+        },
+        "full_team_name": "Arsenal 🆚 Tottenham Hotspur",
+        "sources": [
+          {
+            "id": 981,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3683,
+            "name": "LINK 2",
+            "description": null
+          },
+          {
+            "id": 3485,
+            "name": "LINK 3",
+            "description": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "LA LIGA",
+    "logo": "logo/events/categories/la-liga_09FFBteASyl11hboQ8x9.png",
+    "type": "Football",
+    "items": [
+      {
+        "id": 65,
+        "name": "LALIGA",
+        "stage": null,
+        "logo": "logo/events/celta-de-vigo-valencia_jIVHMZlw4Oj0Ls1xze8y.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1763824500,
+        "end_time": 1763833500,
+        "show_duration": true,
+        "team_1": {
+          "name": "Barcelona",
+          "logo": "logo/teams/barcelona_NiCxfEeaPHngHzLBDHm2.png"
+        },
+        "team_2": {
+          "name": "Athletic Club",
+          "logo": "logo/teams/athletic-club_IMrU8myTY6ecoOB2UlrJ.png"
+        },
+        "full_team_name": "Barcelona 🆚 Athletic Club",
+        "sources": [
+          {
+            "id": 3289,
+            "name": "beIN Sport 2 - AUS",
+            "description": null
+          },
+          {
+            "id": 3043,
+            "name": "LALIGA TV",
+            "description": null
+          },
+          {
+            "id": 2665,
+            "name": "ZIGGO SPORT",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 215,
+        "name": "LALIGA",
+        "stage": null,
+        "logo": "logo/events/sevilla-villarreal_wqSkWfYjIH5dihHm8c1A.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1763841600,
+        "end_time": 1763850600,
+        "show_duration": true,
+        "team_1": {
+          "name": "Mallorca",
+          "logo": "logo/teams/mallorca_x4uSrp0Fng6PKaKXJC5v.png"
+        },
+        "team_2": {
+          "name": "Villarreal",
+          "logo": "logo/teams/villarreal_9ztBwUV50RgNFebIe13O.png"
+        },
+        "full_team_name": "Mallorca 🆚 Villarreal",
+        "sources": [
+          {
+            "id": 3043,
+            "name": "LALIGA TV",
+            "description": null
+          },
+          {
+            "id": 3462,
+            "name": "beIN Sport 3 - FR",
+            "description": null
+          },
+          {
+            "id": 2558,
+            "name": "ZIGGO SPORT 2",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 214,
+        "name": "LALIGA",
+        "stage": null,
+        "logo": "logo/events/sevilla-villarreal_wqSkWfYjIH5dihHm8c1A.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1763902800,
+        "end_time": 1763911800,
+        "show_duration": true,
+        "team_1": {
+          "name": "Rayo Vallecano",
+          "logo": "logo/teams/rayo-vallecano_uIHkJUDNU2ehDPrWwnhp.png"
+        },
+        "team_2": {
+          "name": "Real Oviedo",
+          "logo": "logo/teams/real-oviedo_51jeSpuF0f23HGcE4wiZ.png"
+        },
+        "full_team_name": "Rayo Vallecano 🆚 Real Oviedo",
+        "sources": [
+          {
+            "id": 2861,
+            "name": "Premier Sports 1 ",
+            "description": null
+          },
+          {
+            "id": 3043,
+            "name": "LALIGA TV",
+            "description": null
+          },
+          {
+            "id": 2665,
+            "name": "ZIGGO SPORT",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 281,
+        "name": "LALIGA",
+        "stage": null,
+        "logo": "logo/events/sevilla-villarreal_wqSkWfYjIH5dihHm8c1A.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1763910900,
+        "end_time": 1763919900,
+        "show_duration": true,
+        "team_1": {
+          "name": "Real Betis",
+          "logo": "logo/teams/real-betis_Zy9S6WZE2jtyrnfZiFK7.png"
+        },
+        "team_2": {
+          "name": "Girona",
+          "logo": "logo/teams/girona_JjwoRrzPtyq2ftaBwfvd.png"
+        },
+        "full_team_name": "Real Betis 🆚 Girona",
+        "sources": [
+          {
+            "id": 3289,
+            "name": "beIN Sport 2 - AUS",
+            "description": null
+          },
+          {
+            "id": 2861,
+            "name": "Premier Sports 1 ",
+            "description": null
+          },
+          {
+            "id": 3043,
+            "name": "LALIGA TV",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 216,
+        "name": "LALIGA",
+        "stage": null,
+        "logo": "logo/events/sevilla-villarreal_wqSkWfYjIH5dihHm8c1A.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1763919000,
+        "end_time": 1763928000,
+        "show_duration": true,
+        "team_1": {
+          "name": "Atlético Madrid",
+          "logo": "logo/teams/atletico-madrid_4CExDv7KUcKomWVKyjxf.png"
+        },
+        "team_2": {
+          "name": "Getafe",
+          "logo": "logo/teams/getafe_2WBLafh19iutvJiJ5OgN.png"
+        },
+        "full_team_name": "Atlético Madrid 🆚 Getafe",
+        "sources": [
+          {
+            "id": 2861,
+            "name": "Premier Sports 1 ",
+            "description": null
+          },
+          {
+            "id": 3289,
+            "name": "beIN Sport 2 - AUS",
+            "description": null
+          },
+          {
+            "id": 3043,
+            "name": "LALIGA TV",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 66,
+        "name": "LALIGA",
+        "stage": null,
+        "logo": "logo/events/sevilla-villarreal_wqSkWfYjIH5dihHm8c1A.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1763928000,
+        "end_time": 1763937000,
+        "show_duration": true,
+        "team_1": {
+          "name": "Real Madrid",
+          "logo": "logo/teams/real-madrid_CUgA3ukonrMdp3gfsRbJ.png"
+        },
+        "team_2": {
+          "name": "Elche",
+          "logo": "logo/teams/elche_j1S95zmn1prBiAUxUYuy.png"
+        },
+        "full_team_name": "Real Madrid 🆚 Elche",
+        "sources": [
+          {
+            "id": 2861,
+            "name": "Premier Sports 1 ",
+            "description": null
+          },
+          {
+            "id": 3289,
+            "name": "beIN Sport 2 - AUS",
+            "description": null
+          },
+          {
+            "id": 3043,
+            "name": "LALIGA TV",
+            "description": null
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 44,
     "name": "FIFA U-17 World Cup",
     "logo": "logo/events/categories/fifa-club-world-cup_uKXWsqNaJmoeEKidZZbj.png",
@@ -460,275 +935,6 @@
           {
             "id": 3684,
             "name": "LINK 1",
-            "description": null
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": 13,
-    "name": "LA LIGA",
-    "logo": "logo/events/categories/la-liga_09FFBteASyl11hboQ8x9.png",
-    "type": "Football",
-    "items": [
-      {
-        "id": 80,
-        "name": "LALIGA",
-        "stage": null,
-        "logo": "logo/events/sevilla-villarreal_wqSkWfYjIH5dihHm8c1A.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1763816400,
-        "end_time": 1763825400,
-        "show_duration": true,
-        "team_1": {
-          "name": "Celta De Vigo",
-          "logo": "logo/teams/celta-de-vigo_f2UTUG14GHxaN7eRQjfT.png"
-        },
-        "team_2": {
-          "name": "Deportivo Alavés",
-          "logo": "logo/teams/deportivo-alaves_MjSSu8ns81zY2K4BqeB5.png"
-        },
-        "full_team_name": "Celta De Vigo 🆚 Deportivo Alavés",
-        "sources": [
-          {
-            "id": 2861,
-            "name": "Premier Sports 1 ",
-            "description": null
-          },
-          {
-            "id": 3043,
-            "name": "LALIGA TV",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 65,
-        "name": "LALIGA",
-        "stage": null,
-        "logo": "logo/events/celta-de-vigo-valencia_jIVHMZlw4Oj0Ls1xze8y.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1763824500,
-        "end_time": 1763833500,
-        "show_duration": true,
-        "team_1": {
-          "name": "Barcelona",
-          "logo": "logo/teams/barcelona_NiCxfEeaPHngHzLBDHm2.png"
-        },
-        "team_2": {
-          "name": "Athletic Club",
-          "logo": "logo/teams/athletic-club_IMrU8myTY6ecoOB2UlrJ.png"
-        },
-        "full_team_name": "Barcelona 🆚 Athletic Club",
-        "sources": [
-          {
-            "id": 3289,
-            "name": "beIN Sport 2 - AUS",
-            "description": null
-          },
-          {
-            "id": 3043,
-            "name": "LALIGA TV",
-            "description": null
-          },
-          {
-            "id": 2665,
-            "name": "ZIGGO SPORT",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 215,
-        "name": "LALIGA",
-        "stage": null,
-        "logo": "logo/events/sevilla-villarreal_wqSkWfYjIH5dihHm8c1A.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1763841600,
-        "end_time": 1763850600,
-        "show_duration": true,
-        "team_1": {
-          "name": "Mallorca",
-          "logo": "logo/teams/mallorca_x4uSrp0Fng6PKaKXJC5v.png"
-        },
-        "team_2": {
-          "name": "Villarreal",
-          "logo": "logo/teams/villarreal_9ztBwUV50RgNFebIe13O.png"
-        },
-        "full_team_name": "Mallorca 🆚 Villarreal",
-        "sources": [
-          {
-            "id": 3043,
-            "name": "LALIGA TV",
-            "description": null
-          },
-          {
-            "id": 3462,
-            "name": "beIN Sport 3 - FR",
-            "description": null
-          },
-          {
-            "id": 2558,
-            "name": "ZIGGO SPORT 2",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 214,
-        "name": "LALIGA",
-        "stage": null,
-        "logo": "logo/events/sevilla-villarreal_wqSkWfYjIH5dihHm8c1A.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1763902800,
-        "end_time": 1763911800,
-        "show_duration": true,
-        "team_1": {
-          "name": "Rayo Vallecano",
-          "logo": "logo/teams/rayo-vallecano_uIHkJUDNU2ehDPrWwnhp.png"
-        },
-        "team_2": {
-          "name": "Real Oviedo",
-          "logo": "logo/teams/real-oviedo_51jeSpuF0f23HGcE4wiZ.png"
-        },
-        "full_team_name": "Rayo Vallecano 🆚 Real Oviedo",
-        "sources": [
-          {
-            "id": 2861,
-            "name": "Premier Sports 1 ",
-            "description": null
-          },
-          {
-            "id": 3043,
-            "name": "LALIGA TV",
-            "description": null
-          },
-          {
-            "id": 2665,
-            "name": "ZIGGO SPORT",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 281,
-        "name": "LALIGA",
-        "stage": null,
-        "logo": "logo/events/sevilla-villarreal_wqSkWfYjIH5dihHm8c1A.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1763910900,
-        "end_time": 1763919900,
-        "show_duration": true,
-        "team_1": {
-          "name": "Real Betis",
-          "logo": "logo/teams/real-betis_Zy9S6WZE2jtyrnfZiFK7.png"
-        },
-        "team_2": {
-          "name": "Girona",
-          "logo": "logo/teams/girona_JjwoRrzPtyq2ftaBwfvd.png"
-        },
-        "full_team_name": "Real Betis 🆚 Girona",
-        "sources": [
-          {
-            "id": 3289,
-            "name": "beIN Sport 2 - AUS",
-            "description": null
-          },
-          {
-            "id": 2861,
-            "name": "Premier Sports 1 ",
-            "description": null
-          },
-          {
-            "id": 3043,
-            "name": "LALIGA TV",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 216,
-        "name": "LALIGA",
-        "stage": null,
-        "logo": "logo/events/sevilla-villarreal_wqSkWfYjIH5dihHm8c1A.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1763919000,
-        "end_time": 1763928000,
-        "show_duration": true,
-        "team_1": {
-          "name": "Atlético Madrid",
-          "logo": "logo/teams/atletico-madrid_4CExDv7KUcKomWVKyjxf.png"
-        },
-        "team_2": {
-          "name": "Getafe",
-          "logo": "logo/teams/getafe_2WBLafh19iutvJiJ5OgN.png"
-        },
-        "full_team_name": "Atlético Madrid 🆚 Getafe",
-        "sources": [
-          {
-            "id": 2861,
-            "name": "Premier Sports 1 ",
-            "description": null
-          },
-          {
-            "id": 3289,
-            "name": "beIN Sport 2 - AUS",
-            "description": null
-          },
-          {
-            "id": 3043,
-            "name": "LALIGA TV",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 66,
-        "name": "LALIGA",
-        "stage": null,
-        "logo": "logo/events/sevilla-villarreal_wqSkWfYjIH5dihHm8c1A.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1763928000,
-        "end_time": 1763937000,
-        "show_duration": true,
-        "team_1": {
-          "name": "Real Madrid",
-          "logo": "logo/teams/real-madrid_CUgA3ukonrMdp3gfsRbJ.png"
-        },
-        "team_2": {
-          "name": "Elche",
-          "logo": "logo/teams/elche_j1S95zmn1prBiAUxUYuy.png"
-        },
-        "full_team_name": "Real Madrid 🆚 Elche",
-        "sources": [
-          {
-            "id": 2861,
-            "name": "Premier Sports 1 ",
-            "description": null
-          },
-          {
-            "id": 3289,
-            "name": "beIN Sport 2 - AUS",
-            "description": null
-          },
-          {
-            "id": 3043,
-            "name": "LALIGA TV",
             "description": null
           }
         ]
@@ -1204,30 +1410,6 @@
     "type": "Football",
     "items": [
       {
-        "id": 285,
-        "name": "Coventry City 🆚 West Bromwich Albion",
-        "stage": null,
-        "logo": "logo/events/blackburn-rovers-middlesbrough_x6aqQU7RGwXVw3wB8ZhH.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "cricket",
-        "start_time": 1763814600,
-        "end_time": 1763823600,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3338,
-            "name": "CBS SPORTS Golazo",
-            "description": null
-          },
-          {
-            "id": 3289,
-            "name": "beIN Sport 2 - AUS",
-            "description": null
-          }
-        ]
-      },
-      {
         "id": 258,
         "name": "Leicester City 🆚 Stoke City",
         "stage": null,
@@ -1288,288 +1470,6 @@
           {
             "id": 908,
             "name": "TNT Sports 3 (BT Sports)",
-            "description": null
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": 11,
-    "name": "Premier League",
-    "logo": "logo/events/categories/premier-league_DxTuHXdZHzmgURaJXIV3.png",
-    "type": "Football",
-    "items": [
-      {
-        "id": 163,
-        "name": "Premier League",
-        "stage": null,
-        "logo": "logo/events/premier-league_653.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1763814600,
-        "end_time": 1763823600,
-        "show_duration": true,
-        "team_1": {
-          "name": "Chelsea",
-          "logo": "logo/teams/chelsea_4qmk0ruyKon66luWMjkX.webp"
-        },
-        "team_2": {
-          "name": "Burnley",
-          "logo": "logo/teams/burnley_KdAGgnWdhThDpljBlQqe.png"
-        },
-        "full_team_name": "Chelsea 🆚 Burnley",
-        "sources": [
-          {
-            "id": 1714,
-            "name": "USA Network",
-            "description": null
-          },
-          {
-            "id": 902,
-            "name": "TNT Sports 1 (BT Sports) ",
-            "description": null
-          },
-          {
-            "id": 3456,
-            "name": "Universo",
-            "description": null
-          },
-          {
-            "id": 3486,
-            "name": "FUBO ",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 83,
-        "name": "Premier League",
-        "stage": null,
-        "logo": "logo/events/premier-league_653.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1763823600,
-        "end_time": 1763832600,
-        "show_duration": true,
-        "team_1": {
-          "name": "Liverpool",
-          "logo": "logo/teams/liverpool_HMqVIBRuCRoiG9WsnSWg.png"
-        },
-        "team_2": {
-          "name": "Nottingham Forest",
-          "logo": "logo/teams/nottingham-forest_ZlzDoHRM4YWe1pXsIvkm.png"
-        },
-        "full_team_name": "Liverpool 🆚 Nottingham Forest",
-        "sources": [
-          {
-            "id": 3485,
-            "name": "FUBO Sports",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 60,
-        "name": "Premier League",
-        "stage": null,
-        "logo": "logo/events/premier-league_653.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1763823600,
-        "end_time": 1763832600,
-        "show_duration": true,
-        "team_1": {
-          "name": "AFC Bournemouth",
-          "logo": "logo/teams/afc-bournemouth_qVGIj8fyj0I6KNXz33Y1.png"
-        },
-        "team_2": {
-          "name": "West Ham United",
-          "logo": "logo/teams/west-ham-united_ZH09jHWYKL3jxywDbqrp.png"
-        },
-        "full_team_name": "AFC Bournemouth 🆚 West Ham United",
-        "sources": [
-          {
-            "id": 3456,
-            "name": "Universo",
-            "description": null
-          },
-          {
-            "id": 1714,
-            "name": "USA Network",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 78,
-        "name": "Premier League",
-        "stage": null,
-        "logo": "logo/events/premier-league_653.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1763823600,
-        "end_time": 1763832600,
-        "show_duration": true,
-        "team_1": {
-          "name": "Brighton & Hove Albion",
-          "logo": "logo/teams/brighton-hove-albion_7mqn09wAXsSL23oihWk2.png"
-        },
-        "team_2": {
-          "name": "Brentford",
-          "logo": "logo/teams/brentford_0MEh8wP4adPwsQr3Wqlv.png"
-        },
-        "full_team_name": "Brighton & Hove Albion 🆚 Brentford",
-        "sources": [
-          {
-            "id": 3118,
-            "name": "LINK 1",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 63,
-        "name": "Premier League",
-        "stage": null,
-        "logo": "logo/events/premier-league_653.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1763823600,
-        "end_time": 1763832600,
-        "show_duration": true,
-        "team_1": {
-          "name": "Fulham",
-          "logo": "logo/teams/fulham_ZtmiztFY6TcDY03VX8wu.png"
-        },
-        "team_2": {
-          "name": "Sunderland",
-          "logo": "logo/teams/sunderland_CJfeVa5gItOnDonuHn99.png"
-        },
-        "full_team_name": "Fulham 🆚 Sunderland",
-        "sources": [
-          {
-            "id": 3721,
-            "name": "LINK 1",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 64,
-        "name": "Premier League",
-        "stage": null,
-        "logo": "logo/events/premier-league_653.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1763832600,
-        "end_time": 1763841600,
-        "show_duration": true,
-        "team_1": {
-          "name": "Manchester City",
-          "logo": "logo/teams/manchester-city_dULBNGyWBdlIi9PhjqbC.png"
-        },
-        "team_2": {
-          "name": "Newcastle United",
-          "logo": "logo/teams/newcastle-united_qG9rETosUsgCorWNBlog.png"
-        },
-        "full_team_name": "Manchester City 🆚 Newcastle United",
-        "sources": [
-          {
-            "id": 981,
-            "name": "SKY SPORTS  Premier League",
-            "description": null
-          },
-          {
-            "id": 3456,
-            "name": "Universo",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 77,
-        "name": "Premier League",
-        "stage": null,
-        "logo": "logo/events/premier-league_653.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1763906400,
-        "end_time": 1763915400,
-        "show_duration": true,
-        "team_1": {
-          "name": "Aston Villa",
-          "logo": "logo/teams/aston-villa_9BPRqMxn2Znvkj7pltfK.png"
-        },
-        "team_2": {
-          "name": "Leeds United",
-          "logo": "logo/teams/leeds-united_chV0LJ49sgZs8F3aML49.png"
-        },
-        "full_team_name": "Aston Villa 🆚 Leeds United",
-        "sources": [
-          {
-            "id": 1714,
-            "name": "USA Network",
-            "description": null
-          },
-          {
-            "id": 3683,
-            "name": "Sky",
-            "description": null
-          },
-          {
-            "id": 3575,
-            "name": "Telemundo",
-            "description": null
-          },
-          {
-            "id": 3486,
-            "name": "FUBO",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 179,
-        "name": "Premier League",
-        "stage": null,
-        "logo": "logo/events/premier-league_653.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1763915400,
-        "end_time": 1763924400,
-        "show_duration": true,
-        "team_1": {
-          "name": "Arsenal",
-          "logo": "logo/teams/arsenal_fc6aAPzStsGPPVTcPQMZ.png"
-        },
-        "team_2": {
-          "name": "Tottenham Hotspur",
-          "logo": "logo/teams/tottenham-hotspur_wRuMqVZrIxbbxVAzReN9.png"
-        },
-        "full_team_name": "Arsenal 🆚 Tottenham Hotspur",
-        "sources": [
-          {
-            "id": 981,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 3683,
-            "name": "LINK 2",
-            "description": null
-          },
-          {
-            "id": 3485,
-            "name": "LINK 3",
             "description": null
           }
         ]
