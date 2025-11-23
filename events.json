@@ -6,86 +6,6 @@
     "type": "Cricket",
     "items": [
       {
-        "id": 290,
-        "name": "Ireland tour of Bangladesh",
-        "stage": "2nd Test, Day 5",
-        "logo": "",
-        "color": null,
-        "type": "team",
-        "sport_type": "cricket",
-        "start_time": 1763870400,
-        "end_time": null,
-        "show_duration": true,
-        "team_1": {
-          "name": "Bangladesh",
-          "logo": "logo/teams/bangladesh_9mfG8dxYyOTt53INypBM.png"
-        },
-        "team_2": {
-          "name": "Ireland",
-          "logo": "logo/teams/ireland_pW7Q2BitmiFUYE4SDXr6.png"
-        },
-        "full_team_name": "Bangladesh 🆚 Ireland",
-        "sources": [
-          {
-            "id": 3541,
-            "name": "LINK 1",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 22,
-        "name": "South Africa tour of India",
-        "stage": "2nd Test, Day 2",
-        "logo": "",
-        "color": null,
-        "type": "team",
-        "sport_type": "cricket",
-        "start_time": 1763868600,
-        "end_time": null,
-        "show_duration": true,
-        "team_1": {
-          "name": "India",
-          "logo": "logo/teams/india_R8DzB45mwxgV921JfOUc.png"
-        },
-        "team_2": {
-          "name": "South Africa",
-          "logo": "logo/teams/south-africa_Ft4TOjd1f9xQlzGVM4a2.png"
-        },
-        "full_team_name": "India 🆚 South Africa",
-        "sources": [
-          {
-            "id": 902,
-            "name": "LINK 1",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 167,
-        "name": "Womens Big Bash League",
-        "stage": "22nd Match ",
-        "logo": "logo/events/big-bash-league_QJNd2FtoWKu1oQHodosi.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "cricket",
-        "start_time": 1763888400,
-        "end_time": null,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3202,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 3533,
-            "name": "LINK 2",
-            "description": null
-          }
-        ]
-      },
-      {
         "id": 24,
         "name": "Asia Cup Rising Stars",
         "stage": "FINAL",
@@ -126,46 +46,13 @@
         "color": null,
         "type": "single",
         "sport_type": "cricket",
-        "start_time": 1763897400,
+        "start_time": 1763913600,
         "end_time": null,
         "show_duration": true,
         "sources": [
           {
-            "id": 2861,
+            "id": 2862,
             "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 3541,
-            "name": "LINK 2",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 76,
-        "name": "Pakistan T20I Tri-Series",
-        "stage": "3rd Match",
-        "logo": "",
-        "color": null,
-        "type": "team",
-        "sport_type": "cricket",
-        "start_time": 1763902800,
-        "end_time": null,
-        "show_duration": true,
-        "team_1": {
-          "name": "Zimbabwe",
-          "logo": "logo/teams/zimbabwe_1NrjbqGp14rS7YaZibaP.png"
-        },
-        "team_2": {
-          "name": "Pakisthan",
-          "logo": "logo/teams/pakisthan_QCFdXH7TItyN21PE72wI.png"
-        },
-        "full_team_name": "Zimbabwe 🆚 Pakisthan",
-        "sources": [
-          {
-            "id": 3654,
-            "name": "LINK 2",
             "description": null
           }
         ]
@@ -193,6 +80,114 @@
         "sources": [
           {
             "id": 902,
+            "name": "LINK 1",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 22,
+        "name": "South Africa tour of India",
+        "stage": "2nd Test, Day 3",
+        "logo": "",
+        "color": null,
+        "type": "team",
+        "sport_type": "cricket",
+        "start_time": 1763955000,
+        "end_time": null,
+        "show_duration": true,
+        "team_1": {
+          "name": "India",
+          "logo": "logo/teams/india_R8DzB45mwxgV921JfOUc.png"
+        },
+        "team_2": {
+          "name": "South Africa",
+          "logo": "logo/teams/south-africa_Ft4TOjd1f9xQlzGVM4a2.png"
+        },
+        "full_team_name": "India 🆚 South Africa",
+        "sources": [
+          {
+            "id": 902,
+            "name": "LINK 1",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 167,
+        "name": "Womens Big Bash League",
+        "stage": "23rd Match ",
+        "logo": "logo/events/big-bash-league_QJNd2FtoWKu1oQHodosi.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "cricket",
+        "start_time": 1764058200,
+        "end_time": null,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3202,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3533,
+            "name": "LINK 2",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 76,
+        "name": "Pakistan T20I Tri-Series",
+        "stage": "5th Match",
+        "logo": "",
+        "color": null,
+        "type": "team",
+        "sport_type": "cricket",
+        "start_time": 1764075600,
+        "end_time": null,
+        "show_duration": true,
+        "team_1": {
+          "name": "Zimbabwe",
+          "logo": "logo/teams/zimbabwe_1NrjbqGp14rS7YaZibaP.png"
+        },
+        "team_2": {
+          "name": "Sri Lanka",
+          "logo": "logo/teams/sri-lanka_oUuxxnRFqx3sjQ3WUtfY.jpg"
+        },
+        "full_team_name": "Zimbabwe 🆚 Sri Lanka",
+        "sources": [
+          {
+            "id": 3654,
+            "name": "LINK 2",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 290,
+        "name": "Ireland tour of Bangladesh",
+        "stage": "1st T20I",
+        "logo": "",
+        "color": null,
+        "type": "team",
+        "sport_type": "cricket",
+        "start_time": 1764244800,
+        "end_time": null,
+        "show_duration": true,
+        "team_1": {
+          "name": "Bangladesh",
+          "logo": "logo/teams/bangladesh_9mfG8dxYyOTt53INypBM.png"
+        },
+        "team_2": {
+          "name": "Ireland",
+          "logo": "logo/teams/ireland_pW7Q2BitmiFUYE4SDXr6.png"
+        },
+        "full_team_name": "Bangladesh 🆚 Ireland",
+        "sources": [
+          {
+            "id": 3541,
             "name": "LINK 1",
             "description": null
           }
@@ -258,39 +253,6 @@
     "logo": "logo/events/categories/premier-league_DxTuHXdZHzmgURaJXIV3.png",
     "type": "Football",
     "items": [
-      {
-        "id": 77,
-        "name": "Premier League",
-        "stage": null,
-        "logo": "logo/events/premier-league_653.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1763906400,
-        "end_time": 1763915400,
-        "show_duration": true,
-        "team_1": {
-          "name": "Aston Villa",
-          "logo": "logo/teams/aston-villa_9BPRqMxn2Znvkj7pltfK.png"
-        },
-        "team_2": {
-          "name": "Leeds United",
-          "logo": "logo/teams/leeds-united_chV0LJ49sgZs8F3aML49.png"
-        },
-        "full_team_name": "Aston Villa 🆚 Leeds United",
-        "sources": [
-          {
-            "id": 3683,
-            "name": "Sky",
-            "description": null
-          },
-          {
-            "id": 3486,
-            "name": "FUBO",
-            "description": null
-          }
-        ]
-      },
       {
         "id": 179,
         "name": "Premier League",
@@ -365,39 +327,273 @@
     ]
   },
   {
+    "id": 13,
+    "name": "LA LIGA",
+    "logo": "logo/events/categories/la-liga_09FFBteASyl11hboQ8x9.png",
+    "type": "Football",
+    "items": [
+      {
+        "id": 216,
+        "name": "LALIGA",
+        "stage": null,
+        "logo": "logo/events/sevilla-villarreal_wqSkWfYjIH5dihHm8c1A.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1763919000,
+        "end_time": 1763928000,
+        "show_duration": true,
+        "team_1": {
+          "name": "Atlético Madrid",
+          "logo": "logo/teams/atletico-madrid_4CExDv7KUcKomWVKyjxf.png"
+        },
+        "team_2": {
+          "name": "Getafe",
+          "logo": "logo/teams/getafe_2WBLafh19iutvJiJ5OgN.png"
+        },
+        "full_team_name": "Atlético Madrid 🆚 Getafe",
+        "sources": [
+          {
+            "id": 2861,
+            "name": "Premier Sports 1 ",
+            "description": null
+          },
+          {
+            "id": 3289,
+            "name": "beIN Sport 2 - AUS",
+            "description": null
+          },
+          {
+            "id": 3043,
+            "name": "LALIGA TV",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 66,
+        "name": "LALIGA",
+        "stage": null,
+        "logo": "logo/events/sevilla-villarreal_wqSkWfYjIH5dihHm8c1A.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1763928000,
+        "end_time": 1763937000,
+        "show_duration": true,
+        "team_1": {
+          "name": "Real Madrid",
+          "logo": "logo/teams/real-madrid_CUgA3ukonrMdp3gfsRbJ.png"
+        },
+        "team_2": {
+          "name": "Elche",
+          "logo": "logo/teams/elche_j1S95zmn1prBiAUxUYuy.png"
+        },
+        "full_team_name": "Real Madrid 🆚 Elche",
+        "sources": [
+          {
+            "id": 2861,
+            "name": "Premier Sports 1 ",
+            "description": null
+          },
+          {
+            "id": 3289,
+            "name": "beIN Sport 2 - AUS",
+            "description": null
+          },
+          {
+            "id": 3043,
+            "name": "LALIGA TV",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 204,
+        "name": "LALIGA",
+        "stage": null,
+        "logo": "logo/events/sevilla-villarreal_wqSkWfYjIH5dihHm8c1A.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1764014400,
+        "end_time": 1764023400,
+        "show_duration": true,
+        "team_1": {
+          "name": "Espanyol",
+          "logo": "logo/teams/espanyol_YRX1tfHvMxMw3umCf9l7.png"
+        },
+        "team_2": {
+          "name": "Sevilla",
+          "logo": "logo/teams/sevilla_iuTiMvXQliW7v1Q5A5Xd.png"
+        },
+        "full_team_name": "Espanyol 🆚 Sevilla",
+        "sources": [
+          {
+            "id": 3289,
+            "name": "beIN Sport 2 - AUS",
+            "description": null
+          },
+          {
+            "id": 2861,
+            "name": "Premier Sports 1 ",
+            "description": null
+          },
+          {
+            "id": 3043,
+            "name": "LALIGA TV",
+            "description": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Serie A",
+    "logo": "logo/events/categories/serie-a_I13YO3O5lVJj1vhJRU6w.png",
+    "type": "Football",
+    "items": [
+      {
+        "id": 124,
+        "name": "Serie A",
+        "stage": null,
+        "logo": "logo/events/serie-a_562.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1763917200,
+        "end_time": 1763926200,
+        "show_duration": true,
+        "team_1": {
+          "name": "Lazio",
+          "logo": "logo/teams/lazio_z39VbfmpNCElriI7gdIx.png"
+        },
+        "team_2": {
+          "name": "Lecce",
+          "logo": "logo/teams/lecce_EZcAfpxxytVd4QjVZMur.png"
+        },
+        "full_team_name": "Lazio 🆚 Lecce",
+        "sources": [
+          {
+            "id": 3283,
+            "name": "beIN Sport 3 - AUS",
+            "description": null
+          },
+          {
+            "id": 3338,
+            "name": "CBS SPORTS Golazo",
+            "description": null
+          },
+          {
+            "id": 3669,
+            "name": "Fox Deportes",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 175,
+        "name": "Serie A",
+        "stage": null,
+        "logo": "logo/events/serie-a_562.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1763927100,
+        "end_time": 1763936100,
+        "show_duration": true,
+        "team_1": {
+          "name": "Internazionale",
+          "logo": "logo/teams/internazionale_2CwVe8TFyTB8etpuSs1V.png"
+        },
+        "team_2": {
+          "name": "AC Milan",
+          "logo": "logo/teams/ac-milan_BBQvGlF4Ys3t5YLUCeEu.png"
+        },
+        "full_team_name": "Internazionale 🆚 AC Milan",
+        "sources": [
+          {
+            "id": 3669,
+            "name": "Fox Deportes",
+            "description": null
+          },
+          {
+            "id": 3283,
+            "name": "beIN Sport 3 - AUS",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 73,
+        "name": "Serie A",
+        "stage": null,
+        "logo": "logo/events/serie-a_562.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1764005400,
+        "end_time": 1764014400,
+        "show_duration": true,
+        "team_1": {
+          "name": "Torino",
+          "logo": "logo/teams/torino_1t5rKnzvXh5aNoneNsRI.png"
+        },
+        "team_2": {
+          "name": "Como",
+          "logo": "logo/teams/como_mRRoVFoOpOTOv2lZt6j9.png"
+        },
+        "full_team_name": "Torino 🆚 Como",
+        "sources": [
+          {
+            "id": 3283,
+            "name": "beIN Sport 3 - AUS",
+            "description": null
+          },
+          {
+            "id": 3669,
+            "name": "Fox Deportes",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "name": "Serie A",
+        "stage": null,
+        "logo": "logo/events/serie-a_562.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1764013500,
+        "end_time": 1764022500,
+        "show_duration": true,
+        "team_1": {
+          "name": "Pisa",
+          "logo": "logo/teams/pisa_xp72Xeorj8IoN3cgf16j.png"
+        },
+        "team_2": {
+          "name": "Sassuolo",
+          "logo": "logo/teams/sassuolo_sEUwnMmvt83dg7i7hZwd.png"
+        },
+        "full_team_name": "Pisa 🆚 Sassuolo",
+        "sources": [
+          {
+            "id": 3283,
+            "name": "beIN Sport 3 - AUS",
+            "description": null
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 12,
     "name": "Ligue 1",
     "logo": "logo/events/categories/ligue-1_5qqt6renj8lsMs1YGSmI.png",
     "type": "Football",
     "items": [
-      {
-        "id": 100,
-        "name": "Ligue 1",
-        "stage": null,
-        "logo": "logo/events/ligue-1_338.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1763906400,
-        "end_time": 1763915400,
-        "show_duration": true,
-        "team_1": {
-          "name": "Auxerre",
-          "logo": "logo/teams/auxerre_vcLGRA1IjiBRcAeaRZDU.png"
-        },
-        "team_2": {
-          "name": "Olympique Lyonnais",
-          "logo": "logo/teams/olympique-lyonnais_l6Fd2M2EBBNv2FFgLw8J.png"
-        },
-        "full_team_name": "Auxerre 🆚 Olympique Lyonnais",
-        "sources": [
-          {
-            "id": 3721,
-            "name": "LINK 2",
-            "description": null
-          }
-        ]
-      },
       {
         "id": 252,
         "name": "Ligue 1",
@@ -533,545 +729,11 @@
     ]
   },
   {
-    "id": 14,
-    "name": "Serie A",
-    "logo": "logo/events/categories/serie-a_I13YO3O5lVJj1vhJRU6w.png",
-    "type": "Football",
-    "items": [
-      {
-        "id": 74,
-        "name": "Serie A",
-        "stage": null,
-        "logo": "logo/events/serie-a_562.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1763897400,
-        "end_time": 1763906400,
-        "show_duration": true,
-        "team_1": {
-          "name": "Hellas Verona",
-          "logo": "logo/teams/hellas-verona_iaFosaH2RijQDdw1HHiI.png"
-        },
-        "team_2": {
-          "name": "Parma",
-          "logo": "logo/teams/parma_bS36NvFFKsw9lNb2kERX.png"
-        },
-        "full_team_name": "Hellas Verona 🆚 Parma",
-        "sources": [
-          {
-            "id": 3338,
-            "name": "CBS SPORTS Golazo",
-            "description": null
-          },
-          {
-            "id": 3283,
-            "name": "beIN Sport 3 - AUS",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 190,
-        "name": "Serie A",
-        "stage": null,
-        "logo": "logo/events/serie-a_562.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1763906400,
-        "end_time": 1763915400,
-        "show_duration": true,
-        "team_1": {
-          "name": "Roma",
-          "logo": "logo/teams/roma_Sc0O78CfmYENhBVg3Ath.png"
-        },
-        "team_2": {
-          "name": "Cremonese",
-          "logo": "logo/teams/cremonese_CJVjeC0IKjDMjWxRsazq.png"
-        },
-        "full_team_name": "Roma 🆚 Cremonese",
-        "sources": [
-          {
-            "id": 905,
-            "name": "TNT Sports 2 (BT Sports)",
-            "description": null
-          },
-          {
-            "id": 3283,
-            "name": "beIN Sport 3 - AUS",
-            "description": null
-          },
-          {
-            "id": 3338,
-            "name": "CBS SPORTS Golazo",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 124,
-        "name": "Serie A",
-        "stage": null,
-        "logo": "logo/events/serie-a_562.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1763917200,
-        "end_time": 1763926200,
-        "show_duration": true,
-        "team_1": {
-          "name": "Lazio",
-          "logo": "logo/teams/lazio_z39VbfmpNCElriI7gdIx.png"
-        },
-        "team_2": {
-          "name": "Lecce",
-          "logo": "logo/teams/lecce_EZcAfpxxytVd4QjVZMur.png"
-        },
-        "full_team_name": "Lazio 🆚 Lecce",
-        "sources": [
-          {
-            "id": 3283,
-            "name": "beIN Sport 3 - AUS",
-            "description": null
-          },
-          {
-            "id": 3338,
-            "name": "CBS SPORTS Golazo",
-            "description": null
-          },
-          {
-            "id": 3669,
-            "name": "Fox Deportes",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 175,
-        "name": "Serie A",
-        "stage": null,
-        "logo": "logo/events/serie-a_562.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1763910000,
-        "end_time": 1763919000,
-        "show_duration": true,
-        "team_1": {
-          "name": "Internazionale",
-          "logo": "logo/teams/internazionale_2CwVe8TFyTB8etpuSs1V.png"
-        },
-        "team_2": {
-          "name": "AC Milan",
-          "logo": "logo/teams/ac-milan_BBQvGlF4Ys3t5YLUCeEu.png"
-        },
-        "full_team_name": "Internazionale 🆚 AC Milan",
-        "sources": [
-          {
-            "id": 3272,
-            "name": "Starzplay Sports 1",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 73,
-        "name": "Serie A",
-        "stage": null,
-        "logo": "logo/events/serie-a_562.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1764005400,
-        "end_time": 1764014400,
-        "show_duration": true,
-        "team_1": {
-          "name": "Torino",
-          "logo": "logo/teams/torino_1t5rKnzvXh5aNoneNsRI.png"
-        },
-        "team_2": {
-          "name": "Como",
-          "logo": "logo/teams/como_mRRoVFoOpOTOv2lZt6j9.png"
-        },
-        "full_team_name": "Torino 🆚 Como",
-        "sources": [
-          {
-            "id": 3283,
-            "name": "beIN Sport 3 - AUS",
-            "description": null
-          },
-          {
-            "id": 3669,
-            "name": "Fox Deportes",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 7,
-        "name": "Serie A",
-        "stage": null,
-        "logo": "logo/events/serie-a_562.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1764013500,
-        "end_time": 1764022500,
-        "show_duration": true,
-        "team_1": {
-          "name": "Pisa",
-          "logo": "logo/teams/pisa_xp72Xeorj8IoN3cgf16j.png"
-        },
-        "team_2": {
-          "name": "Sassuolo",
-          "logo": "logo/teams/sassuolo_sEUwnMmvt83dg7i7hZwd.png"
-        },
-        "full_team_name": "Pisa 🆚 Sassuolo",
-        "sources": [
-          {
-            "id": 3283,
-            "name": "beIN Sport 3 - AUS",
-            "description": null
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": 13,
-    "name": "LA LIGA",
-    "logo": "logo/events/categories/la-liga_09FFBteASyl11hboQ8x9.png",
-    "type": "Football",
-    "items": [
-      {
-        "id": 214,
-        "name": "LALIGA",
-        "stage": null,
-        "logo": "logo/events/sevilla-villarreal_wqSkWfYjIH5dihHm8c1A.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1763902800,
-        "end_time": 1763911800,
-        "show_duration": true,
-        "team_1": {
-          "name": "Rayo Vallecano",
-          "logo": "logo/teams/rayo-vallecano_uIHkJUDNU2ehDPrWwnhp.png"
-        },
-        "team_2": {
-          "name": "Real Oviedo",
-          "logo": "logo/teams/real-oviedo_51jeSpuF0f23HGcE4wiZ.png"
-        },
-        "full_team_name": "Rayo Vallecano 🆚 Real Oviedo",
-        "sources": [
-          {
-            "id": 2861,
-            "name": "Premier Sports 1 ",
-            "description": null
-          },
-          {
-            "id": 3043,
-            "name": "LALIGA TV",
-            "description": null
-          },
-          {
-            "id": 2665,
-            "name": "ZIGGO SPORT",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 281,
-        "name": "LALIGA",
-        "stage": null,
-        "logo": "logo/events/sevilla-villarreal_wqSkWfYjIH5dihHm8c1A.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1763910900,
-        "end_time": 1763919900,
-        "show_duration": true,
-        "team_1": {
-          "name": "Real Betis",
-          "logo": "logo/teams/real-betis_Zy9S6WZE2jtyrnfZiFK7.png"
-        },
-        "team_2": {
-          "name": "Girona",
-          "logo": "logo/teams/girona_JjwoRrzPtyq2ftaBwfvd.png"
-        },
-        "full_team_name": "Real Betis 🆚 Girona",
-        "sources": [
-          {
-            "id": 3289,
-            "name": "beIN Sport 2 - AUS",
-            "description": null
-          },
-          {
-            "id": 2861,
-            "name": "Premier Sports 1 ",
-            "description": null
-          },
-          {
-            "id": 3043,
-            "name": "LALIGA TV",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 216,
-        "name": "LALIGA",
-        "stage": null,
-        "logo": "logo/events/sevilla-villarreal_wqSkWfYjIH5dihHm8c1A.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1763919000,
-        "end_time": 1763928000,
-        "show_duration": true,
-        "team_1": {
-          "name": "Atlético Madrid",
-          "logo": "logo/teams/atletico-madrid_4CExDv7KUcKomWVKyjxf.png"
-        },
-        "team_2": {
-          "name": "Getafe",
-          "logo": "logo/teams/getafe_2WBLafh19iutvJiJ5OgN.png"
-        },
-        "full_team_name": "Atlético Madrid 🆚 Getafe",
-        "sources": [
-          {
-            "id": 2861,
-            "name": "Premier Sports 1 ",
-            "description": null
-          },
-          {
-            "id": 3289,
-            "name": "beIN Sport 2 - AUS",
-            "description": null
-          },
-          {
-            "id": 3043,
-            "name": "LALIGA TV",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 66,
-        "name": "LALIGA",
-        "stage": null,
-        "logo": "logo/events/sevilla-villarreal_wqSkWfYjIH5dihHm8c1A.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1763928000,
-        "end_time": 1763937000,
-        "show_duration": true,
-        "team_1": {
-          "name": "Real Madrid",
-          "logo": "logo/teams/real-madrid_CUgA3ukonrMdp3gfsRbJ.png"
-        },
-        "team_2": {
-          "name": "Elche",
-          "logo": "logo/teams/elche_j1S95zmn1prBiAUxUYuy.png"
-        },
-        "full_team_name": "Real Madrid 🆚 Elche",
-        "sources": [
-          {
-            "id": 2861,
-            "name": "Premier Sports 1 ",
-            "description": null
-          },
-          {
-            "id": 3289,
-            "name": "beIN Sport 2 - AUS",
-            "description": null
-          },
-          {
-            "id": 3043,
-            "name": "LALIGA TV",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 204,
-        "name": "LALIGA",
-        "stage": null,
-        "logo": "logo/events/sevilla-villarreal_wqSkWfYjIH5dihHm8c1A.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1764014400,
-        "end_time": 1764023400,
-        "show_duration": true,
-        "team_1": {
-          "name": "Espanyol",
-          "logo": "logo/teams/espanyol_YRX1tfHvMxMw3umCf9l7.png"
-        },
-        "team_2": {
-          "name": "Sevilla",
-          "logo": "logo/teams/sevilla_iuTiMvXQliW7v1Q5A5Xd.png"
-        },
-        "full_team_name": "Espanyol 🆚 Sevilla",
-        "sources": [
-          {
-            "id": 3289,
-            "name": "beIN Sport 2 - AUS",
-            "description": null
-          },
-          {
-            "id": 2861,
-            "name": "Premier Sports 1 ",
-            "description": null
-          },
-          {
-            "id": 3043,
-            "name": "LALIGA TV",
-            "description": null
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": 16,
-    "name": "Bundesliga",
-    "logo": "logo/events/categories/bundesliga_TUnq97qHRnlbiCVmw2bE.png",
-    "type": "Football",
-    "items": [
-      {
-        "id": 196,
-        "name": "RB Leipzig 🆚 Werder Bremen",
-        "stage": null,
-        "logo": "logo/events/hoffenheim-bayer-leverkusen_W0M2W6UxsD7TsKSPbJB3.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "football",
-        "start_time": 1763908200,
-        "end_time": 1763917200,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3464,
-            "name": "beIN Sport 6 MAX - FR",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 101,
-        "name": "St. Pauli 🆚 Union Berlin",
-        "stage": null,
-        "logo": "logo/events/hoffenheim-bayer-leverkusen_W0M2W6UxsD7TsKSPbJB3.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "football",
-        "start_time": 1763915400,
-        "end_time": 1763924400,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3466,
-            "name": "beIN Sport 8 MAX - FR",
-            "description": null
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": 48,
-    "name": "Bundesliga 2",
-    "logo": "logo/events/categories/bundesliga-2_tGbrOFPMKnV8Bo3aOQda.png",
-    "type": "Football",
-    "items": [
-      {
-        "id": 370,
-        "name": "Kaiserslautern 🆚 Holstein Kiel",
-        "stage": null,
-        "logo": "logo/events/elversberg-kaiserslautern_u7XcxXJ8sRFF8zKriQ0p.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "cricket",
-        "start_time": 1763901000,
-        "end_time": 1763910000,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3682,
-            "name": "LINK 1",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 371,
-        "name": "Karlsruher SC 🆚 Elversberg",
-        "stage": null,
-        "logo": "logo/events/elversberg-kaiserslautern_u7XcxXJ8sRFF8zKriQ0p.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "cricket",
-        "start_time": 1763901000,
-        "end_time": 1763910000,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3699,
-            "name": "LINK 1",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 367,
-        "name": "Nürnberg 🆚 Arminia Bielefeld",
-        "stage": null,
-        "logo": "logo/events/elversberg-kaiserslautern_u7XcxXJ8sRFF8zKriQ0p.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "cricket",
-        "start_time": 1763901000,
-        "end_time": 1763910000,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3684,
-            "name": "LINK 1",
-            "description": null
-          }
-        ]
-      }
-    ]
-  },
-  {
     "id": 10,
     "name": "Saudi Pro League",
     "logo": "logo/events/categories/saudi-pro-league_u7DXK6SUZP664JoFeYfB.png",
     "type": "Football",
     "items": [
-      {
-        "id": 373,
-        "name": "Al Akhdoud 🆚 Al Shabab",
-        "stage": null,
-        "logo": "logo/events/roshn-saudi-league_327.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "football",
-        "start_time": 1763910300,
-        "end_time": 1763919300,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3692,
-            "name": "LINK 2",
-            "description": null
-          }
-        ]
-      },
       {
         "id": 205,
         "name": "Al Nassr 🆚 Al Khaleej",
@@ -1113,6 +775,33 @@
     ]
   },
   {
+    "id": 16,
+    "name": "Bundesliga",
+    "logo": "logo/events/categories/bundesliga_TUnq97qHRnlbiCVmw2bE.png",
+    "type": "Football",
+    "items": [
+      {
+        "id": 101,
+        "name": "St. Pauli 🆚 Union Berlin",
+        "stage": null,
+        "logo": "logo/events/hoffenheim-bayer-leverkusen_W0M2W6UxsD7TsKSPbJB3.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1763915400,
+        "end_time": 1763924400,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3466,
+            "name": "beIN Sport 8 MAX - FR",
+            "description": null
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 44,
     "name": "FIFA U-17 World Cup",
     "logo": "logo/events/categories/fifa-club-world-cup_uKXWsqNaJmoeEKidZZbj.png",
@@ -1126,18 +815,18 @@
         "color": null,
         "type": "team",
         "sport_type": "football",
-        "start_time": 1763987400,
-        "end_time": 1763996400,
+        "start_time": 1763991000,
+        "end_time": 1764000000,
         "show_duration": true,
         "team_1": {
-          "name": "TBD",
-          "logo": "logo/teams/tbc_qLJZPLER7vt7ZS6pHxiO.png"
+          "name": "Austria",
+          "logo": "logo/teams/austria_yMerO0yop0GN0CWNzFKH.png"
         },
         "team_2": {
-          "name": "TBD",
-          "logo": "logo/teams/tbc_qLJZPLER7vt7ZS6pHxiO.png"
+          "name": "Italy",
+          "logo": "logo/teams/italy_mChUeuYcWwpL0H8ODZhh.png"
         },
-        "full_team_name": "TBD 🆚 TBD",
+        "full_team_name": "Austria 🆚 Italy",
         "sources": [
           {
             "id": 3666,
@@ -1149,23 +838,23 @@
       {
         "id": 340,
         "name": "FIFA U-17 World Cup",
-        "stage": null,
+        "stage": "Semi Final 2",
         "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
         "color": null,
         "type": "team",
         "sport_type": "football",
         "start_time": 1764000000,
-        "end_time": 1764009000,
+        "end_time": 1764000000,
         "show_duration": true,
         "team_1": {
-          "name": "TBD",
-          "logo": "logo/teams/tbc_qLJZPLER7vt7ZS6pHxiO.png"
+          "name": "Brazil",
+          "logo": "logo/teams/brazil_2gKRZsvaLKJcHbZ9zIEj.png"
         },
         "team_2": {
-          "name": "TBD",
-          "logo": "logo/teams/tbc_qLJZPLER7vt7ZS6pHxiO.png"
+          "name": "Portugal",
+          "logo": "logo/teams/portugal_Gs8ir1xWAj6XfWvhiFMb.png"
         },
-        "full_team_name": "TBD 🆚 TBD",
+        "full_team_name": "Brazil 🆚 Portugal",
         "sources": [
           {
             "id": 3666,
