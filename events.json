@@ -6,34 +6,6 @@
     "type": "Cricket",
     "items": [
       {
-        "id": 67,
-        "name": "England Lions tour of Australia",
-        "stage": "1st Test, Day 3",
-        "logo": "",
-        "color": null,
-        "type": "team",
-        "sport_type": "cricket",
-        "start_time": 1763863200,
-        "end_time": null,
-        "show_duration": true,
-        "team_1": {
-          "name": "England",
-          "logo": "logo/teams/england_lR9prItXfM5WG6lZqsOD.png"
-        },
-        "team_2": {
-          "name": "Australia",
-          "logo": "logo/teams/australia_ft0IHOvqYgEhT2QZC10y.png"
-        },
-        "full_team_name": "England 🆚 Australia",
-        "sources": [
-          {
-            "id": 902,
-            "name": "LINK 1",
-            "description": null
-          }
-        ]
-      },
-      {
         "id": 290,
         "name": "Ireland tour of Bangladesh",
         "stage": "2nd Test, Day 5",
@@ -83,13 +55,8 @@
         "full_team_name": "India 🆚 South Africa",
         "sources": [
           {
-            "id": 905,
+            "id": 902,
             "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 3202,
-            "name": "LINK 2",
             "description": null
           }
         ]
@@ -97,12 +64,12 @@
       {
         "id": 167,
         "name": "Womens Big Bash League",
-        "stage": "21st Match ",
+        "stage": "22nd Match ",
         "logo": "logo/events/big-bash-league_QJNd2FtoWKu1oQHodosi.png",
         "color": null,
         "type": "single",
         "sport_type": "cricket",
-        "start_time": 1763852400,
+        "start_time": 1763888400,
         "end_time": null,
         "show_duration": true,
         "sources": [
@@ -199,6 +166,34 @@
           {
             "id": 3654,
             "name": "LINK 2",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 67,
+        "name": "England Lions tour of Australia",
+        "stage": "1st Test, Day 4",
+        "logo": "",
+        "color": null,
+        "type": "team",
+        "sport_type": "cricket",
+        "start_time": 1763949600,
+        "end_time": null,
+        "show_duration": true,
+        "team_1": {
+          "name": "England",
+          "logo": "logo/teams/england_lR9prItXfM5WG6lZqsOD.png"
+        },
+        "team_2": {
+          "name": "Australia",
+          "logo": "logo/teams/australia_ft0IHOvqYgEhT2QZC10y.png"
+        },
+        "full_team_name": "England 🆚 Australia",
+        "sources": [
+          {
+            "id": 902,
+            "name": "LINK 1",
             "description": null
           }
         ]
@@ -1046,33 +1041,6 @@
           {
             "id": 3684,
             "name": "LINK 1",
-            "description": null
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": 40,
-    "name": "A-League",
-    "logo": "logo/events/categories/a-league_b9wk9nYGrMKn27FGems1.webp",
-    "type": "Football",
-    "items": [
-      {
-        "id": 381,
-        "name": "Newcastle Jets 🆚 Perth Glory",
-        "stage": null,
-        "logo": "logo/events/adelaide-united-wellington-phoenix_v8jRJacsNUlN7dmoDsSj.webp",
-        "color": null,
-        "type": "single",
-        "sport_type": "cricket",
-        "start_time": 1763877600,
-        "end_time": 1763886600,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 908,
-            "name": "TNT Sports 3 (BT Sports)",
             "description": null
           }
         ]
