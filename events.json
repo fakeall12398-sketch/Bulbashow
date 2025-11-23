@@ -254,44 +254,6 @@
     "type": "Football",
     "items": [
       {
-        "id": 179,
-        "name": "Premier League",
-        "stage": null,
-        "logo": "logo/events/premier-league_653.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1763915400,
-        "end_time": 1763924400,
-        "show_duration": true,
-        "team_1": {
-          "name": "Arsenal",
-          "logo": "logo/teams/arsenal_fc6aAPzStsGPPVTcPQMZ.png"
-        },
-        "team_2": {
-          "name": "Tottenham Hotspur",
-          "logo": "logo/teams/tottenham-hotspur_wRuMqVZrIxbbxVAzReN9.png"
-        },
-        "full_team_name": "Arsenal 🆚 Tottenham Hotspur",
-        "sources": [
-          {
-            "id": 981,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 3683,
-            "name": "LINK 2",
-            "description": null
-          },
-          {
-            "id": 3485,
-            "name": "LINK 3",
-            "description": null
-          }
-        ]
-      },
-      {
         "id": 164,
         "name": "Premier League",
         "stage": null,
@@ -455,44 +417,6 @@
     "type": "Football",
     "items": [
       {
-        "id": 124,
-        "name": "Serie A",
-        "stage": null,
-        "logo": "logo/events/serie-a_562.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1763917200,
-        "end_time": 1763926200,
-        "show_duration": true,
-        "team_1": {
-          "name": "Lazio",
-          "logo": "logo/teams/lazio_z39VbfmpNCElriI7gdIx.png"
-        },
-        "team_2": {
-          "name": "Lecce",
-          "logo": "logo/teams/lecce_EZcAfpxxytVd4QjVZMur.png"
-        },
-        "full_team_name": "Lazio 🆚 Lecce",
-        "sources": [
-          {
-            "id": 3283,
-            "name": "beIN Sport 3 - AUS",
-            "description": null
-          },
-          {
-            "id": 3338,
-            "name": "CBS SPORTS Golazo",
-            "description": null
-          },
-          {
-            "id": 3669,
-            "name": "Fox Deportes",
-            "description": null
-          }
-        ]
-      },
-      {
         "id": 175,
         "name": "Serie A",
         "stage": null,
@@ -514,13 +438,13 @@
         "full_team_name": "Internazionale 🆚 AC Milan",
         "sources": [
           {
-            "id": 3669,
-            "name": "Fox Deportes",
+            "id": 3283,
+            "name": "beIN Sport 3 - AUS",
             "description": null
           },
           {
-            "id": 3283,
-            "name": "beIN Sport 3 - AUS",
+            "id": 3669,
+            "name": "Fox Deportes",
             "description": null
           }
         ]
@@ -547,13 +471,13 @@
         "full_team_name": "Torino 🆚 Como",
         "sources": [
           {
-            "id": 3283,
-            "name": "beIN Sport 3 - AUS",
+            "id": 3669,
+            "name": "Fox Deportes",
             "description": null
           },
           {
-            "id": 3669,
-            "name": "Fox Deportes",
+            "id": 3283,
+            "name": "beIN Sport 3 - AUS",
             "description": null
           }
         ]
@@ -669,33 +593,6 @@
           {
             "id": 3693,
             "name": "Thmanyah",
-            "description": null
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": 16,
-    "name": "Bundesliga",
-    "logo": "logo/events/categories/bundesliga_TUnq97qHRnlbiCVmw2bE.png",
-    "type": "Football",
-    "items": [
-      {
-        "id": 101,
-        "name": "St. Pauli 🆚 Union Berlin",
-        "stage": null,
-        "logo": "logo/events/hoffenheim-bayer-leverkusen_W0M2W6UxsD7TsKSPbJB3.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "football",
-        "start_time": 1763915400,
-        "end_time": 1763924400,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3466,
-            "name": "beIN Sport 8 MAX - FR",
             "description": null
           }
         ]
