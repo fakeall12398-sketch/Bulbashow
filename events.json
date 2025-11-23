@@ -264,34 +264,6 @@
     "type": "Football",
     "items": [
       {
-        "id": 64,
-        "name": "Premier League",
-        "stage": null,
-        "logo": "logo/events/premier-league_653.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1763832600,
-        "end_time": 1763841600,
-        "show_duration": true,
-        "team_1": {
-          "name": "Manchester City",
-          "logo": "logo/teams/manchester-city_dULBNGyWBdlIi9PhjqbC.png"
-        },
-        "team_2": {
-          "name": "Newcastle United",
-          "logo": "logo/teams/newcastle-united_qG9rETosUsgCorWNBlog.png"
-        },
-        "full_team_name": "Manchester City 🆚 Newcastle United",
-        "sources": [
-          {
-            "id": 981,
-            "name": "SKY SPORTS  Premier League",
-            "description": null
-          }
-        ]
-      },
-      {
         "id": 77,
         "name": "Premier League",
         "stage": null,
@@ -361,6 +333,39 @@
             "description": null
           }
         ]
+      },
+      {
+        "id": 164,
+        "name": "Premier League",
+        "stage": null,
+        "logo": "logo/events/premier-league_653.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1764014400,
+        "end_time": 1764023400,
+        "show_duration": true,
+        "team_1": {
+          "name": "Manchester United",
+          "logo": "logo/teams/manchester-united_iJc37lFllOk8N6EP8gAF.png"
+        },
+        "team_2": {
+          "name": "Everton",
+          "logo": "logo/teams/everton_5cRKu7aLE5iyDE8ZWKnA.png"
+        },
+        "full_team_name": "Manchester United 🆚 Everton",
+        "sources": [
+          {
+            "id": 981,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3485,
+            "name": "FUBO Sports",
+            "description": null
+          }
+        ]
       }
     ]
   },
@@ -370,67 +375,6 @@
     "logo": "logo/events/categories/ligue-1_5qqt6renj8lsMs1YGSmI.png",
     "type": "Football",
     "items": [
-      {
-        "id": 71,
-        "name": "Ligue 1",
-        "stage": null,
-        "logo": "logo/events/ligue-1_338.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1763834400,
-        "end_time": 1763843400,
-        "show_duration": true,
-        "team_1": {
-          "name": "Rennes",
-          "logo": "logo/teams/rennes_SIovruEQdZbRTfRYp6Vx.png"
-        },
-        "team_2": {
-          "name": "Monaco",
-          "logo": "logo/teams/monaco_3OpFAHbszyvVUmTbamFa.png"
-        },
-        "full_team_name": "Rennes 🆚 Monaco",
-        "sources": [
-          {
-            "id": 3652,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 3721,
-            "name": "LINK 2",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 213,
-        "name": "Ligue 1",
-        "stage": null,
-        "logo": "logo/events/ligue-1_338.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1763841900,
-        "end_time": 1763850900,
-        "show_duration": true,
-        "team_1": {
-          "name": "PSG",
-          "logo": "logo/teams/psg_gPACrkwZo7y4GwFBYJlm.png"
-        },
-        "team_2": {
-          "name": "Le Havre",
-          "logo": "logo/teams/le-havre_ruBqgF1Q4zFILvZcdJZv.png"
-        },
-        "full_team_name": "PSG 🆚 Le Havre",
-        "sources": [
-          {
-            "id": 3721,
-            "name": "LINK 2",
-            "description": null
-          }
-        ]
-      },
       {
         "id": 100,
         "name": "Ligue 1",
@@ -600,77 +544,6 @@
     "type": "Football",
     "items": [
       {
-        "id": 212,
-        "name": "Serie A",
-        "stage": null,
-        "logo": "logo/events/serie-a_562.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1763830800,
-        "end_time": 1763839800,
-        "show_duration": true,
-        "team_1": {
-          "name": "Juventus",
-          "logo": "logo/teams/juventus_1WZ6BUDiLNixSnojyYvv.png"
-        },
-        "team_2": {
-          "name": "Fiorentina",
-          "logo": "logo/teams/fiorentina_QbvrwRJXJf2f8PHVcgek.png"
-        },
-        "full_team_name": "Juventus 🆚 Fiorentina",
-        "sources": [
-          {
-            "id": 3669,
-            "name": "Fox Deportes",
-            "description": null
-          },
-          {
-            "id": 3283,
-            "name": "beIN Sport 3 - AUS",
-            "description": null
-          },
-          {
-            "id": 3338,
-            "name": "CBS SPORTS Golazo",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 96,
-        "name": "Serie A",
-        "stage": null,
-        "logo": "logo/events/serie-a_562.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1763840700,
-        "end_time": 1763849700,
-        "show_duration": true,
-        "team_1": {
-          "name": "Napoli",
-          "logo": "logo/teams/napoli_NYdRhOCsu0S7p6Z3pnfO.png"
-        },
-        "team_2": {
-          "name": "Atalanta",
-          "logo": "logo/teams/atalanta_b0AAzCzjZ2ZxB0duJ34q.png"
-        },
-        "full_team_name": "Napoli 🆚 Atalanta",
-        "sources": [
-          {
-            "id": 3338,
-            "name": "CBS SPORTS Golazo",
-            "description": null
-          },
-          {
-            "id": 3283,
-            "name": "beIN Sport 3 - AUS",
-            "description": null
-          }
-        ]
-      },
-      {
         "id": 74,
         "name": "Serie A",
         "stage": null,
@@ -829,13 +702,41 @@
         "full_team_name": "Torino 🆚 Como",
         "sources": [
           {
-            "id": 3283,
-            "name": "beIN Sport 3 - AUS",
+            "id": 3669,
+            "name": "Fox Deportes",
             "description": null
           },
           {
-            "id": 3669,
-            "name": "Fox Deportes",
+            "id": 3283,
+            "name": "beIN Sport 3 - AUS",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "name": "Serie A",
+        "stage": null,
+        "logo": "logo/events/serie-a_562.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1764013500,
+        "end_time": 1764022500,
+        "show_duration": true,
+        "team_1": {
+          "name": "Pisa",
+          "logo": "logo/teams/pisa_xp72Xeorj8IoN3cgf16j.png"
+        },
+        "team_2": {
+          "name": "Sassuolo",
+          "logo": "logo/teams/sassuolo_sEUwnMmvt83dg7i7hZwd.png"
+        },
+        "full_team_name": "Pisa 🆚 Sassuolo",
+        "sources": [
+          {
+            "id": 3283,
+            "name": "beIN Sport 3 - AUS",
             "description": null
           }
         ]
@@ -848,44 +749,6 @@
     "logo": "logo/events/categories/la-liga_09FFBteASyl11hboQ8x9.png",
     "type": "Football",
     "items": [
-      {
-        "id": 215,
-        "name": "LALIGA",
-        "stage": null,
-        "logo": "logo/events/sevilla-villarreal_wqSkWfYjIH5dihHm8c1A.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1763841600,
-        "end_time": 1763850600,
-        "show_duration": true,
-        "team_1": {
-          "name": "Mallorca",
-          "logo": "logo/teams/mallorca_x4uSrp0Fng6PKaKXJC5v.png"
-        },
-        "team_2": {
-          "name": "Villarreal",
-          "logo": "logo/teams/villarreal_9ztBwUV50RgNFebIe13O.png"
-        },
-        "full_team_name": "Mallorca 🆚 Villarreal",
-        "sources": [
-          {
-            "id": 3043,
-            "name": "LALIGA TV",
-            "description": null
-          },
-          {
-            "id": 3462,
-            "name": "beIN Sport 3 - FR",
-            "description": null
-          },
-          {
-            "id": 2558,
-            "name": "ZIGGO SPORT 2",
-            "description": null
-          }
-        ]
-      },
       {
         "id": 214,
         "name": "LALIGA",
@@ -1037,6 +900,44 @@
             "description": null
           }
         ]
+      },
+      {
+        "id": 204,
+        "name": "LALIGA",
+        "stage": null,
+        "logo": "logo/events/sevilla-villarreal_wqSkWfYjIH5dihHm8c1A.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1764014400,
+        "end_time": 1764023400,
+        "show_duration": true,
+        "team_1": {
+          "name": "Espanyol",
+          "logo": "logo/teams/espanyol_YRX1tfHvMxMw3umCf9l7.png"
+        },
+        "team_2": {
+          "name": "Sevilla",
+          "logo": "logo/teams/sevilla_iuTiMvXQliW7v1Q5A5Xd.png"
+        },
+        "full_team_name": "Espanyol 🆚 Sevilla",
+        "sources": [
+          {
+            "id": 3289,
+            "name": "beIN Sport 2 - AUS",
+            "description": null
+          },
+          {
+            "id": 2861,
+            "name": "Premier Sports 1 ",
+            "description": null
+          },
+          {
+            "id": 3043,
+            "name": "LALIGA TV",
+            "description": null
+          }
+        ]
       }
     ]
   },
@@ -1046,30 +947,6 @@
     "logo": "logo/events/categories/bundesliga_TUnq97qHRnlbiCVmw2bE.png",
     "type": "Football",
     "items": [
-      {
-        "id": 95,
-        "name": "Köln 🆚 Eintracht Frankfurt",
-        "stage": null,
-        "logo": "logo/events/hoffenheim-bayer-leverkusen_W0M2W6UxsD7TsKSPbJB3.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "football",
-        "start_time": 1763832600,
-        "end_time": 1763841600,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3683,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 3463,
-            "name": "LINK 2",
-            "description": null
-          }
-        ]
-      },
       {
         "id": 196,
         "name": "RB Leipzig 🆚 Werder Bremen",
@@ -1116,25 +993,6 @@
     "logo": "logo/events/categories/bundesliga-2_tGbrOFPMKnV8Bo3aOQda.png",
     "type": "Football",
     "items": [
-      {
-        "id": 317,
-        "name": "Darmstadt 98 🆚 Greuther Fürth",
-        "stage": null,
-        "logo": "logo/events/elversberg-kaiserslautern_u7XcxXJ8sRFF8zKriQ0p.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "cricket",
-        "start_time": 1763839800,
-        "end_time": 1763848800,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3683,
-            "name": "LINK 1",
-            "description": null
-          }
-        ]
-      },
       {
         "id": 370,
         "name": "Kaiserslautern 🆚 Holstein Kiel",
