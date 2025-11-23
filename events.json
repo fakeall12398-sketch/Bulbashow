@@ -702,13 +702,13 @@
         "full_team_name": "Torino 🆚 Como",
         "sources": [
           {
-            "id": 3669,
-            "name": "Fox Deportes",
+            "id": 3283,
+            "name": "beIN Sport 3 - AUS",
             "description": null
           },
           {
-            "id": 3283,
-            "name": "beIN Sport 3 - AUS",
+            "id": 3669,
+            "name": "Fox Deportes",
             "description": null
           }
         ]
@@ -1058,25 +1058,6 @@
     "logo": "logo/events/categories/a-league_b9wk9nYGrMKn27FGems1.webp",
     "type": "Football",
     "items": [
-      {
-        "id": 270,
-        "name": "Auckland 🆚 Brisbane Roar",
-        "stage": null,
-        "logo": "logo/events/adelaide-united-wellington-phoenix_v8jRJacsNUlN7dmoDsSj.webp",
-        "color": null,
-        "type": "single",
-        "sport_type": "cricket",
-        "start_time": 1763863200,
-        "end_time": 1763872200,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 908,
-            "name": "TNT Sports 3 (BT Sports)",
-            "description": null
-          }
-        ]
-      },
       {
         "id": 381,
         "name": "Newcastle Jets 🆚 Perth Glory",
