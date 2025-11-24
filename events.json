@@ -295,44 +295,6 @@
     "type": "Football",
     "items": [
       {
-        "id": 66,
-        "name": "LALIGA",
-        "stage": null,
-        "logo": "logo/events/sevilla-villarreal_wqSkWfYjIH5dihHm8c1A.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1763928000,
-        "end_time": 1763937000,
-        "show_duration": true,
-        "team_1": {
-          "name": "Real Madrid",
-          "logo": "logo/teams/real-madrid_CUgA3ukonrMdp3gfsRbJ.png"
-        },
-        "team_2": {
-          "name": "Elche",
-          "logo": "logo/teams/elche_j1S95zmn1prBiAUxUYuy.png"
-        },
-        "full_team_name": "Real Madrid 🆚 Elche",
-        "sources": [
-          {
-            "id": 2861,
-            "name": "Premier Sports 1 ",
-            "description": null
-          },
-          {
-            "id": 3289,
-            "name": "beIN Sport 2 - AUS",
-            "description": null
-          },
-          {
-            "id": 3043,
-            "name": "LALIGA TV",
-            "description": null
-          }
-        ]
-      },
-      {
         "id": 204,
         "name": "LALIGA",
         "stage": null,
@@ -378,39 +340,6 @@
     "logo": "logo/events/categories/serie-a_I13YO3O5lVJj1vhJRU6w.png",
     "type": "Football",
     "items": [
-      {
-        "id": 175,
-        "name": "Serie A",
-        "stage": null,
-        "logo": "logo/events/serie-a_562.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1763927100,
-        "end_time": 1763936100,
-        "show_duration": true,
-        "team_1": {
-          "name": "Internazionale",
-          "logo": "logo/teams/internazionale_2CwVe8TFyTB8etpuSs1V.png"
-        },
-        "team_2": {
-          "name": "AC Milan",
-          "logo": "logo/teams/ac-milan_BBQvGlF4Ys3t5YLUCeEu.png"
-        },
-        "full_team_name": "Internazionale 🆚 AC Milan",
-        "sources": [
-          {
-            "id": 3283,
-            "name": "beIN Sport 3 - AUS",
-            "description": null
-          },
-          {
-            "id": 3669,
-            "name": "Fox Deportes",
-            "description": null
-          }
-        ]
-      },
       {
         "id": 73,
         "name": "Serie A",
@@ -468,47 +397,6 @@
           {
             "id": 3283,
             "name": "beIN Sport 3 - AUS",
-            "description": null
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": 12,
-    "name": "Ligue 1",
-    "logo": "logo/events/categories/ligue-1_5qqt6renj8lsMs1YGSmI.png",
-    "type": "Football",
-    "items": [
-      {
-        "id": 97,
-        "name": "Ligue 1",
-        "stage": null,
-        "logo": "logo/events/ligue-1_338.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1763927100,
-        "end_time": 1763936100,
-        "show_duration": true,
-        "team_1": {
-          "name": "Lille",
-          "logo": "logo/teams/lille_dfhDvSeQB5ldB3YRUDzk.png"
-        },
-        "team_2": {
-          "name": "Paris",
-          "logo": "logo/teams/paris_ytqXEPsNf7QpbJ4HTLGl.png"
-        },
-        "full_team_name": "Lille 🆚 Paris",
-        "sources": [
-          {
-            "id": 3652,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 3721,
-            "name": "LINK 2",
             "description": null
           }
         ]
