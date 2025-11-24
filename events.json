@@ -248,47 +248,6 @@
     ]
   },
   {
-    "id": 11,
-    "name": "Premier League",
-    "logo": "logo/events/categories/premier-league_DxTuHXdZHzmgURaJXIV3.png",
-    "type": "Football",
-    "items": [
-      {
-        "id": 164,
-        "name": "Premier League",
-        "stage": null,
-        "logo": "logo/events/premier-league_653.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1764014400,
-        "end_time": 1764023400,
-        "show_duration": true,
-        "team_1": {
-          "name": "Manchester United",
-          "logo": "logo/teams/manchester-united_iJc37lFllOk8N6EP8gAF.png"
-        },
-        "team_2": {
-          "name": "Everton",
-          "logo": "logo/teams/everton_5cRKu7aLE5iyDE8ZWKnA.png"
-        },
-        "full_team_name": "Manchester United 🆚 Everton",
-        "sources": [
-          {
-            "id": 981,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 3485,
-            "name": "FUBO Sports",
-            "description": null
-          }
-        ]
-      }
-    ]
-  },
-  {
     "id": 13,
     "name": "LA LIGA",
     "logo": "logo/events/categories/la-liga_09FFBteASyl11hboQ8x9.png",
@@ -335,6 +294,47 @@
     ]
   },
   {
+    "id": 11,
+    "name": "Premier League",
+    "logo": "logo/events/categories/premier-league_DxTuHXdZHzmgURaJXIV3.png",
+    "type": "Football",
+    "items": [
+      {
+        "id": 164,
+        "name": "Premier League",
+        "stage": null,
+        "logo": "logo/events/premier-league_653.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1764014400,
+        "end_time": 1764023400,
+        "show_duration": true,
+        "team_1": {
+          "name": "Manchester United",
+          "logo": "logo/teams/manchester-united_iJc37lFllOk8N6EP8gAF.png"
+        },
+        "team_2": {
+          "name": "Everton",
+          "logo": "logo/teams/everton_5cRKu7aLE5iyDE8ZWKnA.png"
+        },
+        "full_team_name": "Manchester United 🆚 Everton",
+        "sources": [
+          {
+            "id": 981,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3485,
+            "name": "FUBO Sports",
+            "description": null
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 14,
     "name": "Serie A",
     "logo": "logo/events/categories/serie-a_I13YO3O5lVJj1vhJRU6w.png",
@@ -362,13 +362,13 @@
         "full_team_name": "Torino 🆚 Como",
         "sources": [
           {
-            "id": 3669,
-            "name": "Fox Deportes",
+            "id": 3283,
+            "name": "beIN Sport 3 - AUS",
             "description": null
           },
           {
-            "id": 3283,
-            "name": "beIN Sport 3 - AUS",
+            "id": 3669,
+            "name": "Fox Deportes",
             "description": null
           }
         ]
@@ -397,70 +397,6 @@
           {
             "id": 3283,
             "name": "beIN Sport 3 - AUS",
-            "description": null
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": 44,
-    "name": "FIFA U-17 World Cup",
-    "logo": "logo/events/categories/fifa-club-world-cup_uKXWsqNaJmoeEKidZZbj.png",
-    "type": "Football",
-    "items": [
-      {
-        "id": 302,
-        "name": "FIFA U-17 World Cup",
-        "stage": "Semi Final 1",
-        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1763991000,
-        "end_time": 1764000000,
-        "show_duration": true,
-        "team_1": {
-          "name": "Austria",
-          "logo": "logo/teams/austria_yMerO0yop0GN0CWNzFKH.png"
-        },
-        "team_2": {
-          "name": "Italy",
-          "logo": "logo/teams/italy_mChUeuYcWwpL0H8ODZhh.png"
-        },
-        "full_team_name": "Austria 🆚 Italy",
-        "sources": [
-          {
-            "id": 3666,
-            "name": "LINK 1",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 340,
-        "name": "FIFA U-17 World Cup",
-        "stage": "Semi Final 2",
-        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1764000000,
-        "end_time": 1764000000,
-        "show_duration": true,
-        "team_1": {
-          "name": "Brazil",
-          "logo": "logo/teams/brazil_2gKRZsvaLKJcHbZ9zIEj.png"
-        },
-        "team_2": {
-          "name": "Portugal",
-          "logo": "logo/teams/portugal_Gs8ir1xWAj6XfWvhiFMb.png"
-        },
-        "full_team_name": "Brazil 🆚 Portugal",
-        "sources": [
-          {
-            "id": 3666,
-            "name": "LINK 1",
             "description": null
           }
         ]
