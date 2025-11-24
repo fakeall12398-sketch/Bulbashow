@@ -6,94 +6,14 @@
     "type": "Cricket",
     "items": [
       {
-        "id": 24,
-        "name": "Asia Cup Rising Stars",
-        "stage": "FINAL",
-        "logo": "logo/events/asia-cup-rising-stars_Ivt2t3mPEHjABJn8UaJr.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "cricket",
-        "start_time": 1763908200,
-        "end_time": null,
-        "show_duration": false,
-        "team_1": {
-          "name": "Bangladesh A",
-          "logo": "logo/teams/bangladesh_9mfG8dxYyOTt53INypBM.png"
-        },
-        "team_2": {
-          "name": "Pakisthan A",
-          "logo": "logo/teams/pakisthan_QCFdXH7TItyN21PE72wI.png"
-        },
-        "full_team_name": "Bangladesh A 🆚 Pakisthan A",
-        "sources": [
-          {
-            "id": 3202,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 3790,
-            "name": "LINK 2 - LIV",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 112,
-        "name": "Abu Dhabi T10 League",
-        "stage": null,
-        "logo": "logo/events/abu-dhabi-t10-league_zWRjqSGQK2KVDq5oJUIS.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "cricket",
-        "start_time": 1763913600,
-        "end_time": null,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 2862,
-            "name": "LINK 1",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 67,
-        "name": "England Lions tour of Australia",
-        "stage": "1st Test, Day 4",
-        "logo": "",
-        "color": null,
-        "type": "team",
-        "sport_type": "cricket",
-        "start_time": 1763949600,
-        "end_time": null,
-        "show_duration": true,
-        "team_1": {
-          "name": "England",
-          "logo": "logo/teams/england_lR9prItXfM5WG6lZqsOD.png"
-        },
-        "team_2": {
-          "name": "Australia",
-          "logo": "logo/teams/australia_ft0IHOvqYgEhT2QZC10y.png"
-        },
-        "full_team_name": "England 🆚 Australia",
-        "sources": [
-          {
-            "id": 902,
-            "name": "LINK 1",
-            "description": null
-          }
-        ]
-      },
-      {
         "id": 22,
         "name": "South Africa tour of India",
-        "stage": "2nd Test, Day 3",
+        "stage": "2nd Test, Day 4",
         "logo": "",
         "color": null,
         "type": "team",
         "sport_type": "cricket",
-        "start_time": 1763955000,
+        "start_time": 1764041400,
         "end_time": null,
         "show_duration": true,
         "team_1": {
@@ -161,6 +81,25 @@
           {
             "id": 3654,
             "name": "LINK 2",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 112,
+        "name": "Abu Dhabi T10 League",
+        "stage": null,
+        "logo": "logo/events/abu-dhabi-t10-league_zWRjqSGQK2KVDq5oJUIS.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "cricket",
+        "start_time": 1764078300,
+        "end_time": null,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 2862,
+            "name": "LINK 1",
             "description": null
           }
         ]
@@ -340,39 +279,6 @@
     "logo": "logo/events/categories/serie-a_I13YO3O5lVJj1vhJRU6w.png",
     "type": "Football",
     "items": [
-      {
-        "id": 73,
-        "name": "Serie A",
-        "stage": null,
-        "logo": "logo/events/serie-a_562.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1764005400,
-        "end_time": 1764014400,
-        "show_duration": true,
-        "team_1": {
-          "name": "Torino",
-          "logo": "logo/teams/torino_1t5rKnzvXh5aNoneNsRI.png"
-        },
-        "team_2": {
-          "name": "Como",
-          "logo": "logo/teams/como_mRRoVFoOpOTOv2lZt6j9.png"
-        },
-        "full_team_name": "Torino 🆚 Como",
-        "sources": [
-          {
-            "id": 3283,
-            "name": "beIN Sport 3 - AUS",
-            "description": null
-          },
-          {
-            "id": 3669,
-            "name": "Fox Deportes",
-            "description": null
-          }
-        ]
-      },
       {
         "id": 7,
         "name": "Serie A",
