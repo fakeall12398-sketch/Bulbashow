@@ -6,25 +6,25 @@
     "type": "Cricket",
     "items": [
       {
-        "id": 102,
-        "name": "Nepal Premier League",
-        "stage": "11th Match",
-        "logo": "logo/events/nepal-premier-league_KuGV0wJozNuqK86ypAr5.png",
+        "id": 112,
+        "name": "Abu Dhabi T10 League",
+        "stage": null,
+        "logo": "logo/events/abu-dhabi-t10-league_zWRjqSGQK2KVDq5oJUIS.png",
         "color": null,
         "type": "single",
         "sport_type": "cricket",
-        "start_time": 1764065700,
+        "start_time": 1764078300,
         "end_time": null,
         "show_duration": true,
         "sources": [
           {
-            "id": 3792,
-            "name": "LINK 1 - BD",
+            "id": 2861,
+            "name": "LINK 1",
             "description": null
           },
           {
-            "id": 3793,
-            "name": "LINK 2 - IN",
+            "id": 3195,
+            "name": "LINK 1",
             "description": null
           }
         ]
@@ -82,58 +82,6 @@
         ]
       },
       {
-        "id": 76,
-        "name": "Pakistan T20I Tri-Series",
-        "stage": "5th Match",
-        "logo": "",
-        "color": null,
-        "type": "team",
-        "sport_type": "cricket",
-        "start_time": 1764075600,
-        "end_time": null,
-        "show_duration": true,
-        "team_1": {
-          "name": "Zimbabwe",
-          "logo": "logo/teams/zimbabwe_1NrjbqGp14rS7YaZibaP.png"
-        },
-        "team_2": {
-          "name": "Sri Lanka",
-          "logo": "logo/teams/sri-lanka_oUuxxnRFqx3sjQ3WUtfY.jpg"
-        },
-        "full_team_name": "Zimbabwe 🆚 Sri Lanka",
-        "sources": [
-          {
-            "id": 3654,
-            "name": "LINK 2",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 112,
-        "name": "Abu Dhabi T10 League",
-        "stage": null,
-        "logo": "logo/events/abu-dhabi-t10-league_zWRjqSGQK2KVDq5oJUIS.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "cricket",
-        "start_time": 1764078300,
-        "end_time": null,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 2861,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 3195,
-            "name": "LINK 1",
-            "description": null
-          }
-        ]
-      },
-      {
         "id": 290,
         "name": "Ireland tour of Bangladesh",
         "stage": "1st T20I",
@@ -157,6 +105,34 @@
           {
             "id": 3541,
             "name": "LINK 1",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 76,
+        "name": "Pakistan T20I Tri-Series",
+        "stage": "6th Match",
+        "logo": "",
+        "color": null,
+        "type": "team",
+        "sport_type": "cricket",
+        "start_time": 1764248400,
+        "end_time": null,
+        "show_duration": true,
+        "team_1": {
+          "name": "Pakisthan",
+          "logo": "logo/teams/pakisthan_QCFdXH7TItyN21PE72wI.png"
+        },
+        "team_2": {
+          "name": "Sri Lanka",
+          "logo": "logo/teams/sri-lanka_oUuxxnRFqx3sjQ3WUtfY.jpg"
+        },
+        "full_team_name": "Pakisthan 🆚 Sri Lanka",
+        "sources": [
+          {
+            "id": 3654,
+            "name": "LINK 2",
             "description": null
           }
         ]
@@ -314,11 +290,6 @@
         "full_team_name": "Barcelona 🆚 Chelsea",
         "sources": [
           {
-            "id": 3648,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
             "id": 2665,
             "name": "ZIGGO SPORT",
             "description": null
@@ -429,7 +400,7 @@
         "name": "UEFA Champions League",
         "stage": null,
         "logo": "logo/events/juventus-psv_Quk9CbAnGkaxbrirFINV.png",
-        "color": "#FFD700",
+        "color": null,
         "type": "team",
         "sport_type": "football",
         "start_time": 1764100800,
@@ -453,6 +424,72 @@
           {
             "id": 3469,
             "name": "ZIGGO SPORT 5",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 199,
+        "name": "UEFA Champions League",
+        "stage": null,
+        "logo": "logo/events/juventus-psv_Quk9CbAnGkaxbrirFINV.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1764100800,
+        "end_time": 1764109800,
+        "show_duration": true,
+        "team_1": {
+          "name": "Athletic Club",
+          "logo": "logo/teams/athletic-club_IMrU8myTY6ecoOB2UlrJ.png"
+        },
+        "team_2": {
+          "name": "Slavia Praha",
+          "logo": "logo/teams/slavia-praha_VxYiNRnRFvgKjdxW4Oy1.svg"
+        },
+        "full_team_name": "Athletic Club 🆚 Slavia Praha",
+        "sources": [
+          {
+            "id": 881,
+            "name": "beIN Sport 8 - AR",
+            "description": null
+          },
+          {
+            "id": 2088,
+            "name": "Arena Sports 5 - BA",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 141,
+        "name": "UEFA Champions League",
+        "stage": null,
+        "logo": "logo/events/uefa_i2gGRxCyWtuczfdeHAEo.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1764100800,
+        "end_time": 1764109800,
+        "show_duration": true,
+        "team_1": {
+          "name": "Bodø / Glimt",
+          "logo": "logo/teams/bodo-glimt_X3hxQya5haH4injMTf0o.png"
+        },
+        "team_2": {
+          "name": "Juventus",
+          "logo": "logo/teams/juventus_1WZ6BUDiLNixSnojyYvv.png"
+        },
+        "full_team_name": "Bodø / Glimt 🆚 Juventus",
+        "sources": [
+          {
+            "id": 828,
+            "name": "Arena Sports 3 - BA",
+            "description": null
+          },
+          {
+            "id": 861,
+            "name": "beIN Sport 4 - AR",
             "description": null
           }
         ]
@@ -490,7 +527,7 @@
         "name": "UEFA Champions League",
         "stage": null,
         "logo": "logo/events/young-boys-aston-villa_TBYhsDy4LQeUHE1sx9JD.png",
-        "color": "#FFD700",
+        "color": null,
         "type": "team",
         "sport_type": "football",
         "start_time": 1764179100,
@@ -523,7 +560,7 @@
         "name": "UEFA Champions League",
         "stage": null,
         "logo": "logo/events/juventus-psv_Quk9CbAnGkaxbrirFINV.png",
-        "color": "#FFD700",
+        "color": null,
         "type": "team",
         "sport_type": "football",
         "start_time": 1764187200,
@@ -606,11 +643,6 @@
         "full_team_name": "Real Madrid 🆚 Olympiakos Piraeus",
         "sources": [
           {
-            "id": 3648,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
             "id": 3469,
             "name": "ZIGGO SPORT 5",
             "description": null
@@ -674,6 +706,72 @@
           {
             "id": 1036,
             "name": "ZIGGO SPORT 6",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 140,
+        "name": "UEFA Champions League",
+        "stage": null,
+        "logo": "logo/events/uefa_i2gGRxCyWtuczfdeHAEo.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1764187200,
+        "end_time": 1764196200,
+        "show_duration": true,
+        "team_1": {
+          "name": "Atalanta",
+          "logo": "logo/teams/atalanta_b0AAzCzjZ2ZxB0duJ34q.png"
+        },
+        "team_2": {
+          "name": "Eintracht Frankfurt",
+          "logo": "logo/teams/eintracht-frankfurt_naBThnJdvRzSaXNhh9s0.png"
+        },
+        "full_team_name": "Atalanta 🆚 Eintracht Frankfurt",
+        "sources": [
+          {
+            "id": 871,
+            "name": "beIN Sport 6 - AR",
+            "description": null
+          },
+          {
+            "id": 830,
+            "name": "Arena Sports 4 - BA",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 143,
+        "name": "UEFA Champions League",
+        "stage": null,
+        "logo": "logo/events/uefa_i2gGRxCyWtuczfdeHAEo.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1764187200,
+        "end_time": 1764196200,
+        "show_duration": true,
+        "team_1": {
+          "name": "Sporting CP",
+          "logo": "logo/teams/sporting-cp_PQMi5NFCoxA8N9XV6GVv.png"
+        },
+        "team_2": {
+          "name": "Club Brugge",
+          "logo": "logo/teams/club-brugge_qrmm9LloeBdhTHbfQ0kf.png"
+        },
+        "full_team_name": "Sporting CP 🆚 Club Brugge",
+        "sources": [
+          {
+            "id": 876,
+            "name": "beIN Sport 7 - AR",
+            "description": null
+          },
+          {
+            "id": 2088,
+            "name": "Arena Sports 5 - BA",
             "description": null
           }
         ]
@@ -765,6 +863,39 @@
           {
             "id": 3666,
             "name": "LINK 1",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 379,
+        "name": "FIFA U-17 World Cup",
+        "stage": "FINAL",
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1764259200,
+        "end_time": 1764259200,
+        "show_duration": true,
+        "team_1": {
+          "name": "TBD",
+          "logo": "logo/teams/tbc_qLJZPLER7vt7ZS6pHxiO.png"
+        },
+        "team_2": {
+          "name": "TBD",
+          "logo": "logo/teams/tbc_qLJZPLER7vt7ZS6pHxiO.png"
+        },
+        "full_team_name": "TBD 🆚 TBD",
+        "sources": [
+          {
+            "id": 2937,
+            "name": "SPORTV",
+            "description": null
+          },
+          {
+            "id": 3783,
+            "name": "LINK 2",
             "description": null
           }
         ]
