@@ -198,77 +198,6 @@
     "type": "Football",
     "items": [
       {
-        "id": 36,
-        "name": "UEFA Champions League",
-        "stage": null,
-        "logo": "logo/events/uefa-champions-league_SoMek7REXsG9ouH4HX7R.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1764092700,
-        "end_time": 1764101700,
-        "show_duration": true,
-        "team_1": {
-          "name": "Ajax",
-          "logo": "logo/teams/ajax_I8cDRI6sDPG9uM4wNyNJ.png"
-        },
-        "team_2": {
-          "name": "Benfica",
-          "logo": "logo/teams/benfica_p5HWa6SGYWDR2wcXVD9F.png"
-        },
-        "full_team_name": "Ajax 🆚 Benfica",
-        "sources": [
-          {
-            "id": 908,
-            "name": "TNT Sports 3 (BT Sports)",
-            "description": null
-          },
-          {
-            "id": 3338,
-            "name": "CBS SPORTS Golazo",
-            "description": null
-          },
-          {
-            "id": 2665,
-            "name": "ZIGGO SPORT",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 91,
-        "name": "UEFA Champions League",
-        "stage": null,
-        "logo": "logo/events/sporting-cp-lille_KgvODttvDnhYVMwg7dPs.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1764092700,
-        "end_time": 1764101700,
-        "show_duration": true,
-        "team_1": {
-          "name": "Union Saint-Gilloise",
-          "logo": "logo/teams/union-saint-gilloise_GxSUBEfbUyOKSCsHfUrY.png"
-        },
-        "team_2": {
-          "name": "Galatasaray",
-          "logo": "logo/teams/galatasaray_6tlTUhxbuFGXqCs6vp7W.png"
-        },
-        "full_team_name": "Union Saint-Gilloise 🆚 Galatasaray",
-        "sources": [
-          {
-            "id": 2053,
-            "name": "TNT Sports 4 (BT Sports)",
-            "description": null
-          },
-          {
-            "id": 2667,
-            "name": "ZIGGO SPORT 3",
-            "description": null
-          }
-        ]
-      },
-      {
         "id": 27,
         "name": "UEFA Champions League",
         "stage": null,
@@ -289,6 +218,11 @@
         },
         "full_team_name": "Barcelona 🆚 Chelsea",
         "sources": [
+          {
+            "id": 3424,
+            "name": "LINK 1",
+            "description": null
+          },
           {
             "id": 2665,
             "name": "ZIGGO SPORT",
@@ -450,6 +384,11 @@
         "full_team_name": "Athletic Club 🆚 Slavia Praha",
         "sources": [
           {
+            "id": 3425,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
             "id": 881,
             "name": "beIN Sport 8 - AR",
             "description": null
@@ -482,6 +421,11 @@
         },
         "full_team_name": "Bodø / Glimt 🆚 Juventus",
         "sources": [
+          {
+            "id": 3426,
+            "name": "LINK 1",
+            "description": null
+          },
           {
             "id": 828,
             "name": "Arena Sports 3 - BA",
