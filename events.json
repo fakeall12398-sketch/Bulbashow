@@ -13,7 +13,7 @@
         "color": null,
         "type": "single",
         "sport_type": "cricket",
-        "start_time": 1764078300,
+        "start_time": 1764243000,
         "end_time": null,
         "show_duration": true,
         "sources": [
@@ -25,58 +25,6 @@
           {
             "id": 3195,
             "name": "LINK 1",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 22,
-        "name": "South Africa tour of India",
-        "stage": "2nd Test, Day 5",
-        "logo": "",
-        "color": null,
-        "type": "team",
-        "sport_type": "cricket",
-        "start_time": 1764127800,
-        "end_time": null,
-        "show_duration": true,
-        "team_1": {
-          "name": "India",
-          "logo": "logo/teams/india_R8DzB45mwxgV921JfOUc.png"
-        },
-        "team_2": {
-          "name": "South Africa",
-          "logo": "logo/teams/south-africa_Ft4TOjd1f9xQlzGVM4a2.png"
-        },
-        "full_team_name": "India 🆚 South Africa",
-        "sources": [
-          {
-            "id": 902,
-            "name": "LINK 1",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 167,
-        "name": "Womens Big Bash League",
-        "stage": "24th Match ",
-        "logo": "logo/events/big-bash-league_QJNd2FtoWKu1oQHodosi.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "cricket",
-        "start_time": 1764130200,
-        "end_time": null,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3202,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 3533,
-            "name": "LINK 2",
             "description": null
           }
         ]
@@ -103,7 +51,7 @@
         "full_team_name": "Bangladesh 🆚 Ireland",
         "sources": [
           {
-            "id": 3541,
+            "id": 3195,
             "name": "LINK 1",
             "description": null
           }
@@ -133,6 +81,58 @@
           {
             "id": 3654,
             "name": "LINK 2",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 167,
+        "name": "Womens Big Bash League",
+        "stage": "26th Match ",
+        "logo": "logo/events/big-bash-league_QJNd2FtoWKu1oQHodosi.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "cricket",
+        "start_time": 1764304800,
+        "end_time": null,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3202,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3533,
+            "name": "LINK 2",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 22,
+        "name": "South Africa tour of India",
+        "stage": "1st ODI",
+        "logo": "",
+        "color": null,
+        "type": "team",
+        "sport_type": "cricket",
+        "start_time": 1764489600,
+        "end_time": null,
+        "show_duration": true,
+        "team_1": {
+          "name": "India",
+          "logo": "logo/teams/india_R8DzB45mwxgV921JfOUc.png"
+        },
+        "team_2": {
+          "name": "South Africa",
+          "logo": "logo/teams/south-africa_Ft4TOjd1f9xQlzGVM4a2.png"
+        },
+        "full_team_name": "India 🆚 South Africa",
+        "sources": [
+          {
+            "id": 902,
+            "name": "LINK 1",
             "description": null
           }
         ]
@@ -192,6 +192,132 @@
     ]
   },
   {
+    "id": 44,
+    "name": "FIFA U-17 World Cup",
+    "logo": "logo/events/categories/fifa-club-world-cup_uKXWsqNaJmoeEKidZZbj.png",
+    "type": "Football",
+    "items": [
+      {
+        "id": 378,
+        "name": "FIFA U-17 World Cup",
+        "stage": "Third Place",
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1764246600,
+        "end_time": 1764255600,
+        "show_duration": true,
+        "team_1": {
+          "name": "Brazil",
+          "logo": "logo/teams/brazil_2gKRZsvaLKJcHbZ9zIEj.png"
+        },
+        "team_2": {
+          "name": "Italy",
+          "logo": "logo/teams/italy_mChUeuYcWwpL0H8ODZhh.png"
+        },
+        "full_team_name": "Brazil 🆚 Italy",
+        "sources": [
+          {
+            "id": 3666,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 1805,
+            "name": "LINK 2",
+            "description": null
+          },
+          {
+            "id": 3783,
+            "name": "LINK 3",
+            "description": null
+          },
+          {
+            "id": 2937,
+            "name": "LINK 4",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 379,
+        "name": "FIFA U-17 World Cup",
+        "stage": "FINAL",
+        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1764259200,
+        "end_time": 1764259200,
+        "show_duration": true,
+        "team_1": {
+          "name": "Portugal",
+          "logo": "logo/teams/portugal_Gs8ir1xWAj6XfWvhiFMb.png"
+        },
+        "team_2": {
+          "name": "Austria",
+          "logo": "logo/teams/austria_yMerO0yop0GN0CWNzFKH.png"
+        },
+        "full_team_name": "Portugal 🆚 Austria",
+        "sources": [
+          {
+            "id": 3666,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 1805,
+            "name": "LINK 2",
+            "description": null
+          },
+          {
+            "id": 2750,
+            "name": "LINK 3",
+            "description": null
+          },
+          {
+            "id": 3783,
+            "name": "LINK 4",
+            "description": null
+          },
+          {
+            "id": 2937,
+            "name": "LINK 4",
+            "description": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "name": "Liga MX",
+    "logo": "logo/events/categories/liga-mx_9NgAE2moXr18M9dTzX16.png",
+    "type": "Football",
+    "items": [
+      {
+        "id": 356,
+        "name": "Guadalajara 🆚 Cruz Azul",
+        "stage": null,
+        "logo": "logo/events/puebla-pachuca_b2MU6rHq9XOT8tkBpPE0.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1764295620,
+        "end_time": 1764304620,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3456,
+            "name": "Universo",
+            "description": null
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 37,
     "name": "EFL Championship",
     "logo": "logo/events/categories/efl-championship_hWDkHuBlOH3M0hqEXMCx.png",
@@ -212,75 +338,6 @@
           {
             "id": 3289,
             "name": "beIN Sport 2 - AUS",
-            "description": null
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": 44,
-    "name": "FIFA U-17 World Cup",
-    "logo": "logo/events/categories/fifa-club-world-cup_uKXWsqNaJmoeEKidZZbj.png",
-    "type": "Football",
-    "items": [
-      {
-        "id": 378,
-        "name": "FIFA U-17 World Cup",
-        "stage": "Third Place",
-        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1764246600,
-        "end_time": 1764255600,
-        "show_duration": true,
-        "team_1": {
-          "name": "TBD",
-          "logo": "logo/teams/tbc_qLJZPLER7vt7ZS6pHxiO.png"
-        },
-        "team_2": {
-          "name": "TBD",
-          "logo": "logo/teams/tbc_qLJZPLER7vt7ZS6pHxiO.png"
-        },
-        "full_team_name": "TBD 🆚 TBD",
-        "sources": [
-          {
-            "id": 3666,
-            "name": "LINK 1",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 379,
-        "name": "FIFA U-17 World Cup",
-        "stage": "FINAL",
-        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1764259200,
-        "end_time": 1764259200,
-        "show_duration": true,
-        "team_1": {
-          "name": "TBD",
-          "logo": "logo/teams/tbc_qLJZPLER7vt7ZS6pHxiO.png"
-        },
-        "team_2": {
-          "name": "TBD",
-          "logo": "logo/teams/tbc_qLJZPLER7vt7ZS6pHxiO.png"
-        },
-        "full_team_name": "TBD 🆚 TBD",
-        "sources": [
-          {
-            "id": 2937,
-            "name": "SPORTV",
-            "description": null
-          },
-          {
-            "id": 3783,
-            "name": "LINK 2",
             "description": null
           }
         ]
