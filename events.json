@@ -217,49 +217,6 @@
     "type": "Football",
     "items": [
       {
-        "id": 378,
-        "name": "FIFA U-17 World Cup",
-        "stage": "Third Place",
-        "logo": "logo/events/los-angeles-fc-vs-america_6PBZCJGghzaNWqFOAvOg.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1764246600,
-        "end_time": 1764255600,
-        "show_duration": true,
-        "team_1": {
-          "name": "Brazil",
-          "logo": "logo/teams/brazil_2gKRZsvaLKJcHbZ9zIEj.png"
-        },
-        "team_2": {
-          "name": "Italy",
-          "logo": "logo/teams/italy_mChUeuYcWwpL0H8ODZhh.png"
-        },
-        "full_team_name": "Brazil 🆚 Italy",
-        "sources": [
-          {
-            "id": 3666,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 1805,
-            "name": "LINK 2",
-            "description": null
-          },
-          {
-            "id": 3783,
-            "name": "LINK 3",
-            "description": null
-          },
-          {
-            "id": 2937,
-            "name": "LINK 4",
-            "description": null
-          }
-        ]
-      },
-      {
         "id": 379,
         "name": "FIFA U-17 World Cup",
         "stage": "FINAL",
@@ -268,7 +225,7 @@
         "type": "team",
         "sport_type": "football",
         "start_time": 1764259200,
-        "end_time": 1764259200,
+        "end_time": 1764268200,
         "show_duration": true,
         "team_1": {
           "name": "Portugal",
@@ -291,7 +248,7 @@
             "description": null
           },
           {
-            "id": 2750,
+            "id": 2748,
             "name": "LINK 3",
             "description": null
           },
@@ -302,7 +259,7 @@
           },
           {
             "id": 2937,
-            "name": "LINK 4",
+            "name": "LINK 5",
             "description": null
           }
         ]
@@ -494,8 +451,8 @@
         "show_duration": true,
         "sources": [
           {
-            "id": 3432,
-            "name": "Arena Sports 2 - HR",
+            "id": 851,
+            "name": "beIN Sport 2 - AR",
             "description": null
           },
           {
@@ -504,8 +461,8 @@
             "description": null
           },
           {
-            "id": 851,
-            "name": "beIN Sport 2 - AR",
+            "id": 3432,
+            "name": "Arena Sports 2 - HR",
             "description": null
           }
         ]
@@ -675,13 +632,13 @@
         "full_team_name": "FCSB 🆚 Crvena Zvezda",
         "sources": [
           {
-            "id": 3431,
-            "name": "Arena Sports 1 - HR",
+            "id": 2546,
+            "name": "Arena Sports 3 Premium - BA",
             "description": null
           },
           {
-            "id": 2546,
-            "name": "Arena Sports 3 Premium - BA",
+            "id": 3431,
+            "name": "Arena Sports 1 - HR",
             "description": null
           },
           {
