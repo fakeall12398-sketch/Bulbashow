@@ -217,250 +217,6 @@
     "type": "Football",
     "items": [
       {
-        "id": 158,
-        "name": "UEFA Europa League",
-        "stage": null,
-        "logo": "logo/events/bayern-munchen-dinamo-zagreb_ndnI1DeigBFiVpqh9f1s.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1764265500,
-        "end_time": 1764272700,
-        "show_duration": true,
-        "team_1": {
-          "name": "Aston Villa",
-          "logo": "logo/teams/aston-villa_9BPRqMxn2Znvkj7pltfK.png"
-        },
-        "team_2": {
-          "name": "Young Boys",
-          "logo": "logo/teams/young-boys_5A95UIOiYkIiAEaYnUAU.png"
-        },
-        "full_team_name": "Aston Villa 🆚 Young Boys",
-        "sources": [
-          {
-            "id": 905,
-            "name": "TNT Sports 2 (BT Sports)",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 148,
-        "name": "UEFA Europa League",
-        "stage": null,
-        "logo": "logo/events/bayern-munchen-dinamo-zagreb_ndnI1DeigBFiVpqh9f1s.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1764265500,
-        "end_time": 1764272700,
-        "show_duration": true,
-        "team_1": {
-          "name": "Nice",
-          "logo": "logo/teams/nice_Iayy9Zi74iNiYmGPvIXP.png"
-        },
-        "team_2": {
-          "name": "Porto",
-          "logo": "logo/teams/porto_Bx7SWPZP3VZWhq3o5A30.png"
-        },
-        "full_team_name": "Nice 🆚 Porto",
-        "sources": [
-          {
-            "id": 3425,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 3469,
-            "name": "ZIGGO SPORT 5",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 154,
-        "name": "Roma 🆚 Midtjylland",
-        "stage": null,
-        "logo": "logo/events/bayern-munchen-dinamo-zagreb_ndnI1DeigBFiVpqh9f1s.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "football",
-        "start_time": 1764265500,
-        "end_time": 1764272700,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3424,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 851,
-            "name": "beIN Sport 2 - AR",
-            "description": null
-          },
-          {
-            "id": 2650,
-            "name": "DAZN 3 - POR",
-            "description": null
-          },
-          {
-            "id": 3432,
-            "name": "Arena Sports 2 - HR",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 147,
-        "name": "Fenerbahçe 🆚 Ferencváros",
-        "stage": null,
-        "logo": "logo/events/bayern-munchen-dinamo-zagreb_ndnI1DeigBFiVpqh9f1s.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "football",
-        "start_time": 1764265500,
-        "end_time": 1764272700,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3427,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 1036,
-            "name": "ZIGGO SPORT 6",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 150,
-        "name": "Feyenoord 🆚 Celtic",
-        "stage": null,
-        "logo": "logo/events/bayern-munchen-dinamo-zagreb_ndnI1DeigBFiVpqh9f1s.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "football",
-        "start_time": 1764261900,
-        "end_time": 1764270900,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 908,
-            "name": "TNT Sports 3 (BT Sports)",
-            "description": null
-          },
-          {
-            "id": 2665,
-            "name": "ZIGGO SPORT",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 157,
-        "name": "Lille 🆚 Dinamo Zagreb",
-        "stage": null,
-        "logo": "logo/events/bayern-munchen-dinamo-zagreb_ndnI1DeigBFiVpqh9f1s.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "football",
-        "start_time": 1764265500,
-        "end_time": 1764272700,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3426,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 866,
-            "name": "beIN Sport 5 - AR",
-            "description": null
-          },
-          {
-            "id": 2546,
-            "name": "Arena Sports 3 Premium - BA",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 156,
-        "name": "PAOK 🆚 Brann",
-        "stage": null,
-        "logo": "logo/events/bayern-munchen-dinamo-zagreb_ndnI1DeigBFiVpqh9f1s.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "football",
-        "start_time": 1764265500,
-        "end_time": 1764272700,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3428,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 876,
-            "name": "beIN Sport 7 - AR",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 153,
-        "name": "Viktoria Plzeň 🆚 Freiburg",
-        "stage": null,
-        "logo": "logo/events/bayern-munchen-dinamo-zagreb_ndnI1DeigBFiVpqh9f1s.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "football",
-        "start_time": 1764265500,
-        "end_time": 1764272700,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3429,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 881,
-            "name": "beIN Sport 8 - AR",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 144,
-        "name": "Ludogorets 🆚 Celta de Vigo",
-        "stage": null,
-        "logo": "logo/events/bayern-munchen-dinamo-zagreb_ndnI1DeigBFiVpqh9f1s.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "football",
-        "start_time": 1764265500,
-        "end_time": 1764272700,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 2626,
-            "name": "Movistar Plus+ Liga de Campeones",
-            "description": null
-          },
-          {
-            "id": 3878,
-            "name": "Arena Sports 4 - RS",
-            "description": null
-          }
-        ]
-      },
-      {
         "id": 155,
         "name": "Nottingham Forest 🆚 Malmö FF",
         "stage": null,
@@ -521,6 +277,11 @@
         "show_duration": true,
         "sources": [
           {
+            "id": 3424,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
             "id": 2665,
             "name": "ZIGGO SPORT",
             "description": null
@@ -544,6 +305,11 @@
         "end_time": 1764282600,
         "show_duration": true,
         "sources": [
+          {
+            "id": 3425,
+            "name": "LINK 1",
+            "description": null
+          },
           {
             "id": 2667,
             "name": "ZIGGO SPORT 3",
@@ -572,6 +338,11 @@
         },
         "full_team_name": "Bologna 🆚 Salzburg",
         "sources": [
+          {
+            "id": 3426,
+            "name": "LINK 1",
+            "description": null
+          },
           {
             "id": 866,
             "name": "beIN Sport 5 - AR",
@@ -606,8 +377,13 @@
         "full_team_name": "FCSB 🆚 Crvena Zvezda",
         "sources": [
           {
-            "id": 3431,
-            "name": "Arena Sports 1 - HR",
+            "id": 3427,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 886,
+            "name": "beIN Sport 9 - AR",
             "description": null
           },
           {
@@ -616,8 +392,8 @@
             "description": null
           },
           {
-            "id": 886,
-            "name": "beIN Sport 9 - AR",
+            "id": 3431,
+            "name": "Arena Sports 1 - HR",
             "description": null
           }
         ]
@@ -634,6 +410,11 @@
         "end_time": 1764282600,
         "show_duration": true,
         "sources": [
+          {
+            "id": 3428,
+            "name": "LINK 1",
+            "description": null
+          },
           {
             "id": 881,
             "name": "beIN Sport 8 - AR",
@@ -654,6 +435,11 @@
         "show_duration": true,
         "sources": [
           {
+            "id": 3429,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
             "id": 2650,
             "name": "DAZN 3 - POR",
             "description": null
@@ -673,6 +459,11 @@
         "show_duration": true,
         "sources": [
           {
+            "id": 3880,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
             "id": 876,
             "name": "beIN Sport 7 - AR",
             "description": null
@@ -687,25 +478,6 @@
     "logo": "logo/events/categories/uefa-conference-league_NW482QWRgKIcpUJMbg6I.png",
     "type": "Football",
     "items": [
-      {
-        "id": 128,
-        "name": "AZ 🆚 Shelbourne",
-        "stage": null,
-        "logo": "logo/events/uefa_i2gGRxCyWtuczfdeHAEo.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "football",
-        "start_time": 1764264600,
-        "end_time": 1764273600,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 2667,
-            "name": "ZIGGO SPORT 3",
-            "description": null
-          }
-        ]
-      },
       {
         "id": 142,
         "name": "Aberdeen 🆚 Noah",
@@ -766,8 +538,70 @@
         "show_duration": true,
         "sources": [
           {
+            "id": 3881,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
             "id": 2648,
             "name": "DAZN 4 - POR",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 126,
+        "name": "Legia Warszawa 🆚 Sparta Praha",
+        "stage": null,
+        "logo": "logo/events/sporting-cp-lille_KgvODttvDnhYVMwg7dPs.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1764273600,
+        "end_time": 1764282600,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3882,
+            "name": "LINK 1",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 127,
+        "name": "Shamrock Rovers 🆚 Shakhtar Donetsk",
+        "stage": null,
+        "logo": "logo/events/bayern-munchen-dinamo-zagreb_ndnI1DeigBFiVpqh9f1s.png",
+        "color": "#FFD700",
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1764273600,
+        "end_time": 1764282600,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3883,
+            "name": "LINK 1",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 130,
+        "name": "Jagiellonia Białystok 🆚 KuPS",
+        "stage": null,
+        "logo": "logo/events/uefa_i2gGRxCyWtuczfdeHAEo.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1764273600,
+        "end_time": 1764282600,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3884,
+            "name": "LINK 1",
             "description": null
           }
         ]
