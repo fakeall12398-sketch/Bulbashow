@@ -262,194 +262,6 @@
     ]
   },
   {
-    "id": 13,
-    "name": "LA LIGA",
-    "logo": "logo/events/categories/la-liga_09FFBteASyl11hboQ8x9.png",
-    "type": "Football",
-    "items": [
-      {
-        "id": 135,
-        "name": "LALIGA",
-        "stage": null,
-        "logo": "logo/events/sevilla-villarreal_wqSkWfYjIH5dihHm8c1A.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1764446400,
-        "end_time": 1764455400,
-        "show_duration": true,
-        "team_1": {
-          "name": "Getafe",
-          "logo": "logo/teams/getafe_2WBLafh19iutvJiJ5OgN.png"
-        },
-        "team_2": {
-          "name": "Elche",
-          "logo": "logo/teams/elche_j1S95zmn1prBiAUxUYuy.png"
-        },
-        "full_team_name": "Getafe 🆚 Elche",
-        "sources": [
-          {
-            "id": 3290,
-            "name": "beIN Sport 1 - AUS",
-            "description": null
-          },
-          {
-            "id": 3043,
-            "name": "LALIGA TV",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 80,
-        "name": "LALIGA",
-        "stage": null,
-        "logo": "logo/events/sevilla-villarreal_wqSkWfYjIH5dihHm8c1A.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1764421200,
-        "end_time": 1764430200,
-        "show_duration": true,
-        "team_1": {
-          "name": "Mallorca",
-          "logo": "logo/teams/mallorca_x4uSrp0Fng6PKaKXJC5v.png"
-        },
-        "team_2": {
-          "name": "Osasuna",
-          "logo": "logo/teams/osasuna_g84VgmCK3M4Wn83DcqmE.png"
-        },
-        "full_team_name": "Mallorca 🆚 Osasuna",
-        "sources": [
-          {
-            "id": 3043,
-            "name": "LALIGA TV",
-            "description": null
-          },
-          {
-            "id": 2665,
-            "name": "ZIGGO SPORT",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 65,
-        "name": "LALIGA",
-        "stage": null,
-        "logo": "logo/events/celta-de-vigo-valencia_jIVHMZlw4Oj0Ls1xze8y.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1764429300,
-        "end_time": 1764438300,
-        "show_duration": true,
-        "team_1": {
-          "name": "Barcelona",
-          "logo": "logo/teams/barcelona_NiCxfEeaPHngHzLBDHm2.png"
-        },
-        "team_2": {
-          "name": "Deportivo Alavés",
-          "logo": "logo/teams/deportivo-alaves_MjSSu8ns81zY2K4BqeB5.png"
-        },
-        "full_team_name": "Barcelona 🆚 Deportivo Alavés",
-        "sources": [
-          {
-            "id": 3289,
-            "name": "beIN Sport 2 - AUS",
-            "description": null
-          },
-          {
-            "id": 3043,
-            "name": "LALIGA TV",
-            "description": null
-          },
-          {
-            "id": 2665,
-            "name": "ZIGGO SPORT",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 72,
-        "name": "LALIGA",
-        "stage": null,
-        "logo": "logo/events/sevilla-villarreal_wqSkWfYjIH5dihHm8c1A.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1764437400,
-        "end_time": 1764446400,
-        "show_duration": true,
-        "team_1": {
-          "name": "Levante",
-          "logo": "logo/teams/levante_SR7CooILjAVBPqGeHgVi.png"
-        },
-        "team_2": {
-          "name": "Athletic Club",
-          "logo": "logo/teams/athletic-club_IMrU8myTY6ecoOB2UlrJ.png"
-        },
-        "full_team_name": "Levante 🆚 Athletic Club",
-        "sources": [
-          {
-            "id": 3289,
-            "name": "beIN Sport 2 - AUS",
-            "description": null
-          },
-          {
-            "id": 3043,
-            "name": "LALIGA TV",
-            "description": null
-          },
-          {
-            "id": 2665,
-            "name": "ZIGGO SPORT",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 215,
-        "name": "LALIGA",
-        "stage": null,
-        "logo": "logo/events/sevilla-villarreal_wqSkWfYjIH5dihHm8c1A.png",
-        "color": null,
-        "type": "team",
-        "sport_type": "football",
-        "start_time": 1764446400,
-        "end_time": 1764455400,
-        "show_duration": true,
-        "team_1": {
-          "name": "Athletic Club",
-          "logo": "logo/teams/athletic-club_IMrU8myTY6ecoOB2UlrJ.png"
-        },
-        "team_2": {
-          "name": "Real Oviedo",
-          "logo": "logo/teams/real-oviedo_51jeSpuF0f23HGcE4wiZ.png"
-        },
-        "full_team_name": "Athletic Club 🆚 Real Oviedo",
-        "sources": [
-          {
-            "id": 3289,
-            "name": "beIN Sport 2 - AUS",
-            "description": null
-          },
-          {
-            "id": 3043,
-            "name": "LALIGA TV",
-            "description": null
-          },
-          {
-            "id": 2558,
-            "name": "ZIGGO SPORT 2",
-            "description": null
-          }
-        ]
-      }
-    ]
-  },
-  {
     "id": 14,
     "name": "Serie A",
     "logo": "logo/events/categories/serie-a_I13YO3O5lVJj1vhJRU6w.png",
@@ -720,6 +532,512 @@
           {
             "id": 3669,
             "name": "Fox Deportes",
+            "description": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "LA LIGA",
+    "logo": "logo/events/categories/la-liga_09FFBteASyl11hboQ8x9.png",
+    "type": "Football",
+    "items": [
+      {
+        "id": 135,
+        "name": "LALIGA",
+        "stage": null,
+        "logo": "logo/events/sevilla-villarreal_wqSkWfYjIH5dihHm8c1A.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1764360000,
+        "end_time": 1764455400,
+        "show_duration": true,
+        "team_1": {
+          "name": "Getafe",
+          "logo": "logo/teams/getafe_2WBLafh19iutvJiJ5OgN.png"
+        },
+        "team_2": {
+          "name": "Elche",
+          "logo": "logo/teams/elche_j1S95zmn1prBiAUxUYuy.png"
+        },
+        "full_team_name": "Getafe 🆚 Elche",
+        "sources": [
+          {
+            "id": 3290,
+            "name": "beIN Sport 1 - AUS",
+            "description": null
+          },
+          {
+            "id": 3043,
+            "name": "LALIGA TV",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 80,
+        "name": "LALIGA",
+        "stage": null,
+        "logo": "logo/events/sevilla-villarreal_wqSkWfYjIH5dihHm8c1A.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1764421200,
+        "end_time": 1764430200,
+        "show_duration": true,
+        "team_1": {
+          "name": "Mallorca",
+          "logo": "logo/teams/mallorca_x4uSrp0Fng6PKaKXJC5v.png"
+        },
+        "team_2": {
+          "name": "Osasuna",
+          "logo": "logo/teams/osasuna_g84VgmCK3M4Wn83DcqmE.png"
+        },
+        "full_team_name": "Mallorca 🆚 Osasuna",
+        "sources": [
+          {
+            "id": 3043,
+            "name": "LALIGA TV",
+            "description": null
+          },
+          {
+            "id": 2665,
+            "name": "ZIGGO SPORT",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 65,
+        "name": "LALIGA",
+        "stage": null,
+        "logo": "logo/events/celta-de-vigo-valencia_jIVHMZlw4Oj0Ls1xze8y.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1764429300,
+        "end_time": 1764438300,
+        "show_duration": true,
+        "team_1": {
+          "name": "Barcelona",
+          "logo": "logo/teams/barcelona_NiCxfEeaPHngHzLBDHm2.png"
+        },
+        "team_2": {
+          "name": "Deportivo Alavés",
+          "logo": "logo/teams/deportivo-alaves_MjSSu8ns81zY2K4BqeB5.png"
+        },
+        "full_team_name": "Barcelona 🆚 Deportivo Alavés",
+        "sources": [
+          {
+            "id": 3289,
+            "name": "beIN Sport 2 - AUS",
+            "description": null
+          },
+          {
+            "id": 3043,
+            "name": "LALIGA TV",
+            "description": null
+          },
+          {
+            "id": 2665,
+            "name": "ZIGGO SPORT",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 72,
+        "name": "LALIGA",
+        "stage": null,
+        "logo": "logo/events/sevilla-villarreal_wqSkWfYjIH5dihHm8c1A.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1764437400,
+        "end_time": 1764446400,
+        "show_duration": true,
+        "team_1": {
+          "name": "Levante",
+          "logo": "logo/teams/levante_SR7CooILjAVBPqGeHgVi.png"
+        },
+        "team_2": {
+          "name": "Athletic Club",
+          "logo": "logo/teams/athletic-club_IMrU8myTY6ecoOB2UlrJ.png"
+        },
+        "full_team_name": "Levante 🆚 Athletic Club",
+        "sources": [
+          {
+            "id": 3289,
+            "name": "beIN Sport 2 - AUS",
+            "description": null
+          },
+          {
+            "id": 3043,
+            "name": "LALIGA TV",
+            "description": null
+          },
+          {
+            "id": 2665,
+            "name": "ZIGGO SPORT",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 215,
+        "name": "LALIGA",
+        "stage": null,
+        "logo": "logo/events/sevilla-villarreal_wqSkWfYjIH5dihHm8c1A.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1764446400,
+        "end_time": 1764455400,
+        "show_duration": true,
+        "team_1": {
+          "name": "Athletic Club",
+          "logo": "logo/teams/athletic-club_IMrU8myTY6ecoOB2UlrJ.png"
+        },
+        "team_2": {
+          "name": "Real Oviedo",
+          "logo": "logo/teams/real-oviedo_51jeSpuF0f23HGcE4wiZ.png"
+        },
+        "full_team_name": "Athletic Club 🆚 Real Oviedo",
+        "sources": [
+          {
+            "id": 3289,
+            "name": "beIN Sport 2 - AUS",
+            "description": null
+          },
+          {
+            "id": 3043,
+            "name": "LALIGA TV",
+            "description": null
+          },
+          {
+            "id": 2558,
+            "name": "ZIGGO SPORT 2",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 214,
+        "name": "LALIGA",
+        "stage": null,
+        "logo": "logo/events/sevilla-villarreal_wqSkWfYjIH5dihHm8c1A.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1764507600,
+        "end_time": 1764516600,
+        "show_duration": true,
+        "team_1": {
+          "name": "Real Sociedad",
+          "logo": "logo/teams/real-sociedad_vG8elxWudfyDK9et8nLr.png"
+        },
+        "team_2": {
+          "name": "Villarreal",
+          "logo": "logo/teams/villarreal_9ztBwUV50RgNFebIe13O.png"
+        },
+        "full_team_name": "Real Sociedad 🆚 Villarreal",
+        "sources": [
+          {
+            "id": 2861,
+            "name": "Premier Sports 1 ",
+            "description": null
+          },
+          {
+            "id": 3043,
+            "name": "LALIGA TV",
+            "description": null
+          },
+          {
+            "id": 2665,
+            "name": "ZIGGO SPORT",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 281,
+        "name": "LALIGA",
+        "stage": null,
+        "logo": "logo/events/sevilla-villarreal_wqSkWfYjIH5dihHm8c1A.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1764515700,
+        "end_time": 1764524700,
+        "show_duration": true,
+        "team_1": {
+          "name": "Sevilla",
+          "logo": "logo/teams/sevilla_iuTiMvXQliW7v1Q5A5Xd.png"
+        },
+        "team_2": {
+          "name": "Real Betis",
+          "logo": "logo/teams/real-betis_Zy9S6WZE2jtyrnfZiFK7.png"
+        },
+        "full_team_name": "Sevilla 🆚 Real Betis",
+        "sources": [
+          {
+            "id": 3289,
+            "name": "beIN Sport 2 - AUS",
+            "description": null
+          },
+          {
+            "id": 2861,
+            "name": "Premier Sports 1 ",
+            "description": null
+          },
+          {
+            "id": 3043,
+            "name": "LALIGA TV",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 216,
+        "name": "LALIGA",
+        "stage": null,
+        "logo": "logo/events/sevilla-villarreal_wqSkWfYjIH5dihHm8c1A.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1764523800,
+        "end_time": 1764532800,
+        "show_duration": true,
+        "team_1": {
+          "name": "Celta De Vigo",
+          "logo": "logo/teams/celta-de-vigo_f2UTUG14GHxaN7eRQjfT.png"
+        },
+        "team_2": {
+          "name": "Espanyol",
+          "logo": "logo/teams/espanyol_YRX1tfHvMxMw3umCf9l7.png"
+        },
+        "full_team_name": "Celta De Vigo 🆚 Espanyol",
+        "sources": [
+          {
+            "id": 2861,
+            "name": "Premier Sports 1 ",
+            "description": null
+          },
+          {
+            "id": 3289,
+            "name": "beIN Sport 2 - AUS",
+            "description": null
+          },
+          {
+            "id": 3043,
+            "name": "LALIGA TV",
+            "description": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Bundesliga",
+    "logo": "logo/events/categories/bundesliga_TUnq97qHRnlbiCVmw2bE.png",
+    "type": "Football",
+    "items": [
+      {
+        "id": 93,
+        "name": "Borussia M'gladbach 🆚 RB Leipzig",
+        "stage": null,
+        "logo": "logo/events/hoffenheim-bayer-leverkusen_W0M2W6UxsD7TsKSPbJB3.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1764358200,
+        "end_time": 1764367200,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3683,
+            "name": "LINK 1",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 134,
+        "name": "Bayern München 🆚 St. Pauli",
+        "stage": null,
+        "logo": "logo/events/hoffenheim-bayer-leverkusen_W0M2W6UxsD7TsKSPbJB3.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1764426600,
+        "end_time": 1764435600,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3290,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3624,
+            "name": "LINK 2",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 274,
+        "name": "Hoffenheim 🆚 Augsburg",
+        "stage": null,
+        "logo": "logo/events/hoffenheim-bayer-leverkusen_W0M2W6UxsD7TsKSPbJB3.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1764426600,
+        "end_time": 1764435600,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3684,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3464,
+            "name": "LINK 2",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 272,
+        "name": "Union Berlin 🆚 Heidenheim",
+        "stage": null,
+        "logo": "logo/events/hoffenheim-bayer-leverkusen_W0M2W6UxsD7TsKSPbJB3.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1764426600,
+        "end_time": 1764435600,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3699,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3465,
+            "name": "LINK 2",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 273,
+        "name": "Werder Bremen 🆚 Köln",
+        "stage": null,
+        "logo": "logo/events/hoffenheim-bayer-leverkusen_W0M2W6UxsD7TsKSPbJB3.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1764426600,
+        "end_time": 1764435600,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3682,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3463,
+            "name": "beIN Sport 5 MAX - FR",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 95,
+        "name": "Bayer Leverkusen 🆚 Borussia Dortmund",
+        "stage": null,
+        "logo": "logo/events/hoffenheim-bayer-leverkusen_W0M2W6UxsD7TsKSPbJB3.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1764437400,
+        "end_time": 1764446400,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3290,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3624,
+            "name": "LINK 2",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 196,
+        "name": "Hamburger SV 🆚 Stuttgart",
+        "stage": null,
+        "logo": "logo/events/hoffenheim-bayer-leverkusen_W0M2W6UxsD7TsKSPbJB3.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1764513000,
+        "end_time": 1764522000,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3290,
+            "name": "LINK 1",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 101,
+        "name": "Eintracht Frankfurt 🆚 Wolfsburg",
+        "stage": null,
+        "logo": "logo/events/hoffenheim-bayer-leverkusen_W0M2W6UxsD7TsKSPbJB3.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1764520200,
+        "end_time": 1764529200,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3461,
+            "name": "beIN Sport 2 - FR",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 94,
+        "name": "Freiburg 🆚 Mainz 05",
+        "stage": null,
+        "logo": "logo/events/hoffenheim-bayer-leverkusen_W0M2W6UxsD7TsKSPbJB3.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1764527400,
+        "end_time": 1764536400,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3290,
+            "name": "beIN Sport 1 - AUS",
             "description": null
           }
         ]
