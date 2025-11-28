@@ -192,6 +192,100 @@
     ]
   },
   {
+    "id": 21,
+    "name": "⚽️ Saudi King's Cup",
+    "logo": "logo/events/categories/saudi-kings-cup_qamd0FYRSPgFJHazQ51i.png",
+    "type": "Football",
+    "items": [
+      {
+        "id": 117,
+        "name": "Al Kholood 🆚 Al Khaleej",
+        "stage": null,
+        "logo": "logo/events/al-taee-al-hilal_qLm844DTQfgIekzCSzai.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1764341400,
+        "end_time": 1764350400,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3666,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3669,
+            "name": "Fox Deportes",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 116,
+        "name": "Al-Ahli 🆚 Al Quadisiya",
+        "stage": null,
+        "logo": "logo/events/al-taee-al-hilal_qLm844DTQfgIekzCSzai.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1764351000,
+        "end_time": 1764360000,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3666,
+            "name": "LINK 1",
+            "description": null
+          },
+          {
+            "id": 3669,
+            "name": "Fox Deportes",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 115,
+        "name": "Al Hilal 🆚 Al Fateh",
+        "stage": null,
+        "logo": "logo/events/al-taee-al-hilal_qLm844DTQfgIekzCSzai.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1764427200,
+        "end_time": 1764436200,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3666,
+            "name": "LINK 1",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 114,
+        "name": "Al Ittihad 🆚 Al Shabab",
+        "stage": null,
+        "logo": "logo/events/al-taee-al-hilal_qLm844DTQfgIekzCSzai.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "football",
+        "start_time": 1764437400,
+        "end_time": 1764446400,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 3691,
+            "name": "LINK 1",
+            "description": null
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 51,
     "name": "Liga MX",
     "logo": "logo/events/categories/liga-mx_9NgAE2moXr18M9dTzX16.png",
