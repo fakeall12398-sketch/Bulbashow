@@ -198,30 +198,6 @@
     "type": "Football",
     "items": [
       {
-        "id": 117,
-        "name": "Al Kholood 🆚 Al Khaleej",
-        "stage": null,
-        "logo": "logo/events/al-taee-al-hilal_qLm844DTQfgIekzCSzai.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "football",
-        "start_time": 1764341400,
-        "end_time": 1764350400,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 3666,
-            "name": "LINK 1",
-            "description": null
-          },
-          {
-            "id": 3669,
-            "name": "Fox Deportes",
-            "description": null
-          }
-        ]
-      },
-      {
         "id": 116,
         "name": "Al-Ahli 🆚 Al Quadisiya",
         "stage": null,
@@ -279,6 +255,471 @@
           {
             "id": 3691,
             "name": "LINK 1",
+            "description": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "LA LIGA",
+    "logo": "logo/events/categories/la-liga_09FFBteASyl11hboQ8x9.png",
+    "type": "Football",
+    "items": [
+      {
+        "id": 135,
+        "name": "LALIGA",
+        "stage": null,
+        "logo": "logo/events/sevilla-villarreal_wqSkWfYjIH5dihHm8c1A.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1764446400,
+        "end_time": 1764455400,
+        "show_duration": true,
+        "team_1": {
+          "name": "Getafe",
+          "logo": "logo/teams/getafe_2WBLafh19iutvJiJ5OgN.png"
+        },
+        "team_2": {
+          "name": "Elche",
+          "logo": "logo/teams/elche_j1S95zmn1prBiAUxUYuy.png"
+        },
+        "full_team_name": "Getafe 🆚 Elche",
+        "sources": [
+          {
+            "id": 3290,
+            "name": "beIN Sport 1 - AUS",
+            "description": null
+          },
+          {
+            "id": 3043,
+            "name": "LALIGA TV",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 80,
+        "name": "LALIGA",
+        "stage": null,
+        "logo": "logo/events/sevilla-villarreal_wqSkWfYjIH5dihHm8c1A.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1764421200,
+        "end_time": 1764430200,
+        "show_duration": true,
+        "team_1": {
+          "name": "Mallorca",
+          "logo": "logo/teams/mallorca_x4uSrp0Fng6PKaKXJC5v.png"
+        },
+        "team_2": {
+          "name": "Osasuna",
+          "logo": "logo/teams/osasuna_g84VgmCK3M4Wn83DcqmE.png"
+        },
+        "full_team_name": "Mallorca 🆚 Osasuna",
+        "sources": [
+          {
+            "id": 3043,
+            "name": "LALIGA TV",
+            "description": null
+          },
+          {
+            "id": 2665,
+            "name": "ZIGGO SPORT",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 65,
+        "name": "LALIGA",
+        "stage": null,
+        "logo": "logo/events/celta-de-vigo-valencia_jIVHMZlw4Oj0Ls1xze8y.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1764429300,
+        "end_time": 1764438300,
+        "show_duration": true,
+        "team_1": {
+          "name": "Barcelona",
+          "logo": "logo/teams/barcelona_NiCxfEeaPHngHzLBDHm2.png"
+        },
+        "team_2": {
+          "name": "Deportivo Alavés",
+          "logo": "logo/teams/deportivo-alaves_MjSSu8ns81zY2K4BqeB5.png"
+        },
+        "full_team_name": "Barcelona 🆚 Deportivo Alavés",
+        "sources": [
+          {
+            "id": 3289,
+            "name": "beIN Sport 2 - AUS",
+            "description": null
+          },
+          {
+            "id": 3043,
+            "name": "LALIGA TV",
+            "description": null
+          },
+          {
+            "id": 2665,
+            "name": "ZIGGO SPORT",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 72,
+        "name": "LALIGA",
+        "stage": null,
+        "logo": "logo/events/sevilla-villarreal_wqSkWfYjIH5dihHm8c1A.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1764437400,
+        "end_time": 1764446400,
+        "show_duration": true,
+        "team_1": {
+          "name": "Levante",
+          "logo": "logo/teams/levante_SR7CooILjAVBPqGeHgVi.png"
+        },
+        "team_2": {
+          "name": "Athletic Club",
+          "logo": "logo/teams/athletic-club_IMrU8myTY6ecoOB2UlrJ.png"
+        },
+        "full_team_name": "Levante 🆚 Athletic Club",
+        "sources": [
+          {
+            "id": 3289,
+            "name": "beIN Sport 2 - AUS",
+            "description": null
+          },
+          {
+            "id": 3043,
+            "name": "LALIGA TV",
+            "description": null
+          },
+          {
+            "id": 2665,
+            "name": "ZIGGO SPORT",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 215,
+        "name": "LALIGA",
+        "stage": null,
+        "logo": "logo/events/sevilla-villarreal_wqSkWfYjIH5dihHm8c1A.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1764446400,
+        "end_time": 1764455400,
+        "show_duration": true,
+        "team_1": {
+          "name": "Athletic Club",
+          "logo": "logo/teams/athletic-club_IMrU8myTY6ecoOB2UlrJ.png"
+        },
+        "team_2": {
+          "name": "Real Oviedo",
+          "logo": "logo/teams/real-oviedo_51jeSpuF0f23HGcE4wiZ.png"
+        },
+        "full_team_name": "Athletic Club 🆚 Real Oviedo",
+        "sources": [
+          {
+            "id": 3289,
+            "name": "beIN Sport 2 - AUS",
+            "description": null
+          },
+          {
+            "id": 3043,
+            "name": "LALIGA TV",
+            "description": null
+          },
+          {
+            "id": 2558,
+            "name": "ZIGGO SPORT 2",
+            "description": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Serie A",
+    "logo": "logo/events/categories/serie-a_I13YO3O5lVJj1vhJRU6w.png",
+    "type": "Football",
+    "items": [
+      {
+        "id": 7,
+        "name": "Serie A",
+        "stage": null,
+        "logo": "logo/events/serie-a_562.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1764359100,
+        "end_time": 1764368100,
+        "show_duration": true,
+        "team_1": {
+          "name": "Como",
+          "logo": "logo/teams/como_mRRoVFoOpOTOv2lZt6j9.png"
+        },
+        "team_2": {
+          "name": "Sassuolo",
+          "logo": "logo/teams/sassuolo_sEUwnMmvt83dg7i7hZwd.png"
+        },
+        "full_team_name": "Como 🆚 Sassuolo",
+        "sources": [
+          {
+            "id": 3283,
+            "name": "beIN Sport 3 - AUS",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 364,
+        "name": "Serie A",
+        "stage": null,
+        "logo": "logo/events/serie-a_562.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1764424800,
+        "end_time": 1764433800,
+        "show_duration": true,
+        "team_1": {
+          "name": "Genoa",
+          "logo": "logo/teams/genoa_PImQDtB6213jNVCvjejF.png"
+        },
+        "team_2": {
+          "name": "Hellas Verona",
+          "logo": "logo/teams/hellas-verona_iaFosaH2RijQDdw1HHiI.png"
+        },
+        "full_team_name": "Genoa 🆚 Hellas Verona",
+        "sources": [
+          {
+            "id": 3669,
+            "name": "Fox Deportes",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 75,
+        "name": "Serie A",
+        "stage": null,
+        "logo": "logo/events/serie-a_562.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1764424800,
+        "end_time": 1764433800,
+        "show_duration": true,
+        "team_1": {
+          "name": "Parma",
+          "logo": "logo/teams/parma_bS36NvFFKsw9lNb2kERX.png"
+        },
+        "team_2": {
+          "name": "Udinese",
+          "logo": "logo/teams/udinese_q4FaAL4szKj7lyZxQsCi.png"
+        },
+        "full_team_name": "Parma 🆚 Udinese",
+        "sources": [
+          {
+            "id": 3283,
+            "name": "beIN Sport 3 - AUS",
+            "description": null
+          },
+          {
+            "id": 2558,
+            "name": "ZIGGO SPORT 2",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 212,
+        "name": "Serie A",
+        "stage": null,
+        "logo": "logo/events/serie-a_562.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1764435600,
+        "end_time": 1764444600,
+        "show_duration": true,
+        "team_1": {
+          "name": "Juventus",
+          "logo": "logo/teams/juventus_1WZ6BUDiLNixSnojyYvv.png"
+        },
+        "team_2": {
+          "name": "Cagliari",
+          "logo": "logo/teams/cagliari_ScHX4Lvc1xKWg0qgsoAA.png"
+        },
+        "full_team_name": "Juventus 🆚 Cagliari",
+        "sources": [
+          {
+            "id": 3283,
+            "name": "beIN Sport 3 - AUS",
+            "description": null
+          },
+          {
+            "id": 3338,
+            "name": "CBS SPORTS Golazo",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 96,
+        "name": "Serie A",
+        "stage": null,
+        "logo": "logo/events/serie-a_562.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1764445500,
+        "end_time": 1764454500,
+        "show_duration": true,
+        "team_1": {
+          "name": "AC Milan",
+          "logo": "logo/teams/ac-milan_BBQvGlF4Ys3t5YLUCeEu.png"
+        },
+        "team_2": {
+          "name": "Lazio",
+          "logo": "logo/teams/lazio_z39VbfmpNCElriI7gdIx.png"
+        },
+        "full_team_name": "AC Milan 🆚 Lazio",
+        "sources": [
+          {
+            "id": 3283,
+            "name": "beIN Sport 3 - AUS",
+            "description": null
+          },
+          {
+            "id": 2665,
+            "name": "ZIGGO SPORT",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 74,
+        "name": "Serie A",
+        "stage": null,
+        "logo": "logo/events/serie-a_562.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1764502200,
+        "end_time": 1764511200,
+        "show_duration": true,
+        "team_1": {
+          "name": "Lecce",
+          "logo": "logo/teams/lecce_EZcAfpxxytVd4QjVZMur.png"
+        },
+        "team_2": {
+          "name": "Torino",
+          "logo": "logo/teams/torino_1t5rKnzvXh5aNoneNsRI.png"
+        },
+        "full_team_name": "Lecce 🆚 Torino",
+        "sources": [
+          {
+            "id": 3283,
+            "name": "beIN Sport 3 - AUS",
+            "description": null
+          },
+          {
+            "id": 3338,
+            "name": "CBS SPORTS Golazo",
+            "description": null
+          },
+          {
+            "id": 3669,
+            "name": "Fox Deportes",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 190,
+        "name": "Serie A",
+        "stage": null,
+        "logo": "logo/events/serie-a_562.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1764511200,
+        "end_time": 1764520200,
+        "show_duration": true,
+        "team_1": {
+          "name": "Internazionale",
+          "logo": "logo/teams/internazionale_2CwVe8TFyTB8etpuSs1V.png"
+        },
+        "team_2": {
+          "name": "Pisa",
+          "logo": "logo/teams/pisa_xp72Xeorj8IoN3cgf16j.png"
+        },
+        "full_team_name": "Internazionale 🆚 Pisa",
+        "sources": [
+          {
+            "id": 3283,
+            "name": "beIN Sport 3 - AUS",
+            "description": null
+          },
+          {
+            "id": 3669,
+            "name": "Fox Deportes",
+            "description": null
+          },
+          {
+            "id": 2558,
+            "name": "ZIGGO SPORT 2",
+            "description": null
+          }
+        ]
+      },
+      {
+        "id": 124,
+        "name": "Serie A",
+        "stage": null,
+        "logo": "logo/events/serie-a_562.png",
+        "color": null,
+        "type": "team",
+        "sport_type": "football",
+        "start_time": 1764522000,
+        "end_time": 1764531000,
+        "show_duration": true,
+        "team_1": {
+          "name": "Atalanta",
+          "logo": "logo/teams/atalanta_b0AAzCzjZ2ZxB0duJ34q.png"
+        },
+        "team_2": {
+          "name": "Fiorentina",
+          "logo": "logo/teams/fiorentina_QbvrwRJXJf2f8PHVcgek.png"
+        },
+        "full_team_name": "Atalanta 🆚 Fiorentina",
+        "sources": [
+          {
+            "id": 3283,
+            "name": "beIN Sport 3 - AUS",
+            "description": null
+          },
+          {
+            "id": 3338,
+            "name": "CBS SPORTS Golazo",
+            "description": null
+          },
+          {
+            "id": 3669,
+            "name": "Fox Deportes",
             "description": null
           }
         ]
