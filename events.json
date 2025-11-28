@@ -6,14 +6,33 @@
     "type": "Cricket",
     "items": [
       {
+        "id": 112,
+        "name": "Abu Dhabi T10 League",
+        "stage": null,
+        "logo": "logo/events/abu-dhabi-t10-league_zWRjqSGQK2KVDq5oJUIS.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "cricket",
+        "start_time": 1764329400,
+        "end_time": null,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 2861,
+            "name": "LINK 1",
+            "description": null
+          }
+        ]
+      },
+      {
         "id": 290,
         "name": "Ireland tour of Bangladesh",
-        "stage": "1st T20I",
+        "stage": "2nd T20I",
         "logo": "",
         "color": null,
         "type": "team",
         "sport_type": "cricket",
-        "start_time": 1764244800,
+        "start_time": 1764417600,
         "end_time": null,
         "show_duration": true,
         "team_1": {
@@ -34,52 +53,14 @@
         ]
       },
       {
-        "id": 112,
-        "name": "Abu Dhabi T10 League",
-        "stage": null,
-        "logo": "logo/events/abu-dhabi-t10-league_zWRjqSGQK2KVDq5oJUIS.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "cricket",
-        "start_time": 1764243000,
-        "end_time": null,
-        "show_duration": true,
-        "sources": [
-          {
-            "id": 2861,
-            "name": "LINK 1",
-            "description": null
-          }
-        ]
-      },
-      {
-        "id": 25,
-        "name": "WPL",
-        "stage": "AUCTION",
-        "logo": "logo/events/wpl-_826.png",
-        "color": null,
-        "type": "single",
-        "sport_type": "cricket",
-        "start_time": 1764244800,
-        "end_time": null,
-        "show_duration": false,
-        "sources": [
-          {
-            "id": 3202,
-            "name": "LINK 1",
-            "description": null
-          }
-        ]
-      },
-      {
         "id": 76,
         "name": "Pakistan T20I Tri-Series",
-        "stage": "6th Match",
+        "stage": "FINAL",
         "logo": "",
         "color": null,
         "type": "team",
         "sport_type": "cricket",
-        "start_time": 1764248400,
+        "start_time": 1764421200,
         "end_time": null,
         "show_duration": true,
         "team_1": {
@@ -102,12 +83,12 @@
       {
         "id": 167,
         "name": "Womens Big Bash League",
-        "stage": "26th Match ",
+        "stage": "28th Match ",
         "logo": "logo/events/big-bash-league_QJNd2FtoWKu1oQHodosi.png",
         "color": null,
         "type": "single",
         "sport_type": "cricket",
-        "start_time": 1764304800,
+        "start_time": 1764389400,
         "end_time": null,
         "show_duration": true,
         "sources": [
