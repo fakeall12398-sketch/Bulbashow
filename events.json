@@ -1489,6 +1489,25 @@
             "description": null
           }
         ]
+      },
+      {
+        "id": 361,
+        "name": "Cruz Azul 🆚 Guadalajara",
+        "stage": null,
+        "logo": "logo/events/puebla-pachuca_b2MU6rHq9XOT8tkBpPE0.png",
+        "color": null,
+        "type": "single",
+        "sport_type": "cricket",
+        "start_time": 1764550800,
+        "end_time": 1764559800,
+        "show_duration": true,
+        "sources": [
+          {
+            "id": 2396,
+            "name": "CBS SPORTS",
+            "description": null
+          }
+        ]
       }
     ]
   }
