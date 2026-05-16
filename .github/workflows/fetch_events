@@ -1,9 +1,9 @@
-name: Fetch Events Data
+#name: Fetch Events Data
 
-on:
-  schedule:
-    - cron: "0 * * * *"   # ⏰ every hour (change if you like)
-  workflow_dispatch:        # allow manual run
+#on:
+  #schedule:
+   # - cron: "0 * * * *"   # ⏰ every hour (change if you like)
+  #workflow_dispatch:        # allow manual run
 
 jobs:
   fetch:
